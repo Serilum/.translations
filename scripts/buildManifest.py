@@ -38,5 +38,9 @@ Path("manifest.json").write_text(
     json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
     encoding="utf-8",
 )
+Path("manifest.min.json").write_text(
+    json.dumps(manifest, ensure_ascii=False, separators=(",", ":")),
+    encoding="utf-8",
+)
 
 print(f"Wrote manifest for {len(languages)} languages")
