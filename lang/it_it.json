@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Uso amministratore di %s:",
   "collective.shared.message.commandsusage": "--- Uso dei comandi di %s ---",
   "collective.shared.message.nopermission": "Non hai il permesso di usare questo comando.",
   "collective.shared.message.playeronly": "Questo comando può essere eseguito solo da un giocatore.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Uso di %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Generazione del mercante ambulante fallita, riprova.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Mercante ambulante generato con successo!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Ripristina",
+  "collective.collective.message.headcachehelp": "Azzera i dati delle teste dei giocatori memorizzati nella cache di Collective, ad esempio per aggiornare gli aspetti.",
+  "collective.collective.message.headcachereset": "La cache delle teste dei giocatori è stata azzerata con successo.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Area senza nome",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Scegli %s",
   "collective.starterkit.message.activekitsreloaded": "Tutti i kit attivi sono stati ricaricati.",
   "collective.starterkit.message.addscurrentinventory": "Aggiunge il tuo inventario attuale ai kit attivi.",
-  "collective.starterkit.message.adminusage": "Uso amministratore di %s:",
   "collective.starterkit.message.allowsplayerschoose": "Permette ai giocatori di scegliere un kit iniziale tramite comandi. Serve solo quando %s non è installato sul client e il server ha abilitato la scelta dei kit.",
   "collective.starterkit.message.availablekits": "Kit disponibili: %s",
   "collective.starterkit.message.chosenkit": "%1$s ha scelto il kit '%2$s'!",

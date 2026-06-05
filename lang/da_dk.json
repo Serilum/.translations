@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Administratorbrug af %s:",
   "collective.shared.message.commandsusage": "--- %s kommandobrug ---",
   "collective.shared.message.nopermission": "Du har ikke tilladelse til at bruge den kommando.",
   "collective.shared.message.playeronly": "Denne kommando kan kun køres som spiller.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Brug af %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Gydning af handelsrejsende mislykkedes, prøv igen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Gydning af handelsrejsende lykkedes!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Nulstil",
+  "collective.collective.message.headcachehelp": "Nulstiller Collectives cachede spillerhoved-data, for eksempel for at opdatere skins.",
+  "collective.collective.message.headcachereset": "Cachen med spillerhoveder er blevet nulstillet.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Unavngivet område",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Vælg %s",
   "collective.starterkit.message.activekitsreloaded": "Alle aktive kits er blevet genindlæst.",
   "collective.starterkit.message.addscurrentinventory": "Tilføjer din nuværende taske til de aktive kits.",
-  "collective.starterkit.message.adminusage": "Administratorbrug af %s:",
   "collective.starterkit.message.allowsplayerschoose": "Giver spillere mulighed for at vælge et startkit via kommandoer. Dette er kun nødvendigt, når %s ikke er installeret på klienten, og serveren har aktiveret kit-valg.",
   "collective.starterkit.message.availablekits": "Tilgængelige kits: %s",
   "collective.starterkit.message.chosenkit": "%1$s har valgt kittet '%2$s'!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s-ylläpitäjäkäyttö:",
   "collective.shared.message.commandsusage": "--- %s-komentojen käyttö ---",
   "collective.shared.message.nopermission": "Sinulla ei ole oikeutta käyttää tätä komentoa.",
   "collective.shared.message.playeronly": "Tämän komennon voi suorittaa vain pelaajana.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s-käyttö:",
   "collective.shared.message.wanderingtraderspawnfailed": "Kulkukauppiaan synnyttäminen epäonnistui, yritä uudelleen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Kulkukauppiaan synnyttäminen onnistui!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Palauta",
+  "collective.collective.message.headcachehelp": "Tyhjentää Collectiven välimuistiin tallennetut pelaajien päätiedot, esimerkiksi skinien päivittämiseksi.",
+  "collective.collective.message.headcachereset": "Pelaajien päiden välimuisti tyhjennettiin onnistuneesti.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nimetön alue",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Valitse %s",
   "collective.starterkit.message.activekitsreloaded": "Kaikki aktiiviset varustepaketit on ladattu uudelleen.",
   "collective.starterkit.message.addscurrentinventory": "Lisää nykyiset tavarasi aktiivisiin varustepaketteihin.",
-  "collective.starterkit.message.adminusage": "%s-ylläpitäjäkäyttö:",
   "collective.starterkit.message.allowsplayerschoose": "Antaa pelaajien valita aloitusvarustepaketin komennoilla. Tätä tarvitaan vain, kun %s ei ole asennettuna asiakkaalle ja palvelin on ottanut varustepakettivalinnat käyttöön.",
   "collective.starterkit.message.availablekits": "Saatavilla olevat varustepaketit: %s",
   "collective.starterkit.message.chosenkit": "%1$s valitsi varustepaketin '%2$s'!",

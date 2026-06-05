@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Χρήση %s για Διαχειριστές:",
   "collective.shared.message.commandsusage": "--- Χρήση Εντολών %s ---",
   "collective.shared.message.nopermission": "Δεν έχεις άδεια να χρησιμοποιήσεις αυτή την εντολή.",
   "collective.shared.message.playeronly": "Αυτή η εντολή μπορεί να εκτελεστεί μόνο ως παίκτης.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Χρήση %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Η εμφάνιση του Περιπλανώμενου Εμπόρου απέτυχε, δοκίμασε ξανά.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Η εμφάνιση του Περιπλανώμενου Εμπόρου ήταν επιτυχής!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Επαναφορά",
+  "collective.collective.message.headcachehelp": "Επαναφέρει τα προσωρινά αποθηκευμένα δεδομένα κεφαλιών παικτών του Collective, για παράδειγμα για την ενημέρωση των αμφιέσεων.",
+  "collective.collective.message.headcachereset": "Η προσωρινή μνήμη κεφαλιών παικτών επαναφέρθηκε με επιτυχία.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Ανώνυμη περιοχή",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Επίλεξε %s",
   "collective.starterkit.message.activekitsreloaded": "Όλα τα ενεργά σετ επαναφορτώθηκαν.",
   "collective.starterkit.message.addscurrentinventory": "Προσθέτει τα τρέχοντα αποθέματά σου στα ενεργά σετ.",
-  "collective.starterkit.message.adminusage": "Χρήση %s για Διαχειριστές:",
   "collective.starterkit.message.allowsplayerschoose": "Επιτρέπει στους παίκτες να επιλέξουν ένα σετ εκκίνησης μέσω εντολών. Αυτό χρειάζεται μόνο όταν το %s δεν είναι εγκατεστημένο στον πελάτη και ο διακομιστής έχει ενεργοποιήσει τις επιλογές σετ.",
   "collective.starterkit.message.availablekits": "Διαθέσιμα σετ: %s",
   "collective.starterkit.message.chosenkit": "Ο %1$s επέλεξε το σετ '%2$s'!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s administratoriaus naudojimas:",
   "collective.shared.message.commandsusage": "--- %s komandų naudojimas ---",
   "collective.shared.message.nopermission": "Neturi teisės naudoti šią komandą.",
   "collective.shared.message.playeronly": "Šią komandą gali vykdyti tik žaidėjas.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s naudojimas:",
   "collective.shared.message.wanderingtraderspawnfailed": "Nepavyko sukurti klajojančio pirklio, bandyk dar kartą.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Klajojantis pirklys sėkmingai sukurtas!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Atstatyti",
+  "collective.collective.message.headcachehelp": "Atstato Collective talpykloje saugomus žaidėjų galvų duomenis, pavyzdžiui, norint atnaujinti išvaizdas.",
+  "collective.collective.message.headcachereset": "Žaidėjų galvų talpykla sėkmingai atstatyta.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Bevardė teritorija",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Pasirink %s",
   "collective.starterkit.message.activekitsreloaded": "Visi aktyvūs rinkiniai buvo iš naujo įkelti.",
   "collective.starterkit.message.addscurrentinventory": "Prideda tavo dabartinį inventorių prie aktyvių rinkinių.",
-  "collective.starterkit.message.adminusage": "%s administratoriaus naudojimas:",
   "collective.starterkit.message.allowsplayerschoose": "Leidžia žaidėjams pasirinkti pradinį rinkinį komandomis. To reikia tik tada, kai %s nėra įdiegta kliente, o serveris įjungė rinkinių pasirinkimą.",
   "collective.starterkit.message.availablekits": "Galimi rinkiniai: %s",
   "collective.starterkit.message.chosenkit": "%1$s pasirinko rinkinį „%2$s“!",

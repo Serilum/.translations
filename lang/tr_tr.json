@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s Yönetici Kullanımı:",
   "collective.shared.message.commandsusage": "--- %s Komut Kullanımı ---",
   "collective.shared.message.nopermission": "Bu komutu kullanma iznin yok.",
   "collective.shared.message.playeronly": "Bu komut yalnızca bir oyuncu olarak çalıştırılabilir.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s Kullanımı:",
   "collective.shared.message.wanderingtraderspawnfailed": "Seyyar Tüccar çağırma başarısız oldu, tekrar dene.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Seyyar Tüccar başarıyla çağrıldı!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Sıfırla",
+  "collective.collective.message.headcachehelp": "Collective'in önbelleğe alınmış oyuncu kafası verilerini sıfırlar, örneğin görünümleri güncellemek için.",
+  "collective.collective.message.headcachereset": "Oyuncu kafası önbelleği başarıyla sıfırlandı.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Adsız bölge",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%s seç",
   "collective.starterkit.message.activekitsreloaded": "Tüm etkin kitler yeniden yüklendi.",
   "collective.starterkit.message.addscurrentinventory": "Mevcut envanterini etkin kitlere ekler.",
-  "collective.starterkit.message.adminusage": "%s Yönetici Kullanımı:",
   "collective.starterkit.message.allowsplayerschoose": "Oyuncuların komutlarla bir başlangıç kiti seçmesini sağlar. Bu yalnızca %s istemciye kurulu değilken ve sunucu kit seçimlerini etkinleştirdiğinde gereklidir.",
   "collective.starterkit.message.availablekits": "Kullanılabilir kitler: %s",
   "collective.starterkit.message.chosenkit": "%1$s, '%2$s' kitini seçti!",

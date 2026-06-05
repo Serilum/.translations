@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Використання %s для адміністратора:",
   "collective.shared.message.commandsusage": "--- Використання команд %s ---",
   "collective.shared.message.nopermission": "У вас немає дозволу на використання цієї команди.",
   "collective.shared.message.playeronly": "Цю команду може виконати лише гравець.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Використання %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Не вдалося викликати мандрівного крамаря, спробуйте ще раз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Мандрівного крамаря успішно викликано!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Скинути",
+  "collective.collective.message.headcachehelp": "Скидає кешовані дані голів гравців у Collective, наприклад, щоб оновити скіни.",
+  "collective.collective.message.headcachereset": "Кеш голів гравців успішно скинуто.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безіменна територія",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Виберіть %s",
   "collective.starterkit.message.activekitsreloaded": "Усі активні набори перезавантажено.",
   "collective.starterkit.message.addscurrentinventory": "Додає ваш поточний інвентар до активних наборів.",
-  "collective.starterkit.message.adminusage": "Використання %s для адміністратора:",
   "collective.starterkit.message.allowsplayerschoose": "Дозволяє гравцям вибирати стартовий набір за допомогою команд. Це потрібно лише тоді, коли %s не встановлено на клієнті, а сервер увімкнув вибір наборів.",
   "collective.starterkit.message.availablekits": "Доступні набори: %s",
   "collective.starterkit.message.chosenkit": "%1$s вибрав набір '%2$s'!",

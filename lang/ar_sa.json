@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "استخدام مشرف %s:",
   "collective.shared.message.commandsusage": "--- استخدام أوامر %s ---",
   "collective.shared.message.nopermission": "ليس لديك إذن لاستخدام هذا الأمر.",
   "collective.shared.message.playeronly": "لا يمكن تنفيذ هذا الأمر إلا كلاعب.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "استخدام %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "فشل ظهور البائع المتجول، حاول مجددًا.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "تم ظهور البائع المتجول بنجاح!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "إعادة تعيين",
+  "collective.collective.message.headcachehelp": "يعيد ضبط بيانات رؤوس اللاعبين المخزّنة مؤقتًا في Collective، على سبيل المثال لتحديث الجلود.",
+  "collective.collective.message.headcachereset": "تمت إعادة ضبط ذاكرة رؤوس اللاعبين المؤقتة بنجاح.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "منطقة بلا اسم",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "اختر %s",
   "collective.starterkit.message.activekitsreloaded": "تمت إعادة تحميل جميع المجموعات النشطة.",
   "collective.starterkit.message.addscurrentinventory": "يضيف جردك الحالي إلى المجموعات النشطة.",
-  "collective.starterkit.message.adminusage": "استخدام مشرف %s:",
   "collective.starterkit.message.allowsplayerschoose": "يتيح للاعبين اختيار مجموعة بداية عبر الأوامر. هذا مطلوب فقط عندما لا يكون %s مثبتًا على العميل ويكون الخادم قد فعّل خيارات المجموعات.",
   "collective.starterkit.message.availablekits": "المجموعات المتاحة: %s",
   "collective.starterkit.message.chosenkit": "%1$s اختار مجموعة '%2$s'!",

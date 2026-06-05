@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Stjórnandanotkun %s:",
   "collective.shared.message.commandsusage": "--- Notkun skipana fyrir %s ---",
   "collective.shared.message.nopermission": "Þú hefur ekki heimild til að nota þessa skipun.",
   "collective.shared.message.playeronly": "Aðeins er hægt að keyra þessa skipun sem spilari.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Notkun %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Tókst ekki að framkalla farandsölumann, reyndu aftur.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Tókst að framkalla farandsölumann!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Endurstilla",
+  "collective.collective.message.headcachehelp": "Endurstillir skyndiminnisgögn Collective um spilarahausa, til dæmis til að uppfæra ásýndir.",
+  "collective.collective.message.headcachereset": "Skyndiminni spilarahausa hefur verið endurstillt.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Ónefnt svæði",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Veldu %s",
   "collective.starterkit.message.activekitsreloaded": "Allir virkir pakkar hafa verið endurhlaðnir.",
   "collective.starterkit.message.addscurrentinventory": "Bætir núverandi bakpoka þínum við virku pakkana.",
-  "collective.starterkit.message.adminusage": "Stjórnandanotkun %s:",
   "collective.starterkit.message.allowsplayerschoose": "Gerir spilurum kleift að velja byrjunarpakka með skipunum. Þetta er aðeins nauðsynlegt þegar %s er ekki uppsett á biðlaranum og netþjónninn hefur virkjað pakkaval.",
   "collective.starterkit.message.availablekits": "Tiltækir pakkar: %s",
   "collective.starterkit.message.chosenkit": "%1$s hefur valið pakkann '%2$s'!",

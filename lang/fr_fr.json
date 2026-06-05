@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Utilisation admin de %s :",
   "collective.shared.message.commandsusage": "--- Utilisation des commandes de %s ---",
   "collective.shared.message.nopermission": "Vous n'avez pas la permission d'utiliser cette commande.",
   "collective.shared.message.playeronly": "Cette commande ne peut être exécutée que par un joueur.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Utilisation de %s :",
   "collective.shared.message.wanderingtraderspawnfailed": "L'apparition du marchand ambulant a échoué, réessayez.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Marchand ambulant apparu avec succès !",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Réinit.",
+  "collective.collective.message.headcachehelp": "Réinitialise les données de têtes de joueur mises en cache par Collective, par exemple pour mettre à jour les skins.",
+  "collective.collective.message.headcachereset": "Le cache des têtes de joueur a bien été réinitialisé.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Zone sans nom",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Choisir %s",
   "collective.starterkit.message.activekitsreloaded": "Tous les kits actifs ont été rechargés.",
   "collective.starterkit.message.addscurrentinventory": "Ajoute votre inventaire actuel aux kits actifs.",
-  "collective.starterkit.message.adminusage": "Utilisation admin de %s :",
   "collective.starterkit.message.allowsplayerschoose": "Permet aux joueurs de choisir un kit de démarrage via des commandes. Ceci n'est nécessaire que lorsque %s n'est pas installé sur le client et que le serveur a activé le choix des kits.",
   "collective.starterkit.message.availablekits": "Kits disponibles : %s",
   "collective.starterkit.message.chosenkit": "%1$s a choisi le kit '%2$s' !",

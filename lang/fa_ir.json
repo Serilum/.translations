@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "نحوه استفاده مدیر %s:",
   "collective.shared.message.commandsusage": "--- نحوه استفاده از دستورات %s ---",
   "collective.shared.message.nopermission": "شما اجازه استفاده از این دستور را ندارید.",
   "collective.shared.message.playeronly": "این دستور فقط توسط یک بازیکن قابل اجراست.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "نحوه استفاده از %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "ظاهر شدن معامله‌گر سرگردان ناموفق بود، دوباره تلاش کنید.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "معامله‌گر سرگردان با موفقیت ظاهر شد!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "تنظیم مجدد",
+  "collective.collective.message.headcachehelp": "داده‌های سر بازیکنان ذخیره‌شده در حافظهٔ موقت Collective را بازنشانی می‌کند، برای مثال جهت به‌روزرسانی پوسته‌ها.",
+  "collective.collective.message.headcachereset": "حافظهٔ موقت سر بازیکنان با موفقیت بازنشانی شد.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "محدوده بدون نام",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "انتخاب %s",
   "collective.starterkit.message.activekitsreloaded": "تمام بسته‌های فعال دوباره بارگذاری شدند.",
   "collective.starterkit.message.addscurrentinventory": "کوله پشتی فعلی شما را به بسته‌های فعال اضافه می‌کند.",
-  "collective.starterkit.message.adminusage": "نحوه استفاده مدیر %s:",
   "collective.starterkit.message.allowsplayerschoose": "به بازیکنان اجازه می‌دهد از طریق دستورات یک بسته شروع انتخاب کنند. این فقط زمانی لازم است که %s روی کلاینت نصب نباشد و سرور انتخاب بسته را فعال کرده باشد.",
   "collective.starterkit.message.availablekits": "بسته‌های در دسترس: %s",
   "collective.starterkit.message.chosenkit": "%1$s بسته '%2$s' را انتخاب کرد!",

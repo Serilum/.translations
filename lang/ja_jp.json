@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s 管理者向けの使い方:",
   "collective.shared.message.commandsusage": "--- %s コマンドの使い方 ---",
   "collective.shared.message.nopermission": "このコマンドを使用する権限がありません。",
   "collective.shared.message.playeronly": "このコマンドはプレイヤーとしてのみ実行できます。",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s の使い方:",
   "collective.shared.message.wanderingtraderspawnfailed": "行商人のスポーンに失敗しました。もう一度お試しください。",
   "collective.shared.message.wanderingtraderspawnsuccesful": "行商人のスポーンに成功しました！",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "リセット",
+  "collective.collective.message.headcachehelp": "Collective がキャッシュしているプレイヤーの頭のデータをリセットします。例えばスキンを更新する場合などに使用します。",
+  "collective.collective.message.headcachereset": "プレイヤーの頭のキャッシュを正常にリセットしました。",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "名前のないエリア",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%sを選択",
   "collective.starterkit.message.activekitsreloaded": "すべてのアクティブなキットを再読み込みしました。",
   "collective.starterkit.message.addscurrentinventory": "現在のインベントリをアクティブなキットに追加します。",
-  "collective.starterkit.message.adminusage": "%s 管理者向けの使い方:",
   "collective.starterkit.message.allowsplayerschoose": "プレイヤーがコマンドでスターターキットを選択できるようにします。これは、クライアントに %s がインストールされておらず、サーバーがキットの選択を有効にしている場合にのみ必要です。",
   "collective.starterkit.message.availablekits": "利用可能なキット: %s",
   "collective.starterkit.message.chosenkit": "%1$s は '%2$s' キットを選びました！",

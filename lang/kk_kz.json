@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s әкімші қолдануы:",
   "collective.shared.message.commandsusage": "--- %s пәрмендерін қолдану ---",
   "collective.shared.message.nopermission": "Бұл пәрменді қолдануға рұқсатыңыз жоқ.",
   "collective.shared.message.playeronly": "Бұл пәрменді тек ойыншы ғана орындай алады.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s қолдану:",
   "collective.shared.message.wanderingtraderspawnfailed": "Кезбе саудагер пайда болмады, қайталап көріңіз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Кезбе саудагер сәтті пайда болды!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Арылту",
+  "collective.collective.message.headcachehelp": "Collective қызметінің кэштелген ойыншы бастарының деректерін қалпына келтіреді, мысалы, келбеттерді жаңарту үшін.",
+  "collective.collective.message.headcachereset": "Ойыншы бастарының кэші сәтті қалпына келтірілді.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Атаусыз аймақ",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%s таңдаңыз",
   "collective.starterkit.message.activekitsreloaded": "Барлық белсенді жинақтар қайта жүктелді.",
   "collective.starterkit.message.addscurrentinventory": "Қазіргі инвентарыңызды белсенді жинақтарға қосады.",
-  "collective.starterkit.message.adminusage": "%s әкімші қолдануы:",
   "collective.starterkit.message.allowsplayerschoose": "Ойыншыларға бастапқы жинақты пәрмендер арқылы таңдауға мүмкіндік береді. Бұл тек %s клиентке орнатылмаған әрі сервер жинақ таңдауын қосқан жағдайда қажет.",
   "collective.starterkit.message.availablekits": "Қолжетімді жинақтар: %s",
   "collective.starterkit.message.chosenkit": "%1$s '%2$s' жинағын таңдады!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "שימוש מנהל ב%s:",
   "collective.shared.message.commandsusage": "--- שימוש בפקודות %s ---",
   "collective.shared.message.nopermission": "אין לך הרשאה להשתמש בפקודה זו.",
   "collective.shared.message.playeronly": "פקודה זו ניתן להריץ רק כשחקן.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "שימוש ב%s:",
   "collective.shared.message.wanderingtraderspawnfailed": "זימון הסוחר הנודד נכשל, נסה שוב.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "הסוחר הנודד זומן בהצלחה!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "איפוס",
+  "collective.collective.message.headcachehelp": "מאפס את נתוני ראשי השחקנים השמורים במטמון של Collective, לדוגמה כדי לעדכן תלבושות.",
+  "collective.collective.message.headcachereset": "מטמון ראשי השחקנים אופס בהצלחה.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "אזור ללא שם",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "בחר %s",
   "collective.starterkit.message.activekitsreloaded": "כל הערכות הפעילות נטענו מחדש.",
   "collective.starterkit.message.addscurrentinventory": "מוסיף את המלאי הנוכחי שלך לערכות הפעילות.",
-  "collective.starterkit.message.adminusage": "שימוש מנהל ב%s:",
   "collective.starterkit.message.allowsplayerschoose": "מאפשר לשחקנים לבחור ערכת התחלה באמצעות פקודות. נדרש רק כאשר %s אינו מותקן בלקוח והשרת אפשר בחירת ערכות.",
   "collective.starterkit.message.availablekits": "ערכות זמינות: %s",
   "collective.starterkit.message.chosenkit": "%1$s בחר בערכת '%2$s'!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Utilização de Administrador de %s:",
   "collective.shared.message.commandsusage": "--- Utilização dos Comandos de %s ---",
   "collective.shared.message.nopermission": "Não tens permissão para usar esse comando.",
   "collective.shared.message.playeronly": "Este comando só pode ser executado como jogador.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Utilização de %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Falha ao invocar o vendedor ambulante, tenta novamente.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Vendedor ambulante invocado com sucesso!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Redefinir",
+  "collective.collective.message.headcachehelp": "Redefine os dados de cabeças de jogador armazenados em cache pelo Collective, por exemplo para atualizar as skins.",
+  "collective.collective.message.headcachereset": "A cache de cabeças de jogador foi redefinida com sucesso.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Área sem nome",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Escolher %s",
   "collective.starterkit.message.activekitsreloaded": "Todos os kits ativos foram recarregados.",
   "collective.starterkit.message.addscurrentinventory": "Adiciona o teu inventário atual aos kits ativos.",
-  "collective.starterkit.message.adminusage": "Utilização de Administrador de %s:",
   "collective.starterkit.message.allowsplayerschoose": "Permite aos jogadores escolher um kit inicial através de comandos. Isto só é necessário quando o %s não está instalado no cliente e o servidor ativou as escolhas de kit.",
   "collective.starterkit.message.availablekits": "Kits disponíveis: %s",
   "collective.starterkit.message.chosenkit": "%1$s escolheu o kit '%2$s'!",

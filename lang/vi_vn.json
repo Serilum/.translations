@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Cách dùng %s cho quản trị viên:",
   "collective.shared.message.commandsusage": "--- Cách dùng lệnh của %s ---",
   "collective.shared.message.nopermission": "Bạn không có quyền sử dụng lệnh đó.",
   "collective.shared.message.playeronly": "Lệnh này chỉ có thể chạy bởi người chơi.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Cách dùng %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Triệu hồi Thương nhân lang thang thất bại, hãy thử lại.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Triệu hồi Thương nhân lang thang thành công!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Đặt lại",
+  "collective.collective.message.headcachehelp": "Đặt lại dữ liệu đầu người chơi mà Collective đã lưu vào bộ nhớ đệm, ví dụ để cập nhật ngoại hình.",
+  "collective.collective.message.headcachereset": "Đã đặt lại thành công bộ nhớ đệm đầu người chơi.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Khu vực chưa đặt tên",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Chọn %s",
   "collective.starterkit.message.activekitsreloaded": "Toàn bộ bộ trang bị đang hoạt động đã được tải lại.",
   "collective.starterkit.message.addscurrentinventory": "Thêm túi đồ hiện tại của bạn vào các bộ trang bị đang hoạt động.",
-  "collective.starterkit.message.adminusage": "Cách dùng %s cho quản trị viên:",
   "collective.starterkit.message.allowsplayerschoose": "Cho phép người chơi chọn một bộ khởi đầu qua lệnh. Điều này chỉ cần thiết khi %s không được cài trên máy khách và máy chủ đã bật tính năng chọn bộ trang bị.",
   "collective.starterkit.message.availablekits": "Bộ trang bị có sẵn: %s",
   "collective.starterkit.message.chosenkit": "%1$s đã chọn bộ '%2$s'!",

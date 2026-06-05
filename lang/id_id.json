@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Penggunaan Admin %s:",
   "collective.shared.message.commandsusage": "--- Penggunaan Perintah %s ---",
   "collective.shared.message.nopermission": "Kamu tidak memiliki izin untuk menggunakan perintah itu.",
   "collective.shared.message.playeronly": "Perintah ini hanya dapat dijalankan sebagai pemain.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Penggunaan %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Gagal memunculkan Pedagang Keliling, coba lagi.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Pedagang Keliling berhasil dimunculkan!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Atur Ulang",
+  "collective.collective.message.headcachehelp": "Mengatur ulang data kepala pemain yang disimpan Collective dalam tembolok, misalnya untuk memperbarui rupa.",
+  "collective.collective.message.headcachereset": "Tembolok kepala pemain berhasil diatur ulang.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Area tanpa nama",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Pilih %s",
   "collective.starterkit.message.activekitsreloaded": "Semua kit aktif telah dimuat ulang.",
   "collective.starterkit.message.addscurrentinventory": "Menambahkan inventaris saat ini ke kit aktif.",
-  "collective.starterkit.message.adminusage": "Penggunaan Admin %s:",
   "collective.starterkit.message.allowsplayerschoose": "Memungkinkan pemain memilih kit awal melalui perintah. Ini hanya diperlukan ketika %s tidak dipasang di klien dan server mengaktifkan pilihan kit.",
   "collective.starterkit.message.availablekits": "Kit yang tersedia: %s",
   "collective.starterkit.message.chosenkit": "%1$s telah memilih kit '%2$s'!",

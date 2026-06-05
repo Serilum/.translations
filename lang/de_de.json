@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s Admin-Verwendung:",
   "collective.shared.message.commandsusage": "--- Befehle für %s ---",
   "collective.shared.message.nopermission": "Du hast keine Berechtigung, diesen Befehl zu verwenden.",
   "collective.shared.message.playeronly": "Dieser Befehl kann nur als Spieler ausgeführt werden.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Verwendung von %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Spawnen des Fahrenden Händlers fehlgeschlagen, versuche es erneut.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Fahrender Händler erfolgreich gespawnt!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Zurücksetzen",
+  "collective.collective.message.headcachehelp": "Setzt die von Collective zwischengespeicherten Spielerkopf-Daten zurück, zum Beispiel um Skins zu aktualisieren.",
+  "collective.collective.message.headcachereset": "Der Spielerkopf-Cache wurde erfolgreich zurückgesetzt.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Unbenanntes Gebiet",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%s auswählen",
   "collective.starterkit.message.activekitsreloaded": "Alle aktiven Kits wurden neu geladen.",
   "collective.starterkit.message.addscurrentinventory": "Fügt dein aktuelles Inventar zu den aktiven Kits hinzu.",
-  "collective.starterkit.message.adminusage": "%s Admin-Verwendung:",
   "collective.starterkit.message.allowsplayerschoose": "Ermöglicht es Spielern, per Befehl ein Starter-Kit auszuwählen. Dies wird nur benötigt, wenn %s nicht auf dem Client installiert ist und der Server die Kit-Auswahl aktiviert hat.",
   "collective.starterkit.message.availablekits": "Verfügbare Kits: %s",
   "collective.starterkit.message.chosenkit": "%1$s hat das Kit '%2$s' gewählt!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s – administratorbruk:",
   "collective.shared.message.commandsusage": "--- Bruk av %s-kommandoer ---",
   "collective.shared.message.nopermission": "Du har ikke tillatelse til å bruke den kommandoen.",
   "collective.shared.message.playeronly": "Denne kommandoen kan bare kjøres som en spiller.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Bruk av %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Fremkalling av vandrehandler mislyktes, prøv igjen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Vandrehandler fremkalt!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Tilbakestill",
+  "collective.collective.message.headcachehelp": "Nullstiller Collectives mellomlagrede spillerhodedata, for eksempel for å oppdatere skins.",
+  "collective.collective.message.headcachereset": "Bufferen med spillerhoder er nullstilt.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Navnløst område",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Velg %s",
   "collective.starterkit.message.activekitsreloaded": "Alle aktive sett er lastet inn på nytt.",
   "collective.starterkit.message.addscurrentinventory": "Legger det nåværende forrådet ditt til i de aktive settene.",
-  "collective.starterkit.message.adminusage": "%s – administratorbruk:",
   "collective.starterkit.message.allowsplayerschoose": "Lar spillere velge et startsett via kommandoer. Dette trengs bare når %s ikke er installert på klienten og tjeneren har aktivert settvalg.",
   "collective.starterkit.message.availablekits": "Tilgjengelige sett: %s",
   "collective.starterkit.message.chosenkit": "%1$s har valgt «%2$s»-settet!",

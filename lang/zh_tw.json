@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s 管理員用法：",
   "collective.shared.message.commandsusage": "--- %s 指令用法 ---",
   "collective.shared.message.nopermission": "你沒有權限使用該指令。",
   "collective.shared.message.playeronly": "此指令只能由玩家執行。",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s 用法：",
   "collective.shared.message.wanderingtraderspawnfailed": "流浪商人生成失敗，請再試一次。",
   "collective.shared.message.wanderingtraderspawnsuccesful": "流浪商人生成成功！",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "重設",
+  "collective.collective.message.headcachehelp": "重設 Collective 快取的玩家頭顱資料，例如用於更新外觀。",
+  "collective.collective.message.headcachereset": "已成功重設玩家頭顱快取。",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "未命名區域",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "選擇 %s",
   "collective.starterkit.message.activekitsreloaded": "所有啟用中的套組皆已重新載入。",
   "collective.starterkit.message.addscurrentinventory": "將你目前的物品欄加入啟用中的套組。",
-  "collective.starterkit.message.adminusage": "%s 管理員用法：",
   "collective.starterkit.message.allowsplayerschoose": "讓玩家能透過指令選擇新手套組。僅在用戶端未安裝 %s 且伺服器啟用套組選擇時才需要。",
   "collective.starterkit.message.availablekits": "可用套組：%s",
   "collective.starterkit.message.chosenkit": "%1$s 選擇了「%2$s」套組！",

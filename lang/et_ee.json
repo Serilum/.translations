@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s administraatori kasutus:",
   "collective.shared.message.commandsusage": "--- %s käskluste kasutus ---",
   "collective.shared.message.nopermission": "Sul pole õigust seda käsklust kasutada.",
   "collective.shared.message.playeronly": "Seda käsklust saab käivitada ainult mängijana.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s kasutus:",
   "collective.shared.message.wanderingtraderspawnfailed": "Uitava kaupleja tekitamine ebaõnnestus, proovi uuesti.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Uitava kaupleja tekitamine õnnestus!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Lähtesta",
+  "collective.collective.message.headcachehelp": "Lähtestab Collective'i vahemällu salvestatud mängijate peade andmed, näiteks välimuste uuendamiseks.",
+  "collective.collective.message.headcachereset": "Mängijate peade vahemälu lähtestati edukalt.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nimetu ala",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Vali %s",
   "collective.starterkit.message.activekitsreloaded": "Kõik aktiivsed komplektid on uuesti laetud.",
   "collective.starterkit.message.addscurrentinventory": "Lisab sinu praeguse seljakoti aktiivsete komplektide hulka.",
-  "collective.starterkit.message.adminusage": "%s administraatori kasutus:",
   "collective.starterkit.message.allowsplayerschoose": "Lubab mängijatel valida algkomplekti käskluste kaudu. Seda on vaja vaid siis, kui %s pole kliendipoolele paigaldatud ja server lubas komplektivalikud.",
   "collective.starterkit.message.availablekits": "Saadaolevad komplektid: %s",
   "collective.starterkit.message.chosenkit": "%1$s valis komplekti „%2$s“!",

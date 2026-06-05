@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Defnydd Gweinyddol %s:",
   "collective.shared.message.commandsusage": "--- Defnydd Gorchmynion %s ---",
   "collective.shared.message.nopermission": "Nid oes gennych ganiatâd i ddefnyddio'r gorchymyn hwnnw.",
   "collective.shared.message.playeronly": "Dim ond chwaraewr all redeg y gorchymyn hwn.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Defnydd %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Methodd sbawnio'r Masnachwr Crwydrol, ceisiwch eto.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Sbawniwyd y Masnachwr Crwydrol yn llwyddiannus!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Ailosod",
+  "collective.collective.message.headcachehelp": "Yn ailosod data pennau chwaraewyr sydd wedi'i storio yng nghof Collective, er enghraifft i ddiweddaru gweddau.",
+  "collective.collective.message.headcachereset": "Ailosodwyd cof pennau'r chwaraewyr yn llwyddiannus.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Ardal ddienw",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Dewis %s",
   "collective.starterkit.message.activekitsreloaded": "Ail-lwythwyd pob pecyn gweithredol.",
   "collective.starterkit.message.addscurrentinventory": "Ychwanegu eich rhestr eiddo gyfredol at y pecynnau gweithredol.",
-  "collective.starterkit.message.adminusage": "Defnydd Gweinyddol %s:",
   "collective.starterkit.message.allowsplayerschoose": "Yn caniatáu i chwaraewyr ddewis pecyn cychwyn trwy orchmynion. Mae angen hyn dim ond pan nad yw %s wedi'i osod ar y cleient a bod y gweinydd wedi galluogi dewisiadau pecyn.",
   "collective.starterkit.message.availablekits": "Pecynnau sydd ar gael: %s",
   "collective.starterkit.message.chosenkit": "Mae %1$s wedi dewis y pecyn '%2$s'!",

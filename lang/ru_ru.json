@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Использование %s (админ):",
   "collective.shared.message.commandsusage": "--- Использование команд %s ---",
   "collective.shared.message.nopermission": "У вас нет прав на использование этой команды.",
   "collective.shared.message.playeronly": "Эту команду может выполнить только игрок.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Использование %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Не удалось призвать странствующего торговца, попробуйте ещё раз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Странствующий торговец успешно призван!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Сброс",
+  "collective.collective.message.headcachehelp": "Сбрасывает кэшированные данные голов игроков в Collective, например, чтобы обновить скины.",
+  "collective.collective.message.headcachereset": "Кэш голов игроков успешно сброшен.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безымянная зона",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Выберите %s",
   "collective.starterkit.message.activekitsreloaded": "Все активные наборы перезагружены.",
   "collective.starterkit.message.addscurrentinventory": "Добавляет ваш текущий инвентарь в активные наборы.",
-  "collective.starterkit.message.adminusage": "Использование %s (админ):",
   "collective.starterkit.message.allowsplayerschoose": "Позволяет игрокам выбирать стартовый набор через команды. Это нужно только тогда, когда %s не установлен на клиенте, а сервер включил выбор наборов.",
   "collective.starterkit.message.availablekits": "Доступные наборы: %s",
   "collective.starterkit.message.chosenkit": "%1$s выбрал набор «%2$s»!",

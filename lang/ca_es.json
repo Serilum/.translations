@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Ús d'administrador de %s:",
   "collective.shared.message.commandsusage": "--- Ús de les ordres de %s ---",
   "collective.shared.message.nopermission": "No tens permís per a fer servir aquesta ordre.",
   "collective.shared.message.playeronly": "Aquesta ordre només es pot executar com a jugador.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Ús de %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "No s'ha pogut aparèixer el comerciant, torna-ho a provar.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "El comerciant ha aparegut correctament!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Reiniciar",
+  "collective.collective.message.headcachehelp": "Restableix les dades de caps de jugador desades a la memòria cau de Collective, per exemple per actualitzar les aparences.",
+  "collective.collective.message.headcachereset": "La memòria cau de caps de jugador s'ha restablert correctament.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Àrea sense nom",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Tria %s",
   "collective.starterkit.message.activekitsreloaded": "S'han tornat a carregar tots els kits actius.",
   "collective.starterkit.message.addscurrentinventory": "Afegeix el teu inventari actual als kits actius.",
-  "collective.starterkit.message.adminusage": "Ús d'administrador de %s:",
   "collective.starterkit.message.allowsplayerschoose": "Permet als jugadors triar un kit inicial mitjançant ordres. Això només cal quan %s no està instal·lat al client i el servidor ha activat la tria de kits.",
   "collective.starterkit.message.availablekits": "Kits disponibles: %s",
   "collective.starterkit.message.chosenkit": "%1$s ha triat el kit «%2$s»!",

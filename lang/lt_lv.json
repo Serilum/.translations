@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s administratora lietošana:",
   "collective.shared.message.commandsusage": "--- %s komandu lietošana ---",
   "collective.shared.message.nopermission": "Tev nav atļaujas izmantot šo komandu.",
   "collective.shared.message.playeronly": "Šo komandu var izpildīt tikai spēlētājs.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s lietošana:",
   "collective.shared.message.wanderingtraderspawnfailed": "Neizdevās radīt klejojošo tirgotāju, mēģini vēlreiz.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Klejojošais tirgotājs veiksmīgi radīts!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Atiestatīt",
+  "collective.collective.message.headcachehelp": "Atiestata Collective kešatmiņā saglabātos spēlētāju galvu datus, piemēram, lai atjauninātu izskatus.",
+  "collective.collective.message.headcachereset": "Spēlētāju galvu kešatmiņa tika veiksmīgi atiestatīta.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nenosaukta teritorija",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Izvēlies %s",
   "collective.starterkit.message.activekitsreloaded": "Visi aktīvie komplekti ir pārlādēti.",
   "collective.starterkit.message.addscurrentinventory": "Pievieno tavu pašreizējo inventāru aktīvajiem komplektiem.",
-  "collective.starterkit.message.adminusage": "%s administratora lietošana:",
   "collective.starterkit.message.allowsplayerschoose": "Ļauj spēlētājiem izvēlēties sākuma komplektu ar komandām. Tas nepieciešams tikai tad, ja %s nav instalēts klientā un serveris ir iespējojis komplektu izvēli.",
   "collective.starterkit.message.availablekits": "Pieejamie komplekti: %s",
   "collective.starterkit.message.chosenkit": "%1$s izvēlējās komplektu '%2$s'!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Выкарыстанне %s (адмін):",
   "collective.shared.message.commandsusage": "--- Выкарыстанне каманд %s ---",
   "collective.shared.message.nopermission": "У вас няма дазволу на выкарыстанне гэтай каманды.",
   "collective.shared.message.playeronly": "Гэтую каманду можа выканаць толькі гулец.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Выкарыстанне %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Не ўдалося заспаўніць вандроўнага гандляра, паспрабуйце зноў.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Вандроўны гандляр паспяхова заспаўнены!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Скінуць",
+  "collective.collective.message.headcachehelp": "Скідае кэшаваныя даныя галоў гульцоў у Collective, напрыклад, каб абнавіць выгляды.",
+  "collective.collective.message.headcachereset": "Кэш галоў гульцоў паспяхова скінуты.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безназоўная вобласць",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Выбраць %s",
   "collective.starterkit.message.activekitsreloaded": "Усе актыўныя наборы перазагружаны.",
   "collective.starterkit.message.addscurrentinventory": "Дадае ваш бягучы інвентар у актыўныя наборы.",
-  "collective.starterkit.message.adminusage": "Выкарыстанне %s (адмін):",
   "collective.starterkit.message.allowsplayerschoose": "Дазваляе гульцам выбіраць пачатковы набор праз каманды. Гэта патрэбна толькі тады, калі %s не ўсталяваны на кліенце, а сервер уключыў выбар набораў.",
   "collective.starterkit.message.availablekits": "Даступныя наборы: %s",
   "collective.starterkit.message.chosenkit": "%1$s выбраў набор '%2$s'!",

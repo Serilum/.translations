@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Utilizarea %s pentru administratori:",
   "collective.shared.message.commandsusage": "--- Utilizarea comenzilor %s ---",
   "collective.shared.message.nopermission": "Nu ai permisiunea de a folosi această comandă.",
   "collective.shared.message.playeronly": "Această comandă poate fi rulată doar ca jucător.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Utilizarea %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Generarea negustorului ambulant a eșuat, încearcă din nou.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Negustorul ambulant a fost generat cu succes!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Resetare",
+  "collective.collective.message.headcachehelp": "Resetează datele despre capetele de jucător stocate în cache de Collective, de exemplu pentru a actualiza skinurile.",
+  "collective.collective.message.headcachereset": "Cache-ul cu capete de jucător a fost resetat cu succes.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Zonă fără nume",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Alege %s",
   "collective.starterkit.message.activekitsreloaded": "Toate kiturile active au fost reîncărcate.",
   "collective.starterkit.message.addscurrentinventory": "Adaugă inventarul tău actual la kiturile active.",
-  "collective.starterkit.message.adminusage": "Utilizarea %s pentru administratori:",
   "collective.starterkit.message.allowsplayerschoose": "Permite jucătorilor să aleagă un kit de început prin comenzi. Acest lucru este necesar doar când %s nu este instalat pe client, iar serverul a activat alegerea kiturilor.",
   "collective.starterkit.message.availablekits": "Kituri disponibile: %s",
   "collective.starterkit.message.chosenkit": "%1$s a ales kitul „%2$s”!",

@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s Admin Usage:",
   "collective.shared.message.commandsusage": "--- %s Commands Usage ---",
   "collective.shared.message.nopermission": "You do not have permission to use that command.",
   "collective.shared.message.playeronly": "This command can only be run as a player.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s Usage:",
   "collective.shared.message.wanderingtraderspawnfailed": "Wandering trader spawn failed, try again.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Wandering trader spawn successful!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Reset",
+  "collective.collective.message.headcachehelp": "Resets Collective's cached player head data, for example to update skins.",
+  "collective.collective.message.headcachereset": "The player head cache has successfully been reset.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Unnamed area",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Choose %s",
   "collective.starterkit.message.activekitsreloaded": "All active kits have been reloaded.",
   "collective.starterkit.message.addscurrentinventory": "Adds your current inventory to the active kits.",
-  "collective.starterkit.message.adminusage": "%s Admin Usage:",
   "collective.starterkit.message.allowsplayerschoose": "Allows players to choose a starter kit via commands. This is only needed when %s is not installed on the client and the server enabled kit choices.",
   "collective.starterkit.message.availablekits": "Available kits: %s",
   "collective.starterkit.message.chosenkit": "%1$s has chosen the '%2$s' kit!",

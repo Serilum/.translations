@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s Administrateurgebruik:",
   "collective.shared.message.commandsusage": "--- %s Bevele-gebruik ---",
   "collective.shared.message.nopermission": "Jy het nie toestemming om daardie bevel te gebruik nie.",
   "collective.shared.message.playeronly": "Hierdie bevel kan slegs as 'n speler uitgevoer word.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s Gebruik:",
   "collective.shared.message.wanderingtraderspawnfailed": "Dwaalhandelaar het nie verskyn nie, probeer weer.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Dwaalhandelaar het suksesvol verskyn!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Herstel",
+  "collective.collective.message.headcachehelp": "Stel Collective se gekaste spelerkop-data terug, byvoorbeeld om velle by te werk.",
+  "collective.collective.message.headcachereset": "Die spelerkop-kas is suksesvol teruggestel.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Naamlose gebied",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Kies %s",
   "collective.starterkit.message.activekitsreloaded": "Alle aktiewe stelle is herlaai.",
   "collective.starterkit.message.addscurrentinventory": "Voeg jou huidige voorraad by die aktiewe stelle.",
-  "collective.starterkit.message.adminusage": "%s Administrateurgebruik:",
   "collective.starterkit.message.allowsplayerschoose": "Laat spelers toe om 'n beginnerstel via bevele te kies. Dit is slegs nodig wanneer %s nie op die kliënt geïnstalleer is nie en die bediener stelkeuses geaktiveer het.",
   "collective.starterkit.message.availablekits": "Beskikbare stelle: %s",
   "collective.starterkit.message.chosenkit": "%1$s het die '%2$s'-stel gekies!",

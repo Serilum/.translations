@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s admin használata:",
   "collective.shared.message.commandsusage": "--- %s parancsainak használata ---",
   "collective.shared.message.nopermission": "Nincs jogosultságod a parancs használatához.",
   "collective.shared.message.playeronly": "Ez a parancs csak játékosként futtatható.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s használata:",
   "collective.shared.message.wanderingtraderspawnfailed": "A vándorkereskedő megidézése nem sikerült, próbáld újra.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "A vándorkereskedő megidézése sikerült!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Eredeti",
+  "collective.collective.message.headcachehelp": "Visszaállítja a Collective gyorsítótárazott játékosfej-adatait, például a kinézetek frissítéséhez.",
+  "collective.collective.message.headcachereset": "A játékosfejek gyorsítótára sikeresen visszaállt.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Névtelen terület",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%s kiválasztása",
   "collective.starterkit.message.activekitsreloaded": "Az összes aktív csomag újratöltve.",
   "collective.starterkit.message.addscurrentinventory": "Hozzáadja a jelenlegi felszerelésedet az aktív csomagokhoz.",
-  "collective.starterkit.message.adminusage": "%s admin használata:",
   "collective.starterkit.message.allowsplayerschoose": "Lehetővé teszi a játékosoknak, hogy parancsokkal válasszanak kezdőcsomagot. Erre csak akkor van szükség, ha a(z) %s nincs telepítve a kliensre, és a szerver engedélyezte a csomagválasztást.",
   "collective.starterkit.message.availablekits": "Elérhető csomagok: %s",
   "collective.starterkit.message.chosenkit": "%1$s a(z) „%2$s” csomagot választotta!",

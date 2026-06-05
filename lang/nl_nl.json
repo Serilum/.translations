@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s Beheerdersgebruik:",
   "collective.shared.message.commandsusage": "--- %s Commando's Gebruik ---",
   "collective.shared.message.nopermission": "Je hebt geen toestemming om dat commando te gebruiken.",
   "collective.shared.message.playeronly": "Dit commando kan alleen als speler worden uitgevoerd.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s Gebruik:",
   "collective.shared.message.wanderingtraderspawnfailed": "Spawnen van rondreizende handelaar mislukt, probeer opnieuw.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Rondreizende handelaar succesvol gespawnd!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Resetten",
+  "collective.collective.message.headcachehelp": "Reset de door Collective gecachete spelershoofd-gegevens, bijvoorbeeld om skins bij te werken.",
+  "collective.collective.message.headcachereset": "De cache met spelershoofden is succesvol gereset.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Naamloos gebied",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Kies %s",
   "collective.starterkit.message.activekitsreloaded": "Alle actieve kits zijn herladen.",
   "collective.starterkit.message.addscurrentinventory": "Voegt je huidige inventaris toe aan de actieve kits.",
-  "collective.starterkit.message.adminusage": "%s Beheerdersgebruik:",
   "collective.starterkit.message.allowsplayerschoose": "Hiermee kunnen spelers via commando's een starterkit kiezen. Dit is alleen nodig als %s niet op de client is geïnstalleerd en de server kitkeuzes heeft ingeschakeld.",
   "collective.starterkit.message.availablekits": "Beschikbare kits: %s",
   "collective.starterkit.message.chosenkit": "%1$s heeft de kit '%2$s' gekozen!",

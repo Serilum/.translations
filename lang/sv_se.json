@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Adminanvändning av %s:",
   "collective.shared.message.commandsusage": "--- Kommandon för %s ---",
   "collective.shared.message.nopermission": "Du har inte behörighet att använda det kommandot.",
   "collective.shared.message.playeronly": "Det här kommandot kan endast köras som spelare.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Användning av %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Det gick inte att skapa en vandrande byteshandlare, försök igen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "En vandrande byteshandlare skapades!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Återställ",
+  "collective.collective.message.headcachehelp": "Nollställer Collectives cachade spelarhuvuddata, till exempel för att uppdatera utseenden.",
+  "collective.collective.message.headcachereset": "Cachen för spelarhuvuden har nollställts.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Namnlöst område",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Välj %s",
   "collective.starterkit.message.activekitsreloaded": "Alla aktiva startpaket har lästs om.",
   "collective.starterkit.message.addscurrentinventory": "Lägger till ditt nuvarande förråd i de aktiva startpaketen.",
-  "collective.starterkit.message.adminusage": "Adminanvändning av %s:",
   "collective.starterkit.message.allowsplayerschoose": "Låter spelare välja ett startpaket via kommandon. Detta behövs endast när %s inte är installerat på klienten och servern har aktiverat paketval.",
   "collective.starterkit.message.availablekits": "Tillgängliga startpaket: %s",
   "collective.starterkit.message.chosenkit": "%1$s har valt startpaketet '%2$s'!",

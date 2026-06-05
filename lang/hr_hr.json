@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Administratorsko korištenje za %s:",
   "collective.shared.message.commandsusage": "--- Korištenje naredbi za %s ---",
   "collective.shared.message.nopermission": "Nemaš dopuštenje za korištenje te naredbe.",
   "collective.shared.message.playeronly": "Ova se naredba može pokrenuti samo kao igrač.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Korištenje za %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Stvaranje lutajućeg trgovca nije uspjelo, pokušaj ponovno.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Lutajući trgovac uspješno je stvoren!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Reset",
+  "collective.collective.message.headcachehelp": "Resetira podatke o glavama igrača koje Collective sprema u predmemoriju, primjerice radi ažuriranja presvlaka.",
+  "collective.collective.message.headcachereset": "Predmemorija glava igrača uspješno je resetirana.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Bezimeno područje",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Odaberi %s",
   "collective.starterkit.message.activekitsreloaded": "Svi aktivni kompleti su ponovno učitani.",
   "collective.starterkit.message.addscurrentinventory": "Dodaje tvoj trenutni inventar u aktivne komplete.",
-  "collective.starterkit.message.adminusage": "Administratorsko korištenje za %s:",
   "collective.starterkit.message.allowsplayerschoose": "Omogućuje igračima da odaberu početni komplet putem naredbi. To je potrebno samo kada %s nije instaliran na klijentu, a poslužitelj je omogućio odabir kompleta.",
   "collective.starterkit.message.availablekits": "Dostupni kompleti: %s",
   "collective.starterkit.message.chosenkit": "%1$s je odabrao komplet '%2$s'!",

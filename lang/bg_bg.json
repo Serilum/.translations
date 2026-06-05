@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Използване на %s от администратор:",
   "collective.shared.message.commandsusage": "--- Използване на командите за %s ---",
   "collective.shared.message.nopermission": "Нямаш право да използваш тази команда.",
   "collective.shared.message.playeronly": "Тази команда може да се изпълни само от играч.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Използване на %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Появяването на странстващия търговец се провали, опитай отново.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Странстващият търговец се появи успешно!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Нулирай",
+  "collective.collective.message.headcachehelp": "Нулира кешираните от Collective данни за главите на играчите, например за да се обновят облиците.",
+  "collective.collective.message.headcachereset": "Кешът с главите на играчите беше успешно нулиран.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безименна зона",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Избери %s",
   "collective.starterkit.message.activekitsreloaded": "Всички активни комплекти бяха презаредени.",
   "collective.starterkit.message.addscurrentinventory": "Добавя текущия ти инвентар към активните комплекти.",
-  "collective.starterkit.message.adminusage": "Използване на %s от администратор:",
   "collective.starterkit.message.allowsplayerschoose": "Позволява на играчите да избират стартов комплект чрез команди. Това е необходимо само когато %s не е инсталиран на клиента, а сървърът е включил избора на комплекти.",
   "collective.starterkit.message.availablekits": "Налични комплекти: %s",
   "collective.starterkit.message.chosenkit": "%1$s избра комплекта '%2$s'!",

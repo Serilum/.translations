@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s 관리자 사용법:",
   "collective.shared.message.commandsusage": "--- %s 명령어 사용법 ---",
   "collective.shared.message.nopermission": "이 명령어를 사용할 권한이 없습니다.",
   "collective.shared.message.playeronly": "이 명령어는 플레이어만 실행할 수 있습니다.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s 사용법:",
   "collective.shared.message.wanderingtraderspawnfailed": "떠돌이 상인 생성에 실패했습니다. 다시 시도하세요.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "떠돌이 상인을 성공적으로 생성했습니다!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "초기화",
+  "collective.collective.message.headcachehelp": "Collective가 캐시한 플레이어 머리 데이터를 초기화합니다. 예를 들어 스킨을 갱신할 때 사용합니다.",
+  "collective.collective.message.headcachereset": "플레이어 머리 캐시를 성공적으로 초기화했습니다.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "이름 없는 구역",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "%s 선택",
   "collective.starterkit.message.activekitsreloaded": "모든 활성 키트를 다시 불러왔습니다.",
   "collective.starterkit.message.addscurrentinventory": "현재 보관함을 활성 키트에 추가합니다.",
-  "collective.starterkit.message.adminusage": "%s 관리자 사용법:",
   "collective.starterkit.message.allowsplayerschoose": "플레이어가 명령어로 시작 키트를 선택할 수 있게 합니다. 이는 %s이(가) 클라이언트에 설치되어 있지 않고 서버에서 키트 선택을 활성화한 경우에만 필요합니다.",
   "collective.starterkit.message.availablekits": "사용 가능한 키트: %s",
   "collective.starterkit.message.chosenkit": "%1$s님이 '%2$s' 키트를 선택했습니다!",

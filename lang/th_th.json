@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "การใช้งานสำหรับแอดมินของ %s:",
   "collective.shared.message.commandsusage": "--- การใช้คำสั่ง %s ---",
   "collective.shared.message.nopermission": "คุณไม่มีสิทธิ์ใช้คำสั่งนั้น",
   "collective.shared.message.playeronly": "คำสั่งนี้ใช้ได้เฉพาะในฐานะผู้เล่นเท่านั้น",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "วิธีใช้ %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "การเรียกพ่อค้าเร่ร่อนล้มเหลว ลองอีกครั้ง",
   "collective.shared.message.wanderingtraderspawnsuccesful": "เรียกพ่อค้าเร่ร่อนสำเร็จ!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "รีเซต",
+  "collective.collective.message.headcachehelp": "รีเซตข้อมูลหัวผู้เล่นที่ Collective แคชไว้ เช่น เพื่ออัปเดตสกิน",
+  "collective.collective.message.headcachereset": "รีเซตแคชหัวผู้เล่นเรียบร้อยแล้ว",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "พื้นที่ไม่มีชื่อ",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "เลือก %s",
   "collective.starterkit.message.activekitsreloaded": "โหลดชุดเริ่มต้นที่ใช้งานอยู่ทั้งหมดใหม่แล้ว",
   "collective.starterkit.message.addscurrentinventory": "เพิ่มช่องเก็บของปัจจุบันของคุณเข้าในชุดเริ่มต้นที่ใช้งานอยู่",
-  "collective.starterkit.message.adminusage": "การใช้งานสำหรับแอดมินของ %s:",
   "collective.starterkit.message.allowsplayerschoose": "ให้ผู้เล่นเลือกชุดเริ่มต้นผ่านคำสั่งได้ จำเป็นเฉพาะเมื่อไม่ได้ติดตั้ง %s บนไคลเอนต์และเซิร์ฟเวอร์เปิดให้เลือกชุดเริ่มต้นไว้",
   "collective.starterkit.message.availablekits": "ชุดเริ่มต้นที่ใช้ได้: %s",
   "collective.starterkit.message.chosenkit": "%1$s ได้เลือกชุด '%2$s' แล้ว!",

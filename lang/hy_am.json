@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s ադմինի օգտագործում.",
   "collective.shared.message.commandsusage": "--- %s հրամանների օգտագործում ---",
   "collective.shared.message.nopermission": "Դուք չունեք թույլտվություն այս հրամանն օգտագործելու համար.",
   "collective.shared.message.playeronly": "Այս հրամանը կարող է գործարկել միայն խաղացողը.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s-ի օգտագործում.",
   "collective.shared.message.wanderingtraderspawnfailed": "Թափառող Վաճառականի առաջացումը ձախողվեց, փորձեք նորից.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Թափառող Վաճառականը հաջողությամբ առաջացավ!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Վերականգնել",
+  "collective.collective.message.headcachehelp": "Զրոյացնում է Collective-ի պահված խաղացողների գլուխների տվյալները, օրինակ՝ արտաքին տեսքները թարմացնելու համար.",
+  "collective.collective.message.headcachereset": "Խաղացողների գլուխների քեշը հաջողությամբ զրոյացվեց.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Անանուն տարածք",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Ընտրել %s",
   "collective.starterkit.message.activekitsreloaded": "Բոլոր ակտիվ հավաքածուները վերաբեռնվեցին.",
   "collective.starterkit.message.addscurrentinventory": "Ավելացնում է ձեր ընթացիկ գույքն ակտիվ հավաքածուներին.",
-  "collective.starterkit.message.adminusage": "%s ադմինի օգտագործում.",
   "collective.starterkit.message.allowsplayerschoose": "Թույլ է տալիս խաղացողներին հրամաններով ընտրել մեկնարկային հավաքածու. Սա անհրաժեշտ է միայն այն դեպքում, երբ %s-ը տեղադրված չէ հաճախորդում, և սերվերը միացրել է հավաքածուի ընտրությունը.",
   "collective.starterkit.message.availablekits": "Հասանելի հավաքածուներ. %s",
   "collective.starterkit.message.chosenkit": "%1$s-ն ընտրեց '%2$s' հավաքածուն!",

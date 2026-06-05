@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Użycie administratorskie %s:",
   "collective.shared.message.commandsusage": "--- Użycie komend %s ---",
   "collective.shared.message.nopermission": "Nie masz uprawnień, aby użyć tej komendy.",
   "collective.shared.message.playeronly": "Ta komenda może zostać wykonana tylko przez gracza.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Użycie %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Przyzwanie wędrownego handlarza nie powiodło się, spróbuj ponownie.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Pomyślnie przyzwano wędrownego handlarza!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Zresetuj",
+  "collective.collective.message.headcachehelp": "Resetuje zapisane w pamięci podręcznej dane głów graczy w Collective, na przykład w celu zaktualizowania skórek.",
+  "collective.collective.message.headcachereset": "Pamięć podręczna głów graczy została pomyślnie zresetowana.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Obszar bez nazwy",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Wybierz %s",
   "collective.starterkit.message.activekitsreloaded": "Wszystkie aktywne zestawy zostały przeładowane.",
   "collective.starterkit.message.addscurrentinventory": "Dodaje twój obecny ekwipunek do aktywnych zestawów.",
-  "collective.starterkit.message.adminusage": "Użycie administratorskie %s:",
   "collective.starterkit.message.allowsplayerschoose": "Pozwala graczom wybrać zestaw startowy za pomocą komend. Jest to potrzebne tylko wtedy, gdy %s nie jest zainstalowany po stronie klienta, a serwer włączył wybór zestawów.",
   "collective.starterkit.message.availablekits": "Dostępne zestawy: %s",
   "collective.starterkit.message.chosenkit": "%1$s wybrał zestaw „%2$s”!",

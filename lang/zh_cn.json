@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s 管理员用法：",
   "collective.shared.message.commandsusage": "--- %s 命令用法 ---",
   "collective.shared.message.nopermission": "你没有权限使用该命令。",
   "collective.shared.message.playeronly": "该命令只能由玩家执行。",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s 用法：",
   "collective.shared.message.wanderingtraderspawnfailed": "流浪商人生成失败，请重试。",
   "collective.shared.message.wanderingtraderspawnsuccesful": "流浪商人生成成功！",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "重置",
+  "collective.collective.message.headcachehelp": "重置 Collective 缓存的玩家头数据，例如用于更新皮肤。",
+  "collective.collective.message.headcachereset": "已成功重置玩家头缓存。",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "未命名区域",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "选择%s",
   "collective.starterkit.message.activekitsreloaded": "所有启用的礼包已重新加载。",
   "collective.starterkit.message.addscurrentinventory": "将你当前的物品栏添加到启用的礼包中。",
-  "collective.starterkit.message.adminusage": "%s 管理员用法：",
   "collective.starterkit.message.allowsplayerschoose": "允许玩家通过命令选择新手礼包。仅当客户端未安装 %s，且服务器启用了礼包选择时才需要使用。",
   "collective.starterkit.message.availablekits": "可用礼包：%s",
   "collective.starterkit.message.chosenkit": "%1$s 选择了“%2$s”礼包！",

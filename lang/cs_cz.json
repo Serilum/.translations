@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "Administrátorské použití %s:",
   "collective.shared.message.commandsusage": "--- Použití příkazů %s ---",
   "collective.shared.message.nopermission": "Na použití tohoto příkazu nemáš oprávnění.",
   "collective.shared.message.playeronly": "Tento příkaz lze spustit pouze jako hráč.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "Použití %s:",
   "collective.shared.message.wanderingtraderspawnfailed": "Vyvolání potulného obchodníka selhalo, zkus to znovu.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Potulný obchodník byl úspěšně vyvolán!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Obnovit",
+  "collective.collective.message.headcachehelp": "Obnoví data hlav hráčů uložená v mezipaměti Collective, například kvůli aktualizaci vzhledů.",
+  "collective.collective.message.headcachereset": "Mezipaměť hlav hráčů byla úspěšně obnovena.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nepojmenovaná oblast",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Vyber %s",
   "collective.starterkit.message.activekitsreloaded": "Všechny aktivní sady byly znovu načteny.",
   "collective.starterkit.message.addscurrentinventory": "Přidá tvůj aktuální inventář k aktivním sadám.",
-  "collective.starterkit.message.adminusage": "Administrátorské použití %s:",
   "collective.starterkit.message.allowsplayerschoose": "Umožní hráčům vybrat si startovní sadu pomocí příkazů. To je potřeba pouze tehdy, když %s není nainstalován na klientovi a server povolil výběr sad.",
   "collective.starterkit.message.availablekits": "Dostupné sady: %s",
   "collective.starterkit.message.chosenkit": "%1$s si vybral sadu „%2$s“!",

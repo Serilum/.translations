@@ -1,5 +1,6 @@
 {
   "_comment_shared": "Shared",
+  "collective.shared.message.adminusage": "%s administratzaile-erabilera:",
   "collective.shared.message.commandsusage": "--- %s komandoen erabilera ---",
   "collective.shared.message.nopermission": "Ez duzu baimenik komando hori erabiltzeko.",
   "collective.shared.message.playeronly": "Komando hau jokalari gisa soilik exekuta daiteke.",
@@ -9,6 +10,11 @@
   "collective.shared.message.usage": "%s erabilera:",
   "collective.shared.message.wanderingtraderspawnfailed": "Saltzaile ibiltariaren sorrerak huts egin du, saiatu berriro.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Saltzaile ibiltaria ondo sortu da!",
+
+  "_comment_collective": "Collective",
+  "collective.collective.gui.reset": "Berrezarri",
+  "collective.collective.message.headcachehelp": "Collective-ek katxean gordetako jokalari-buruen datuak berrezartzen ditu, adibidez itxurak eguneratzeko.",
+  "collective.collective.message.headcachereset": "Jokalari-buruen katxea ondo berrezarri da.",
 
   "_comment_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Izenik gabeko eremua",
@@ -375,7 +381,6 @@
   "collective.starterkit.gui.choose": "Aukeratu %s",
   "collective.starterkit.message.activekitsreloaded": "Kit aktibo guztiak birkargatu dira.",
   "collective.starterkit.message.addscurrentinventory": "Zure uneko inbentarioa kit aktiboei gehitzen die.",
-  "collective.starterkit.message.adminusage": "%s administratzaile-erabilera:",
   "collective.starterkit.message.allowsplayerschoose": "Jokalariei hasierako kit bat komandoen bidez aukeratzeko aukera ematen die. Hau %s bezeroan instalatuta ez dagoenean eta zerbitzariak kit-aukerak gaitu dituenean soilik behar da.",
   "collective.starterkit.message.availablekits": "Kit erabilgarriak: %s",
   "collective.starterkit.message.chosenkit": "%1$s(e)k '%2$s' kita aukeratu du!",
