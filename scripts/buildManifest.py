@@ -7,9 +7,12 @@ from pathlib import Path
 langDir = Path("lang")
 
 
+def toUtc(moment):
+    return moment.astimezone(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+
+
 def utcNow():
-    stamp = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    return stamp.replace("+00:00", "Z")
+    return toUtc(datetime.now(timezone.utc))
 
 
 def lastChanged(path):
@@ -19,15 +22,13 @@ def lastChanged(path):
         text=True,
         check=True,
     )
-    return result.stdout.strip() or utcNow()
+    stamp = result.stdout.strip()
+    return toUtc(datetime.fromisoformat(stamp)) if stamp else utcNow()
 
 
 languages = {}
 for path in sorted(langDir.glob("*.json")):
-    locale = path.stem
-    if locale == "en_us":
-        continue
-    languages[locale] = lastChanged(path)
+    languages[path.stem] = lastChanged(path)
 
 manifest = {
     "generated": utcNow(),
