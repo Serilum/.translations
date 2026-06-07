@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Defnydd Gweinyddol %s:",
   "collective.shared.message.commandsusage": "--- Defnydd Gorchmynion %s ---",
   "collective.shared.message.nopermission": "Nid oes gennych ganiatâd i ddefnyddio'r gorchymyn hwnnw.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Methodd sbawnio'r Masnachwr Crwydrol, ceisiwch eto.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Sbawniwyd y Masnachwr Crwydrol yn llwyddiannus!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Ailosod",
   "collective.collective.message.headcachehelp": "Yn ailosod data pennau chwaraewyr sydd wedi'i storio yng nghof Collective, er enghraifft i ddiweddaru gweddau.",
   "collective.collective.message.headcachereset": "Ailosodwyd cof pennau'r chwaraewyr yn llwyddiannus.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Ardal ddienw",
   "collective.areas.message.areasignpositions": "Safleoedd arwyddion ardal o'ch cwmpas:",
   "collective.areas.message.areasignsaround": "Nid oes arwyddion ardal o'ch cwmpas.",
   "collective.areas.message.signlocation": "%1$syn x=%2$s, y=%3$s, z=%4$s. (%5$s bloc)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ni neilltuwyd unrhyw chwaraewr i reng.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ni ddiffiniwyd unrhyw rengoedd.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Tynnwyd y reng %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Lliw anhysbys: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Mae'r gwningen laddol eisoes wedi'i dofi.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Mae cwningen laddol wedi'i geni! Ydych chi'n ddigon pell i ffwrdd, neu oes gennych foronen euraid i'w rhannu?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Mae'r gwningen laddol wedi'i dofi!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Mae'r gwningen laddol eisiau moronen euraid!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Mae man sbawnio'r tân gwersyll ar goll.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Mae man sbawnio'r tân gwersyll yn aros yr un fath.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Tynnwyd man sbawnio'r tân gwersyll.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Gosodwyd man sbawnio'r tân gwersyll.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Dadosodwyd man sbawnio'r tân gwersyll.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Tudalen %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Aeth rhywbeth o'i le wrth ail-lwytho ffeil gyfluniad yr amserydd diflannu.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Llwythwyd ffeil gyfluniad yr amserydd diflannu yn llwyddiannus.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "I ychwanegu gollyngiad: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Ychwanegu'r eitem yn eich llaw at ollyngiadau'r endid â siawns o 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Ychwanegu'r eitem yn eich llaw at ollyngiadau'r endid â siawns gollwng rhwng 0 ac 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Methu canfod endid â'r enw '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Methu canfod endid â'r enw '%s' yn y rhestr ollyngiadau.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ail-lwytho'r ffeiliau cyfluniad sydd yn ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Aeth rhywbeth o'i le wrth ail-lwytho'r ffeil gyfluniad.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Llwythwyd ffeiliau cyfluniad effeithiau diod yr angenfilod yn llwyddiannus.",
   "collective.configurablemobpotioneffects.message.usage": "Defnydd:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Analluogwyd y modd disodli blociau.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Galluogwyd y modd disodli blociau",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Yn dangos y diolchiadau",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Toglo Crebachu'r Rhestr Cwestau",
   "collective.dailyquests.message.activeplayerquests": "Disodlwyd holl gwestau gweithredol y chwaraewr.",
   "collective.dailyquests.message.addedquesttype": "Ychwanegwyd y math cwest %1$s at restr cwestau %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Methu canfod dynodydd y cwest o'r llinyn: %s",
   "collective.dailyquests.message.unablefindquesttype": "Methu canfod math y cwest o'r llinyn: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Methu canfod gweinydd y byd, methu llwytho'r copi wrth gefn marwolaeth.",
   "collective.deathbackup.message.indexinvalid": "Mae'r mynegai %s yn annilys.",
   "collective.deathbackup.message.lastdeathbackups": "Copïau Wrth Gefn Marwolaeth Diweddaraf: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Methu darllen y ffeil copi wrth gefn.",
   "collective.deathbackup.message.worldremoteunable": "Nid yw'r byd yn bell, methu llwytho'r copi wrth gefn marwolaeth.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Gollyngwyd yr elytra wrth eich safle!",
   "collective.dragondropselytra.message.seemslikeslain": "Mae'n ymddangos bod y Ddraig Ender a laddwyd wedi gollwng elytra! Efallai ei fod yn perthyn i anturiaethwr arall o'r blaen?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Nid oes gennych eitem y gellir ei swyno yn eich prif law.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Ychwanegwyd y swyn '%1$s' at yr eitem â lefel o %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Nid yw'r swyn '%s' yn bodoli ar yr eitem.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Rhestr %s ---",
   "collective.enchantingcommands.message.usage": "--- Defnydd %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Gollyngwyd wy draig ychwanegol wrth eich safle!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Y Ffon Wybodaeth",
   "collective.entityinformation.message.giveninformationstick": "Rhoddwyd Y Ffon Wybodaeth i chi!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Toglo Disgleirdeb Llawn",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Mae gan eich offeryn miniog 10%% o'i ddefnyddiau ar ôl.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Mae gan eich offeryn miniog 25%% o'i ddefnyddiau ar ôl.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Mae gan eich offeryn miniog 50%% o'i ddefnyddiau ar ôl.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Nid yw eich offeryn yn finiog mwyach.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Hogwyd eich offeryn â %s o ddefnyddiau.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Clirio'r Rhestr Dilynwyr GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Rhoddoch %1$s %2$s i %3$s.",
   "collective.handoveryouritems.message.givenby": "Rhoddwyd %1$s %2$s i chi gan %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Cawl Cactws",
   "item.healingsoup.chocolate_milk": "Llaeth Siocled",
   "item.healingsoup.mushroom_soup": "Cawl Madarch",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Toglo botwm y llyfr ryseitiau",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Pen %s",
   "collective.justmobheads.message.generatedconfigfile": "Cynhyrchwyd ffeil gyfluniad newydd. Yn defnyddio'r siawnsiau rhagosodedig.",
   "collective.justmobheads.message.generatefollowingmob": "Gallwch gynhyrchu'r pennau angenfil canlynol:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Defnydd: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Defnydd: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Yn caniatáu i chi gael pen chwaraewr.",
   "collective.justplayerheads.message.usagejphplayername": "Defnydd: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Slab Parcour Sylfaen",
   "block.letsparkour.fast_parkour_slab": "Slab Parcour Cyflym",
   "block.letsparkour.illusion_parkour_slab": "Slab Parcour Rhith",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Slab Parcour Meddal",
   "block.letsparkour.trapdoor_parkour_slab": "Slab Parcour Trapddor",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Tail",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Gosodwyd gwerth yr enw i '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Defnydd: '/nametag <name>' tra'n dal tag enw.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Trwy ddefnyddio'r llinyn cyffredinol '%1$s', mudanwyd y %2$s digwyddiad sain canlynol:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Trwy ddefnyddio'r llinyn cyffredinol '%1$s', dad-fudanwyd y %2$s digwyddiad sain canlynol:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Trwy ddefnyddio'r llinyn cyffredinol '%1$s', mudanwyd y %2$s digwyddiad sain canlynol ag amser difa o %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Ni chanfuwyd map sain, cynhyrchwyd un newydd.",
   "collective.omegamute.message.stoppedlisteningactive": "Rydych wedi rhoi'r gorau i wrando ar y seiniau gweithredol. I'w droi ymlaen, defnyddiwch '/omegamute listen' eto.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Rhoi enw hap newydd i bob piglin sydd wedi'u llwytho.",
   "collective.piglinnames.message.givesunnamedloaded": "Rhoi enw i bob piglin dienw sydd wedi'u llwytho.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "Ailenwyd %s piglin sydd wedi'u llwytho.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Tynnwyd enwau %s piglin sydd wedi'u llwytho.",
   "collective.piglinnames.message.removesnamesloaded": "Tynnu enwau pob piglin sydd wedi'u llwytho.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Gwialen Tânfwystfil",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Mae'r chwaraewr %s wedi marw ac wedi'i gicio o'r gweinydd.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ni allwch dracio pawb â'r math hwn o draciwr",
   "collective.playertracking.message.explanationtrackplayername": "Am esboniad ar '/track [playerName]' darllenwch dudalen 5.",
   "collective.playertracking.message.explanationtrackread": "Am esboniad ar '/track all' darllenwch dudalen 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Tudalen Cymorth Tracio (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Defnyddiwch '/track [playerName]'  neu '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Mae'r cwmpawd yn pwyntio at %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Methu ailgyfeirio'r cwmpawd. Nid oes chwaraewyr o gwmpas, neu maent yn rhy agos.",
   "item.playertrackingcompass.tracking_compass": "Cwmpawd Tracio",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Y Marchog Ysbryd",
   "collective.pumpkillagersquest.gui.ghostrider": "Y Reidiwr Ysbryd",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Wrth i chi godi'r darn papur, gwelwch gyfesurynnau gwersyll carcharorion wedi'u hysgrifennu arno. Rydych yn teimlo'n ddrwg am ryddhau'r Pumpkillager yn ôl i'r byd. Efallai y gall carcharor eich helpu i'w atal?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Dilëwyd %1$s tag pumpkillager yn llwyddiannus ar gyfer %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Adferwyd %s bloc glaswellt.",
   "collective.quickpaths.message.pathblockscreated": "Crëwyd llwybr o %s bloc. I'w ddadwneud, dde-gliciwch y bloc olaf a gliciwyd eto.",
   "collective.quickpaths.message.shoveltoodamaged": "Mae eich rhaw yn rhy ddifrodedig i greu llwybrau.",
   "collective.quickpaths.message.startingpointset": "Gosodwyd y man cychwyn i %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Methu agor y blwch shulker, mae'r lleoliad wedi'i rwystro.",
   "collective.quickrightclick.message.unablesleeplocation": "Methu cysgu, mae'r lleoliad wedi'i rwystro.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Cyflym-gadw a Chyflym-lwytho",
   "collective.quicksaving.key.quickload": "Cyflym-lwytho",
   "collective.quicksaving.key.quicksaving": "Cyflym-gadw",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Cyflym-lwythwyd.",
   "collective.quicksaving.message.quicksaved": "Cyflym-gadwyd.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Cynhwysion:",
   "collective.recipecommands.message.pattern": "Patrwm:",
   "collective.recipecommands.message.recipe": "Mae gan %1$s rysáit %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Methu canfod y rysáit.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Gwnaed i %s chwaraewr ailsbawnio yn llwyddiannus.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Mae enw'r rhestr eiddo '%s' yn annilys.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Disodlwyd eich rhestr eiddo â'r rhagosodiad o'r enw '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Gallwch ei lwytho â'r gorchymyn '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Methu canfod chwaraewr ar-lein â'r enw '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Methu llwytho cynnwys y rhestr eiddo â'r enw '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Maint y sgrinlun wedi'i gywasgu: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Cyfrwy Cysgod",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Mudanwyd %s",
   "collective.silencemobs.gui.silencestick": "Y Ffon Dawelwch",
   "collective.silencemobs.message.givensilencestick": "Rhoddwyd Y Ffon Dawelwch i chi! Triniwch yn ofalus.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "Mae'r %s wedi'i fudanu.",
   "collective.silencemobs.message.unsilenced": "Mae'r %s wedi'i ddad-fudanu.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Mae'n rhy gynnar i gysgu.",
   "collective.sleepsooner.message.untilduskmay": "Cysgaist tan y cyfnos. Gallwch gysgu nawr.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Cnwd Iam Iasol",
   "item.spookyjams.creepers_delight_jam": "Jam Pleser y Creeper",
   "item.spookyjams.creepers_delight_jam.desc.1": "Melys ac anwadal.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Mae'n eich llenwi â chryfder,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "a chwant diddiwedd.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Dewis %s",
   "collective.starterkit.message.activekitsreloaded": "Ail-lwythwyd pob pecyn gweithredol.",
   "collective.starterkit.message.addscurrentinventory": "Ychwanegu eich rhestr eiddo gyfredol at y pecynnau gweithredol.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Methu symud y pecyn '%s' i'r ffolder anweithredol.",
   "collective.starterkit.message.userusage": "Defnydd Defnyddiwr %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Chwyddo Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "Mae %1$s wedi marw%2$s gan %3$s.",
   "collective.villagerdeathmessages.message.location": " yn x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Rhoi enw hap newydd i bob pentrefwr sydd wedi'u llwytho.",
   "collective.villagernames.message.givesunnamedloaded": "Rhoi enw i bob pentrefwr dienw sydd wedi'u llwytho.",
   "collective.villagernames.message.loadedvillagersrenamed": "Ailenwyd %s pentrefwr sydd wedi'u llwytho.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Tynnwyd enwau %s pentrefwr sydd wedi'u llwytho.",
   "collective.villagernames.message.removesnamesloaded": "Tynnu enwau pob pentrefwr sydd wedi'u llwytho.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nid ydych yn nimensiwn y cosmos.",
   "collective.voidvanguards.message.generatedcosmosgate": "Cynhyrchwyd porth cosmos.",
   "collective.voidvanguards.message.generatefollowingheads": "Gallwch gynhyrchu'r pennau canlynol:",

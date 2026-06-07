@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Cách dùng %s cho quản trị viên:",
   "collective.shared.message.commandsusage": "--- Cách dùng lệnh của %s ---",
   "collective.shared.message.nopermission": "Bạn không có quyền sử dụng lệnh đó.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Triệu hồi Thương nhân lang thang thất bại, hãy thử lại.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Triệu hồi Thương nhân lang thang thành công!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Đặt lại",
   "collective.collective.message.headcachehelp": "Đặt lại dữ liệu đầu người chơi mà Collective đã lưu vào bộ nhớ đệm, ví dụ để cập nhật ngoại hình.",
   "collective.collective.message.headcachereset": "Đã đặt lại thành công bộ nhớ đệm đầu người chơi.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Khu vực chưa đặt tên",
   "collective.areas.message.areasignpositions": "Vị trí các biển khu vực quanh bạn:",
   "collective.areas.message.areasignsaround": "Không có biển khu vực nào quanh bạn.",
   "collective.areas.message.signlocation": "%1$sở x=%2$s, y=%3$s, z=%4$s. (%5$s khối)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Chưa có người chơi nào được gán cấp bậc.",
   "collective.beautifiedchatserver.message.noranksdefined": "Chưa có cấp bậc nào được định nghĩa.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Đã xóa cấp bậc %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Màu không xác định: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Con thỏ sát thủ đã được thuần phục rồi.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Một con thỏ sát thủ đã chào đời! Bạn đã đứng đủ xa hay có sẵn một củ Cà rốt vàng để chia sẻ chưa?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Con thỏ sát thủ đã được thuần phục!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Con thỏ sát thủ muốn một củ Cà rốt vàng!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Không tìm thấy điểm hồi sinh Lửa trại.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Điểm hồi sinh Lửa trại vẫn giữ nguyên.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Đã xóa điểm hồi sinh Lửa trại.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Đã đặt điểm hồi sinh Lửa trại.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Đã hủy đặt điểm hồi sinh Lửa trại.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Trang %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Đã xảy ra lỗi khi tải lại tệp cấu hình bộ đếm thời gian biến mất.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Đã tải thành công tệp cấu hình bộ đếm thời gian biến mất.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Để thêm vật rơi ra: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Thêm vật phẩm trên tay vào danh sách rơi ra của thực thể với 100%% cơ hội.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Thêm vật phẩm trên tay vào danh sách rơi ra của thực thể với cơ hội rơi từ 0 đến 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Không thể tìm thấy thực thể có tên '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Không thể tìm thấy thực thể có tên '%s' trong bảng băm vật rơi ra.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Tải lại các tệp cấu hình nằm trong ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Đã xảy ra lỗi khi tải lại tệp cấu hình.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Đã tải thành công các tệp cấu hình hiệu ứng độc dược của quái vật.",
   "collective.configurablemobpotioneffects.message.usage": "Cách dùng:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Đã tắt chế độ thay thế khối.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Đã bật chế độ thay thế khối",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Đang hiển thị danh đề",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Thu gọn danh sách nhiệm vụ",
   "collective.dailyquests.message.activeplayerquests": "Toàn bộ nhiệm vụ đang hoạt động của người chơi đã được thay thế.",
   "collective.dailyquests.message.addedquesttype": "Đã thêm loại nhiệm vụ %1$s vào danh sách nhiệm vụ của %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Không thể tìm thấy mã định danh nhiệm vụ từ chuỗi: %s",
   "collective.dailyquests.message.unablefindquesttype": "Không thể tìm thấy loại nhiệm vụ từ chuỗi: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Không thể tìm thấy máy chủ của thế giới, không thể tải bản sao lưu khi chết.",
   "collective.deathbackup.message.indexinvalid": "Chỉ mục %s không hợp lệ.",
   "collective.deathbackup.message.lastdeathbackups": "Bản sao lưu khi chết gần nhất: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Không thể đọc tệp sao lưu.",
   "collective.deathbackup.message.worldremoteunable": "Thế giới không phải từ xa, không thể tải bản sao lưu khi chết.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Cánh cứng đã rơi xuống tại vị trí của bạn!",
   "collective.dragondropselytra.message.seemslikeslain": "Có vẻ như Rồng Ender bị hạ gục đã làm rơi một chiếc Cánh cứng! Phải chăng nó từng thuộc về một nhà thám hiểm khác?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Bạn không có vật phẩm phù phép được trên tay thuận.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Phù phép '%1$s' đã được thêm vào vật phẩm với cấp độ %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Phù phép '%s' không tồn tại trên vật phẩm.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Danh sách %s ---",
   "collective.enchantingcommands.message.usage": "--- Cách dùng %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Một Trứng rồng dư ra đã rơi xuống tại vị trí của bạn!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Cây Gậy Thông Tin",
   "collective.entityinformation.message.giveninformationstick": "Bạn đã được trao Cây Gậy Thông Tin!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Bật tắt độ sáng tối đa",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Công cụ đã mài của bạn còn lại 10%% số lần dùng.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Công cụ đã mài của bạn còn lại 25%% số lần dùng.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Công cụ đã mài của bạn còn lại 50%% số lần dùng.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Công cụ của bạn không còn được mài sắc nữa.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Công cụ của bạn đã được mài với %s lần dùng.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Xóa danh sách kẻ theo dõi GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Bạn đã đưa %1$s %2$s cho %3$s.",
   "collective.handoveryouritems.message.givenby": "Bạn đã được %3$s đưa cho %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Súp xương rồng",
   "item.healingsoup.chocolate_milk": "Sữa sô-cô-la",
   "item.healingsoup.mushroom_soup": "Súp nấm",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Bật tắt hiển thị sách công thức",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Đầu %s",
   "collective.justmobheads.message.generatedconfigfile": "Đã tạo tệp cấu hình mới. Đang dùng các cơ hội mặc định.",
   "collective.justmobheads.message.generatefollowingmob": "Bạn có thể tạo các đầu quái vật sau:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Cách dùng: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Cách dùng: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Cho phép bạn lấy đầu của một người chơi.",
   "collective.justplayerheads.message.usagejphplayername": "Cách dùng: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Phiến Parkour cơ bản",
   "block.letsparkour.fast_parkour_slab": "Phiến Parkour tăng tốc",
   "block.letsparkour.illusion_parkour_slab": "Phiến Parkour ảo ảnh",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Phiến Parkour mềm",
   "block.letsparkour.trapdoor_parkour_slab": "Phiến Parkour cửa sập",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Phân bón",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Đã đặt giá trị tên thành '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Cách dùng: '/nametag <name>' khi đang cầm một Nhãn ghi tên.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Bằng cách dùng chuỗi ký tự đại diện '%1$s', %2$s sự kiện âm thanh sau đã bị tắt tiếng:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Bằng cách dùng chuỗi ký tự đại diện '%1$s', %2$s sự kiện âm thanh sau đã được bật tiếng lại:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Bằng cách dùng chuỗi ký tự đại diện '%1$s', %2$s sự kiện âm thanh sau đã bị tắt tiếng với thời gian cách quãng là %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Không tìm thấy bản đồ âm thanh, một bản mới đã được tạo.",
   "collective.omegamute.message.stoppedlisteningactive": "Bạn đã ngừng lắng nghe các âm thanh hiện hành. Để bật lại, dùng '/omegamute listen' lần nữa.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Cấp cho tất cả piglin đã tải một cái tên ngẫu nhiên mới.",
   "collective.piglinnames.message.givesunnamedloaded": "Cấp tên cho tất cả piglin đã tải chưa có tên.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s piglin đã tải đã được đổi tên.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Tên của %s piglin đã tải đã được xóa.",
   "collective.piglinnames.message.removesnamesloaded": "Xóa tên của tất cả piglin đã tải.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Que lửa",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Người chơi %s đã chết và bị đá khỏi máy chủ.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Bạn không thể truy vết tất cả với loại thiết bị truy vết này",
   "collective.playertracking.message.explanationtrackplayername": "Để biết giải thích về '/track [playerName]', hãy đọc trang 5.",
   "collective.playertracking.message.explanationtrackread": "Để biết giải thích về '/track all', hãy đọc trang 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Trang trợ giúp truy vết (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Dùng '/track [playerName]'  hoặc '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "La bàn đang chỉ về phía %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Không thể chuyển hướng la bàn. Không có người chơi nào quanh đây hoặc họ ở quá gần.",
   "item.playertrackingcompass.tracking_compass": "La bàn truy vết",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Hiệp sĩ Ma",
   "collective.pumpkillagersquest.gui.ghostrider": "Kỵ sĩ Ma",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Khi nhặt mảnh giấy lên, bạn thấy tọa độ dẫn đến một trại tù được viết trên đó. Bạn cảm thấy áy náy vì đã thả Pumpkillager trở lại thế gian. Có lẽ một tù nhân nào đó có thể giúp bạn ngăn chặn hắn?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Đã xóa thành công %1$s thẻ pumpkillager cho %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Đã khôi phục %s khối cỏ.",
   "collective.quickpaths.message.pathblockscreated": "Đã tạo lối đi gồm %s khối. Để hoàn tác, hãy nhấp chuột phải vào khối được nhấp cuối cùng một lần nữa.",
   "collective.quickpaths.message.shoveltoodamaged": "Xẻng của bạn quá hư hỏng để tạo lối đi.",
   "collective.quickpaths.message.startingpointset": "Đã đặt điểm bắt đầu tại %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Không thể mở Hộp Shulker, vị trí bị cản trở.",
   "collective.quickrightclick.message.unablesleeplocation": "Không thể ngủ, vị trí bị cản trở.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Lưu nhanh & Tải nhanh",
   "collective.quicksaving.key.quickload": "Tải nhanh",
   "collective.quicksaving.key.quicksaving": "Lưu nhanh",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Đã tải nhanh.",
   "collective.quicksaving.message.quicksaved": "Đã lưu nhanh.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Nguyên liệu:",
   "collective.recipecommands.message.pattern": "Khuôn mẫu:",
   "collective.recipecommands.message.recipe": "%1$s có một công thức %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Không thể tìm thấy công thức.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Đã khiến %s người chơi hồi sinh thành công.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Tên túi đồ '%s' không hợp lệ.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Túi đồ của bạn đã được thay thế bằng cài đặt sẵn có tên '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Bạn có thể tải nó bằng lệnh '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Không thể tìm thấy người chơi trực tuyến nào có tên '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Không thể tải nội dung của túi đồ có tên '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Kích thước ảnh chụp màn hình đã nén: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Yên cưỡi bóng tối",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Đã làm câm %s",
   "collective.silencemobs.gui.silencestick": "Cây Gậy Câm Lặng",
   "collective.silencemobs.message.givensilencestick": "Bạn đã được trao Cây Gậy Câm Lặng! Hãy cẩn thận khi dùng.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s đã bị làm câm.",
   "collective.silencemobs.message.unsilenced": "%s đã được bỏ làm câm.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Còn quá sớm để ngủ.",
   "collective.sleepsooner.message.untilduskmay": "Bạn đã ngủ đến lúc chạng vạng. Giờ bạn có thể ngủ.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Cây khoai mỡ ma quái",
   "item.spookyjams.creepers_delight_jam": "Mứt Niềm vui của Creeper",
   "item.spookyjams.creepers_delight_jam.desc.1": "Ngọt ngào và dễ bùng nổ.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Nó lấp đầy bạn bằng sức mạnh,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "và cơn thèm khát bất tận.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Chọn %s",
   "collective.starterkit.message.activekitsreloaded": "Toàn bộ bộ trang bị đang hoạt động đã được tải lại.",
   "collective.starterkit.message.addscurrentinventory": "Thêm túi đồ hiện tại của bạn vào các bộ trang bị đang hoạt động.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Không thể chuyển bộ '%s' sang thư mục không hoạt động.",
   "collective.starterkit.message.userusage": "Cách dùng %s cho người chơi:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Phóng to Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s đã chết%2$s bởi %3$s.",
   "collective.villagerdeathmessages.message.location": " ở x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Cấp cho tất cả Dân làng đã tải một cái tên ngẫu nhiên mới.",
   "collective.villagernames.message.givesunnamedloaded": "Cấp tên cho tất cả Dân làng đã tải chưa có tên.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s Dân làng đã tải đã được đổi tên.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Tên của %s Dân làng đã tải đã được xóa.",
   "collective.villagernames.message.removesnamesloaded": "Xóa tên của tất cả Dân làng đã tải.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Bạn không ở trong chiều không gian cosmos.",
   "collective.voidvanguards.message.generatedcosmosgate": "Đã tạo Cosmos Gate.",
   "collective.voidvanguards.message.generatefollowingheads": "Bạn có thể tạo các đầu sau:",

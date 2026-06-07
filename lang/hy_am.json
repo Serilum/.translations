@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s ադմինի օգտագործում.",
   "collective.shared.message.commandsusage": "--- %s հրամանների օգտագործում ---",
   "collective.shared.message.nopermission": "Դուք չունեք թույլտվություն այս հրամանն օգտագործելու համար.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Թափառող Վաճառականի առաջացումը ձախողվեց, փորձեք նորից.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Թափառող Վաճառականը հաջողությամբ առաջացավ!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Վերականգնել",
   "collective.collective.message.headcachehelp": "Զրոյացնում է Collective-ի պահված խաղացողների գլուխների տվյալները, օրինակ՝ արտաքին տեսքները թարմացնելու համար.",
   "collective.collective.message.headcachereset": "Խաղացողների գլուխների քեշը հաջողությամբ զրոյացվեց.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Անանուն տարածք",
   "collective.areas.message.areasignpositions": "Ձեր շուրջ գտնվող տարածքի ցուցանակների դիրքերը.",
   "collective.areas.message.areasignsaround": "Ձեր շուրջ տարածքի ցուցանակներ չկան.",
   "collective.areas.message.signlocation": "%1$sx=%2$s, y=%3$s, z=%4$s դիրքում. (%5$s բլոկ)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ոչ մի խաղացողի աստիճան չի նշանակվել.",
   "collective.beautifiedchatserver.message.noranksdefined": "Աստիճաններ սահմանված չեն.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s աստիճանը հեռացվեց",
   "collective.beautifiedchatserver.message.unknowncolor": "Անհայտ գույն. %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Մարդասպան ճագարն արդեն ընտելացված է.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ծնվեց մարդասպան ճագար! Բավական հեռո՞ւ եք, թե՞ ունեք ոսկե գազար՝ կիսվելու համար.",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Մարդասպան ճագարն ընտելացվեց!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Մարդասպան ճագարը ոսկե գազար է ուզում!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Խարույկի առաջացման կետը բացակայում է.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Խարույկի առաջացման կետը մնում է նույնը.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Խարույկի առաջացման կետը հեռացվեց.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Խարույկի առաջացման կետը սահմանվեց.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Խարույկի առաջացման կետը չեղարկվեց.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Էջ %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Ինչ-որ բան սխալ գնաց անհետացման ժամանակաչափի կարգավորման ֆայլը վերաբեռնելիս.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Անհետացման ժամանակաչափի կարգավորման ֆայլը հաջողությամբ բեռնվեց.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Կաթ ավելացնելու համար. /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Ավելացնում է ձեռքիդ առարկան էակի կաթին 100%% հավանականությամբ.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Ավելացնում է ձեռքիդ առարկան էակի կաթին 0-ից 1.0 հավանականությամբ.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Հնարավոր չէ գտնել '%s' անունով էակ.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Հնարավոր չէ գտնել '%s' անունով էակ կաթի ցուցակում.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Վերաբեռնում է ./config/configurablemobpotioneffects/ պանակում գտնվող կարգավորման ֆայլերը",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Ինչ-որ բան սխալ գնաց կարգավորման ֆայլը վերաբեռնելիս.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Էակների խմիչքի էֆեկտների կարգավորման ֆայլերը հաջողությամբ բեռնվեցին.",
   "collective.configurablemobpotioneffects.message.usage": "Օգտագործում.",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Բլոկների փոխարինման ռեժիմն անջատված է.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Բլոկների փոխարինման ռեժիմը միացված է",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Ցուցադրվում են կրեդիտները",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Ծալել/բացել առաջադրանքների ցանկը",
   "collective.dailyquests.message.activeplayerquests": "Խաղացողի բոլոր ակտիվ առաջադրանքները փոխարինվեցին.",
   "collective.dailyquests.message.addedquesttype": "%1$s առաջադրանքի տեսակն ավելացվեց %2$s-ի առաջադրանքների ցանկին.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Հնարավոր չէ որոշել առաջադրանքի նույնացուցիչը տողից. %s",
   "collective.dailyquests.message.unablefindquesttype": "Հնարավոր չէ որոշել առաջադրանքի տեսակը տողից. %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Հնարավոր չէ գտնել աշխարհի սերվերը, անհնար է բեռնել մահվան պահուստը.",
   "collective.deathbackup.message.indexinvalid": "%s ինդեքսն անվավեր է.",
   "collective.deathbackup.message.lastdeathbackups": "Վերջին մահվան պահուստները. (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Հնարավոր չէ կարդալ պահուստի ֆայլը.",
   "collective.deathbackup.message.worldremoteunable": "Աշխարհը հեռավոր չէ, անհնար է բեռնել մահվան պահուստը.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Վերնաթևերը ընկան ձեր դիրքում!",
   "collective.dragondropselytra.message.seemslikeslain": "Կարծես սպանված Էնդեր-Վիշապը գցեց վերնաթևեր! Միգուցե դրանք նախկինում պատկանել են մեկ այլ արկածախնդրի՞.",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Ձեր հիմնական ձեռքում չկա կախարդելի առարկա.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "'%1$s' կախարդանքն ավելացվեց առարկային %2$s մակարդակով.",
   "collective.enchantingcommands.message.enchantmentexistitem": "'%s' կախարդանքը գոյություն չունի այս առարկայի վրա.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s ցանկ ---",
   "collective.enchantingcommands.message.usage": "--- %s օգտագործում ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Լրացուցիչ վիշապի ձու ընկավ ձեր դիրքում!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Տեղեկատվական փայտիկ",
   "collective.entityinformation.message.giveninformationstick": "Դուք ստացաք Տեղեկատվական փայտիկը!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Միացնել/անջատել լրիվ պայծառությունը",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Ձեր սրված գործիքին մնացել է իր օգտագործումների 10%%-ը.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Ձեր սրված գործիքին մնացել է իր օգտագործումների 25%%-ը.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Ձեր սրված գործիքին մնացել է իր օգտագործումների 50%%-ը.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ձեր գործիքն այլևս սրված չէ.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ձեր գործիքը սրվեց %s օգտագործմամբ.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Մաքրել GUI հետևորդների ցանկը",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Դուք տվեցիք %1$s %2$s %3$s-ին.",
   "collective.handoveryouritems.message.givenby": "Դուք ստացաք %1$s %2$s %3$s-ից.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Կակտուսի ապուր",
   "item.healingsoup.chocolate_milk": "Շոկոլադե կաթ",
   "item.healingsoup.mushroom_soup": "Սնկապուր",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Փոխարկել բաղադրատոմսերի գրքի կոճակը",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s գլուխ",
   "collective.justmobheads.message.generatedconfigfile": "Ստեղծվեց նոր կարգավորման ֆայլ. Օգտագործվում են լռելյայն հավանականությունները.",
   "collective.justmobheads.message.generatefollowingmob": "Դուք կարող եք ստեղծել հետևյալ էակների գլուխները.",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Օգտագործում. /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Օգտագործում. /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Թույլ է տալիս ստանալ խաղացողի գլուխը.",
   "collective.justplayerheads.message.usagejphplayername": "Օգտագործում. /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Հիմնական պարկուր սալիկ",
   "block.letsparkour.fast_parkour_slab": "Արագ պարկուր սալիկ",
   "block.letsparkour.illusion_parkour_slab": "Պատրանքային պարկուր սալիկ",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Փափուկ պարկուր սալիկ",
   "block.letsparkour.trapdoor_parkour_slab": "Թակարդ-դռնակ պարկուր սալիկ",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Գոմաղբ",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Անվան արժեքը սահմանվեց '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Օգտագործում. '/nametag <name>'՝ անվանապիտակ բռնած ժամանակ.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "'%1$s' ձևանմուշն օգտագործելով՝ հետևյալ %2$s ձայնային իրադարձությունները լռեցվեցին.",
   "collective.omegamute.message.byusingwildcardstringfollowing": "'%1$s' ձևանմուշն օգտագործելով՝ հետևյալ %2$s ձայնային իրադարձությունների լռեցումը հանվեց.",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "'%1$s' ձևանմուշն օգտագործելով՝ հետևյալ %2$s ձայնային իրադարձությունները լռեցվեցին %3$s կտրման ժամանակով.",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Ձայնային քարտեզ չգտնվեց, ստեղծվեց նորը.",
   "collective.omegamute.message.stoppedlisteningactive": "Դուք դադարեցրիք ակտիվ ձայների լսումը. Միացնելու համար նորից օգտագործեք '/omegamute listen'.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Տալիս է բոլոր բեռնված փիգլիններին նոր պատահական անուն.",
   "collective.piglinnames.message.givesunnamedloaded": "Տալիս է անուն բոլոր անանուն բեռնված փիգլիններին.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "Վերանվանվեց %s բեռնված փիգլին.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Հեռացվեցին %s բեռնված փիգլինի անունները.",
   "collective.piglinnames.message.removesnamesloaded": "Հեռացնում է բոլոր բեռնված փիգլինների անունները.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Բոցավառի Ձող",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "%s խաղացողը մահացավ և հեռացվեց սերվերից.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Դուք չեք կարող հետևել բոլորին այս տեսակի հետագծիչով",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]'-ի բացատրությունը կարդացեք 5-րդ էջում.",
   "collective.playertracking.message.explanationtrackread": "'/track all'-ի բացատրությունը կարդացեք 4-րդ էջում.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Հետևման օգնության էջ (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Օգտագործեք '/track [playerName]'  կամ '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Կողմնացույցը ցույց է տալիս %s-ին.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Հնարավոր չէ վերաուղղորդել կողմնացույցը. Շուրջը խաղացողներ չկան, կամ նրանք չափազանց մոտ են.",
   "item.playertrackingcompass.tracking_compass": "Հետևման կողմնացույց",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Ուրվական ասպետը",
   "collective.pumpkillagersquest.gui.ghostrider": "Ուրվական հեծյալը",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Թղթի կտորը վերցնելիս դուք դրա վրա տեսնում եք բանտարկյալների ճամբարի կոորդինատները. Դուք մեղավոր եք զգում Pumpkillager-ին նորից աշխարհ բաց թողնելու համար. Միգուցե որևէ բանտարկյալ կարող է օգնել ձեզ կանգնեցնել նրան՞.",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Հաջողությամբ ջնջվեց %1$s pumpkillager պիտակ %2$s-ի համար.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Վերականգնվեց %s խոտածածկ բլոկ.",
   "collective.quickpaths.message.pathblockscreated": "Ստեղծվեց %s բլոկից արահետ. Չեղարկելու համար նորից աջ սեղմեք վերջին սեղմված բլոկի վրա.",
   "collective.quickpaths.message.shoveltoodamaged": "Ձեր բահը չափազանց վնասված է արահետներ ստեղծելու համար.",
   "collective.quickpaths.message.startingpointset": "Մեկնարկային կետը սահմանվեց %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Հնարավոր չէ բացել շալքերի տուփը, տեղը խցանված է.",
   "collective.quickrightclick.message.unablesleeplocation": "Հնարավոր չէ քնել, տեղը խցանված է.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Արագ պահպանում և բեռնում",
   "collective.quicksaving.key.quickload": "Արագ բեռնում",
   "collective.quicksaving.key.quicksaving": "Արագ պահպանում",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Արագ բեռնվեց.",
   "collective.quicksaving.message.quicksaved": "Արագ պահպանվեց.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Բաղադրիչներ.",
   "collective.recipecommands.message.pattern": "Ձևանմուշ.",
   "collective.recipecommands.message.recipe": "%1$s-ն ունի %2$s տիպի բաղադրատոմս.",
   "collective.recipecommands.message.unablefindrecipe": "Հնարավոր չէ գտնել բաղադրատոմսը.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Հաջողությամբ վերածնվեց %s խաղացող.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "'%s' գույքի անունն անվավեր է.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Ձեր գույքը փոխարինվեց '%s' անունով նախադրվածքով.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Դուք կարող եք բեռնել այն '/loadinventory %s' հրամանով.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Հնարավոր չէ գտնել '%s' անունով առցանց խաղացող.",
   "collective.saveandloadinventories.message.unableloadcontent": "Հնարավոր չէ բեռնել '%s' անունով գույքի պարունակությունը.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Սեղմված սքրինշոթի չափը՝ %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Ստվերային թամբ",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Լռեցված %s",
   "collective.silencemobs.gui.silencestick": "Լռության փայտիկ",
   "collective.silencemobs.message.givensilencestick": "Դուք ստացաք Լռության փայտիկը! Վարվեք զգուշությամբ.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s-ը լռեցվեց.",
   "collective.silencemobs.message.unsilenced": "%s-ի լռեցումը հանվեց.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Քնելու համար դեռ չափազանց վաղ է.",
   "collective.sleepsooner.message.untilduskmay": "Դուք ննջեցիք մինչև մթնշաղ. Այժմ կարող եք քնել.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Սարսափելի յամսի բերք",
   "item.spookyjams.creepers_delight_jam": "Քրիփերի հրճվանքի ջեմ",
   "item.spookyjams.creepers_delight_jam.desc.1": "Քաղցր և անկայուն.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Այն ձեզ լցնում է ուժով",
   "item.spookyjams.zombies_hunger_jam.desc.2": "և անվերջ ցանկությամբ.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Ընտրել %s",
   "collective.starterkit.message.activekitsreloaded": "Բոլոր ակտիվ հավաքածուները վերաբեռնվեցին.",
   "collective.starterkit.message.addscurrentinventory": "Ավելացնում է ձեր ընթացիկ գույքն ակտիվ հավաքածուներին.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Հնարավոր չէ տեղափոխել '%s' հավաքածուն ոչ ակտիվ պանակ.",
   "collective.starterkit.message.userusage": "%s օգտատիրոջ օգտագործում.",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Zoom մոտեցում",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s-ը մահացավ%2$s %3$s-ից.",
   "collective.villagerdeathmessages.message.location": " x=%1$s, y=%2$s, z=%3$s դիրքում",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Տալիս է բոլոր բեռնված գյուղացիներին նոր պատահական անուն.",
   "collective.villagernames.message.givesunnamedloaded": "Տալիս է անուն բոլոր անանուն բեռնված գյուղացիներին.",
   "collective.villagernames.message.loadedvillagersrenamed": "Վերանվանվեց %s բեռնված գյուղացի.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Հեռացվեցին %s բեռնված գյուղացու անունները.",
   "collective.villagernames.message.removesnamesloaded": "Հեռացնում է բոլոր բեռնված գյուղացիների անունները.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Դուք տիեզերական չափման մեջ չեք.",
   "collective.voidvanguards.message.generatedcosmosgate": "Տիեզերական դարպասը ստեղծվեց.",
   "collective.voidvanguards.message.generatefollowingheads": "Դուք կարող եք ստեղծել հետևյալ գլուխները.",

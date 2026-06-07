@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s 관리자 사용법:",
   "collective.shared.message.commandsusage": "--- %s 명령어 사용법 ---",
   "collective.shared.message.nopermission": "이 명령어를 사용할 권한이 없습니다.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "떠돌이 상인 생성에 실패했습니다. 다시 시도하세요.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "떠돌이 상인을 성공적으로 생성했습니다!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "초기화",
   "collective.collective.message.headcachehelp": "Collective가 캐시한 플레이어 머리 데이터를 초기화합니다. 예를 들어 스킨을 갱신할 때 사용합니다.",
   "collective.collective.message.headcachereset": "플레이어 머리 캐시를 성공적으로 초기화했습니다.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "이름 없는 구역",
   "collective.areas.message.areasignpositions": "주변의 구역 표지판 위치:",
   "collective.areas.message.areasignsaround": "주변에 구역 표지판이 없습니다.",
   "collective.areas.message.signlocation": "%1$sx=%2$s, y=%3$s, z=%4$s 위치. (%5$s 블록)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "등급에 배정된 플레이어가 없습니다.",
   "collective.beautifiedchatserver.message.noranksdefined": "정의된 등급이 없습니다.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s 등급을 제거했습니다",
   "collective.beautifiedchatserver.message.unknowncolor": "알 수 없는 색상: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "살인 토끼는 이미 길들여졌습니다.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "살인 토끼가 태어났습니다! 충분히 멀리 떨어져 있거나 나눠 줄 황금 당근이 있나요?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "살인 토끼를 길들였습니다!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "살인 토끼가 황금 당근을 원합니다!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "모닥불 리스폰 지점이 없습니다.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "모닥불 리스폰 지점이 그대로 유지됩니다.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "모닥불 리스폰 지점을 제거했습니다.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "모닥불 리스폰 지점을 설정했습니다.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "모닥불 리스폰 지점을 해제했습니다.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "%1$s / %2$s 페이지, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "소멸 타이머 설정 파일을 다시 불러오는 중 문제가 발생했습니다.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "소멸 타이머 설정 파일을 성공적으로 불러왔습니다.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "드롭을 추가하려면: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "손에 든 아이템을 100%% 확률로 해당 개체의 드롭 목록에 추가합니다.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "손에 든 아이템을 0에서 1.0 사이의 드롭 확률로 해당 개체의 드롭 목록에 추가합니다.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "'%s' 이름의 개체를 찾을 수 없습니다.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "드롭 해시맵에서 '%s' 이름의 개체를 찾을 수 없습니다.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ 에 있는 설정 파일을 다시 불러옵니다.",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "설정 파일을 다시 불러오는 중 문제가 발생했습니다.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "몹 물약 효과 설정 파일을 성공적으로 불러왔습니다.",
   "collective.configurablemobpotioneffects.message.usage": "사용법:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "블록 교체 모드를 비활성화했습니다.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "블록 교체 모드를 활성화했습니다",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "제작진을 표시합니다",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "퀘스트 목록 접기 전환",
   "collective.dailyquests.message.activeplayerquests": "모든 활성 플레이어 퀘스트가 교체되었습니다.",
   "collective.dailyquests.message.addedquesttype": "%1$s 퀘스트 유형을 %2$s님의 퀘스트 목록에 추가했습니다.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "다음 문자열에서 퀘스트 식별자를 찾을 수 없습니다: %s",
   "collective.dailyquests.message.unablefindquesttype": "다음 문자열에서 퀘스트 유형을 찾을 수 없습니다: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "월드의 서버를 찾을 수 없어 사망 백업을 불러올 수 없습니다.",
   "collective.deathbackup.message.indexinvalid": "색인 %s이(가) 유효하지 않습니다.",
   "collective.deathbackup.message.lastdeathbackups": "최근 사망 백업: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "백업 파일을 읽을 수 없습니다.",
   "collective.deathbackup.message.worldremoteunable": "월드가 원격이 아니어서 사망 백업을 불러올 수 없습니다.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "겉날개가 당신의 위치에 떨어졌습니다!",
   "collective.dragondropselytra.message.seemslikeslain": "쓰러진 엔더 드래곤이 겉날개를 떨어뜨린 것 같습니다! 어쩌면 예전에 다른 모험가의 것이었을지도 모릅니다.",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "주 손에 마법을 부여할 수 있는 아이템이 없습니다.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "마법 부여 '%1$s'이(가) %2$s 레벨로 아이템에 추가되었습니다.",
   "collective.enchantingcommands.message.enchantmentexistitem": "마법 부여 '%s'이(가) 아이템에 존재하지 않습니다.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s 목록 ---",
   "collective.enchantingcommands.message.usage": "--- %s 사용법 ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "추가 드래곤 알이 당신의 위치에 떨어졌습니다!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "정보 막대기",
   "collective.entityinformation.message.giveninformationstick": "정보 막대기를 받았습니다!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "최대 밝기 전환",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "예리해진 도구의 내구도가 10%% 남았습니다.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "예리해진 도구의 내구도가 25%% 남았습니다.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "예리해진 도구의 내구도가 50%% 남았습니다.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "도구가 더 이상 예리하지 않습니다.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "도구가 %s회의 내구도와 함께 예리해졌습니다.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI 추종자 목록 비우기",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%2$s %1$s개를 %3$s님에게 건넸습니다.",
   "collective.handoveryouritems.message.givenby": "%3$s님에게서 %2$s %1$s개를 받았습니다.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "선인장 수프",
   "item.healingsoup.chocolate_milk": "초콜릿 우유",
   "item.healingsoup.mushroom_soup": "버섯 수프",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "제작법 책 표시 전환",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s 머리",
   "collective.justmobheads.message.generatedconfigfile": "새 설정 파일을 생성했습니다. 기본 확률을 사용합니다.",
   "collective.justmobheads.message.generatefollowingmob": "다음 몹 머리를 생성할 수 있습니다:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "사용법: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "사용법: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "플레이어의 머리를 얻을 수 있게 합니다.",
   "collective.justplayerheads.message.usagejphplayername": "사용법: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "기본 파쿠르 반 블록",
   "block.letsparkour.fast_parkour_slab": "빠름 파쿠르 반 블록",
   "block.letsparkour.illusion_parkour_slab": "환영 파쿠르 반 블록",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "푹신한 파쿠르 반 블록",
   "block.letsparkour.trapdoor_parkour_slab": "다락문 파쿠르 반 블록",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "거름",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "이름 값을 '%s'(으)로 설정했습니다.",
   "collective.nametagtweaks.message.usagenametagname": "사용법: 이름표를 든 상태에서 '/nametag <name>'.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "와일드카드 문자열 '%1$s'을(를) 사용하여 다음 %2$s개의 소리 이벤트가 음소거되었습니다:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "와일드카드 문자열 '%1$s'을(를) 사용하여 다음 %2$s개의 소리 이벤트가 음소거 해제되었습니다:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "와일드카드 문자열 '%1$s'을(를) 사용하여 다음 %2$s개의 소리 이벤트가 %3$s의 차단 시간과 함께 음소거되었습니다:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "소리맵을 찾지 못해 새로 생성했습니다.",
   "collective.omegamute.message.stoppedlisteningactive": "활성 소리 듣기를 중지했습니다. 켜려면 '/omegamute listen'을 다시 사용하세요.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "불러온 모든 피글린에게 새로운 무작위 이름을 부여합니다.",
   "collective.piglinnames.message.givesunnamedloaded": "이름이 없는, 불러온 모든 피글린에게 이름을 부여합니다.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "불러온 피글린 %s마리의 이름이 변경되었습니다.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "불러온 피글린 %s마리의 이름이 제거되었습니다.",
   "collective.piglinnames.message.removesnamesloaded": "불러온 모든 피글린의 이름을 제거합니다.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "블레이즈 막대기",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "플레이어 %s이(가) 사망하여 서버에서 추방되었습니다.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "이 종류의 추적기로는 모두를 추적할 수 없습니다",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]'에 대한 설명은 5페이지를 읽으세요.",
   "collective.playertracking.message.explanationtrackread": "'/track all'에 대한 설명은 4페이지를 읽으세요.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "추적 도움말 페이지 (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "'/track [playerName]' 또는 '/track all'을 사용하세요.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "나침반이 %s을(를) 가리키고 있습니다.",
   "collective.playertrackingcompass.message.unableredirectcompass": "나침반의 방향을 바꿀 수 없습니다. 주변에 플레이어가 없거나 너무 가까이 있습니다.",
   "item.playertrackingcompass.tracking_compass": "추적 나침반",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "유령 기사",
   "collective.pumpkillagersquest.gui.ghostrider": "유령 기수",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "종잇조각을 집어 들자, 거기에 적힌 포로 수용소의 좌표가 보입니다. Pumpkillager를 다시 세상에 풀어놓은 것이 마음에 걸립니다. 어쩌면 포로가 그를 막는 데 도움을 줄 수 있을지도 모릅니다.",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%2$s님의 pumpkillager 태그 %1$s개를 성공적으로 삭제했습니다.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "잔디 블록 %s개를 복구했습니다.",
   "collective.quickpaths.message.pathblockscreated": "%s개 블록의 길을 만들었습니다. 되돌리려면 마지막으로 클릭한 블록을 다시 우클릭하세요.",
   "collective.quickpaths.message.shoveltoodamaged": "삽이 너무 손상되어 길을 만들 수 없습니다.",
   "collective.quickpaths.message.startingpointset": "시작 지점을 %1$s, %2$s, %3$s(으)로 설정했습니다.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "셜커 상자를 열 수 없습니다. 위치가 막혀 있습니다.",
   "collective.quickrightclick.message.unablesleeplocation": "잘 수 없습니다. 위치가 막혀 있습니다.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "빠른 저장 및 빠른 불러오기",
   "collective.quicksaving.key.quickload": "빠른 불러오기",
   "collective.quicksaving.key.quicksaving": "빠른 저장",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "빠르게 불러왔습니다.",
   "collective.quicksaving.message.quicksaved": "빠르게 저장했습니다.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "재료:",
   "collective.recipecommands.message.pattern": "배치:",
   "collective.recipecommands.message.recipe": "%1$s에는 %2$s 제작법이 있습니다.",
   "collective.recipecommands.message.unablefindrecipe": "제작법을 찾을 수 없습니다.",
   "collective.recipecommands.message.x": "%1$s개 %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "플레이어 %s명을 성공적으로 리스폰시켰습니다.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "보관함 이름 '%s'이(가) 유효하지 않습니다.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "보관함이 '%s' 사전 설정으로 교체되었습니다.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "'/loadinventory %s' 명령어로 불러올 수 있습니다.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "'%s' 이름의 접속 중인 플레이어를 찾을 수 없습니다.",
   "collective.saveandloadinventories.message.unableloadcontent": "'%s' 이름의 보관함 내용을 불러올 수 없습니다.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > 압축된 스크린샷 크기: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "그림자 안장",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s 침묵시킴",
   "collective.silencemobs.gui.silencestick": "침묵 막대기",
   "collective.silencemobs.message.givensilencestick": "침묵 막대기를 받았습니다! 조심히 다루세요.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s이(가) 침묵되었습니다.",
   "collective.silencemobs.message.unsilenced": "%s의 침묵이 해제되었습니다.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "잠자기에는 너무 이릅니다.",
   "collective.sleepsooner.message.untilduskmay": "해 질 녘까지 잤습니다. 이제 잘 수 있습니다.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "으스스한 참마 작물",
   "item.spookyjams.creepers_delight_jam": "크리퍼의 환희 잼",
   "item.spookyjams.creepers_delight_jam.desc.1": "달콤하고 불안정합니다.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "당신을 힘으로 가득 채우고,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "끝없는 갈망도 함께.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s 선택",
   "collective.starterkit.message.activekitsreloaded": "모든 활성 키트를 다시 불러왔습니다.",
   "collective.starterkit.message.addscurrentinventory": "현재 보관함을 활성 키트에 추가합니다.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "'%s' 키트를 비활성 폴더로 옮길 수 없습니다.",
   "collective.starterkit.message.userusage": "%s 사용자 사용법:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "바닐라 확대",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s이(가) %3$s에 의해%2$s 사망했습니다.",
   "collective.villagerdeathmessages.message.location": " x=%1$s, y=%2$s, z=%3$s 위치에서",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "불러온 모든 주민에게 새로운 무작위 이름을 부여합니다.",
   "collective.villagernames.message.givesunnamedloaded": "이름이 없는, 불러온 모든 주민에게 이름을 부여합니다.",
   "collective.villagernames.message.loadedvillagersrenamed": "불러온 주민 %s명의 이름이 변경되었습니다.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "불러온 주민 %s명의 이름이 제거되었습니다.",
   "collective.villagernames.message.removesnamesloaded": "불러온 모든 주민의 이름을 제거합니다.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "당신은 코스모스 차원에 있지 않습니다.",
   "collective.voidvanguards.message.generatedcosmosgate": "코스모스 관문을 생성했습니다.",
   "collective.voidvanguards.message.generatefollowingheads": "다음 머리를 생성할 수 있습니다:",

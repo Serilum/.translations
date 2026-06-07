@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Adminanvändning av %s:",
   "collective.shared.message.commandsusage": "--- Kommandon för %s ---",
   "collective.shared.message.nopermission": "Du har inte behörighet att använda det kommandot.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Det gick inte att skapa en vandrande byteshandlare, försök igen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "En vandrande byteshandlare skapades!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Återställ",
   "collective.collective.message.headcachehelp": "Nollställer Collectives cachade spelarhuvuddata, till exempel för att uppdatera utseenden.",
   "collective.collective.message.headcachereset": "Cachen för spelarhuvuden har nollställts.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Namnlöst område",
   "collective.areas.message.areasignpositions": "Områdesskyltarnas positioner runt dig:",
   "collective.areas.message.areasignsaround": "Det finns inga områdesskyltar runt dig.",
   "collective.areas.message.signlocation": "%1$svid x=%2$s, y=%3$s, z=%4$s. (%5$s block)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Inga spelare är tilldelade några rangordningar.",
   "collective.beautifiedchatserver.message.noranksdefined": "Inga rangordningar har definierats.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Tog bort rangordningen %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Okänd färg: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Mördarkaninen har redan tämjts.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "En mördarkanin har fötts! Är du tillräckligt långt borta eller har du en gyllene morot att dela med dig av?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Mördarkaninen har tämjts!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Mördarkaninen vill ha en gyllene morot!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Lägereldens återuppståndelsepunkt saknas.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Lägereldens återuppståndelsepunkt är oförändrad.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Lägereldens återuppståndelsepunkt togs bort.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Lägereldens återuppståndelsepunkt sattes.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Lägereldens återuppståndelsepunkt nollställdes.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Sida %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Något gick fel när despawn-tidens konfigurationsfil lästes om.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Despawn-tidens konfigurationsfil laddades.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "För att lägga till en drop: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Lägg till föremålet i din hand i entitetens drops med en chans på 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Lägg till föremålet i din hand i entitetens drops med en drop-chans mellan 0 och 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Det gick inte att hitta en entitet med namnet '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Det gick inte att hitta en entitet med namnet '%s' i drop-hashmappen.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Läser om konfigurationsfilerna i ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Något gick fel när konfigurationsfilen lästes om.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurationsfilerna för mobbars brygdeffekter laddades.",
   "collective.configurablemobpotioneffects.message.usage": "Användning:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blockersättningsläget inaktiverades.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blockersättningsläget aktiverades",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Visar eftertexter",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Fäll ihop uppdragslistan",
   "collective.dailyquests.message.activeplayerquests": "Alla aktiva spelaruppdrag har ersatts.",
   "collective.dailyquests.message.addedquesttype": "Lade till uppdragstypen %1$s i %2$s:s uppdragslista.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Det gick inte att hitta uppdragsidentifierare från strängen: %s",
   "collective.dailyquests.message.unablefindquesttype": "Det gick inte att hitta uppdragstyp från strängen: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Det går inte att hitta världens server, kan inte läsa in dödssäkerhetskopian.",
   "collective.deathbackup.message.indexinvalid": "Indexet %s är ogiltigt.",
   "collective.deathbackup.message.lastdeathbackups": "Senaste dödssäkerhetskopiorna: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Det gick inte att läsa säkerhetskopian.",
   "collective.deathbackup.message.worldremoteunable": "Världen är inte fjärransluten, kan inte läsa in dödssäkerhetskopian.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elytran tappades vid din position!",
   "collective.dragondropselytra.message.seemslikeslain": "Det verkar som om den dräpta enderdraken tappade en elytra! Kanske tillhörde den tidigare en annan äventyrare?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Du har inget förtrollningsbart föremål i din huvudhand.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Förtrollningen '%1$s' har lagts till på föremålet med en nivå på %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Förtrollningen '%s' finns inte på föremålet.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Lista för %s ---",
   "collective.enchantingcommands.message.usage": "--- Användning av %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Ett extra drakägg har tappats vid din position!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informationspinnen",
   "collective.entityinformation.message.giveninformationstick": "Du har fått Informationspinnen!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Växla full ljusstyrka",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Ditt slipade verktyg har 10%% av sin användning kvar.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Ditt slipade verktyg har 25%% av sin användning kvar.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Ditt slipade verktyg har 50%% av sin användning kvar.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ditt verktyg är inte längre slipat.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ditt verktyg har slipats med %s användningar.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Rensa GUI-följarlistan",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Du har gett %1$s %2$s till %3$s.",
   "collective.handoveryouritems.message.givenby": "Du har fått %1$s %2$s av %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktussoppa",
   "item.healingsoup.chocolate_milk": "Chokladmjölk",
   "item.healingsoup.mushroom_soup": "Svampsoppa",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Växla visning av receptbok",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s-huvud",
   "collective.justmobheads.message.generatedconfigfile": "Genererade en ny konfigurationsfil. Använder standardchanserna.",
   "collective.justmobheads.message.generatefollowingmob": "Du kan generera följande mob-huvuden:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Användning: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Användning: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Låter dig få en spelares huvud.",
   "collective.justplayerheads.message.usagejphplayername": "Användning: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Bas-parkourplatta",
   "block.letsparkour.fast_parkour_slab": "Snabb parkourplatta",
   "block.letsparkour.illusion_parkour_slab": "Illusionsparkourplatta",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Mjuk parkourplatta",
   "block.letsparkour.trapdoor_parkour_slab": "Falllucke-parkourplatta",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Gödsel",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Satte namnvärdet till '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Användning: '/nametag <name>' medan du håller en namnskylt.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Genom att använda jokersträngen '%1$s' har följande %2$s ljudhändelser tystats:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Genom att använda jokersträngen '%1$s' har följande %2$s ljudhändelser avtystats:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Genom att använda jokersträngen '%1$s' har följande %2$s ljudhändelser tystats med en kapningstid på %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Ingen ljudkarta hittades, en ny har genererats.",
   "collective.omegamute.message.stoppedlisteningactive": "Du har slutat lyssna på de aktiva ljuden. För att slå på det, använd '/omegamute listen' igen.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Ger alla laddade piglins ett nytt slumpmässigt namn.",
   "collective.piglinnames.message.givesunnamedloaded": "Ger alla namnlösa laddade piglins ett namn.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s laddade piglins har döpts om.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Namnen på %s laddade piglins har tagits bort.",
   "collective.piglinnames.message.removesnamesloaded": "Tar bort namnen på alla laddade piglins.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Brännstav",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Spelaren %s har dött och sparkats ut från servern.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Du kan inte spåra alla med den här typen av spårare",
   "collective.playertracking.message.explanationtrackplayername": "För förklaring av '/track [playerName]', läs sida 5.",
   "collective.playertracking.message.explanationtrackread": "För förklaring av '/track all', läs sida 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Spårningshjälpsida (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Använd '/track [playerName]'  eller '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompassen pekar mot %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Det går inte att rikta om kompassen. Det finns inga spelare i närheten eller så är de för nära.",
   "item.playertrackingcompass.tracking_compass": "Spårningskompass",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Spökriddaren",
   "collective.pumpkillagersquest.gui.ghostrider": "Spökryttaren",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "När du plockar upp pappersbiten ser du koordinater till ett fångläger nedskrivna på den. Du känner dig dålig över att ha släppt ut Pumpkillagern i världen igen. Kanske kan en fånge hjälpa dig att stoppa honom?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Tog bort %1$s pumpkillager-taggar för %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s gräsblock återställdes.",
   "collective.quickpaths.message.pathblockscreated": "En stig på %s block skapades. För att ångra, högerklicka på det senast klickade blocket igen.",
   "collective.quickpaths.message.shoveltoodamaged": "Din spade är för skadad för att skapa stigar.",
   "collective.quickpaths.message.startingpointset": "Startpunkten sattes till %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Det går inte att öppna shulkerlådan, platsen är blockerad.",
   "collective.quickrightclick.message.unablesleeplocation": "Det går inte att sova, platsen är blockerad.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Snabbspara & snabbladda",
   "collective.quicksaving.key.quickload": "Snabbladda",
   "collective.quicksaving.key.quicksaving": "Snabbspara",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Snabbladdade.",
   "collective.quicksaving.message.quicksaved": "Snabbsparade.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingredienser:",
   "collective.recipecommands.message.pattern": "Mönster:",
   "collective.recipecommands.message.recipe": "%1$s har ett %2$s-recept.",
   "collective.recipecommands.message.unablefindrecipe": "Det gick inte att hitta receptet.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Fick %s spelare att återuppstå.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Förrådsnamnet '%s' är ogiltigt.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Ditt förråd har ersatts med förinställningen '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Du kan läsa in det med kommandot '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Det gick inte att hitta en spelare online med namnet '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Det gick inte att läsa in innehållet i förrådet med namnet '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Storlek på komprimerad skärmbild: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skuggsadel",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Tystade %s",
   "collective.silencemobs.gui.silencestick": "Tystnadspinnen",
   "collective.silencemobs.message.givensilencestick": "Du har fått Tystnadspinnen! Hantera den varsamt.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s har tystats.",
   "collective.silencemobs.message.unsilenced": "%s har avtystats.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Det är för tidigt att sova.",
   "collective.sleepsooner.message.untilduskmay": "Du sov till skymningen. Du får nu sova.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Spöklik jamsgröda",
   "item.spookyjams.creepers_delight_jam": "Creeperns förtjusningssylt",
   "item.spookyjams.creepers_delight_jam.desc.1": "Söt och flyktig.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Den fyller dig med styrka,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "och ändlös längtan.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Välj %s",
   "collective.starterkit.message.activekitsreloaded": "Alla aktiva startpaket har lästs om.",
   "collective.starterkit.message.addscurrentinventory": "Lägger till ditt nuvarande förråd i de aktiva startpaketen.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Det gick inte att flytta paketet '%s' till den inaktiva mappen.",
   "collective.starterkit.message.userusage": "Användaranvändning av %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla-zoomning in",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s har dött%2$s av %3$s.",
   "collective.villagerdeathmessages.message.location": " vid x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Ger alla laddade bybor ett nytt slumpmässigt namn.",
   "collective.villagernames.message.givesunnamedloaded": "Ger alla namnlösa laddade bybor ett namn.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s laddade bybor har döpts om.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Namnen på %s laddade bybor har tagits bort.",
   "collective.villagernames.message.removesnamesloaded": "Tar bort namnen på alla laddade bybor.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Du befinner dig inte i kosmosdimensionen.",
   "collective.voidvanguards.message.generatedcosmosgate": "Genererade kosmosporten.",
   "collective.voidvanguards.message.generatefollowingheads": "Du kan generera följande huvuden:",

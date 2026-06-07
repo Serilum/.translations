@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Ús d'administrador de %s:",
   "collective.shared.message.commandsusage": "--- Ús de les ordres de %s ---",
   "collective.shared.message.nopermission": "No tens permís per a fer servir aquesta ordre.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "No s'ha pogut aparèixer el comerciant, torna-ho a provar.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "El comerciant ha aparegut correctament!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Reiniciar",
   "collective.collective.message.headcachehelp": "Restableix les dades de caps de jugador desades a la memòria cau de Collective, per exemple per actualitzar les aparences.",
   "collective.collective.message.headcachereset": "La memòria cau de caps de jugador s'ha restablert correctament.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Àrea sense nom",
   "collective.areas.message.areasignpositions": "Posicions dels cartells d'àrea al teu voltant:",
   "collective.areas.message.areasignsaround": "No hi ha cap cartell d'àrea al teu voltant.",
   "collective.areas.message.signlocation": "%1$sa x=%2$s, y=%3$s, z=%4$s. (%5$s blocs)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "No hi ha cap jugador assignat a cap rang.",
   "collective.beautifiedchatserver.message.noranksdefined": "No s'ha definit cap rang.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "S'ha eliminat el rang %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Color desconegut: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "El conill assassí ja s'ha domesticat.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ha nascut un conill assassí! Ets prou lluny o tens una pastanaga daurada per a compartir?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "El conill assassí s'ha domesticat!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "El conill assassí vol una pastanaga daurada!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Falta el punt de reaparició de la foguera.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "El punt de reaparició de la foguera no canvia.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "S'ha tret el punt de reaparició de la foguera.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "S'ha establert el punt de reaparició de la foguera.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "S'ha desactivat el punt de reaparició de la foguera.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Pàgina %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Hi ha hagut un problema en tornar a carregar el fitxer de configuració del temporitzador de desaparició.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "S'ha carregat correctament el fitxer de configuració del temporitzador de desaparició.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Per a afegir un objecte deixat: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Afegeix l'objecte de la mà als objectes que deixa l'entitat amb un 100%% de probabilitat.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Afegeix l'objecte de la mà als objectes que deixa l'entitat amb una probabilitat entre 0 i 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "No s'ha trobat cap entitat amb el nom «%s».",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "No s'ha trobat cap entitat amb el nom «%s» a la taula d'objectes deixats.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Torna a carregar els fitxers de configuració de ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Hi ha hagut un problema en tornar a carregar el fitxer de configuració.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "S'han carregat correctament els fitxers de configuració dels efectes de poció de les criatures.",
   "collective.configurablemobpotioneffects.message.usage": "Ús:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "S'ha desactivat el mode de substitució de blocs.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "S'ha activat el mode de substitució de blocs",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "S'estan mostrant els crèdits",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Mostra/Amaga la llista de missions",
   "collective.dailyquests.message.activeplayerquests": "S'han substituït totes les missions actives del jugador.",
   "collective.dailyquests.message.addedquesttype": "S'ha afegit la missió de tipus %1$s a la llista de missions de %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "No s'ha pogut trobar l'identificador de missió a partir del text: %s",
   "collective.dailyquests.message.unablefindquesttype": "No s'ha pogut trobar el tipus de missió a partir del text: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "No s'ha pogut trobar el servidor del món; no s'ha pogut carregar la còpia de seguretat de la mort.",
   "collective.deathbackup.message.indexinvalid": "L'índex %s no és vàlid.",
   "collective.deathbackup.message.lastdeathbackups": "Darreres còpies de seguretat de la mort: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "No s'ha pogut llegir el fitxer de la còpia de seguretat.",
   "collective.deathbackup.message.worldremoteunable": "El món no és remot; no s'ha pogut carregar la còpia de seguretat de la mort.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Els èlitres han caigut a la teva posició!",
   "collective.dragondropselytra.message.seemslikeslain": "Sembla que el Drac d'Ender abatut ha deixat caure uns èlitres! Potser abans pertanyien a un altre aventurer?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "No tens cap objecte encantable a la mà principal.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "S'ha afegit l'encanteri «%1$s» a l'objecte amb un nivell de %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "L'encanteri «%s» no existeix en aquest objecte.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Llista de %s ---",
   "collective.enchantingcommands.message.usage": "--- Ús de %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Ha caigut un ou de drac addicional a la teva posició!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "El Bastó d'Informació",
   "collective.entityinformation.message.giveninformationstick": "Has rebut el Bastó d'Informació!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Activa/Desactiva la lluminositat màxima",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "A la teva eina afilada li queda el 10%% dels usos.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "A la teva eina afilada li queda el 25%% dels usos.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "A la teva eina afilada li queda el 50%% dels usos.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "La teva eina ja no està afilada.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "La teva eina s'ha afilat amb %s usos.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Buida la llista de seguidors de la interfície",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Has donat %1$s %2$s a %3$s.",
   "collective.handoveryouritems.message.givenby": "%3$s t'ha donat %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Sopa de cactus",
   "item.healingsoup.chocolate_milk": "Llet amb xocolata",
   "item.healingsoup.mushroom_soup": "Sopa de bolets",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Mostra/Amaga el llibre de receptes",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Cap de %s",
   "collective.justmobheads.message.generatedconfigfile": "S'ha generat un fitxer de configuració nou. S'utilitzen les probabilitats per defecte.",
   "collective.justmobheads.message.generatefollowingmob": "Pots generar els caps de criatura següents:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Ús: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Ús: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Et permet obtenir el cap d'un jugador.",
   "collective.justplayerheads.message.usagejphplayername": "Ús: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Llosa de parkour bàsica",
   "block.letsparkour.fast_parkour_slab": "Llosa de parkour ràpida",
   "block.letsparkour.illusion_parkour_slab": "Llosa de parkour il·lusòria",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Llosa de parkour tova",
   "block.letsparkour.trapdoor_parkour_slab": "Llosa de parkour de trapa",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Fems",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "S'ha definit el nom com a «%s».",
   "collective.nametagtweaks.message.usagenametagname": "Ús: «/nametag <name>» mentre subjectes una etiqueta de nom.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "En fer servir el comodí «%1$s», s'han silenciat els %2$s esdeveniments de so següents:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "En fer servir el comodí «%1$s», s'han deixat de silenciar els %2$s esdeveniments de so següents:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "En fer servir el comodí «%1$s», s'han silenciat els %2$s esdeveniments de so següents amb un temps de tall de %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "No s'ha trobat cap mapa de sons; se n'ha generat un de nou.",
   "collective.omegamute.message.stoppedlisteningactive": "Has deixat d'escoltar els sons actius. Per a activar-ho, torna a fer servir «/omegamute listen».",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Dona un nom aleatori nou a tots els piglins carregats.",
   "collective.piglinnames.message.givesunnamedloaded": "Dona un nom a tots els piglins carregats sense nom.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "S'han reanomenat %s piglins carregats.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "S'han tret els noms de %s piglins carregats.",
   "collective.piglinnames.message.removesnamesloaded": "Treu els noms de tots els piglins carregats.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Vara flamejant",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "El jugador %s ha mort i ha estat expulsat del servidor.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "No pots resseguir-ho tot amb aquest tipus de rastrejador",
   "collective.playertracking.message.explanationtrackplayername": "Per a una explicació sobre «/track [playerName]» llegeix la pàgina 5.",
   "collective.playertracking.message.explanationtrackread": "Per a una explicació sobre «/track all» llegeix la pàgina 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Pàgina d'ajuda de rastreig (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Fes servir «/track [playerName]»  o «/track all».",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "La brúixola apunta cap a %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "No s'ha pogut redirigir la brúixola. No hi ha jugadors a prop o estan massa a prop.",
   "item.playertrackingcompass.tracking_compass": "Brúixola de rastreig",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "El Cavaller Fantasma",
   "collective.pumpkillagersquest.gui.ghostrider": "El Genet Fantasma",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "En recollir el tros de paper, veus que hi ha escrites les coordenades d'un campament de presoners. Et sap greu haver alliberat el Pumpkillager de nou al món. Potser un presoner et pot ajudar a aturar-lo?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "S'han eliminat correctament %1$s etiquetes de pumpkillager de %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "S'han restaurat %s blocs d'herba.",
   "collective.quickpaths.message.pathblockscreated": "S'ha creat un camí de %s blocs. Per a desfer-ho, torna a fer clic dret sobre l'últim bloc en què has fet clic.",
   "collective.quickpaths.message.shoveltoodamaged": "La teva pala està massa malmesa per a crear camins.",
   "collective.quickpaths.message.startingpointset": "Punt d'inici establert a %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "No s'ha pogut obrir la caixa de shulker; la ubicació està obstruïda.",
   "collective.quickrightclick.message.unablesleeplocation": "No s'ha pogut dormir; la ubicació està obstruïda.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Desament i càrrega ràpids",
   "collective.quicksaving.key.quickload": "Càrrega ràpida",
   "collective.quicksaving.key.quicksaving": "Desament ràpid",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Càrrega ràpida feta.",
   "collective.quicksaving.message.quicksaved": "Desament ràpid fet.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingredients:",
   "collective.recipecommands.message.pattern": "Patró:",
   "collective.recipecommands.message.recipe": "%1$s té una recepta de %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "No s'ha pogut trobar la recepta.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "S'ha fet reaparèixer %s jugador(s) correctament.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "El nom d'inventari «%s» no és vàlid.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "El teu inventari s'ha substituït pel predefinit amb nom «%s».",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "El pots carregar amb l'ordre «/loadinventory %s».",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "No s'ha pogut trobar cap jugador connectat amb el nom «%s».",
   "collective.saveandloadinventories.message.unableloadcontent": "No s'ha pogut carregar el contingut de l'inventari amb el nom «%s».",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Mida de la captura de pantalla comprimida: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sella d'ombra",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s silenciat",
   "collective.silencemobs.gui.silencestick": "El Bastó del Silenci",
   "collective.silencemobs.message.givensilencestick": "Has rebut el Bastó del Silenci! Fes-lo servir amb cura.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "El %s s'ha silenciat.",
   "collective.silencemobs.message.unsilenced": "El %s ha deixat d'estar silenciat.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "És massa d'hora per a dormir.",
   "collective.sleepsooner.message.untilduskmay": "Has dormit fins al capvespre. Ja pots dormir.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Plantació de moniato esgarrifós",
   "item.spookyjams.creepers_delight_jam": "Melmelada del delit del creeper",
   "item.spookyjams.creepers_delight_jam.desc.1": "Dolça i volàtil.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "T'omple de força,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i d'un desig insaciable.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Tria %s",
   "collective.starterkit.message.activekitsreloaded": "S'han tornat a carregar tots els kits actius.",
   "collective.starterkit.message.addscurrentinventory": "Afegeix el teu inventari actual als kits actius.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "No s'ha pogut moure el kit «%s» a la carpeta d'inactius.",
   "collective.starterkit.message.userusage": "Ús d'usuari de %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Apropament Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s ha mort%2$s a mans de %3$s.",
   "collective.villagerdeathmessages.message.location": " a x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Dona un nom aleatori nou a tots els vilatans carregats.",
   "collective.villagernames.message.givesunnamedloaded": "Dona un nom a tots els vilatans carregats sense nom.",
   "collective.villagernames.message.loadedvillagersrenamed": "S'han reanomenat %s vilatans carregats.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "S'han tret els noms de %s vilatans carregats.",
   "collective.villagernames.message.removesnamesloaded": "Treu els noms de tots els vilatans carregats.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "No ets a la dimensió del cosmos.",
   "collective.voidvanguards.message.generatedcosmosgate": "S'ha generat el portal del cosmos.",
   "collective.voidvanguards.message.generatefollowingheads": "Pots generar els caps següents:",

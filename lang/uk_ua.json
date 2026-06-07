@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Використання %s для адміністратора:",
   "collective.shared.message.commandsusage": "--- Використання команд %s ---",
   "collective.shared.message.nopermission": "У вас немає дозволу на використання цієї команди.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Не вдалося викликати мандрівного крамаря, спробуйте ще раз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Мандрівного крамаря успішно викликано!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Скинути",
   "collective.collective.message.headcachehelp": "Скидає кешовані дані голів гравців у Collective, наприклад, щоб оновити скіни.",
   "collective.collective.message.headcachereset": "Кеш голів гравців успішно скинуто.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безіменна територія",
   "collective.areas.message.areasignpositions": "Розташування табличок територій навколо вас:",
   "collective.areas.message.areasignsaround": "Навколо вас немає табличок територій.",
   "collective.areas.message.signlocation": "%1$sна x=%2$s, y=%3$s, z=%4$s. (%5$s блоків)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Жодного гравця не призначено до рангів.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ранги не визначено.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Ранг %s вилучено",
   "collective.beautifiedchatserver.message.unknowncolor": "Невідомий колір: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Кролика-вбивцю вже приручено.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Народився кролик-вбивця! Ви достатньо далеко чи маєте золоту моркву, щоб поділитися?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Кролика-вбивцю приручено!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Кролик-вбивця хоче золоту моркву!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Точку відродження біля багаття відсутню.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Точка відродження біля багаття залишається незмінною.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Точку відродження біля багаття вилучено.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Точку відродження біля багаття встановлено.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Точку відродження біля багаття скасовано.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Сторінка %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Щось пішло не так під час перезавантаження файлу конфігурації таймера зникнення.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Файл конфігурації таймера зникнення успішно завантажено.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Щоб додати випадіння: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Додає предмет з вашої руки до випадінь істоти зі 100%% шансом.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Додає предмет з вашої руки до випадінь істоти з шансом від 0 до 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Не вдалося знайти істоту з назвою '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Не вдалося знайти істоту з назвою '%s' у таблиці випадінь.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Перезавантажує файли конфігурації, розташовані в ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Щось пішло не так під час перезавантаження файлу конфігурації.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Файли конфігурації ефектів зілля для істот успішно завантажено.",
   "collective.configurablemobpotioneffects.message.usage": "Використання:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Режим заміни блоків вимкнено.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Режим заміни блоків увімкнено",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Показ титрів",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Згорнути/розгорнути список завдань",
   "collective.dailyquests.message.activeplayerquests": "Усі активні завдання гравця замінено.",
   "collective.dailyquests.message.addedquesttype": "Тип завдання %1$s додано до списку завдань гравця %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Не вдалося визначити ідентифікатор завдання з рядка: %s",
   "collective.dailyquests.message.unablefindquesttype": "Не вдалося визначити тип завдання з рядка: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Не вдалося знайти сервер світу, неможливо завантажити резервну копію після смерті.",
   "collective.deathbackup.message.indexinvalid": "Індекс %s недійсний.",
   "collective.deathbackup.message.lastdeathbackups": "Останні резервні копії після смерті: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Не вдалося прочитати файл резервної копії.",
   "collective.deathbackup.message.worldremoteunable": "Світ не є віддаленим, неможливо завантажити резервну копію після смерті.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Елітри впали на вашій позиції!",
   "collective.dragondropselytra.message.seemslikeslain": "Схоже, що повалений Дракон Енду випустив елітри! Можливо, вони раніше належали іншому шукачеві пригод?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "У вашій основній руці немає предмета, який можна зачарувати.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Чари '%1$s' додано до предмета з рівнем %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Чарів '%s' немає на предметі.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Список %s ---",
   "collective.enchantingcommands.message.usage": "--- Використання %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Додаткове драконяче яйце впало на вашій позиції!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Палиця відомостей",
   "collective.entityinformation.message.giveninformationstick": "Ви отримали Палицю відомостей!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Увімкнути/вимкнути повну яскравість",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Ваш загострений інструмент має 10%% залишку використань.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Ваш загострений інструмент має 25%% залишку використань.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Ваш загострений інструмент має 50%% залишку використань.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ваш інструмент більше не загострений.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ваш інструмент загострено з %s використаннями.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Очистити список послідовників GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Ви передали %1$s %2$s гравцеві %3$s.",
   "collective.handoveryouritems.message.givenby": "Гравець %3$s передав вам %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Кактусовий суп",
   "item.healingsoup.chocolate_milk": "Шоколадне молоко",
   "item.healingsoup.mushroom_soup": "Грибний суп",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Перемкнути показ книги рецептів",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Голова: %s",
   "collective.justmobheads.message.generatedconfigfile": "Згенеровано новий файл конфігурації. Використовуються стандартні шанси.",
   "collective.justmobheads.message.generatefollowingmob": "Ви можете згенерувати такі голови істот:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Використання: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Використання: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Дозволяє отримати голову гравця.",
   "collective.justplayerheads.message.usagejphplayername": "Використання: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Базова паркурна плита",
   "block.letsparkour.fast_parkour_slab": "Швидка паркурна плита",
   "block.letsparkour.illusion_parkour_slab": "Ілюзорна паркурна плита",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "М'яка паркурна плита",
   "block.letsparkour.trapdoor_parkour_slab": "Паркурна плита-люк",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Гній",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Встановлено значення імені '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Використання: '/nametag <name>', тримаючи ярлик.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "За допомогою шаблону '%1$s' заглушено такі звукові події (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowing": "За допомогою шаблону '%1$s' розглушено такі звукові події (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "За допомогою шаблону '%1$s' заглушено такі звукові події (%2$s) з часом відсікання %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Карту звуків не знайдено, згенеровано нову.",
   "collective.omegamute.message.stoppedlisteningactive": "Ви припинили прослуховування активних звуків. Щоб увімкнути, знову використайте '/omegamute listen'.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Дає всім завантаженим піґлінам нове випадкове ім'я.",
   "collective.piglinnames.message.givesunnamedloaded": "Дає ім'я всім завантаженим піґлінам без імені.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "Перейменовано завантажених піґлінів: %s.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Імена завантажених піґлінів вилучено: %s.",
   "collective.piglinnames.message.removesnamesloaded": "Вилучає імена всіх завантажених піґлінів.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Стрижень пломеня",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Гравець %s загинув і був вигнаний із сервера.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ви не можете відстежувати всіх за допомогою цього типу трекера",
   "collective.playertracking.message.explanationtrackplayername": "Пояснення щодо '/track [playerName]' читайте на сторінці 5.",
   "collective.playertracking.message.explanationtrackread": "Пояснення щодо '/track all' читайте на сторінці 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Сторінка довідки з відстеження (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Використайте '/track [playerName]'  або '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Компас указує на %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Не вдалося перенаправити компас. Навколо немає гравців або вони надто близько.",
   "item.playertrackingcompass.tracking_compass": "Компас стеження",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Лицар-привид",
   "collective.pumpkillagersquest.gui.ghostrider": "Вершник-привид",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Гарбузалібур",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Піднявши клаптик паперу, ви бачите написані на ньому координати табору в'язнів. Ви почуваєтеся винним за те, що випустили Пумпкіллагера назад у світ. Можливо, якийсь в'язень допоможе вам зупинити його?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Успішно видалено мітки пумпкіллагерів (%1$s) для %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Відновлено трав'яних блоків: %s.",
   "collective.quickpaths.message.pathblockscreated": "Створено стежку з %s блоків. Щоб скасувати, знову клацніть правою кнопкою по останньому клацнутому блоці.",
   "collective.quickpaths.message.shoveltoodamaged": "Ваша лопата надто пошкоджена, щоб створювати стежки.",
   "collective.quickpaths.message.startingpointset": "Початкову точку встановлено на %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Не вдалося відчинити шалкерову коробку, місце перекрите.",
   "collective.quickrightclick.message.unablesleeplocation": "Не вдалося заснути, місце перекрите.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Швидке збереження й завантаження",
   "collective.quicksaving.key.quickload": "Швидке завантаження",
   "collective.quicksaving.key.quicksaving": "Швидке збереження",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Швидко завантажено.",
   "collective.quicksaving.message.quicksaved": "Швидко збережено.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Інгредієнти:",
   "collective.recipecommands.message.pattern": "Схема:",
   "collective.recipecommands.message.recipe": "%1$s має рецепт типу %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Не вдалося знайти рецепт.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Успішно відроджено гравців: %s.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Назва інвентарю '%s' недійсна.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Ваш інвентар замінено набором з назвою '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Ви можете завантажити його командою '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Не вдалося знайти онлайн-гравця з іменем '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Не вдалося завантажити вміст інвентарю з назвою '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Розмір стиснутого знімка екрана: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Тіньове сідло",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Заглушено: %s",
   "collective.silencemobs.gui.silencestick": "Палиця тиші",
   "collective.silencemobs.message.givensilencestick": "Ви отримали Палицю тиші! Поводьтеся з нею обережно.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s заглушено.",
   "collective.silencemobs.message.unsilenced": "%s розглушено.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Ще надто рано, щоб спати.",
   "collective.sleepsooner.message.untilduskmay": "Ви спали до сутінків. Тепер ви можете спати.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Посів моторошного ямсу",
   "item.spookyjams.creepers_delight_jam": "Джем 'Насолода кріпера'",
   "item.spookyjams.creepers_delight_jam.desc.1": "Солодкий і нестабільний.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Він наповнює вас силою",
   "item.spookyjams.zombies_hunger_jam.desc.2": "та нескінченною жагою.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Виберіть %s",
   "collective.starterkit.message.activekitsreloaded": "Усі активні набори перезавантажено.",
   "collective.starterkit.message.addscurrentinventory": "Додає ваш поточний інвентар до активних наборів.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Не вдалося перемістити набір '%s' до неактивної теки.",
   "collective.starterkit.message.userusage": "Використання %s для гравця:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Наближення Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s загинув%2$s від %3$s.",
   "collective.villagerdeathmessages.message.location": " на x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Дає всім завантаженим селянам нове випадкове ім'я.",
   "collective.villagernames.message.givesunnamedloaded": "Дає ім'я всім завантаженим селянам без імені.",
   "collective.villagernames.message.loadedvillagersrenamed": "Перейменовано завантажених селян: %s.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Імена завантажених селян вилучено: %s.",
   "collective.villagernames.message.removesnamesloaded": "Вилучає імена всіх завантажених селян.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Ви не у вимірі космосу.",
   "collective.voidvanguards.message.generatedcosmosgate": "Згенеровано Космічну браму.",
   "collective.voidvanguards.message.generatefollowingheads": "Ви можете згенерувати такі голови:",

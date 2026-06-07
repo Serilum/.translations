@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s 管理者向けの使い方:",
   "collective.shared.message.commandsusage": "--- %s コマンドの使い方 ---",
   "collective.shared.message.nopermission": "このコマンドを使用する権限がありません。",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "行商人のスポーンに失敗しました。もう一度お試しください。",
   "collective.shared.message.wanderingtraderspawnsuccesful": "行商人のスポーンに成功しました！",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "リセット",
   "collective.collective.message.headcachehelp": "Collective がキャッシュしているプレイヤーの頭のデータをリセットします。例えばスキンを更新する場合などに使用します。",
   "collective.collective.message.headcachereset": "プレイヤーの頭のキャッシュを正常にリセットしました。",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "名前のないエリア",
   "collective.areas.message.areasignpositions": "周辺のエリア看板の位置:",
   "collective.areas.message.areasignsaround": "周辺にエリア看板はありません。",
   "collective.areas.message.signlocation": "%1$s x=%2$s, y=%3$s, z=%4$s にあります。(%5$s ブロック)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "ランクに割り当てられたプレイヤーはいません。",
   "collective.beautifiedchatserver.message.noranksdefined": "ランクが定義されていません。",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "ランク %s を削除しました",
   "collective.beautifiedchatserver.message.unknowncolor": "不明な色: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "キラーラビットはすでに飼いならされています。",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "キラーラビットが生まれました！十分に距離を取っていますか？それとも分け与える金のニンジンはありますか？",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "キラーラビットを飼いならしました！",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "キラーラビットが金のニンジンを欲しがっています！",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "焚き火のリスポーン地点が見つかりません。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "焚き火のリスポーン地点は変更されていません。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "焚き火のリスポーン地点を削除しました。",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "焚き火のリスポーン地点を設定しました。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "焚き火のリスポーン地点を解除しました。",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "%1$s / %2$s ページ, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "デスポーンタイマーの設定ファイルの再読み込み中に問題が発生しました。",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "デスポーンタイマーの設定ファイルを正常に読み込みました。",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "ドロップを追加するには: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "手に持っているアイテムを、確率 100%% でそのエンティティのドロップに追加します。",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "手に持っているアイテムを、0 から 1.0 の間のドロップ確率でそのエンティティのドロップに追加します。",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "名前が '%s' のエンティティが見つかりません。",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "ドロップのハッシュマップ内に名前が '%s' のエンティティが見つかりません。",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ にある設定ファイルを再読み込みします",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "設定ファイルの再読み込み中に問題が発生しました。",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Mob のポーション効果の設定ファイルを正常に読み込みました。",
   "collective.configurablemobpotioneffects.message.usage": "使い方:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "ブロック置換モードを無効にしました。",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "ブロック置換モードを有効にしました",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "クレジットを表示中",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "クエストリストの折りたたみを切り替え",
   "collective.dailyquests.message.activeplayerquests": "アクティブなプレイヤークエストをすべて置き換えました。",
   "collective.dailyquests.message.addedquesttype": "%1$s クエストタイプを %2$s のクエストリストに追加しました。",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "文字列からクエスト識別子が見つかりません: %s",
   "collective.dailyquests.message.unablefindquesttype": "文字列からクエストタイプが見つかりません: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "ワールドのサーバーが見つからないため、デスバックアップを読み込めません。",
   "collective.deathbackup.message.indexinvalid": "インデックス %s は無効です。",
   "collective.deathbackup.message.lastdeathbackups": "直近のデスバックアップ: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "バックアップファイルを読み込めません。",
   "collective.deathbackup.message.worldremoteunable": "ワールドがリモートではないため、デスバックアップを読み込めません。",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "エリトラがあなたの位置にドロップしました！",
   "collective.dragondropselytra.message.seemslikeslain": "倒したエンダードラゴンがエリトラをドロップしたようです！もしかすると、以前は別の冒険者の持ち物だったのでしょうか？",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "利き手にエンチャント可能なアイテムを持っていません。",
   "collective.enchantingcommands.message.enchantmentaddeditem": "エンチャント '%1$s' をレベル %2$s でアイテムに追加しました。",
   "collective.enchantingcommands.message.enchantmentexistitem": "エンチャント '%s' はそのアイテムに付与されていません。",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s 一覧 ---",
   "collective.enchantingcommands.message.usage": "--- %s の使い方 ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "追加のドラゴンの卵があなたの位置にドロップしました！",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "情報の棒",
   "collective.entityinformation.message.giveninformationstick": "情報の棒が与えられました！",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "最大の明るさを切り替え",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "研いだ道具の耐久値が残り 10%% です。",
   "collective.grindstonesharpertools.message.sharpenedtool25": "研いだ道具の耐久値が残り 25%% です。",
   "collective.grindstonesharpertools.message.sharpenedtool50": "研いだ道具の耐久値が残り 50%% です。",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "道具はもう研がれていません。",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "道具を研ぎ、使用回数が %s 増えました。",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI フォロワーリストを消去",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%1$s 個の%2$sを %3$s に渡しました。",
   "collective.handoveryouritems.message.givenby": "%3$s から %1$s 個の%2$sを受け取りました。",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "サボテンスープ",
   "item.healingsoup.chocolate_milk": "チョコレートミルク",
   "item.healingsoup.mushroom_soup": "キノコスープ",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "レシピ本の表示切り替え",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%sの頭",
   "collective.justmobheads.message.generatedconfigfile": "新しい設定ファイルを生成しました。デフォルトの確率を使用します。",
   "collective.justmobheads.message.generatefollowingmob": "以下の Mob の頭を生成できます:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "使い方: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "使い方: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "プレイヤーの頭を入手できるようにします。",
   "collective.justplayerheads.message.usagejphplayername": "使い方: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "基本パルクールハーフブロック",
   "block.letsparkour.fast_parkour_slab": "加速パルクールハーフブロック",
   "block.letsparkour.illusion_parkour_slab": "幻影パルクールハーフブロック",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "柔らかいパルクールハーフブロック",
   "block.letsparkour.trapdoor_parkour_slab": "トラップドアパルクールハーフブロック",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "堆肥",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "名前の値を '%s' に設定しました。",
   "collective.nametagtweaks.message.usagenametagname": "使い方: 名札を持った状態で '/nametag <name>'。",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "ワイルドカード文字列 '%1$s' を使用して、以下の %2$s 件のサウンドイベントをミュートしました:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "ワイルドカード文字列 '%1$s' を使用して、以下の %2$s 件のサウンドイベントのミュートを解除しました:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "ワイルドカード文字列 '%1$s' を使用して、以下の %2$s 件のサウンドイベントをカリング時間 %3$s でミュートしました:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "サウンドマップが見つからなかったため、新しいものを生成しました。",
   "collective.omegamute.message.stoppedlisteningactive": "再生中のサウンドの聞き取りを停止しました。オンにするには '/omegamute listen' をもう一度使用してください。",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "読み込まれているすべてのピグリンに新しいランダムな名前を付けます。",
   "collective.piglinnames.message.givesunnamedloaded": "読み込まれている名前のないすべてのピグリンに名前を付けます。",
   "collective.piglinnames.message.loadedpiglinsrenamed": "読み込まれている %s 体のピグリンの名前を変更しました。",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "読み込まれている %s 体のピグリンの名前を削除しました。",
   "collective.piglinnames.message.removesnamesloaded": "読み込まれているすべてのピグリンの名前を削除します。",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "ブレイズロッド",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "プレイヤー %s は死亡し、サーバーからキックされました。",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "この種類のトラッカーでは全員を追跡できません",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]' の説明は 5 ページを読んでください。",
   "collective.playertracking.message.explanationtrackread": "'/track all' の説明は 4 ページを読んでください。",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "追跡ヘルプページ (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "'/track [playerName]' または '/track all' を使用してください。",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "コンパスは %s を指しています。",
   "collective.playertrackingcompass.message.unableredirectcompass": "コンパスの向きを変えられません。周辺にプレイヤーがいないか、近すぎます。",
   "item.playertrackingcompass.tracking_compass": "追跡コンパス",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "ゴーストナイト",
   "collective.pumpkillagersquest.gui.ghostrider": "ゴーストライダー",
   "collective.pumpkillagersquest.gui.pumpkalibur": "パンプカリバー",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "その紙切れを拾い上げると、捕虜収容所への座標が書かれているのが見えます。パンプキラジャーを再び世に解き放ってしまったことに後ろめたさを感じます。もしかすると、捕虜が彼を止める手助けをしてくれるかもしれません？",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%2$s のパンプキラジャータグを %1$s 個削除しました。",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s 個の草ブロックを元に戻しました。",
   "collective.quickpaths.message.pathblockscreated": "%s ブロックの小道を作成しました。元に戻すには、最後にクリックしたブロックをもう一度右クリックしてください。",
   "collective.quickpaths.message.shoveltoodamaged": "シャベルの損傷が激しく、小道を作れません。",
   "collective.quickpaths.message.startingpointset": "開始地点を %1$s, %2$s, %3$s に設定しました。",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "シュルカーボックスを開けません。場所が塞がれています。",
   "collective.quickrightclick.message.unablesleeplocation": "眠れません。場所が塞がれています。",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "クイックセーブ＆クイックロード",
   "collective.quicksaving.key.quickload": "クイックロード",
   "collective.quicksaving.key.quicksaving": "クイックセーブ",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "クイックロードしました。",
   "collective.quicksaving.message.quicksaved": "クイックセーブしました。",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "材料:",
   "collective.recipecommands.message.pattern": "パターン:",
   "collective.recipecommands.message.recipe": "%1$s には %2$s レシピがあります。",
   "collective.recipecommands.message.unablefindrecipe": "レシピが見つかりません。",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s 人のプレイヤーをリスポーンさせました。",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "インベントリ名 '%s' は無効です。",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "インベントリが '%s' という名前のプリセットに置き換えられました。",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "'/loadinventory %s' コマンドで読み込めます。",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "名前が '%s' のオンラインプレイヤーが見つかりません。",
   "collective.saveandloadinventories.message.unableloadcontent": "名前が '%s' のインベントリの中身を読み込めません。",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > 圧縮されたスクリーンショットのサイズ: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "影の鞍",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%sを静かにさせた",
   "collective.silencemobs.gui.silencestick": "静寂の棒",
   "collective.silencemobs.message.givensilencestick": "静寂の棒が与えられました！取り扱いには注意してください。",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%sを静かにさせました。",
   "collective.silencemobs.message.unsilenced": "%sの静寂を解除しました。",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "眠るにはまだ早すぎます。",
   "collective.sleepsooner.message.untilduskmay": "夕暮れまで眠りました。これで眠ることができます。",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "スプーキーヤムの作物",
   "item.spookyjams.creepers_delight_jam": "クリーパーの歓喜ジャム",
   "item.spookyjams.creepers_delight_jam.desc.1": "甘く、そして不安定。",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "力がみなぎり、",
   "item.spookyjams.zombies_hunger_jam.desc.2": "尽きることのない渇望に駆られる。",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%sを選択",
   "collective.starterkit.message.activekitsreloaded": "すべてのアクティブなキットを再読み込みしました。",
   "collective.starterkit.message.addscurrentinventory": "現在のインベントリをアクティブなキットに追加します。",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "'%s' キットを非アクティブフォルダに移動できません。",
   "collective.starterkit.message.userusage": "%s ユーザー向けの使い方:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "バニラズームイン",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s は%2$s %3$s によって死亡しました。",
   "collective.villagerdeathmessages.message.location": " x=%1$s, y=%2$s, z=%3$s で",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "読み込まれているすべての村人に新しいランダムな名前を付けます。",
   "collective.villagernames.message.givesunnamedloaded": "読み込まれている名前のないすべての村人に名前を付けます。",
   "collective.villagernames.message.loadedvillagersrenamed": "読み込まれている %s 人の村人の名前を変更しました。",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "読み込まれている %s 人の村人の名前を削除しました。",
   "collective.villagernames.message.removesnamesloaded": "読み込まれているすべての村人の名前を削除します。",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "あなたはコスモスディメンションにいません。",
   "collective.voidvanguards.message.generatedcosmosgate": "コスモスゲートを生成しました。",
   "collective.voidvanguards.message.generatefollowingheads": "以下の頭を生成できます:",

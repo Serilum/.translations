@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "שימוש מנהל ב%s:",
   "collective.shared.message.commandsusage": "--- שימוש בפקודות %s ---",
   "collective.shared.message.nopermission": "אין לך הרשאה להשתמש בפקודה זו.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "זימון הסוחר הנודד נכשל, נסה שוב.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "הסוחר הנודד זומן בהצלחה!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "איפוס",
   "collective.collective.message.headcachehelp": "מאפס את נתוני ראשי השחקנים השמורים במטמון של Collective, לדוגמה כדי לעדכן תלבושות.",
   "collective.collective.message.headcachereset": "מטמון ראשי השחקנים אופס בהצלחה.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "אזור ללא שם",
   "collective.areas.message.areasignpositions": "מיקומי שלטי האזור סביבך:",
   "collective.areas.message.areasignsaround": "אין שלטי אזור סביבך.",
   "collective.areas.message.signlocation": "%1$sבמיקום x=%2$s, y=%3$s, z=%4$s. (%5$s בלוקים)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "לא הוקצו שחקנים לדרגות.",
   "collective.beautifiedchatserver.message.noranksdefined": "לא הוגדרו דרגות.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "הדרגה %s הוסרה",
   "collective.beautifiedchatserver.message.unknowncolor": "צבע לא ידוע: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "ארנב הרוצח כבר אולף.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "ארנב רוצח נולד! האם אתה רחוק מספיק או שיש לך גזר מוזהב לחלוק?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "ארנב הרוצח אולף!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "ארנב הרוצח רוצה גזר מוזהב!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "נקודת ההתחדשות של המדורה חסרה.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "נקודת ההתחדשות של המדורה נותרה ללא שינוי.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "נקודת ההתחדשות של המדורה הוסרה.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "נקודת ההתחדשות של המדורה נקבעה.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "נקודת ההתחדשות של המדורה בוטלה.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "עמוד %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "משהו השתבש בעת טעינה מחדש של קובץ ההגדרות של טיימר ההיעלמות.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "קובץ ההגדרות של טיימר ההיעלמות נטען בהצלחה.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "להוספת פריט נופל: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "מוסיף את הפריט שבידך לפריטים הנופלים של היצור בסיכוי של 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "מוסיף את הפריט שבידך לפריטים הנופלים של היצור בסיכוי נפילה בין 0 ל-1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "לא ניתן למצוא יצור בשם '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "לא ניתן למצוא יצור בשם '%s' בטבלת הפריטים הנופלים.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "טוען מחדש את קבצי ההגדרות הנמצאים ב-./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "משהו השתבש בעת טעינה מחדש של קובץ ההגדרות.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "קבצי ההגדרות של אפקטי השיקויים של היצורים נטענו בהצלחה.",
   "collective.configurablemobpotioneffects.message.usage": "שימוש:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "מצב החלפת בלוקים בוטל.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "מצב החלפת בלוקים הופעל",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "מציג קרדיטים",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "כווץ או הרחב את רשימת המשימות",
   "collective.dailyquests.message.activeplayerquests": "כל משימות השחקן הפעילות הוחלפו.",
   "collective.dailyquests.message.addedquesttype": "סוג המשימה %1$s נוסף לרשימת המשימות של %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "לא ניתן למצוא מזהה משימה מהמחרוזת: %s",
   "collective.dailyquests.message.unablefindquesttype": "לא ניתן למצוא סוג משימה מהמחרוזת: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "לא ניתן למצוא את שרת העולם, לא ניתן לטעון את גיבוי המוות.",
   "collective.deathbackup.message.indexinvalid": "האינדקס %s אינו תקין.",
   "collective.deathbackup.message.lastdeathbackups": "גיבויי המוות האחרונים: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "לא ניתן לקרוא את קובץ הגיבוי.",
   "collective.deathbackup.message.worldremoteunable": "העולם אינו מרוחק, לא ניתן לטעון את גיבוי המוות.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "האליטרה נפלה במיקומך!",
   "collective.dragondropselytra.message.seemslikeslain": "נראה שדרקון האנד שהובס הפיל אליטרה! אולי היא הייתה שייכת בעבר להרפתקן אחר?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "אין לך פריט הניתן לכישוף ביד הראשית שלך.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "הכישוף '%1$s' נוסף לפריט ברמה %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "הכישוף '%s' אינו קיים על הפריט.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- רשימת %s ---",
   "collective.enchantingcommands.message.usage": "--- שימוש ב%s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "ביצת דרקון נוספת נפלה במיקומך!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "מקל המידע",
   "collective.entityinformation.message.giveninformationstick": "קיבלת את מקל המידע!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "החלף בהירות מלאה",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "לכלי המושחז שלך נותרו 10%% מהשימושים.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "לכלי המושחז שלך נותרו 25%% מהשימושים.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "לכלי המושחז שלך נותרו 50%% מהשימושים.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "הכלי שלך אינו מושחז יותר.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "הכלי שלך הושחז עם %s שימושים.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "נקה את רשימת העוקבים בממשק",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "נתת %1$s %2$s ל%3$s.",
   "collective.handoveryouritems.message.givenby": "קיבלת %1$s %2$s מ%3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "מרק קקטוס",
   "item.healingsoup.chocolate_milk": "חלב שוקו",
   "item.healingsoup.mushroom_soup": "מרק פטריות",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "החלף הצגת ספר המתכונים",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "ראש %s",
   "collective.justmobheads.message.generatedconfigfile": "נוצר קובץ הגדרות חדש. נעשה שימוש בסיכויים שכברירת מחדל.",
   "collective.justmobheads.message.generatefollowingmob": "באפשרותך ליצור את ראשי היצורים הבאים:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "שימוש: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "שימוש: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "מאפשר לך לקבל את הראש של שחקן.",
   "collective.justplayerheads.message.usagejphplayername": "שימוש: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "מרצפת פארקור בסיסית",
   "block.letsparkour.fast_parkour_slab": "מרצפת פארקור מהירה",
   "block.letsparkour.illusion_parkour_slab": "מרצפת פארקור אשלייתית",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "מרצפת פארקור רכה",
   "block.letsparkour.trapdoor_parkour_slab": "מרצפת פארקור דלת-מלכודת",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "זבל",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "ערך השם נקבע ל-'%s'.",
   "collective.nametagtweaks.message.usagenametagname": "שימוש: '/nametag <name>' בעת אחיזת תג שם.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "באמצעות מחרוזת התווים הכלליים '%1$s', אירועי הצליל הבאים (%2$s) הושתקו:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "באמצעות מחרוזת התווים הכלליים '%1$s', השתקת אירועי הצליל הבאים (%2$s) בוטלה:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "באמצעות מחרוזת התווים הכלליים '%1$s', אירועי הצליל הבאים (%2$s) הושתקו עם זמן השהיה של %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "לא נמצאה מפת צלילים, נוצרה אחת חדשה.",
   "collective.omegamute.message.stoppedlisteningactive": "הפסקת להאזין לצלילים הפעילים. כדי להפעיל זאת השתמש שוב ב-'/omegamute listen'.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "נותן לכל הפיגלינים הטעונים שם אקראי חדש.",
   "collective.piglinnames.message.givesunnamedloaded": "נותן שם לכל הפיגלינים הטעונים ללא שם.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s פיגלינים טעונים קיבלו שם חדש.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "השמות של %s פיגלינים טעונים הוסרו.",
   "collective.piglinnames.message.removesnamesloaded": "מסיר את השמות של כל הפיגלינים הטעונים.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "מוט להבון",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "השחקן %s מת והורחק מהשרת.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "לא ניתן לעקוב אחר הכל עם סוג זה של עוקב",
   "collective.playertracking.message.explanationtrackplayername": "להסבר על '/track [playerName]' קרא עמוד 5.",
   "collective.playertracking.message.explanationtrackread": "להסבר על '/track all' קרא עמוד 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "עמוד עזרה למעקב (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "השתמש ב-'/track [playerName]'  או ב-'/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "המצפן מצביע על %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "לא ניתן להפנות מחדש את המצפן. אין שחקנים בסביבה או שהם קרובים מדי.",
   "item.playertrackingcompass.tracking_compass": "מצפן מעקב",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "אביר הרפאים",
   "collective.pumpkillagersquest.gui.ghostrider": "רוכב הרפאים",
   "collective.pumpkillagersquest.gui.pumpkalibur": "פאמפקליבר",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "כשאתה מרים את פיסת הנייר, אתה רואה עליה קואורדינטות הכתובות אל מחנה אסירים. אתה מרגיש רע על כך ששחררת את ה-Pumpkillager בחזרה אל העולם. אולי אסיר יוכל לעזור לך לעצור אותו?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "נמחקו בהצלחה %1$s תגיות pumpkillager עבור %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s בלוקי דשא שוחזרו.",
   "collective.quickpaths.message.pathblockscreated": "נוצר שביל של %s בלוקים. כדי לבטל, לחץ קליק ימני שוב על הבלוק האחרון שנלחץ.",
   "collective.quickpaths.message.shoveltoodamaged": "האת שלך ניזוק מדי מכדי ליצור שבילים.",
   "collective.quickpaths.message.startingpointset": "נקודת ההתחלה נקבעה ל-%1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "לא ניתן לפתוח את תיבת השולקר, המיקום חסום.",
   "collective.quickrightclick.message.unablesleeplocation": "לא ניתן לישון, המיקום חסום.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "שמירה מהירה וטעינה מהירה",
   "collective.quicksaving.key.quickload": "טעינה מהירה",
   "collective.quicksaving.key.quicksaving": "שמירה מהירה",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "טעינה מהירה בוצעה.",
   "collective.quicksaving.message.quicksaved": "שמירה מהירה בוצעה.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "מרכיבים:",
   "collective.recipecommands.message.pattern": "תבנית:",
   "collective.recipecommands.message.recipe": "ל%1$s יש מתכון מסוג %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "לא ניתן למצוא מתכון.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s שחקנים התחדשו בהצלחה.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "שם המלאי '%s' אינו תקין.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "המלאי שלך הוחלף בקבוצה השמורה בשם '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "באפשרותך לטעון אותו באמצעות הפקודה '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "לא ניתן למצוא שחקן מחובר בשם '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "לא ניתן לטעון את תוכן המלאי בשם '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > גודל צילום המסך הדחוס: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "אוכף צללים",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s מושתק",
   "collective.silencemobs.gui.silencestick": "מקל ההשתקה",
   "collective.silencemobs.message.givensilencestick": "קיבלת את מקל ההשתקה! נהג בו בזהירות.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "ה%s הושתק.",
   "collective.silencemobs.message.unsilenced": "השתקת ה%s בוטלה.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "מוקדם מדי כדי לישון.",
   "collective.sleepsooner.message.untilduskmay": "ישנת עד רדת הערב. כעת באפשרותך לישון.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "גידול בטטה מפחידה",
   "item.spookyjams.creepers_delight_jam": "ריבת תענוג הקריפר",
   "item.spookyjams.creepers_delight_jam.desc.1": "מתוקה ונפיצה.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "היא ממלאת אותך בכוח,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ובתשוקה אינסופית.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "בחר %s",
   "collective.starterkit.message.activekitsreloaded": "כל הערכות הפעילות נטענו מחדש.",
   "collective.starterkit.message.addscurrentinventory": "מוסיף את המלאי הנוכחי שלך לערכות הפעילות.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "לא ניתן להעביר את הערכה '%s' לתיקייה הלא-פעילה.",
   "collective.starterkit.message.userusage": "שימוש משתמש ב%s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "זום של Vanilla",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s מת%2$s על ידי %3$s.",
   "collective.villagerdeathmessages.message.location": " במיקום x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "נותן לכל הכפריים הטעונים שם אקראי חדש.",
   "collective.villagernames.message.givesunnamedloaded": "נותן שם לכל הכפריים הטעונים ללא שם.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s כפריים טעונים קיבלו שם חדש.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "השמות של %s כפריים טעונים הוסרו.",
   "collective.villagernames.message.removesnamesloaded": "מסיר את השמות של כל הכפריים הטעונים.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "אינך נמצא במימד הקוסמוס.",
   "collective.voidvanguards.message.generatedcosmosgate": "שער הקוסמוס נוצר.",
   "collective.voidvanguards.message.generatefollowingheads": "באפשרותך ליצור את הראשים הבאים:",

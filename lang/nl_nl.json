@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s Beheerdersgebruik:",
   "collective.shared.message.commandsusage": "--- %s Commando's Gebruik ---",
   "collective.shared.message.nopermission": "Je hebt geen toestemming om dat commando te gebruiken.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Spawnen van rondreizende handelaar mislukt, probeer opnieuw.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Rondreizende handelaar succesvol gespawnd!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Resetten",
   "collective.collective.message.headcachehelp": "Reset de door Collective gecachete spelershoofd-gegevens, bijvoorbeeld om skins bij te werken.",
   "collective.collective.message.headcachereset": "De cache met spelershoofden is succesvol gereset.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Naamloos gebied",
   "collective.areas.message.areasignpositions": "Posities van gebiedsborden om je heen:",
   "collective.areas.message.areasignsaround": "Er zijn geen gebiedsborden om je heen.",
   "collective.areas.message.signlocation": "%1$sop x=%2$s, y=%3$s, z=%4$s. (%5$s blokken)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Geen spelers aan rangen toegewezen.",
   "collective.beautifiedchatserver.message.noranksdefined": "Geen rangen gedefinieerd.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Rang %s verwijderd",
   "collective.beautifiedchatserver.message.unknowncolor": "Onbekende kleur: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Het moordkonijn is al getemd.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Er is een moordkonijn geboren! Sta je ver genoeg weg of heb je een gouden wortel om te delen?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Het moordkonijn is getemd!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Het moordkonijn wil een gouden wortel!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Kampvuur-respawnpunt ontbreekt.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Kampvuur-respawnpunt blijft hetzelfde.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Kampvuur-respawnpunt verwijderd.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Kampvuur-respawnpunt ingesteld.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Kampvuur-respawnpunt gewist.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Pagina %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Er ging iets mis bij het herladen van het configbestand voor de despawn-timer.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Het configbestand voor de despawn-timer is succesvol geladen.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Om een drop toe te voegen: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Voeg het voorwerp in je hand toe aan de drops van de entiteit met een kans van 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Voeg het voorwerp in je hand toe aan de drops van de entiteit met een dropkans tussen 0 en 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Kan geen entiteit met de naam '%s' vinden.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Kan geen entiteit met de naam '%s' in de drop-hashmap vinden.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Herlaadt de configbestanden in ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Er ging iets mis bij het herladen van het configbestand.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "De configbestanden voor mob-toverdrankeffecten zijn succesvol geladen.",
   "collective.configurablemobpotioneffects.message.usage": "Gebruik:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blokvervangmodus uitgeschakeld.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blokvervangmodus ingeschakeld",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Aftiteling tonen",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Questlijst in-/uitklappen",
   "collective.dailyquests.message.activeplayerquests": "Alle actieve spelerquests zijn vervangen.",
   "collective.dailyquests.message.addedquesttype": "Het questtype %1$s toegevoegd aan de questlijst van %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Kan questidentificatie niet vinden in tekst: %s",
   "collective.dailyquests.message.unablefindquesttype": "Kan questtype niet vinden in tekst: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Kan de server van de wereld niet vinden, kan death-back-up niet laden.",
   "collective.deathbackup.message.indexinvalid": "De index %s is ongeldig.",
   "collective.deathbackup.message.lastdeathbackups": "Laatste death-back-ups: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Kan het back-upbestand niet lezen.",
   "collective.deathbackup.message.worldremoteunable": "De wereld is niet op afstand, kan death-back-up niet laden.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Het dekschild is op jouw positie gevallen!",
   "collective.dragondropselytra.message.seemslikeslain": "Het lijkt erop dat de verslagen Enderdraak een dekschild liet vallen! Misschien was het ooit van een andere avonturier?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Je hebt geen betoverbaar voorwerp in je hoofdhand.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "De betovering '%1$s' is aan het voorwerp toegevoegd met niveau %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "De betovering '%s' staat niet op het voorwerp.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s Lijst ---",
   "collective.enchantingcommands.message.usage": "--- %s Gebruik ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Een extra drakenei is op jouw positie gevallen!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "De Informatiestok",
   "collective.entityinformation.message.giveninformationstick": "Je hebt De Informatiestok gekregen!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Volledige helderheid aan/uit",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Je geslepen gereedschap heeft nog 10%% van zijn gebruik over.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Je geslepen gereedschap heeft nog 25%% van zijn gebruik over.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Je geslepen gereedschap heeft nog 50%% van zijn gebruik over.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Je gereedschap is niet langer geslepen.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Je gereedschap is geslepen met %s gebruik.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-volgerslijst wissen",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Je hebt %1$s %2$s aan %3$s gegeven.",
   "collective.handoveryouritems.message.givenby": "Je hebt %1$s %2$s van %3$s gekregen.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Cactussoep",
   "item.healingsoup.chocolate_milk": "Chocolademelk",
   "item.healingsoup.mushroom_soup": "Paddenstoelensoep",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Receptenboek aan/uit",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s-hoofd",
   "collective.justmobheads.message.generatedconfigfile": "Nieuw configbestand gegenereerd. De standaardkansen worden gebruikt.",
   "collective.justmobheads.message.generatefollowingmob": "Je kunt de volgende mobhoofden genereren:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Gebruik: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Gebruik: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Hiermee kun je het hoofd van een speler krijgen.",
   "collective.justplayerheads.message.usagejphplayername": "Gebruik: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Basis-parkourtegel",
   "block.letsparkour.fast_parkour_slab": "Snelle parkourtegel",
   "block.letsparkour.illusion_parkour_slab": "Illusie-parkourtegel",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Zachte parkourtegel",
   "block.letsparkour.trapdoor_parkour_slab": "Valluik-parkourtegel",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Mest",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Naamwaarde ingesteld op '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Gebruik: '/nametag <name>' terwijl je een naamkaartje vasthoudt.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Door de jokertekenreeks '%1$s' te gebruiken zijn de volgende %2$s geluidsgebeurtenissen gedempt:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Door de jokertekenreeks '%1$s' te gebruiken zijn de volgende %2$s geluidsgebeurtenissen ongedempt:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Door de jokertekenreeks '%1$s' te gebruiken zijn de volgende %2$s geluidsgebeurtenissen gedempt met een cull-tijd van %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Geen geluidsmap gevonden, er is een nieuwe gegenereerd.",
   "collective.omegamute.message.stoppedlisteningactive": "Je luistert niet langer naar de actieve geluiden. Gebruik '/omegamute listen' opnieuw om het in te schakelen.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Geeft alle geladen piglins een nieuwe willekeurige naam.",
   "collective.piglinnames.message.givesunnamedloaded": "Geeft alle naamloze geladen piglins een naam.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s geladen piglins zijn hernoemd.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "De namen van %s geladen piglins zijn verwijderd.",
   "collective.piglinnames.message.removesnamesloaded": "Verwijdert de namen van alle geladen piglins.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Blazestaf",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "De speler %s is gestorven en uit de server gezet.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Je kunt met dit type tracker niet iedereen tracken",
   "collective.playertracking.message.explanationtrackplayername": "Voor uitleg over '/track [playerName]' lees pagina 5.",
   "collective.playertracking.message.explanationtrackread": "Voor uitleg over '/track all' lees pagina 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Trackinghulppagina (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Gebruik '/track [playerName]'  of '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Het kompas wijst naar %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kan het kompas niet omleiden. Er zijn geen spelers in de buurt of ze zijn te dichtbij.",
   "item.playertrackingcompass.tracking_compass": "Trackingkompas",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "De Spookridder",
   "collective.pumpkillagersquest.gui.ghostrider": "De Spookruiter",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Terwijl je het stuk papier oppakt, zie je coördinaten naar een gevangenenkamp erop geschreven. Je voelt je schuldig dat je de Pumpkillager weer op de wereld hebt losgelaten. Misschien kan een gevangene je helpen hem te stoppen?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%1$s pumpkillager-tags succesvol verwijderd voor %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s grasblokken hersteld.",
   "collective.quickpaths.message.pathblockscreated": "Pad van %s blokken aangelegd. Om ongedaan te maken, klik nogmaals met rechts op het laatst aangeklikte blok.",
   "collective.quickpaths.message.shoveltoodamaged": "Je schep is te beschadigd om paden aan te leggen.",
   "collective.quickpaths.message.startingpointset": "Startpunt ingesteld op %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Kan shulkerdoos niet openen, locatie geblokkeerd.",
   "collective.quickrightclick.message.unablesleeplocation": "Kan niet slapen, locatie geblokkeerd.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Snel opslaan & snel laden",
   "collective.quicksaving.key.quickload": "Snel laden",
   "collective.quicksaving.key.quicksaving": "Snel opslaan",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Snel geladen.",
   "collective.quicksaving.message.quicksaved": "Snel opgeslagen.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingrediënten:",
   "collective.recipecommands.message.pattern": "Patroon:",
   "collective.recipecommands.message.recipe": "%1$s heeft een %2$s-recept.",
   "collective.recipecommands.message.unablefindrecipe": "Kan recept niet vinden.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s speler(s) succesvol laten respawnen.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "De inventarisnaam '%s' is ongeldig.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Je inventaris is vervangen door de preset met de naam '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Je kunt het laden met het commando '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Kan geen online speler met de naam '%s' vinden.",
   "collective.saveandloadinventories.message.unableloadcontent": "Kan de inhoud van de inventaris met de naam '%s' niet laden.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Grootte van gecomprimeerde schermafbeelding: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Schaduwzadel",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s gedempt",
   "collective.silencemobs.gui.silencestick": "De Stiltestok",
   "collective.silencemobs.message.givensilencestick": "Je hebt De Stiltestok gekregen! Ga er voorzichtig mee om.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "De %s is gedempt.",
   "collective.silencemobs.message.unsilenced": "De %s is niet langer gedempt.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Het is te vroeg om te slapen.",
   "collective.sleepsooner.message.untilduskmay": "Je sliep tot schemering. Je mag nu slapen.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Spookyamgewas",
   "item.spookyjams.creepers_delight_jam": "Creeperslekkernij-jam",
   "item.spookyjams.creepers_delight_jam.desc.1": "Zoet en explosief.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Het vult je met kracht,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "en eindeloze hunkering.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Kies %s",
   "collective.starterkit.message.activekitsreloaded": "Alle actieve kits zijn herladen.",
   "collective.starterkit.message.addscurrentinventory": "Voegt je huidige inventaris toe aan de actieve kits.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Kan de kit '%s' niet naar de inactieve map verplaatsen.",
   "collective.starterkit.message.userusage": "%s Gebruikersgebruik:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Zoom inzoomen",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s is gestorven%2$s door %3$s.",
   "collective.villagerdeathmessages.message.location": " op x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Geeft alle geladen dorpelingen een nieuwe willekeurige naam.",
   "collective.villagernames.message.givesunnamedloaded": "Geeft alle naamloze geladen dorpelingen een naam.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s geladen dorpelingen zijn hernoemd.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "De namen van %s geladen dorpelingen zijn verwijderd.",
   "collective.villagernames.message.removesnamesloaded": "Verwijdert de namen van alle geladen dorpelingen.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Je bent niet in de kosmosdimensie.",
   "collective.voidvanguards.message.generatedcosmosgate": "Kosmospoort gegenereerd.",
   "collective.voidvanguards.message.generatefollowingheads": "Je kunt de volgende hoofden genereren:",

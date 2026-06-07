@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s Yönetici Kullanımı:",
   "collective.shared.message.commandsusage": "--- %s Komut Kullanımı ---",
   "collective.shared.message.nopermission": "Bu komutu kullanma iznin yok.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Seyyar Tüccar çağırma başarısız oldu, tekrar dene.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Seyyar Tüccar başarıyla çağrıldı!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Sıfırla",
   "collective.collective.message.headcachehelp": "Collective'in önbelleğe alınmış oyuncu kafası verilerini sıfırlar, örneğin görünümleri güncellemek için.",
   "collective.collective.message.headcachereset": "Oyuncu kafası önbelleği başarıyla sıfırlandı.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Adsız bölge",
   "collective.areas.message.areasignpositions": "Çevrendeki bölge tabelası konumları:",
   "collective.areas.message.areasignsaround": "Çevrende hiç bölge tabelası yok.",
   "collective.areas.message.signlocation": "%1$sx=%2$s, y=%3$s, z=%4$s konumunda. (%5$s blok)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Hiçbir oyuncu bir rütbeye atanmamış.",
   "collective.beautifiedchatserver.message.noranksdefined": "Tanımlı rütbe yok.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s rütbesi kaldırıldı",
   "collective.beautifiedchatserver.message.unknowncolor": "Bilinmeyen renk: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Katil tavşan zaten evcilleştirilmiş.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Bir katil tavşan doğdu! Yeterince uzakta mısın, yoksa paylaşacak bir altın havucun var mı?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Katil tavşan evcilleştirildi!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Katil tavşan bir altın havuç istiyor!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Kamp ateşi doğma noktası eksik.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Kamp ateşi doğma noktası aynı kaldı.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Kamp ateşi doğma noktası kaldırıldı.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Kamp ateşi doğma noktası ayarlandı.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Kamp ateşi doğma noktası kaldırıldı.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Sayfa %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Yok olma zamanlayıcısı yapılandırma dosyası yeniden yüklenirken bir şeyler ters gitti.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Yok olma zamanlayıcısı yapılandırma dosyası başarıyla yüklendi.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Bir düşüm eklemek için: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Elindekini %%100 şansla varlığın düşümlerine ekler.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Elindekini 0 ile 1.0 arasında bir düşüm şansıyla varlığın düşümlerine ekler.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "'%s' adında bir varlık bulunamadı.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Düşüm tablosunda '%s' adında bir varlık bulunamadı.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ konumundaki yapılandırma dosyalarını yeniden yükler",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Yapılandırma dosyası yeniden yüklenirken bir şeyler ters gitti.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Mob iksir etkisi yapılandırma dosyaları başarıyla yüklendi.",
   "collective.configurablemobpotioneffects.message.usage": "Kullanım:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blok değiştirme modu devre dışı bırakıldı.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blok değiştirme modu etkinleştirildi",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Jenerik gösteriliyor",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Görev Listesini Aç/Kapat",
   "collective.dailyquests.message.activeplayerquests": "Tüm etkin oyuncu görevleri değiştirildi.",
   "collective.dailyquests.message.addedquesttype": "%1$s görev türü %2$s oyuncusunun görev listesine eklendi.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Şu metinden görev tanımlayıcısı bulunamadı: %s",
   "collective.dailyquests.message.unablefindquesttype": "Şu metinden görev türü bulunamadı: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Dünyanın sunucusu bulunamadı, ölüm yedeği yüklenemiyor.",
   "collective.deathbackup.message.indexinvalid": "%s dizini geçersiz.",
   "collective.deathbackup.message.lastdeathbackups": "Son Ölüm Yedekleri: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Yedek dosyası okunamadı.",
   "collective.deathbackup.message.worldremoteunable": "Dünya uzak değil, ölüm yedeği yüklenemiyor.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitra bulunduğun konuma düştü!",
   "collective.dragondropselytra.message.seemslikeslain": "Görünüşe göre öldürülen Ender Ejderhası bir elitra düşürdü! Belki de daha önce başka bir maceracıya aitti?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Ana elinde büyülenebilir bir eşya yok.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "'%1$s' büyüsü eşyaya %2$s seviyesinde eklendi.",
   "collective.enchantingcommands.message.enchantmentexistitem": "'%s' büyüsü eşyada yok.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s Listesi ---",
   "collective.enchantingcommands.message.usage": "--- %s Kullanımı ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Bulunduğun konuma fazladan bir ejderha yumurtası düştü!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Bilgi Çubuğu",
   "collective.entityinformation.message.giveninformationstick": "Sana Bilgi Çubuğu verildi!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Tam Parlaklığı Aç/Kapat",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Bilenmiş aletinin kullanımının %%10'u kaldı.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Bilenmiş aletinin kullanımının %%25'i kaldı.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Bilenmiş aletinin kullanımının %%50'si kaldı.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Aletin artık bilenmiş değil.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Aletin %s kullanımla bilendi.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Arayüz Takipçi Listesini Temizle",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%3$s oyuncusuna %1$s %2$s verdin.",
   "collective.handoveryouritems.message.givenby": "%3$s sana %1$s %2$s verdi.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktüs Çorbası",
   "item.healingsoup.chocolate_milk": "Çikolatalı Süt",
   "item.healingsoup.mushroom_soup": "Mantar Çorbası",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Tarif kitabını aç/kapat",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s Kafası",
   "collective.justmobheads.message.generatedconfigfile": "Yeni yapılandırma dosyası oluşturuldu. Varsayılan şanslar kullanılıyor.",
   "collective.justmobheads.message.generatefollowingmob": "Şu mob kafalarını oluşturabilirsin:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Kullanım: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Kullanım: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Bir oyuncunun kafasını almanı sağlar.",
   "collective.justplayerheads.message.usagejphplayername": "Kullanım: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Temel Parkur Levhası",
   "block.letsparkour.fast_parkour_slab": "Hızlı Parkur Levhası",
   "block.letsparkour.illusion_parkour_slab": "Yanılsama Parkur Levhası",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Yumuşak Parkur Levhası",
   "block.letsparkour.trapdoor_parkour_slab": "Kapaklı Parkur Levhası",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Gübre",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Ad değeri '%s' olarak ayarlandı.",
   "collective.nametagtweaks.message.usagenametagname": "Kullanım: bir ad etiketi tutarken '/nametag <name>'.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "'%1$s' joker dizesi kullanılarak şu %2$s ses olayı susturuldu:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "'%1$s' joker dizesi kullanılarak şu %2$s ses olayının susturması kaldırıldı:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "'%1$s' joker dizesi kullanılarak şu %2$s ses olayı %3$s ayıklama süresiyle susturuldu:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Hiç ses eşlemi bulunamadı, yenisi oluşturuldu.",
   "collective.omegamute.message.stoppedlisteningactive": "Etkin sesleri dinlemeyi bıraktın. Açmak için tekrar '/omegamute listen' kullan.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Yüklü tüm piglinlere yeni rastgele bir ad verir.",
   "collective.piglinnames.message.givesunnamedloaded": "Yüklü tüm adsız piglinlere bir ad verir.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s yüklü piglinin adı değiştirildi.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s yüklü piglinin adı kaldırıldı.",
   "collective.piglinnames.message.removesnamesloaded": "Yüklü tüm piglinlerin adlarını kaldırır.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Blaze Çubuğu",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "%s oyuncusu öldü ve sunucudan atıldı.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Bu tür bir takip cihazıyla herkesi takip edemezsin",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]' hakkında açıklama için sayfa 5'i oku.",
   "collective.playertracking.message.explanationtrackread": "'/track all' hakkında açıklama için sayfa 4'ü oku.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Takip Yardımı Sayfası (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "'/track [playerName]' ya da '/track all' kullan.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Pusula %s oyuncusunu gösteriyor.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Pusula yönlendirilemiyor. Çevrede oyuncu yok ya da çok yakınlar.",
   "item.playertrackingcompass.tracking_compass": "Takip Pusulası",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Hayalet Şövalye",
   "collective.pumpkillagersquest.gui.ghostrider": "Hayalet Süvari",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Kâğıt parçasını alırken, üzerinde bir tutsak kampına giden koordinatlar görüyorsun. Pumpkillager'ı tekrar dünyaya saldığın için kendini kötü hissediyorsun. Belki bir tutsak onu durdurmana yardım edebilir?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%2$s için %1$s pumpkillager etiketi başarıyla silindi.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s çim bloğu geri yüklendi.",
   "collective.quickpaths.message.pathblockscreated": "%s bloktan oluşan bir patika oluşturuldu. Geri almak için son tıkladığın bloğa tekrar sağ tıkla.",
   "collective.quickpaths.message.shoveltoodamaged": "Küreğin patika oluşturmak için çok hasarlı.",
   "collective.quickpaths.message.startingpointset": "Başlangıç noktası %1$s, %2$s, %3$s olarak ayarlandı.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Shulker kutusu açılamıyor, konum engellenmiş.",
   "collective.quickrightclick.message.unablesleeplocation": "Uyunamıyor, konum engellenmiş.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Hızlı Kaydet ve Hızlı Yükle",
   "collective.quicksaving.key.quickload": "Hızlı Yükle",
   "collective.quicksaving.key.quicksaving": "Hızlı Kaydet",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Hızlı yüklendi.",
   "collective.quicksaving.message.quicksaved": "Hızlı kaydedildi.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Malzemeler:",
   "collective.recipecommands.message.pattern": "Desen:",
   "collective.recipecommands.message.recipe": "%1$s, %2$s tarifine sahip.",
   "collective.recipecommands.message.unablefindrecipe": "Tarif bulunamadı.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s oyuncunun yeniden doğması başarıyla sağlandı.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "'%s' envanter adı geçersiz.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Envanterin '%s' adlı ön ayarla değiştirildi.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Onu '/loadinventory %s' komutuyla yükleyebilirsin.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "'%s' adında çevrimiçi bir oyuncu bulunamadı.",
   "collective.saveandloadinventories.message.unableloadcontent": "'%s' adlı envanterin içeriği yüklenemedi.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Sıkıştırılmış ekran görüntüsü boyutu: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Gölge Eyer",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Susturuldu %s",
   "collective.silencemobs.gui.silencestick": "Sessizlik Çubuğu",
   "collective.silencemobs.message.givensilencestick": "Sana Sessizlik Çubuğu verildi! Dikkatli kullan.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s susturuldu.",
   "collective.silencemobs.message.unsilenced": "%s susturması kaldırıldı.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Uyumak için çok erken.",
   "collective.sleepsooner.message.untilduskmay": "Akşam karanlığına kadar uyudun. Artık uyuyabilirsin.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Ürkünç Yam Ekini",
   "item.spookyjams.creepers_delight_jam": "Creeper’ın Lezzeti Reçeli",
   "item.spookyjams.creepers_delight_jam.desc.1": "Tatlı ve patlamaya hazır.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Seni güçle doldurur,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ve bitmek bilmeyen bir istekle.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s seç",
   "collective.starterkit.message.activekitsreloaded": "Tüm etkin kitler yeniden yüklendi.",
   "collective.starterkit.message.addscurrentinventory": "Mevcut envanterini etkin kitlere ekler.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "'%s' kiti etkin olmayan klasöre taşınamadı.",
   "collective.starterkit.message.userusage": "%s Kullanıcı Kullanımı:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Yakınlaştırma",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s%2$s, %3$s tarafından öldürüldü.",
   "collective.villagerdeathmessages.message.location": " x=%1$s, y=%2$s, z=%3$s konumunda",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Yüklü tüm köylülere yeni rastgele bir ad verir.",
   "collective.villagernames.message.givesunnamedloaded": "Yüklü tüm adsız köylülere bir ad verir.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s yüklü köylünün adı değiştirildi.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s yüklü köylünün adı kaldırıldı.",
   "collective.villagernames.message.removesnamesloaded": "Yüklü tüm köylülerin adlarını kaldırır.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Kozmos boyutunda değilsin.",
   "collective.voidvanguards.message.generatedcosmosgate": "Kozmos geçidi oluşturuldu.",
   "collective.voidvanguards.message.generatefollowingheads": "Şu kafaları oluşturabilirsin:",

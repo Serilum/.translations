@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s әкімші қолдануы:",
   "collective.shared.message.commandsusage": "--- %s пәрмендерін қолдану ---",
   "collective.shared.message.nopermission": "Бұл пәрменді қолдануға рұқсатыңыз жоқ.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Кезбе саудагер пайда болмады, қайталап көріңіз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Кезбе саудагер сәтті пайда болды!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Арылту",
   "collective.collective.message.headcachehelp": "Collective қызметінің кэштелген ойыншы бастарының деректерін қалпына келтіреді, мысалы, келбеттерді жаңарту үшін.",
   "collective.collective.message.headcachereset": "Ойыншы бастарының кэші сәтті қалпына келтірілді.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Атаусыз аймақ",
   "collective.areas.message.areasignpositions": "Айналаңыздағы аймақ тақтайшаларының орындары:",
   "collective.areas.message.areasignsaround": "Айналаңызда аймақ тақтайшалары жоқ.",
   "collective.areas.message.signlocation": "%1$sмына нүктеде: x=%2$s, y=%3$s, z=%4$s. (%5$s блок)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Шенге берілген ойыншылар жоқ.",
   "collective.beautifiedchatserver.message.noranksdefined": "Бірде-бір шен анықталмаған.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s шені жойылды",
   "collective.beautifiedchatserver.message.unknowncolor": "Белгісіз түс: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Жендет қоян әлдеқашан қолға үйретілген.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Жендет қоян дүниеге келді! Жеткілікті алыста тұрсыз ба, әлде оған беретін алтын сәбізіңіз бар ма?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Жендет қоян қолға үйретілді!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Жендет қоянға алтын сәбіз керек!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Ошақтың тірілу нүктесі жоқ.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Ошақтың тірілу нүктесі өзгеріссіз қалды.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Ошақтың тірілу нүктесі жойылды.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Ошақтың тірілу нүктесі орнатылды.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Ошақтың тірілу нүктесі алып тасталды.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "%1$s / %2$s бет, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Жоғалу таймерінің баптау файлын қайта жүктеу кезінде бірдеңе дұрыс болмады.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Жоғалу таймерінің баптау файлы сәтті жүктелді.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Олжа қосу үшін: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Қолыңыздағы затты нысанның олжасына 100%% ықтималдықпен қосады.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Қолыңыздағы затты нысанның олжасына 0 мен 1.0 аралығындағы түсу ықтималдығымен қосады.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "'%s' атты нысан табылмады.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Олжа кестесінде '%s' атты нысан табылмады.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ ішіндегі баптау файлдарын қайта жүктейді",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Баптау файлын қайта жүктеу кезінде бірдеңе дұрыс болмады.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Мобтың ішірткі әсерінің баптау файлдары сәтті жүктелді.",
   "collective.configurablemobpotioneffects.message.usage": "Қолдану:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Блок ауыстыру режимі өшірілді.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Блок ауыстыру режимі қосылды",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Титр көрсетілуде",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Тапсырма тізімін жию/жаю",
   "collective.dailyquests.message.activeplayerquests": "Ойыншының барлық белсенді тапсырмалары ауыстырылды.",
   "collective.dailyquests.message.addedquesttype": "%1$s тапсырма түрі %2$s ойыншысының тапсырма тізіміне қосылды.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Мына жолдан тапсырма идентификаторы табылмады: %s",
   "collective.dailyquests.message.unablefindquesttype": "Мына жолдан тапсырма түрі табылмады: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Әлемнің сервері табылмады, өлім сақтамасын жүктеу мүмкін емес.",
   "collective.deathbackup.message.indexinvalid": "%s индексі жарамсыз.",
   "collective.deathbackup.message.lastdeathbackups": "Соңғы өлім сақтамалары: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Сақтама файлын оқу мүмкін емес.",
   "collective.deathbackup.message.worldremoteunable": "Әлем қашықтан қосылмаған, өлім сақтамасын жүктеу мүмкін емес.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Элитра тұрған жеріңізге түсті!",
   "collective.dragondropselytra.message.seemslikeslain": "Өлтірілген Ендер айдаһар элитраны тастап кеткен сияқты! Бәлкім, ол бұрын басқа бір саяхатшыға тиесілі болған шығар?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Басты қолыңызда дуалауға болатын зат жоқ.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "'%1$s' дуасы затқа %2$s деңгейімен қосылды.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Затта '%s' дуасы жоқ.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s тізімі ---",
   "collective.enchantingcommands.message.usage": "--- %s қолдану ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Тұрған жеріңізге қосымша айдаһар жұмыртқасы түсті!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Ақпарат таяғы",
   "collective.entityinformation.message.giveninformationstick": "Сізге Ақпарат таяғы берілді!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Толық жарықты қосып‐өшіру",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Қайралған құралыңыздың қолданысының 10%% қалды.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Қайралған құралыңыздың қолданысының 25%% қалды.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Қайралған құралыңыздың қолданысының 50%% қалды.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Құралыңыз енді қайралмаған.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Құралыңыз %s қолданыспен қайралды.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI ергендерінің тізімін тазалау",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Сіз %3$s ойыншысына %1$s %2$s бердіңіз.",
   "collective.handoveryouritems.message.givenby": "%3$s ойыншысы сізге %1$s %2$s берді.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Кактус көжесі",
   "item.healingsoup.chocolate_milk": "Шоколадты сүт",
   "item.healingsoup.mushroom_soup": "Саңырауқұлақ көжесі",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Рецепт кітабын көрсетуді қосып‐өшіру",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s басы",
   "collective.justmobheads.message.generatedconfigfile": "Жаңа баптау файлы жасалды. Әдепкі ықтималдықтар қолданылуда.",
   "collective.justmobheads.message.generatefollowingmob": "Сіз мына моб бастарын жасай аласыз:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Қолдану: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Қолдану: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Ойыншының басын алуға мүмкіндік береді.",
   "collective.justplayerheads.message.usagejphplayername": "Қолдану: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Негізгі паркур тақтасы",
   "block.letsparkour.fast_parkour_slab": "Жылдам паркур тақтасы",
   "block.letsparkour.illusion_parkour_slab": "Елес паркур тақтасы",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Жұмсақ паркур тақтасы",
   "block.letsparkour.trapdoor_parkour_slab": "Қақпақ паркур тақтасы",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Көң",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Атау '%s' деп қойылды.",
   "collective.nametagtweaks.message.usagenametagname": "Қолдану: таңбаны ұстап тұрып '/nametag <name>'.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "'%1$s' джокер жолын қолдану арқылы мына %2$s дыбыс оқиғасы өшірілді:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "'%1$s' джокер жолын қолдану арқылы мына %2$s дыбыс оқиғасының дыбысы қайта қосылды:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "'%1$s' джокер жолын қолдану арқылы мына %2$s дыбыс оқиғасы %3$s кідіртпе уақытымен өшірілді:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Дыбыс картасы табылмады, жаңасы жасалды.",
   "collective.omegamute.message.stoppedlisteningactive": "Белсенді дыбыстарды тыңдауды тоқтаттыңыз. Қосу үшін қайтадан '/omegamute listen' қолданыңыз.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Жүктелген барлық пиглинге жаңа кездейсоқ атау береді.",
   "collective.piglinnames.message.givesunnamedloaded": "Жүктелген атаусыз барлық пиглинге атау береді.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s жүктелген пиглин қайта аталды.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s жүктелген пиглиннің атаулары алып тасталды.",
   "collective.piglinnames.message.removesnamesloaded": "Жүктелген барлық пиглиннің атауларын алып тастайды.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Лаулақ сырығы",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "%s ойыншысы өліп, серверден шығарылды.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Бұл түрдегі ізшімен бәрін бақылай алмайсыз",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]' туралы түсініктемені 5-беттен оқыңыз.",
   "collective.playertracking.message.explanationtrackread": "'/track all' туралы түсініктемені 4-беттен оқыңыз.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Бақылау көмек беті (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "'/track [playerName]' немесе '/track all' қолданыңыз.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Тұсбағар %s ойыншысын көрсетіп тұр.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Тұсбағарды бағыттау мүмкін емес. Айналада ойыншылар жоқ немесе олар тым жақын.",
   "item.playertrackingcompass.tracking_compass": "Бақылау тұсбағары",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Елес Серісі",
   "collective.pumpkillagersquest.gui.ghostrider": "Елес Салт аттысы",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Қағаз бөлігін көтергеніңізде, оған жазылған тұтқындар лагерінің координаталарын көресіз. Pumpkillager-ді әлемге қайта жібергеніңізге өкінесіз. Бәлкім, бір тұтқын оны тоқтатуға көмектесе алар?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%2$s үшін %1$s pumpkillager тегі сәтті жойылды.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s шым блогы қалпына келтірілді.",
   "collective.quickpaths.message.pathblockscreated": "%s блоктан соқпақ салынды. Болдырмау үшін соңғы басылған блокты қайта оң жақпен басыңыз.",
   "collective.quickpaths.message.shoveltoodamaged": "Күрегіңіз соқпақ салуға тым тозған.",
   "collective.quickpaths.message.startingpointset": "Бастапқы нүкте %1$s, %2$s, %3$s деп қойылды.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Шалкер жәшігін ашу мүмкін емес, орын бөгелген.",
   "collective.quickrightclick.message.unablesleeplocation": "Ұйықтау мүмкін емес, орын бөгелген.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Жылдам сақтау және жылдам жүктеу",
   "collective.quicksaving.key.quickload": "Жылдам жүктеу",
   "collective.quicksaving.key.quicksaving": "Жылдам сақтау",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Жылдам жүктелді.",
   "collective.quicksaving.message.quicksaved": "Жылдам сақталды.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Құрамдастар:",
   "collective.recipecommands.message.pattern": "Үлгі:",
   "collective.recipecommands.message.recipe": "%1$s заттың %2$s рецепті бар.",
   "collective.recipecommands.message.unablefindrecipe": "Рецепт табылмады.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s ойыншы сәтті тірілтілді.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "'%s' инвентарь атауы жарамсыз.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Инвентарыңыз '%s' атты пресетпен ауыстырылды.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Оны '/loadinventory %s' пәрменімен жүктей аласыз.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "'%s' атты желідегі ойыншы табылмады.",
   "collective.saveandloadinventories.message.unableloadcontent": "'%s' атты инвентарьдың құрамын жүктеу мүмкін емес.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Сығылған экран суретінің өлшемі: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Көлеңке ері",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s үнсіздендірілді",
   "collective.silencemobs.gui.silencestick": "Үнсіздендіру таяғы",
   "collective.silencemobs.message.givensilencestick": "Сізге Үнсіздендіру таяғы берілді! Абайлап ұстаңыз.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s үнсіздендірілді.",
   "collective.silencemobs.message.unsilenced": "%s қайта үн шығаратын болды.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Ұйықтауға әлі ерте.",
   "collective.sleepsooner.message.untilduskmay": "Ымыртқа дейін ұйықтадыңыз. Енді ұйықтай аласыз.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Үрейлі батат егіні",
   "item.spookyjams.creepers_delight_jam": "Крипер рақаты джемі",
   "item.spookyjams.creepers_delight_jam.desc.1": "Тәтті әрі тұрақсыз.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ол сені қуатқа толтырады,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "әрі шексіз құмарлыққа.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s таңдаңыз",
   "collective.starterkit.message.activekitsreloaded": "Барлық белсенді жинақтар қайта жүктелді.",
   "collective.starterkit.message.addscurrentinventory": "Қазіргі инвентарыңызды белсенді жинақтарға қосады.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "'%s' жинағын белсенді емес қалтаға жылжыту мүмкін емес.",
   "collective.starterkit.message.userusage": "%s ойыншы қолдануы:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Zoom жақындату",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s%2$s %3$s себебінен өлді.",
   "collective.villagerdeathmessages.message.location": " мына нүктеде: x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Жүктелген барлық шаруаға жаңа кездейсоқ атау береді.",
   "collective.villagernames.message.givesunnamedloaded": "Жүктелген атаусыз барлық шаруаға атау береді.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s жүктелген шаруа қайта аталды.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s жүктелген шаруаның атаулары алып тасталды.",
   "collective.villagernames.message.removesnamesloaded": "Жүктелген барлық шаруаның атауларын алып тастайды.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Сіз ғарыш өлшемінде емессіз.",
   "collective.voidvanguards.message.generatedcosmosgate": "Cosmos Gate жасалды.",
   "collective.voidvanguards.message.generatefollowingheads": "Сіз мына бастарды жасай аласыз:",

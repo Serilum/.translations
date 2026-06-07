@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Utilizarea %s pentru administratori:",
   "collective.shared.message.commandsusage": "--- Utilizarea comenzilor %s ---",
   "collective.shared.message.nopermission": "Nu ai permisiunea de a folosi această comandă.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Generarea negustorului ambulant a eșuat, încearcă din nou.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Negustorul ambulant a fost generat cu succes!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Resetare",
   "collective.collective.message.headcachehelp": "Resetează datele despre capetele de jucător stocate în cache de Collective, de exemplu pentru a actualiza skinurile.",
   "collective.collective.message.headcachereset": "Cache-ul cu capete de jucător a fost resetat cu succes.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Zonă fără nume",
   "collective.areas.message.areasignpositions": "Pozițiile semnelor de zonă din jurul tău:",
   "collective.areas.message.areasignsaround": "Nu există semne de zonă în jurul tău.",
   "collective.areas.message.signlocation": "%1$sla x=%2$s, y=%3$s, z=%4$s. (%5$s blocuri)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Niciun jucător atribuit unui rang.",
   "collective.beautifiedchatserver.message.noranksdefined": "Niciun rang definit.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Rangul %s a fost eliminat",
   "collective.beautifiedchatserver.message.unknowncolor": "Culoare necunoscută: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Iepurele ucigaș a fost deja îmblânzit.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "S-a născut un iepure ucigaș! Ești destul de departe sau ai un morcov de aur de oferit?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Iepurele ucigaș a fost îmblânzit!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Iepurele ucigaș vrea un morcov de aur!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Punctul de reînviere de la focul de tabără lipsește.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Punctul de reînviere de la focul de tabără rămâne neschimbat.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Punctul de reînviere de la focul de tabără a fost eliminat.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Punctul de reînviere de la focul de tabără a fost setat.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Punctul de reînviere de la focul de tabără a fost anulat.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Pagina %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Ceva nu a mers bine la reîncărcarea fișierului de configurare a cronometrului de dispariție.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Fișierul de configurare a cronometrului de dispariție a fost încărcat cu succes.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Pentru a adăuga un obiect aruncat: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Adaugă obiectul din mână la obiectele aruncate de entitate cu o șansă de 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Adaugă obiectul din mână la obiectele aruncate de entitate cu o șansă între 0 și 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nu s-a putut găsi o entitate cu numele „%s”.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nu s-a putut găsi o entitate cu numele „%s” în lista de obiecte aruncate.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Reîncarcă fișierele de configurare aflate în ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Ceva nu a mers bine la reîncărcarea fișierului de configurare.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Fișierele de configurare a efectelor de poțiune ale creaturilor au fost încărcate cu succes.",
   "collective.configurablemobpotioneffects.message.usage": "Utilizare:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Modul de înlocuire a blocurilor a fost dezactivat.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Modul de înlocuire a blocurilor a fost activat",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Se afișează genericul",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Restrânge/extinde lista de misiuni",
   "collective.dailyquests.message.activeplayerquests": "Toate misiunile active ale jucătorului au fost înlocuite.",
   "collective.dailyquests.message.addedquesttype": "Tipul de misiune %1$s a fost adăugat la lista de misiuni a lui %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nu s-a putut găsi identificatorul misiunii din șirul: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nu s-a putut găsi tipul misiunii din șirul: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nu se poate găsi serverul lumii, nu se poate încărca copia de rezervă a morții.",
   "collective.deathbackup.message.indexinvalid": "Indexul %s este nevalid.",
   "collective.deathbackup.message.lastdeathbackups": "Ultimele copii de rezervă ale morții: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nu se poate citi fișierul copiei de rezervă.",
   "collective.deathbackup.message.worldremoteunable": "Lumea nu este la distanță, nu se poate încărca copia de rezervă a morții.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitrele au căzut la poziția ta!",
   "collective.dragondropselytra.message.seemslikeslain": "Se pare că Dragonul de Ender ucis a lăsat în urmă niște elitre! Poate că au aparținut cândva altui aventurier?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Nu ai un obiect care poate fi fermecat în mâna principală.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Farmecul „%1$s” a fost adăugat obiectului cu nivelul %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Farmecul „%s” nu există pe obiect.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Lista %s ---",
   "collective.enchantingcommands.message.usage": "--- Utilizarea %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Un ou de dragon suplimentar a căzut la poziția ta!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Bățul Informației",
   "collective.entityinformation.message.giveninformationstick": "Ai primit Bățul Informației!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Comută luminozitatea maximă",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Unealta ta ascuțită mai are 10%% din utilizări.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Unealta ta ascuțită mai are 25%% din utilizări.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Unealta ta ascuțită mai are 50%% din utilizări.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Unealta ta nu mai este ascuțită.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Unealta ta a fost ascuțită cu %s utilizări.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Golește lista de însoțitori GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "I-ai dat %1$s %2$s lui %3$s.",
   "collective.handoveryouritems.message.givenby": "Ai primit %1$s %2$s de la %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Supă de cactus",
   "item.healingsoup.chocolate_milk": "Lapte cu ciocolată",
   "item.healingsoup.mushroom_soup": "Supă de ciuperci",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Comută afișarea cărții de rețete",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Cap de %s",
   "collective.justmobheads.message.generatedconfigfile": "S-a generat un fișier de configurare nou. Se folosesc șansele implicite.",
   "collective.justmobheads.message.generatefollowingmob": "Poți genera următoarele capete de creaturi:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Utilizare: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Utilizare: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Îți permite să obții capul unui jucător.",
   "collective.justplayerheads.message.usagejphplayername": "Utilizare: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Lespede de parkour de bază",
   "block.letsparkour.fast_parkour_slab": "Lespede de parkour rapidă",
   "block.letsparkour.illusion_parkour_slab": "Lespede de parkour iluzorie",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Lespede de parkour moale",
   "block.letsparkour.trapdoor_parkour_slab": "Lespede de parkour cu trapă",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Bălegar",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Numele a fost setat la „%s”.",
   "collective.nametagtweaks.message.usagenametagname": "Utilizare: „/nametag <name>” în timp ce ții o etichetă de nume.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Prin folosirea șablonului „%1$s”, următoarele %2$s evenimente sonore au fost amuțite:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Prin folosirea șablonului „%1$s”, următoarele %2$s evenimente sonore au fost reactivate:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Prin folosirea șablonului „%1$s”, următoarele %2$s evenimente sonore au fost amuțite cu un timp de filtrare de %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Nu s-a găsit nicio hartă a sunetelor, a fost generată una nouă.",
   "collective.omegamute.message.stoppedlisteningactive": "Ai încetat să asculți sunetele active. Pentru a activa, folosește din nou „/omegamute listen”.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Dă tuturor piglinilor încărcați un nou nume aleatoriu.",
   "collective.piglinnames.message.givesunnamedloaded": "Dă un nume tuturor piglinilor încărcați fără nume.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s piglini încărcați au fost redenumiți.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Numele a %s piglini încărcați au fost eliminate.",
   "collective.piglinnames.message.removesnamesloaded": "Elimină numele tuturor piglinilor încărcați.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Tijă dogoritoare",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Jucătorul %s a murit și a fost dat afară de pe server.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Nu poți urmări pe toți cu acest tip de dispozitiv de urmărire",
   "collective.playertracking.message.explanationtrackplayername": "Pentru explicații despre „/track [playerName]” citește pagina 5.",
   "collective.playertracking.message.explanationtrackread": "Pentru explicații despre „/track all” citește pagina 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Pagina de ajutor pentru urmărire (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Folosește „/track [playerName]”  sau „/track all”.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Busola arată spre %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nu se poate redirecționa busola. Nu sunt jucători în preajmă sau sunt prea aproape.",
   "item.playertrackingcompass.tracking_compass": "Busolă de urmărire",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Cavalerul Fantomă",
   "collective.pumpkillagersquest.gui.ghostrider": "Călărețul Fantomă",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Când ridici bucata de hârtie, vezi pe ea scrise coordonatele unei tabere de prizonieri. Te simți vinovat că ai dezlănțuit din nou Pumpkillager-ul în lume. Poate că un prizonier te poate ajuta să-l oprești?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "S-au șters cu succes %1$s etichete de pumpkillager pentru %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s blocuri de iarbă au fost restaurate.",
   "collective.quickpaths.message.pathblockscreated": "S-a creat o cărare de %s blocuri. Pentru a anula, fă din nou clic dreapta pe ultimul bloc selectat.",
   "collective.quickpaths.message.shoveltoodamaged": "Lopata ta este prea deteriorată pentru a crea cărări.",
   "collective.quickpaths.message.startingpointset": "Punctul de pornire a fost setat la %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nu se poate deschide cutia de shulker, locația este blocată.",
   "collective.quickrightclick.message.unablesleeplocation": "Nu se poate dormi, locația este blocată.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Salvare și încărcare rapidă",
   "collective.quicksaving.key.quickload": "Încărcare rapidă",
   "collective.quicksaving.key.quicksaving": "Salvare rapidă",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Încărcat rapid.",
   "collective.quicksaving.message.quicksaved": "Salvat rapid.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingrediente:",
   "collective.recipecommands.message.pattern": "Tipar:",
   "collective.recipecommands.message.recipe": "%1$s are o rețetă de tip %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Nu s-a putut găsi rețeta.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "S-a făcut cu succes ca %s jucător(i) să reînvie.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Numele inventarului „%s” este nevalid.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Inventarul tău a fost înlocuit cu presetarea numită „%s”.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Îl poți încărca cu comanda „/loadinventory %s”.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nu s-a putut găsi un jucător online cu numele „%s”.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nu s-a putut încărca conținutul inventarului cu numele „%s”.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Dimensiunea capturii de ecran comprimate: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Șa de umbră",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s amuțit",
   "collective.silencemobs.gui.silencestick": "Bățul Tăcerii",
   "collective.silencemobs.message.givensilencestick": "Ai primit Bățul Tăcerii! Mânuiește-l cu grijă.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s a fost amuțit.",
   "collective.silencemobs.message.unsilenced": "%s nu mai este amuțit.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Este prea devreme pentru a dormi.",
   "collective.sleepsooner.message.untilduskmay": "Ai dormit până la apus. Acum poți dormi.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Cultură de igname înfricoșător",
   "item.spookyjams.creepers_delight_jam": "Gem Încântarea Creeperului",
   "item.spookyjams.creepers_delight_jam.desc.1": "Dulce și volatil.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Te umple de putere,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "și de o poftă nesfârșită.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Alege %s",
   "collective.starterkit.message.activekitsreloaded": "Toate kiturile active au fost reîncărcate.",
   "collective.starterkit.message.addscurrentinventory": "Adaugă inventarul tău actual la kiturile active.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nu s-a putut muta kitul „%s” în folderul inactiv.",
   "collective.starterkit.message.userusage": "Utilizarea %s pentru utilizatori:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Mărire Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s a murit%2$s din cauza %3$s.",
   "collective.villagerdeathmessages.message.location": " la x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Dă tuturor sătenilor încărcați un nou nume aleatoriu.",
   "collective.villagernames.message.givesunnamedloaded": "Dă un nume tuturor sătenilor încărcați fără nume.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s săteni încărcați au fost redenumiți.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Numele a %s săteni încărcați au fost eliminate.",
   "collective.villagernames.message.removesnamesloaded": "Elimină numele tuturor sătenilor încărcați.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nu te afli în dimensiunea cosmosului.",
   "collective.voidvanguards.message.generatedcosmosgate": "Poarta cosmosului a fost generată.",
   "collective.voidvanguards.message.generatefollowingheads": "Poți genera următoarele capete:",

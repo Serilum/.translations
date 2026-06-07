@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s administraatori kasutus:",
   "collective.shared.message.commandsusage": "--- %s käskluste kasutus ---",
   "collective.shared.message.nopermission": "Sul pole õigust seda käsklust kasutada.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Uitava kaupleja tekitamine ebaõnnestus, proovi uuesti.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Uitava kaupleja tekitamine õnnestus!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Lähtesta",
   "collective.collective.message.headcachehelp": "Lähtestab Collective'i vahemällu salvestatud mängijate peade andmed, näiteks välimuste uuendamiseks.",
   "collective.collective.message.headcachereset": "Mängijate peade vahemälu lähtestati edukalt.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nimetu ala",
   "collective.areas.message.areasignpositions": "Alasiltide asukohad sinu ümber:",
   "collective.areas.message.areasignsaround": "Sinu ümber pole ühtegi alasilti.",
   "collective.areas.message.signlocation": "%1$sasukohas x=%2$s, y=%3$s, z=%4$s. (%5$s plokki)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ühtegi mängijat pole auastmesse määratud.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ühtegi auastet pole määratletud.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Auaste %s eemaldatud",
   "collective.beautifiedchatserver.message.unknowncolor": "Tundmatu värv: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Tapjaküülik on juba kodustatud.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Sündis tapjaküülik! Kas oled piisavalt kaugel või on sul jagada kuldne porgand?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Tapjaküülik on kodustatud!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Tapjaküülik tahab kuldset porgandit!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Lõkketule taastekkekoht puudub.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Lõkketule taastekkekoht jääb samaks.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Lõkketule taastekkekoht eemaldatud.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Lõkketule taastekkekoht määratud.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Lõkketule taastekkekoht tühistatud.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Leht %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Kadumistaimeri seadistusfaili uuesti laadimisel läks midagi valesti.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Kadumistaimeri seadistusfail edukalt laetud.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Kukkumise lisamiseks: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Lisab käes oleva eseme olemi kukutatavate hulka 100%% tõenäosusega.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Lisab käes oleva eseme olemi kukutatavate hulka kukkumistõenäosusega vahemikus 0 kuni 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Olemit nimega „%s“ ei leitud.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Olemit nimega „%s“ ei leitud kukutatavate räsitabelist.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laadib uuesti seadistusfailid asukohas ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Seadistusfaili uuesti laadimisel läks midagi valesti.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Eluka võlujoogiefektide seadistusfailid edukalt laetud.",
   "collective.configurablemobpotioneffects.message.usage": "Kasutus:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Plokkide asendamise režiim keelatud.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Plokkide asendamise režiim lubatud",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Kuvan tänusõnu",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Lülita ülesannete loendi ahendamist",
   "collective.dailyquests.message.activeplayerquests": "Kõik mängija aktiivsed ülesanded on asendatud.",
   "collective.dailyquests.message.addedquesttype": "Ülesandetüüp %1$s lisati mängija %2$s ülesannete loendisse.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Ülesande identifikaatorit ei leitud sõnest: %s",
   "collective.dailyquests.message.unablefindquesttype": "Ülesandetüüpi ei leitud sõnest: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Maailma serverit ei leitud, surmavarukoopiat ei saa laadida.",
   "collective.deathbackup.message.indexinvalid": "Indeks %s on sobimatu.",
   "collective.deathbackup.message.lastdeathbackups": "Viimased surmavarukoopiad: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Varukoopia faili ei õnnestunud lugeda.",
   "collective.deathbackup.message.worldremoteunable": "Maailm ei ole kaugel, surmavarukoopiat ei saa laadida.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Kattetiivad kukkusid sinu asukohas!",
   "collective.dragondropselytra.message.seemslikeslain": "Tundub, et tapetud enderdraakon kukutas kattetiivad! Ehk kuulusid need varem mõnele teisele seiklejale?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Sul pole peamises käes loitsitavat eset.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Loits „%1$s“ lisati esemele tasemel %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Esemel ei ole loitsu „%s“.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s loend ---",
   "collective.enchantingcommands.message.usage": "--- %s kasutus ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Sinu asukohas kukkus lisadraakonimuna!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Infopulk",
   "collective.entityinformation.message.giveninformationstick": "Sulle anti Infopulk!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Lülita täisheledust",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Sinu teritatud tööriistal on 10%% kasutusi alles.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Sinu teritatud tööriistal on 25%% kasutusi alles.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Sinu teritatud tööriistal on 50%% kasutusi alles.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Sinu tööriist ei ole enam teritatud.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Sinu tööriist teritati %s kasutusega.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tühjenda liidese järgijate loend",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Sa andsid %1$s %2$s mängijale %3$s.",
   "collective.handoveryouritems.message.givenby": "Mängija %3$s andis sulle %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktusesupp",
   "item.healingsoup.chocolate_milk": "Šokolaadipiim",
   "item.healingsoup.mushroom_soup": "Seenesupp",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Lülita retseptiraamatu kuvamist",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s pea",
   "collective.justmobheads.message.generatedconfigfile": "Loodi uus seadistusfail. Kasutatakse vaiketõenäosusi.",
   "collective.justmobheads.message.generatefollowingmob": "Saad luua järgmisi elukapäid:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Kasutus: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Kasutus: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Lubab sul hankida mängija pea.",
   "collective.justplayerheads.message.usagejphplayername": "Kasutus: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Tavaline parkuuriplaat",
   "block.letsparkour.fast_parkour_slab": "Kiire parkuuriplaat",
   "block.letsparkour.illusion_parkour_slab": "Illusiooni parkuuriplaat",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Pehme parkuuriplaat",
   "block.letsparkour.trapdoor_parkour_slab": "Luugi parkuuriplaat",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Sõnnik",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Nimeväärtuseks määrati „%s“.",
   "collective.nametagtweaks.message.usagenametagname": "Kasutus: „/nametag <name>“ nimesilti käes hoides.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Metamärgisõne „%1$s“ kasutamisega vaigistati järgmised %2$s heliüritust:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Metamärgisõne „%1$s“ kasutamisega taastati järgmise %2$s heliürituse heli:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Metamärgisõne „%1$s“ kasutamisega vaigistati järgmised %2$s heliüritust kärpeajaga %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Helikaarti ei leitud, loodi uus.",
   "collective.omegamute.message.stoppedlisteningactive": "Sa lõpetasid aktiivsete helide kuulamise. Selle sisselülitamiseks kasuta uuesti „/omegamute listen“.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Annab kõigile laetud piglinitele uue juhusliku nime.",
   "collective.piglinnames.message.givesunnamedloaded": "Annab kõigile nimetutele laetud piglinitele nime.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s laetud piglinit on ümber nimetatud.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s laetud piglini nimed on eemaldatud.",
   "collective.piglinnames.message.removesnamesloaded": "Eemaldab kõigi laetud piglinite nimed.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Lõõmavarras",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Mängija %s suri ja heideti serverist välja.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Seda tüüpi jälgijaga ei saa kõiki jälgida",
   "collective.playertracking.message.explanationtrackplayername": "Selgituse saamiseks käsu „/track [playerName]“ kohta loe lehte 5.",
   "collective.playertracking.message.explanationtrackread": "Selgituse saamiseks käsu „/track all“ kohta loe lehte 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Jälitamise abileht (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Kasuta „/track [playerName]“ või „/track all“.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompass osutab mängijale %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kompassi ei saa ümber suunata. Läheduses pole mängijaid või nad on liiga lähedal.",
   "item.playertrackingcompass.tracking_compass": "Jälituskompass",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Kummitusrüütel",
   "collective.pumpkillagersquest.gui.ghostrider": "Kummitusratsanik",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Paberitükki üles korjates näed sellele kirjutatud koordinaate vangilaagrini. Tunned end halvasti, et lasksid Pumpkillageri taas maailma valla. Ehk saab mõni vang sind aidata teda peatada?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Mängija %2$s jaoks kustutati edukalt %1$s pumpkillageri silti.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s muruplokki taastatud.",
   "collective.quickpaths.message.pathblockscreated": "Loodi %s plokist koosnev rada. Tühistamiseks paremklõpsa uuesti viimati klõpsatud plokki.",
   "collective.quickpaths.message.shoveltoodamaged": "Sinu labidas on radade loomiseks liiga kahjustatud.",
   "collective.quickpaths.message.startingpointset": "Alguspunkt määratud asukohta %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Šulkerikasti ei saa avada, asukoht on tõkestatud.",
   "collective.quickrightclick.message.unablesleeplocation": "Ei saa magada, asukoht on tõkestatud.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Kiirsalvestus ja kiirlaadimine",
   "collective.quicksaving.key.quickload": "Kiirlaadimine",
   "collective.quicksaving.key.quicksaving": "Kiirsalvestus",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Kiirlaaditud.",
   "collective.quicksaving.message.quicksaved": "Kiirsalvestatud.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Koostisosad:",
   "collective.recipecommands.message.pattern": "Muster:",
   "collective.recipecommands.message.recipe": "Esemel %1$s on %2$s retsept.",
   "collective.recipecommands.message.unablefindrecipe": "Retsepti ei leitud.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s mängija(t) pandi edukalt taassündima.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Seljakoti nimi „%s“ on sobimatu.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Sinu seljakott asendati eelseadega nimega „%s“.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Saad selle laadida käsuga „/loadinventory %s“.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Võrgus olevat mängijat nimega „%s“ ei leitud.",
   "collective.saveandloadinventories.message.unableloadcontent": "Seljakoti sisu nimega „%s“ ei õnnestunud laadida.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Tihendatud ekraanipildi suurus: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Varjusadul",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Vaigistatud %s",
   "collective.silencemobs.gui.silencestick": "Vaikusepulk",
   "collective.silencemobs.message.givensilencestick": "Sulle anti Vaikusepulk! Käsitse ettevaatlikult.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s on vaigistatud.",
   "collective.silencemobs.message.unsilenced": "%s vaigistus on eemaldatud.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Magamiseks on liiga vara.",
   "collective.sleepsooner.message.untilduskmay": "Magasid videvikuni. Nüüd võid magada.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Kummaline bataadipõllukultuur",
   "item.spookyjams.creepers_delight_jam": "Creeperi rõõmumoos",
   "item.spookyjams.creepers_delight_jam.desc.1": "Magus ja plahvatusohtlik.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "See täidab sind jõuga",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ja lõputu isuga.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Vali %s",
   "collective.starterkit.message.activekitsreloaded": "Kõik aktiivsed komplektid on uuesti laetud.",
   "collective.starterkit.message.addscurrentinventory": "Lisab sinu praeguse seljakoti aktiivsete komplektide hulka.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Komplekti „%s“ ei õnnestunud mitteaktiivsete kausta teisaldada.",
   "collective.starterkit.message.userusage": "%s kasutaja kasutus:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla suurendus",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s suri%2$s, tapja oli %3$s.",
   "collective.villagerdeathmessages.message.location": " asukohas x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Annab kõigile laetud külaelanikele uue juhusliku nime.",
   "collective.villagernames.message.givesunnamedloaded": "Annab kõigile nimetutele laetud külaelanikele nime.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s laetud külaelanikku on ümber nimetatud.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s laetud külaelaniku nimed on eemaldatud.",
   "collective.villagernames.message.removesnamesloaded": "Eemaldab kõigi laetud külaelanike nimed.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Sa ei ole kosmosedimensioonis.",
   "collective.voidvanguards.message.generatedcosmosgate": "Kosmosevärav loodud.",
   "collective.voidvanguards.message.generatefollowingheads": "Saad luua järgmisi päid:",

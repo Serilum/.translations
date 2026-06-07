@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Penggunaan Admin %s:",
   "collective.shared.message.commandsusage": "--- Penggunaan Perintah %s ---",
   "collective.shared.message.nopermission": "Kamu tidak memiliki izin untuk menggunakan perintah itu.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Gagal memunculkan Pedagang Keliling, coba lagi.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Pedagang Keliling berhasil dimunculkan!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Atur Ulang",
   "collective.collective.message.headcachehelp": "Mengatur ulang data kepala pemain yang disimpan Collective dalam tembolok, misalnya untuk memperbarui rupa.",
   "collective.collective.message.headcachereset": "Tembolok kepala pemain berhasil diatur ulang.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Area tanpa nama",
   "collective.areas.message.areasignpositions": "Posisi papan area di sekitarmu:",
   "collective.areas.message.areasignsaround": "Tidak ada papan area di sekitarmu.",
   "collective.areas.message.signlocation": "%1$spada x=%2$s, y=%3$s, z=%4$s. (%5$s blok)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Tidak ada pemain yang ditugaskan ke pangkat mana pun.",
   "collective.beautifiedchatserver.message.noranksdefined": "Belum ada pangkat yang ditentukan.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Pangkat %s dihapus",
   "collective.beautifiedchatserver.message.unknowncolor": "Warna tidak dikenal: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Kelinci pembunuh sudah dijinakkan.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Seekor kelinci pembunuh telah lahir! Apakah kamu sudah cukup jauh atau punya Wortel Emas untuk diberikan?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Kelinci pembunuh telah dijinakkan!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Kelinci pembunuh menginginkan Wortel Emas!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Titik kemunculan Api Unggun tidak ditemukan.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Titik kemunculan Api Unggun tetap sama.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Titik kemunculan Api Unggun dihapus.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Titik kemunculan Api Unggun ditetapkan.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Titik kemunculan Api Unggun dibatalkan.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Halaman %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Terjadi kesalahan saat memuat ulang berkas konfigurasi pengatur waktu penghilangan.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Berhasil memuat berkas konfigurasi pengatur waktu penghilangan.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Untuk menambahkan jatuhan: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Tambahkan barang di tanganmu ke jatuhan entitas dengan peluang 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Tambahkan barang di tanganmu ke jatuhan entitas dengan peluang jatuh antara 0 dan 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Tidak dapat menemukan entitas dengan nama '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Tidak dapat menemukan entitas dengan nama '%s' dalam hashmap jatuhan.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Memuat ulang berkas konfigurasi yang terletak di ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Terjadi kesalahan saat memuat ulang berkas konfigurasi.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Berhasil memuat berkas konfigurasi efek ramuan mob.",
   "collective.configurablemobpotioneffects.message.usage": "Penggunaan:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Mode penggantian blok dinonaktifkan.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Mode penggantian blok diaktifkan",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Menampilkan kredit",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Lipat/Buka Daftar Misi",
   "collective.dailyquests.message.activeplayerquests": "Semua misi pemain yang aktif telah diganti.",
   "collective.dailyquests.message.addedquesttype": "Menambahkan tipe misi %1$s ke daftar misi %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Tidak dapat menemukan pengenal misi dari teks: %s",
   "collective.dailyquests.message.unablefindquesttype": "Tidak dapat menemukan tipe misi dari teks: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Tidak dapat menemukan server dunia, tidak bisa memuat cadangan kematian.",
   "collective.deathbackup.message.indexinvalid": "Indeks %s tidak valid.",
   "collective.deathbackup.message.lastdeathbackups": "Cadangan Kematian Terakhir: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Tidak dapat membaca berkas cadangan.",
   "collective.deathbackup.message.worldremoteunable": "Dunia ini bukan dunia jarak jauh, tidak bisa memuat cadangan kematian.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitron jatuh di posisimu!",
   "collective.dragondropselytra.message.seemslikeslain": "Sepertinya Naga Ender yang terbunuh menjatuhkan sebuah Elitron! Mungkin sebelumnya milik petualang lain?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Kamu tidak memegang barang yang dapat dipesona di tangan utamamu.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Pesona '%1$s' telah ditambahkan ke barang dengan tingkat %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Pesona '%s' tidak ada pada barang ini.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Daftar %s ---",
   "collective.enchantingcommands.message.usage": "--- Penggunaan %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Sebuah Telur Naga tambahan telah jatuh di posisimu!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Tongkat Informasi",
   "collective.entityinformation.message.giveninformationstick": "Kamu telah diberi Tongkat Informasi!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Alihkan Kecerahan Penuh",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Alat yang diasahmu masih memiliki 10%% sisa penggunaan.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Alat yang diasahmu masih memiliki 25%% sisa penggunaan.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Alat yang diasahmu masih memiliki 50%% sisa penggunaan.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Alatmu tidak lagi terasah.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Alatmu telah diasah dengan %s penggunaan.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Bersihkan Daftar Pengikut GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Kamu telah memberikan %1$s %2$s kepada %3$s.",
   "collective.handoveryouritems.message.givenby": "Kamu telah diberi %1$s %2$s oleh %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Sup Kaktus",
   "item.healingsoup.chocolate_milk": "Susu Cokelat",
   "item.healingsoup.mushroom_soup": "Sup Jamur",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Alihkan tampilan Buku Resep",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Kepala %s",
   "collective.justmobheads.message.generatedconfigfile": "Membuat berkas konfigurasi baru. Menggunakan peluang bawaan.",
   "collective.justmobheads.message.generatefollowingmob": "Kamu dapat membuat kepala mob berikut:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Penggunaan: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Penggunaan: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Memungkinkanmu mendapatkan kepala seorang pemain.",
   "collective.justplayerheads.message.usagejphplayername": "Penggunaan: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Lempengan Parkour Dasar",
   "block.letsparkour.fast_parkour_slab": "Lempengan Parkour Cepat",
   "block.letsparkour.illusion_parkour_slab": "Lempengan Parkour Ilusi",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Lempengan Parkour Lembut",
   "block.letsparkour.trapdoor_parkour_slab": "Lempengan Parkour Pintu Jebakan",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Pupuk Kandang",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Mengatur nilai nama ke '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Penggunaan: '/nametag <name>' sambil memegang Label Nama.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Dengan menggunakan teks wildcard '%1$s', %2$s peristiwa suara berikut telah dibisukan:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Dengan menggunakan teks wildcard '%1$s', %2$s peristiwa suara berikut telah dilepas bisunya:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Dengan menggunakan teks wildcard '%1$s', %2$s peristiwa suara berikut telah dibisukan dengan waktu peredaman %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Tidak ada peta suara ditemukan, peta suara baru telah dibuat.",
   "collective.omegamute.message.stoppedlisteningactive": "Kamu telah berhenti mendengarkan suara yang aktif. Untuk mengaktifkannya, gunakan '/omegamute listen' lagi.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Memberi semua Piglin yang dimuat nama acak baru.",
   "collective.piglinnames.message.givesunnamedloaded": "Memberi nama pada semua Piglin yang dimuat dan belum bernama.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s Piglin yang dimuat telah diganti namanya.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Nama dari %s Piglin yang dimuat telah dihapus.",
   "collective.piglinnames.message.removesnamesloaded": "Menghapus nama semua Piglin yang dimuat.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Tongkat Kemamang",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Pemain %s telah mati dan dikeluarkan dari server.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Kamu tidak bisa melacak semua dengan jenis pelacak ini",
   "collective.playertracking.message.explanationtrackplayername": "Untuk penjelasan tentang '/track [playerName]' baca halaman 5.",
   "collective.playertracking.message.explanationtrackread": "Untuk penjelasan tentang '/track all' baca halaman 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Halaman Bantuan Pelacakan (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Gunakan '/track [playerName]'  atau '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompas menunjuk ke %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Tidak dapat mengalihkan kompas. Tidak ada pemain di sekitar atau mereka terlalu dekat.",
   "item.playertrackingcompass.tracking_compass": "Kompas Pelacak",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Ksatria Hantu",
   "collective.pumpkillagersquest.gui.ghostrider": "Penunggang Hantu",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Saat kamu memungut secarik kertas itu, kamu melihat koordinat menuju kamp tahanan tertulis di atasnya. Kamu merasa bersalah telah melepaskan Pumpkillager kembali ke dunia. Mungkin seorang tahanan bisa membantumu menghentikannya?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Berhasil menghapus %1$s tag Pumpkillager untuk %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s Balok Rumput dipulihkan.",
   "collective.quickpaths.message.pathblockscreated": "Jalur sepanjang %s blok dibuat. Untuk membatalkan, klik kanan lagi blok terakhir yang diklik.",
   "collective.quickpaths.message.shoveltoodamaged": "Sekopmu terlalu rusak untuk membuat jalur.",
   "collective.quickpaths.message.startingpointset": "Titik awal diatur ke %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Tidak dapat membuka Kotak Shulker, lokasi terhalang.",
   "collective.quickrightclick.message.unablesleeplocation": "Tidak dapat tidur, lokasi terhalang.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Simpan Cepat & Muat Cepat",
   "collective.quicksaving.key.quickload": "Muat Cepat",
   "collective.quicksaving.key.quicksaving": "Simpan Cepat",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Dimuat cepat.",
   "collective.quicksaving.message.quicksaved": "Disimpan cepat.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Bahan:",
   "collective.recipecommands.message.pattern": "Pola:",
   "collective.recipecommands.message.recipe": "%1$s memiliki resep %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Tidak dapat menemukan resep.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Berhasil membuat %s pemain bangkit kembali.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Nama inventaris '%s' tidak valid.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Inventarismu telah diganti dengan prasetel bernama '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Kamu bisa memuatnya dengan perintah '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Tidak dapat menemukan pemain daring dengan nama '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Tidak dapat memuat isi inventaris dengan nama '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Ukuran tangkapan layar terkompresi: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Pelana Bayangan",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s Dibisukan",
   "collective.silencemobs.gui.silencestick": "Tongkat Pembisu",
   "collective.silencemobs.message.givensilencestick": "Kamu telah diberi Tongkat Pembisu! Tangani dengan hati-hati.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s telah dibisukan.",
   "collective.silencemobs.message.unsilenced": "%s telah dilepas bisunya.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Masih terlalu pagi untuk tidur.",
   "collective.sleepsooner.message.untilduskmay": "Kamu tidur sampai senja. Sekarang kamu boleh tidur.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Tanaman Ubi Seram",
   "item.spookyjams.creepers_delight_jam": "Selai Kesukaan Creeper",
   "item.spookyjams.creepers_delight_jam.desc.1": "Manis dan mudah meledak.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ia memenuhimu dengan kekuatan,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "dan hasrat tanpa akhir.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Pilih %s",
   "collective.starterkit.message.activekitsreloaded": "Semua kit aktif telah dimuat ulang.",
   "collective.starterkit.message.addscurrentinventory": "Menambahkan inventaris saat ini ke kit aktif.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Tidak dapat memindahkan kit '%s' ke folder nonaktif.",
   "collective.starterkit.message.userusage": "Penggunaan Pengguna %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Perbesar Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s telah mati%2$s oleh %3$s.",
   "collective.villagerdeathmessages.message.location": " pada x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Memberi semua Penduduk yang dimuat nama acak baru.",
   "collective.villagernames.message.givesunnamedloaded": "Memberi nama pada semua Penduduk yang dimuat dan belum bernama.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s Penduduk yang dimuat telah diganti namanya.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Nama dari %s Penduduk yang dimuat telah dihapus.",
   "collective.villagernames.message.removesnamesloaded": "Menghapus nama semua Penduduk yang dimuat.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Kamu tidak berada di dimensi kosmos.",
   "collective.voidvanguards.message.generatedcosmosgate": "Gerbang kosmos dibuat.",
   "collective.voidvanguards.message.generatefollowingheads": "Kamu dapat membuat kepala berikut:",

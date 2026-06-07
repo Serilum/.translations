@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s – administratorbruk:",
   "collective.shared.message.commandsusage": "--- Bruk av %s-kommandoer ---",
   "collective.shared.message.nopermission": "Du har ikke tillatelse til å bruke den kommandoen.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Fremkalling av vandrehandler mislyktes, prøv igjen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Vandrehandler fremkalt!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Tilbakestill",
   "collective.collective.message.headcachehelp": "Nullstiller Collectives mellomlagrede spillerhodedata, for eksempel for å oppdatere skins.",
   "collective.collective.message.headcachereset": "Bufferen med spillerhoder er nullstilt.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Navnløst område",
   "collective.areas.message.areasignpositions": "Områdeskiltposisjoner rundt deg:",
   "collective.areas.message.areasignsaround": "Det er ingen områdeskilt rundt deg.",
   "collective.areas.message.signlocation": "%1$sved x=%2$s, y=%3$s, z=%4$s. (%5$s blokker)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ingen spillere er tilordnet noen rang.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ingen ranger er definert.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Fjernet rangen %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Ukjent farge: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Drapskaninen er allerede temmet.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "En drapskanin er født! Er du langt nok unna, eller har du en gullrot å dele?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Drapskaninen er temmet!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Drapskaninen vil ha en gullrot!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Bål-startpunkt mangler.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Bål-startpunktet forblir det samme.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Bål-startpunkt fjernet.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Bål-startpunkt satt.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Bål-startpunkt opphevet.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Side %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Noe gikk galt under innlasting av konfigurasjonsfilen for forsvinningstidtaker.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Lastet inn konfigurasjonsfilen for forsvinningstidtaker.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Slik legger du til et fall: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Legg gjenstanden i hånden din til skapningens fall med 100%% sjanse.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Legg gjenstanden i hånden din til skapningens fall med en fallsjanse mellom 0 og 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Fant ingen skapning med navnet «%s».",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Fant ingen skapning med navnet «%s» i fall-tabellen.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laster inn konfigurasjonsfilene i ./config/configurablemobpotioneffects/ på nytt",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Noe gikk galt under innlasting av konfigurasjonsfilen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Lastet inn konfigurasjonsfilene for skapningers trylledrikkeffekter.",
   "collective.configurablemobpotioneffects.message.usage": "Bruk:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blokkerstattingsmodus deaktivert.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blokkerstattingsmodus aktivert",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Viser rulletekst",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Slå sammenfelling av oppdragsliste av/på",
   "collective.dailyquests.message.activeplayerquests": "Alle aktive spilleroppdrag er erstattet.",
   "collective.dailyquests.message.addedquesttype": "La til oppdragstypen %1$s i oppdragslisten til %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Fant ingen oppdragsidentifikator fra strengen: %s",
   "collective.dailyquests.message.unablefindquesttype": "Fant ingen oppdragstype fra strengen: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Finner ikke verdenens tjener, kan ikke laste inn dødssikkerhetskopi.",
   "collective.deathbackup.message.indexinvalid": "Indeksen %s er ugyldig.",
   "collective.deathbackup.message.lastdeathbackups": "Siste dødssikkerhetskopier: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Kan ikke lese sikkerhetskopifilen.",
   "collective.deathbackup.message.worldremoteunable": "Verdenen er ikke ekstern, kan ikke laste inn dødssikkerhetskopi.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elytraen falt der du står!",
   "collective.dragondropselytra.message.seemslikeslain": "Det ser ut som den drepte enderdragen slapp en elytra! Kanskje den tidligere tilhørte en annen eventyrer?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Du har ingen fortryllbar gjenstand i hovedhånden din.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Fortryllelsen «%1$s» ble lagt til gjenstanden med nivå %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Fortryllelsen «%s» finnes ikke på gjenstanden.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s-liste ---",
   "collective.enchantingcommands.message.usage": "--- Bruk av %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Et ekstra drageegg har falt der du står!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informasjonspinnen",
   "collective.entityinformation.message.giveninformationstick": "Du har fått Informasjonspinnen!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Slå full lysstyrke av/på",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Det slipte verktøyet ditt har 10%% av bruksevnen igjen.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Det slipte verktøyet ditt har 25%% av bruksevnen igjen.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Det slipte verktøyet ditt har 50%% av bruksevnen igjen.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Verktøyet ditt er ikke lenger slipt.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Verktøyet ditt er slipt med %s bruk.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tøm liste over GUI-følgere",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Du har gitt %1$s %2$s til %3$s.",
   "collective.handoveryouritems.message.givenby": "Du har fått %1$s %2$s av %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktussuppe",
   "item.healingsoup.chocolate_milk": "Sjokolademelk",
   "item.healingsoup.mushroom_soup": "Soppsuppe",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Slå oppskriftsbok av/på",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s-hode",
   "collective.justmobheads.message.generatedconfigfile": "Genererte en ny konfigurasjonsfil. Bruker standardsjansene.",
   "collective.justmobheads.message.generatefollowingmob": "Du kan generere følgende skapningshoder:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Bruk: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Bruk: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Lar deg hente hodet til en spiller.",
   "collective.justplayerheads.message.usagejphplayername": "Bruk: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Vanlig parkourhelle",
   "block.letsparkour.fast_parkour_slab": "Rask parkourhelle",
   "block.letsparkour.illusion_parkour_slab": "Illusjonsparkourhelle",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Myk parkourhelle",
   "block.letsparkour.trapdoor_parkour_slab": "Fallemparkourhelle",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Møkk",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Satte navneverdien til «%s».",
   "collective.nametagtweaks.message.usagenametagname": "Bruk: «/nametag <name>» mens du holder en navnelapp.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Ved å bruke jokerstrengen «%1$s» er følgende %2$s lydhendelser dempet:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Ved å bruke jokerstrengen «%1$s» er dempingen av følgende %2$s lydhendelser opphevet:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Ved å bruke jokerstrengen «%1$s» er følgende %2$s lydhendelser dempet med en avskjæringstid på %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Fant ingen lydkartfil, en ny er generert.",
   "collective.omegamute.message.stoppedlisteningactive": "Du har sluttet å lytte til de aktive lydene. For å slå det på, bruk «/omegamute listen» igjen.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Gir alle innlastede piglinger et nytt tilfeldig navn.",
   "collective.piglinnames.message.givesunnamedloaded": "Gir alle navnløse innlastede piglinger et navn.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s innlastede piglinger har fått nytt navn.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Navnene til %s innlastede piglinger er fjernet.",
   "collective.piglinnames.message.removesnamesloaded": "Fjerner navnene til alle innlastede piglinger.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Flammestang",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Spilleren %s har dødd og blitt kastet ut fra tjeneren.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Du kan ikke spore alle med denne typen sporer",
   "collective.playertracking.message.explanationtrackplayername": "For forklaring på «/track [playerName]», les side 5.",
   "collective.playertracking.message.explanationtrackread": "For forklaring på «/track all», les side 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Sporingshjelpside (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Bruk «/track [playerName]»  eller «/track all».",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompasset peker mot %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kan ikke omdirigere kompasset. Det er ingen spillere i nærheten, eller de er for nære.",
   "item.playertrackingcompass.tracking_compass": "Sporingskompass",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Spøkelsesridderen",
   "collective.pumpkillagersquest.gui.ghostrider": "Spøkelsesrytteren",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Idet du plukker opp papirlappen, ser du koordinater til en fangeleir skrevet på den. Du føler deg skyldig over å ha sluppet Pumpkillager løs i verden igjen. Kanskje en fange kan hjelpe deg med å stoppe ham?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Slettet %1$s pumpkillager-merker for %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s gressblokker gjenopprettet.",
   "collective.quickpaths.message.pathblockscreated": "Sti på %s blokker laget. For å angre, høyreklikk på den sist klikkede blokken igjen.",
   "collective.quickpaths.message.shoveltoodamaged": "Spaden din er for skadet til å lage stier.",
   "collective.quickpaths.message.startingpointset": "Startpunkt satt til %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Kan ikke åpne shulkerboks, stedet er blokkert.",
   "collective.quickrightclick.message.unablesleeplocation": "Kan ikke sove, stedet er blokkert.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Hurtiglagring og hurtiginnlasting",
   "collective.quicksaving.key.quickload": "Hurtiginnlasting",
   "collective.quicksaving.key.quicksaving": "Hurtiglagring",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Hurtiginnlastet.",
   "collective.quicksaving.message.quicksaved": "Hurtiglagret.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingredienser:",
   "collective.recipecommands.message.pattern": "Mønster:",
   "collective.recipecommands.message.recipe": "%1$s har en %2$s-oppskrift.",
   "collective.recipecommands.message.unablefindrecipe": "Fant ingen oppskrift.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Sørget for at %s spiller(e) gjenoppsto.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Forrådsnavnet «%s» er ugyldig.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Forrådet ditt er erstattet med forhåndsinnstillingen «%s».",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Du kan laste det inn med kommandoen «/loadinventory %s».",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Fant ingen spiller på nett med navnet «%s».",
   "collective.saveandloadinventories.message.unableloadcontent": "Kan ikke laste inn innholdet i forrådet med navnet «%s».",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Størrelse på komprimert skjermbilde: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skyggesal",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Dempet %s",
   "collective.silencemobs.gui.silencestick": "Stillhetspinnen",
   "collective.silencemobs.message.givensilencestick": "Du har fått Stillhetspinnen! Behandle den forsiktig.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s er dempet.",
   "collective.silencemobs.message.unsilenced": "%s er ikke lenger dempet.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Det er for tidlig å sove.",
   "collective.sleepsooner.message.untilduskmay": "Du sov til skumringen. Du kan sove nå.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Nifs jamsrotavling",
   "item.spookyjams.creepers_delight_jam": "Creeperens lyst-syltetøy",
   "item.spookyjams.creepers_delight_jam.desc.1": "Søtt og ustabilt.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Det fyller deg med styrke,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "og endeløs trang.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Velg %s",
   "collective.starterkit.message.activekitsreloaded": "Alle aktive sett er lastet inn på nytt.",
   "collective.starterkit.message.addscurrentinventory": "Legger det nåværende forrådet ditt til i de aktive settene.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Kan ikke flytte «%s»-settet til den inaktive mappen.",
   "collective.starterkit.message.userusage": "%s – brukerbruk:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla-zoom inn",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s døde%2$s av %3$s.",
   "collective.villagerdeathmessages.message.location": " ved x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Gir alle innlastede bygdinger et nytt tilfeldig navn.",
   "collective.villagernames.message.givesunnamedloaded": "Gir alle navnløse innlastede bygdinger et navn.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s innlastede bygdinger har fått nytt navn.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Navnene til %s innlastede bygdinger er fjernet.",
   "collective.villagernames.message.removesnamesloaded": "Fjerner navnene til alle innlastede bygdinger.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Du er ikke i kosmosdimensjonen.",
   "collective.voidvanguards.message.generatedcosmosgate": "Genererte kosmosporten.",
   "collective.voidvanguards.message.generatefollowingheads": "Du kan generere følgende hoder:",

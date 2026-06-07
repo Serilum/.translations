@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Stjórnandanotkun %s:",
   "collective.shared.message.commandsusage": "--- Notkun skipana fyrir %s ---",
   "collective.shared.message.nopermission": "Þú hefur ekki heimild til að nota þessa skipun.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Tókst ekki að framkalla farandsölumann, reyndu aftur.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Tókst að framkalla farandsölumann!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Endurstilla",
   "collective.collective.message.headcachehelp": "Endurstillir skyndiminnisgögn Collective um spilarahausa, til dæmis til að uppfæra ásýndir.",
   "collective.collective.message.headcachereset": "Skyndiminni spilarahausa hefur verið endurstillt.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Ónefnt svæði",
   "collective.areas.message.areasignpositions": "Staðsetningar svæðisskilta í kringum þig:",
   "collective.areas.message.areasignsaround": "Það eru engin svæðisskilti í kringum þig.",
   "collective.areas.message.signlocation": "%1$sá x=%2$s, y=%3$s, z=%4$s. (%5$s kubbar)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Engir spilarar hafa verið settir í tignir.",
   "collective.beautifiedchatserver.message.noranksdefined": "Engar tignir skilgreindar.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Fjarlægði tignina %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Óþekktur litur: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Drápskanínan hefur þegar verið tamin.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Drápskanína hefur fæðst! Ertu nógu langt í burtu eða ertu með gullrót til að deila?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Drápskanínan hefur verið tamin!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Drápskanínan vill gullrót!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Endurlífgunarstað við varðeld vantar.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Endurlífgunarstaðurinn við varðeldinn helst óbreyttur.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Endurlífgunarstaður við varðeld fjarlægður.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Endurlífgunarstaður við varðeld stilltur.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Endurlífgunarstaður við varðeld afstilltur.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Síða %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Eitthvað fór úrskeiðis við endurhleðslu stillingaskrár fyrir hvarftímann.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Tókst að hlaða stillingaskrá fyrir hvarftímann.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Til að bæta við dropi: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Bætir því sem þú heldur á við drop verunnar með 100%% líkum.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Bætir því sem þú heldur á við drop verunnar með droplíkum á milli 0 og 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Fann ekki veru með heitinu '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Fann ekki veru með heitinu '%s' í drop-hashmap-inu.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Endurhleður stillingaskrárnar sem eru í ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Eitthvað fór úrskeiðis við endurhleðslu stillingaskrárinnar.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Tókst að hlaða stillingaskrám fyrir drykkjaráhrif vera.",
   "collective.configurablemobpotioneffects.message.usage": "Notkun:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Slökkt á kubbaskiptahami.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Kveikt á kubbaskiptahami",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Sýni framlagslista",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Fella saman/út verkefnalista",
   "collective.dailyquests.message.activeplayerquests": "Öllum virkum verkefnum spilara hefur verið skipt út.",
   "collective.dailyquests.message.addedquesttype": "Bætti verkefnagerðinni %1$s við verkefnalista %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Fann ekki verkefnaauðkenni úr streng: %s",
   "collective.dailyquests.message.unablefindquesttype": "Fann ekki verkefnagerð úr streng: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Finn ekki netþjón heimsins, get ekki hlaðið dauðaafriti.",
   "collective.deathbackup.message.indexinvalid": "Vísirinn %s er ógildur.",
   "collective.deathbackup.message.lastdeathbackups": "Síðustu dauðaafrit: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Get ekki lesið afritsskrána.",
   "collective.deathbackup.message.worldremoteunable": "Heimurinn er ekki fjartengdur, get ekki hlaðið dauðaafriti.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Þekjuvængirnir duttu á staðnum þínum!",
   "collective.dragondropselytra.message.seemslikeslain": "Það lítur út fyrir að felldi Endadrekinn hafi skilið eftir þekjuvængi! Kannski tilheyrðu þeir áður öðrum ævintýramanni?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Þú ert ekki með galdranlegan hlut í aðalhendinni.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Galdrinum '%1$s' hefur verið bætt á hlutinn með stigi %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Galdurinn '%s' er ekki til á hlutnum.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Listi yfir %s ---",
   "collective.enchantingcommands.message.usage": "--- Notkun %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Aukadrekaegg datt á staðnum þínum!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Upplýsingaprikið",
   "collective.entityinformation.message.giveninformationstick": "Þú hefur fengið Upplýsingaprikið!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Kveikja á fullri birtu",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Brýnda verkfærið þitt á 10%% af notkun sinni eftir.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Brýnda verkfærið þitt á 25%% af notkun sinni eftir.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Brýnda verkfærið þitt á 50%% af notkun sinni eftir.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Verkfærið þitt er ekki lengur brýnt.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Verkfærið þitt hefur verið brýnt með %s notkunum.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Hreinsa lista yfir GUI-fylgjendur",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Þú hefur gefið %3$s %1$s %2$s.",
   "collective.handoveryouritems.message.givenby": "Þú hefur fengið %1$s %2$s frá %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktussúpa",
   "item.healingsoup.chocolate_milk": "Súkkulaðimjólk",
   "item.healingsoup.mushroom_soup": "Sveppasúpa",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Kveikja/slökkva á uppskriftabók",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s haus",
   "collective.justmobheads.message.generatedconfigfile": "Bjó til nýja stillingaskrá. Nota sjálfgefnar líkur.",
   "collective.justmobheads.message.generatefollowingmob": "Þú getur búið til eftirfarandi veruhausa:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Notkun: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Notkun: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Gerir þér kleift að ná í haus spilara.",
   "collective.justplayerheads.message.usagejphplayername": "Notkun: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Grunn-parkúrhella",
   "block.letsparkour.fast_parkour_slab": "Hröð parkúrhella",
   "block.letsparkour.illusion_parkour_slab": "Sjónhverfingaparkúrhella",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Mjúk parkúrhella",
   "block.letsparkour.trapdoor_parkour_slab": "Hleraparkúrhella",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Mykja",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Setti nafngildi á '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Notkun: '/nametag <name>' á meðan þú heldur á nafnspjaldi.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Með því að nota algildisstrenginn '%1$s' hafa eftirfarandi %2$s hljóðatburðir verið þaggaðir:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Með því að nota algildisstrenginn '%1$s' hefur þöggun eftirfarandi %2$s hljóðatburða verið aflétt:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Með því að nota algildisstrenginn '%1$s' hafa eftirfarandi %2$s hljóðatburðir verið þaggaðir með úrtökutíma %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Ekkert hljóðkort fannst, nýtt hefur verið búið til.",
   "collective.omegamute.message.stoppedlisteningactive": "Þú hættir að hlusta á virku hljóðin. Til að kveikja á því notaðu '/omegamute listen' aftur.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Gefur öllum hlöðnum gríslingum nýtt slembið nafn.",
   "collective.piglinnames.message.givesunnamedloaded": "Gefur öllum ónefndum hlöðnum gríslingum nafn.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s hlaðnir gríslingar hafa fengið nýtt nafn.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Nöfn %s hlaðinna gríslinga hafa verið fjarlægð.",
   "collective.piglinnames.message.removesnamesloaded": "Fjarlægir nöfn allra hlaðinna gríslinga.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Logateinn",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Spilarinn %s hefur dáið og verið hent út af netþjóninum.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Þú getur ekki rakið alla með þessari gerð rekjara",
   "collective.playertracking.message.explanationtrackplayername": "Fyrir útskýringu á '/track [playerName]' lestu síðu 5.",
   "collective.playertracking.message.explanationtrackread": "Fyrir útskýringu á '/track all' lestu síðu 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Hjálparsíða fyrir rakningu (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Notaðu '/track [playerName]'  eða '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Áttavitinn bendir á %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Get ekki beint áttavitanum. Það eru engir spilarar í kring eða þeir eru of nálægt.",
   "item.playertrackingcompass.tracking_compass": "Rakningaráttaviti",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Draugariddarinn",
   "collective.pumpkillagersquest.gui.ghostrider": "Vofureiðmaðurinn",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Þegar þú tekur upp pappírsblaðið sérðu hnit að fangabúðum skrifuð á það. Þér líður illa yfir því að hafa sleppt Pumpkillager-num aftur út í heiminn. Kannski getur fangi hjálpað þér að stöðva hann?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Eyddi %1$s pumpkillager-merkjum fyrir %2$s með góðum árangri.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s graskubbar endurheimtir.",
   "collective.quickpaths.message.pathblockscreated": "Stígur úr %s kubbum búinn til. Til að afturkalla, hægrismelltu aftur á síðasta kubbinn sem smellt var á.",
   "collective.quickpaths.message.shoveltoodamaged": "Skóflan þín er of skemmd til að búa til stíga.",
   "collective.quickpaths.message.startingpointset": "Upphafsstaður stilltur á %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Get ekki opnað hylki skálks, staðsetning hindruð.",
   "collective.quickrightclick.message.unablesleeplocation": "Get ekki sofið, staðsetning hindruð.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Flýtivistun og flýtihleðsla",
   "collective.quicksaving.key.quickload": "Flýtihleðsla",
   "collective.quicksaving.key.quicksaving": "Flýtivistun",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Flýtihlaðið.",
   "collective.quicksaving.message.quicksaved": "Flýtivistað.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Innihald:",
   "collective.recipecommands.message.pattern": "Mynstur:",
   "collective.recipecommands.message.recipe": "%1$s er með %2$s uppskrift.",
   "collective.recipecommands.message.unablefindrecipe": "Fann ekki uppskrift.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Tókst að láta %s spilara endurlífgast.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Bakpokaheitið '%s' er ógilt.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Bakpokanum þínum hefur verið skipt út fyrir forstillinguna sem heitir '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Þú getur hlaðið honum með skipuninni '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Fann ekki spilara á netinu með heitinu '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Get ekki hlaðið innihaldi bakpokans með heitinu '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Stærð þjappaðrar skjámyndar: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skuggahnakkur",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Þaggað %s",
   "collective.silencemobs.gui.silencestick": "Þöggunarprikið",
   "collective.silencemobs.message.givensilencestick": "Þú hefur fengið Þöggunarprikið! Farðu varlega með það.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s hefur verið þaggaður.",
   "collective.silencemobs.message.unsilenced": "Þöggun á %s hefur verið aflétt.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Það er of snemmt að sofa.",
   "collective.sleepsooner.message.untilduskmay": "Þú svafst fram að rökkri. Þú mátt nú sofa.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Hrollvekjandi sætkartöfluuppskera",
   "item.spookyjams.creepers_delight_jam": "Sulta laumupúkans",
   "item.spookyjams.creepers_delight_jam.desc.1": "Sæt og óstöðug.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Hún fyllir þig krafti,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "og endalausri löngun.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Veldu %s",
   "collective.starterkit.message.activekitsreloaded": "Allir virkir pakkar hafa verið endurhlaðnir.",
   "collective.starterkit.message.addscurrentinventory": "Bætir núverandi bakpoka þínum við virku pakkana.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Get ekki fært pakkann '%s' í óvirku möppuna.",
   "collective.starterkit.message.userusage": "Notendanotkun %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Zoom-aðdráttur",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s hefur dáið%2$s af völdum %3$s.",
   "collective.villagerdeathmessages.message.location": " á x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Gefur öllum hlöðnum þorpurum nýtt slembið nafn.",
   "collective.villagernames.message.givesunnamedloaded": "Gefur öllum ónefndum hlöðnum þorpurum nafn.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s hlaðnir þorparar hafa fengið nýtt nafn.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Nöfn %s hlaðinna þorpara hafa verið fjarlægð.",
   "collective.villagernames.message.removesnamesloaded": "Fjarlægir nöfn allra hlaðinna þorpara.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Þú ert ekki í cosmos-víddinni.",
   "collective.voidvanguards.message.generatedcosmosgate": "Bjó til cosmos-hlið.",
   "collective.voidvanguards.message.generatefollowingheads": "Þú getur búið til eftirfarandi hausa:",

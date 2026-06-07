@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s administratzaile-erabilera:",
   "collective.shared.message.commandsusage": "--- %s komandoen erabilera ---",
   "collective.shared.message.nopermission": "Ez duzu baimenik komando hori erabiltzeko.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Saltzaile ibiltariaren sorrerak huts egin du, saiatu berriro.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Saltzaile ibiltaria ondo sortu da!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Berrezarri",
   "collective.collective.message.headcachehelp": "Collective-ek katxean gordetako jokalari-buruen datuak berrezartzen ditu, adibidez itxurak eguneratzeko.",
   "collective.collective.message.headcachereset": "Jokalari-buruen katxea ondo berrezarri da.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Izenik gabeko eremua",
   "collective.areas.message.areasignpositions": "Inguruko eremu-seinaleen kokapenak:",
   "collective.areas.message.areasignsaround": "Ez dago eremu-seinalerik zure inguruan.",
   "collective.areas.message.signlocation": "%1$shemen: x=%2$s, y=%3$s, z=%4$s. (%5$s bloke)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ez dago jokalaririk mailei esleituta.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ez dago mailarik definituta.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s maila kendu da",
   "collective.beautifiedchatserver.message.unknowncolor": "Kolore ezezaguna: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Untxi hiltzailea dagoeneko hezita dago.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Untxi hiltzaile bat jaio da! Nahikoa urrun al zaude, edo baduzu urrezko azenario bat partekatzeko?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Untxi hiltzailea hezi da!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Untxi hiltzaileak urrezko azenario bat nahi du!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Sutegiaren birsorkuntza puntua falta da.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Sutegiaren birsorkuntza puntua berdin mantentzen da.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Sutegiaren birsorkuntza puntua kendu da.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Sutegiaren birsorkuntza puntua ezarri da.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Sutegiaren birsorkuntza puntua kendu da.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "%1$s / %2$s orrialdea, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Zerbait gaizki joan da desagertze-tenporizadorearen konfigurazio fitxategia birkargatzean.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Desagertze-tenporizadorearen konfigurazio fitxategia ondo kargatu da.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Jaregite bat gehitzeko: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Gehitu zure eskuko objektua entitatearen jaregiteetara %% 100eko aukerarekin.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Gehitu zure eskuko objektua entitatearen jaregiteetara 0 eta 1.0 arteko jaregite-aukerarekin.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Ezin da '%s' izeneko entitaterik aurkitu.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Ezin da '%s' izeneko entitaterik aurkitu jaregite-mapan.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ kokatutako konfigurazio fitxategiak birkargatzen ditu.",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Zerbait gaizki joan da konfigurazio fitxategia birkargatzean.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Munstroen edabe-efektuen konfigurazio fitxategiak ondo kargatu dira.",
   "collective.configurablemobpotioneffects.message.usage": "Erabilera:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Bloke-ordezte modua desgaitu da.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Bloke-ordezte modua gaitu da",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Kredituak erakusten",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Txandakatu eginkizun-zerrenda tolestea",
   "collective.dailyquests.message.activeplayerquests": "Jokalariaren eginkizun aktibo guztiak ordeztu dira.",
   "collective.dailyquests.message.addedquesttype": "%1$s eginkizun mota %2$s(r)en eginkizun-zerrendara gehitu da.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Ezin da eginkizun-identifikatzailea aurkitu kate honetatik: %s",
   "collective.dailyquests.message.unablefindquesttype": "Ezin da eginkizun mota aurkitu kate honetatik: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Ezin da munduaren zerbitzaria aurkitu, ezin da heriotza-babeskopia kargatu.",
   "collective.deathbackup.message.indexinvalid": "%s indizea baliogabea da.",
   "collective.deathbackup.message.lastdeathbackups": "Azken heriotza-babeskopiak: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Ezin da babeskopia fitxategia irakurri.",
   "collective.deathbackup.message.worldremoteunable": "Mundua ez da urrunekoa, ezin da heriotza-babeskopia kargatu.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitroak zure kokapenean jausi dira!",
   "collective.dragondropselytra.message.seemslikeslain": "Badirudi hildako Ender dragoiak elitro batzuk jaregin dituela! Agian lehenago beste abenturazale batenak ziren?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Ez duzu sorginka daitekeen objekturik esku nagusian.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "'%1$s' sorginkeria objektuari gehitu zaio %2$s mailarekin.",
   "collective.enchantingcommands.message.enchantmentexistitem": "'%s' sorginkeria ez dago objektuan.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s zerrenda ---",
   "collective.enchantingcommands.message.usage": "--- %s erabilera ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Dragoiaren arrautza gehigarri bat jausi da zure kokapenean!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informazio-makila",
   "collective.entityinformation.message.giveninformationstick": "Informazio-makila eman zaizu!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Txandakatu argitasun osoa",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Zure tresna zorroztuari erabileren %% 10 geratzen zaio.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Zure tresna zorroztuari erabileren %% 25 geratzen zaio.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Zure tresna zorroztuari erabileren %% 50 geratzen zaio.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Zure tresna ez dago jada zorroztuta.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Zure tresna %s erabilerarekin zorroztu da.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Garbitu GUI jarraitzaileen zerrenda",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%1$s %2$s eman dizkiozu %3$s(r)i.",
   "collective.handoveryouritems.message.givenby": "%1$s %2$s eman dizkizu %3$s(e)k.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktus zopa",
   "item.healingsoup.chocolate_milk": "Txokolate-esnea",
   "item.healingsoup.mushroom_soup": "Perretxiko zopa",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Erakutsi errezeta-liburuaren txandakatzea",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s burua",
   "collective.justmobheads.message.generatedconfigfile": "Konfigurazio fitxategi berria sortu da. Aukera lehenetsiak erabiltzen.",
   "collective.justmobheads.message.generatefollowingmob": "Honako munstro-buru hauek sor ditzakezu:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Erabilera: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Erabilera: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Jokalari baten burua lortzeko aukera ematen dizu.",
   "collective.justplayerheads.message.usagejphplayername": "Erabilera: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Parkour lauza oinarrizkoa",
   "block.letsparkour.fast_parkour_slab": "Parkour lauza azkarra",
   "block.letsparkour.illusion_parkour_slab": "Ilusiozko parkour lauza",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Parkour lauza biguna",
   "block.letsparkour.trapdoor_parkour_slab": "Tranpa-ate parkour lauza",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Simaurra",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Izenaren balioa '%s' gisa ezarri da.",
   "collective.nametagtweaks.message.usagenametagname": "Erabilera: '/nametag <name>' izen etiketa bat eskuan duzula.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "'%1$s' komodin-katea erabiliz, honako %2$s soinu-gertaera hauek mututu dira:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "'%1$s' komodin-katea erabiliz, honako %2$s soinu-gertaera hauei mututzea kendu zaie:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "'%1$s' komodin-katea erabiliz, honako %2$s soinu-gertaera hauek mututu dira %3$s-ko isiltze-denborarekin:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Ez da soinu-maparik aurkitu, berri bat sortu da.",
   "collective.omegamute.message.stoppedlisteningactive": "Soinu aktiboak entzuteari utzi diozu. Aktibatzeko erabili '/omegamute listen' berriro.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Kargatutako piglin guztiei izen ausazko berri bat ematen die.",
   "collective.piglinnames.message.givesunnamedloaded": "Izenik gabe kargatutako piglin guztiei izen bat ematen die.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s kargatutako piglini izena aldatu zaie.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s kargatutako piglinen izenak kendu dira.",
   "collective.piglinnames.message.removesnamesloaded": "Kargatutako piglin guztien izenak kentzen ditu.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Sutzar-hagaxka",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "%s jokalaria hil egin da eta zerbitzaritik kanporatu dute.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ezin duzu guztia jarraitu jarraipen mota honekin",
   "collective.playertracking.message.explanationtrackplayername": "'/track [playerName]'-ren azalpenerako irakurri 5. orrialdea.",
   "collective.playertracking.message.explanationtrackread": "'/track all'-en azalpenerako irakurri 4. orrialdea.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Jarraipen-laguntza orrialdea (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Erabili '/track [playerName]'  edo '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Iparrorratza %s(r)engana seinalatzen ari da.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Ezin da iparrorratza birbideratu. Ez dago jokalaririk inguruan edo hurbilegi daude.",
   "item.playertrackingcompass.tracking_compass": "Jarraipen-iparrorratza",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Mamu-zalduna",
   "collective.pumpkillagersquest.gui.ghostrider": "Mamu-zaldizkoa",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Paper zatia jasotzean, preso-kanpamentu baterako koordenatuak idatzita ikusten dituzu. Gaizki sentitzen zara Pumpkillager-a mundura berriro askatzeagatik. Agian preso batek hura gelditzen lagun zaitzake?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "%1$s pumpkillager etiketa ondo ezabatu d(ir)a %2$s(r)entzat.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s belar bloke leheneratu d(ir)a.",
   "collective.quickpaths.message.pathblockscreated": "%s blokeko bidexka sortu da. Desegiteko, egin eskuineko klik berriro azkenekoz klikatutako blokean.",
   "collective.quickpaths.message.shoveltoodamaged": "Zure pala kaltetuegi dago bidexkak sortzeko.",
   "collective.quickpaths.message.startingpointset": "Hasierako puntua hemen ezarri da: %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Ezin da Shulker-kutxa ireki, kokapena oztopatuta dago.",
   "collective.quickrightclick.message.unablesleeplocation": "Ezin da lo egin, kokapena oztopatuta dago.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Quicksave eta Quickload",
   "collective.quicksaving.key.quickload": "Quickload",
   "collective.quicksaving.key.quicksaving": "Quicksave",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Quickload eginda.",
   "collective.quicksaving.message.quicksaved": "Quicksave eginda.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Osagaiak:",
   "collective.recipecommands.message.pattern": "Eredua:",
   "collective.recipecommands.message.recipe": "%1$s(e)k %2$s errezeta du.",
   "collective.recipecommands.message.unablefindrecipe": "Ezin da errezeta aurkitu.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s jokalari ondo birsortu d(ir)a.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "'%s' inbentario-izena baliogabea da.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Zure inbentarioa '%s' izeneko aurrezarpenarekin ordeztu da.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "'/loadinventory %s' komandoarekin karga dezakezu.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Ezin da '%s' izeneko lineako jokalaririk aurkitu.",
   "collective.saveandloadinventories.message.unableloadcontent": "Ezin da '%s' izeneko inbentarioaren edukia kargatu.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Konprimitutako pantaila-argazkiaren tamaina: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Itzal-zaltokia",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Isilarazitako %s",
   "collective.silencemobs.gui.silencestick": "Isiltasun-makila",
   "collective.silencemobs.message.givensilencestick": "Isiltasun-makila eman zaizu! Erabili kontuz.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s isilarazi da.",
   "collective.silencemobs.message.unsilenced": "%s(r)i isiltasuna kendu zaio.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Goizegi da lo egiteko.",
   "collective.sleepsooner.message.untilduskmay": "Ilunabarrera arte egin duzu lo. Orain lo egin dezakezu.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Iratuxa-laborea",
   "item.spookyjams.creepers_delight_jam": "Creeper-aren gozamen marmelada",
   "item.spookyjams.creepers_delight_jam.desc.1": "Gozoa eta hegabera.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Indarrez betetzen zaitu,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "eta amaigabeko irrikaz.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Aukeratu %s",
   "collective.starterkit.message.activekitsreloaded": "Kit aktibo guztiak birkargatu dira.",
   "collective.starterkit.message.addscurrentinventory": "Zure uneko inbentarioa kit aktiboei gehitzen die.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Ezin da '%s' kita karpeta inaktibora eraman.",
   "collective.starterkit.message.userusage": "%s erabiltzaile-erabilera:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla Zoom hurbildu",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s hil egin da%2$s, %3$s(e)k eraginda.",
   "collective.villagerdeathmessages.message.location": " hemen: x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Kargatutako herritar guztiei izen ausazko berri bat ematen die.",
   "collective.villagernames.message.givesunnamedloaded": "Izenik gabe kargatutako herritar guztiei izen bat ematen die.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s kargatutako herritarri izena aldatu zaie.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s kargatutako herritarren izenak kendu dira.",
   "collective.villagernames.message.removesnamesloaded": "Kargatutako herritar guztien izenak kentzen ditu.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Ez zaude cosmos dimentsioan.",
   "collective.voidvanguards.message.generatedcosmosgate": "Cosmos atea sortu da.",
   "collective.voidvanguards.message.generatefollowingheads": "Honako buru hauek sor ditzakezu:",

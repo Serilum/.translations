@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Использование %s (админ):",
   "collective.shared.message.commandsusage": "--- Использование команд %s ---",
   "collective.shared.message.nopermission": "У вас нет прав на использование этой команды.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Не удалось призвать странствующего торговца, попробуйте ещё раз.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Странствующий торговец успешно призван!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Сброс",
   "collective.collective.message.headcachehelp": "Сбрасывает кэшированные данные голов игроков в Collective, например, чтобы обновить скины.",
   "collective.collective.message.headcachereset": "Кэш голов игроков успешно сброшен.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безымянная зона",
   "collective.areas.message.areasignpositions": "Расположение табличек зон вокруг вас:",
   "collective.areas.message.areasignsaround": "Вокруг вас нет табличек зон.",
   "collective.areas.message.signlocation": "%1$sна x=%2$s, y=%3$s, z=%4$s. (%5$s блоков)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Ни одному игроку не присвоен ранг.",
   "collective.beautifiedchatserver.message.noranksdefined": "Ранги не заданы.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Ранг %s удалён",
   "collective.beautifiedchatserver.message.unknowncolor": "Неизвестный цвет: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Кролик-убийца уже приручён.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Родился кролик-убийца! Вы отошли достаточно далеко или у вас есть золотая морковь, чтобы поделиться?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Кролик-убийца приручён!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Кролик-убийца хочет золотую морковь!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Точка возрождения у костра отсутствует.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Точка возрождения у костра осталась прежней.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Точка возрождения у костра удалена.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Точка возрождения у костра установлена.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Точка возрождения у костра сброшена.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Страница %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Что-то пошло не так при перезагрузке файла конфигурации таймера исчезновения.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Файл конфигурации таймера исчезновения успешно загружен.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Чтобы добавить дроп: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Добавить предмет из руки в дроп существа с шансом 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Добавить предмет из руки в дроп существа с шансом дропа от 0 до 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Не удалось найти существо с именем «%s».",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Не удалось найти существо с именем «%s» в таблице дропа.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Перезагружает файлы конфигурации в ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Что-то пошло не так при перезагрузке файла конфигурации.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Файлы конфигурации эффектов зелий для мобов успешно загружены.",
   "collective.configurablemobpotioneffects.message.usage": "Использование:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Режим замены блоков отключён.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Режим замены блоков включён",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Показ титров",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Свернуть/развернуть список заданий",
   "collective.dailyquests.message.activeplayerquests": "Все активные задания игроков заменены.",
   "collective.dailyquests.message.addedquesttype": "Тип задания %1$s добавлен в список заданий игрока %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Не удалось определить идентификатор задания из строки: %s",
   "collective.dailyquests.message.unablefindquesttype": "Не удалось определить тип задания из строки: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Не удаётся найти сервер мира, невозможно загрузить резервную копию смерти.",
   "collective.deathbackup.message.indexinvalid": "Индекс %s недопустим.",
   "collective.deathbackup.message.lastdeathbackups": "Последние резервные копии смерти: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Не удалось прочитать файл резервной копии.",
   "collective.deathbackup.message.worldremoteunable": "Мир не является удалённым, невозможно загрузить резервную копию смерти.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Элитры выпали на вашей позиции!",
   "collective.dragondropselytra.message.seemslikeslain": "Похоже, поверженный Эндер-дракон выронил элитры! Возможно, раньше они принадлежали другому искателю приключений?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "В вашей основной руке нет предмета, который можно зачаровать.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Чары «%1$s» добавлены к предмету с уровнем %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Чар «%s» нет на этом предмете.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Список %s ---",
   "collective.enchantingcommands.message.usage": "--- Использование %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Дополнительное яйцо дракона выпало на вашей позиции!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Палка сведений",
   "collective.entityinformation.message.giveninformationstick": "Вы получили Палку сведений!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Полная яркость",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "У вашего заточенного инструмента осталось 10%% прочности.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "У вашего заточенного инструмента осталось 25%% прочности.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "У вашего заточенного инструмента осталось 50%% прочности.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ваш инструмент больше не заточен.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ваш инструмент заточен, прочность увеличена на %s.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Очистить список спутников GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Вы отдали %1$s %2$s игроку %3$s.",
   "collective.handoveryouritems.message.givenby": "Игрок %3$s передал вам %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Кактусовый суп",
   "item.healingsoup.chocolate_milk": "Шоколадное молоко",
   "item.healingsoup.mushroom_soup": "Грибной суп",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Показать/скрыть книгу рецептов",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Голова: %s",
   "collective.justmobheads.message.generatedconfigfile": "Создан новый файл конфигурации. Используются стандартные шансы.",
   "collective.justmobheads.message.generatefollowingmob": "Вы можете создать следующие головы мобов:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Использование: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Использование: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Позволяет получить голову игрока.",
   "collective.justplayerheads.message.usagejphplayername": "Использование: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Базовая плита паркура",
   "block.letsparkour.fast_parkour_slab": "Ускоряющая плита паркура",
   "block.letsparkour.illusion_parkour_slab": "Иллюзорная плита паркура",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Мягкая плита паркура",
   "block.letsparkour.trapdoor_parkour_slab": "Плита-люк паркура",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Навоз",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Значение имени установлено: «%s».",
   "collective.nametagtweaks.message.usagenametagname": "Использование: «/nametag <name>», держа в руке бирку.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "С помощью маски «%1$s» было отключено звуковых событий (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowing": "С помощью маски «%1$s» было включено звуковых событий (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "С помощью маски «%1$s» было отключено звуковых событий (%2$s) с временем подавления %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Карта звуков не найдена, создана новая.",
   "collective.omegamute.message.stoppedlisteningactive": "Вы прекратили прослушивание активных звуков. Чтобы включить его снова, используйте «/omegamute listen».",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Даёт всем загруженным пиглинам новое случайное имя.",
   "collective.piglinnames.message.givesunnamedloaded": "Даёт имя всем безымянным загруженным пиглинам.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "Переименовано пиглинов: %s.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Имена удалены у пиглинов: %s.",
   "collective.piglinnames.message.removesnamesloaded": "Удаляет имена у всех загруженных пиглинов.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Огненный стержень",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Игрок %s умер и был кикнут с сервера.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Этим типом трекера нельзя отслеживать всех",
   "collective.playertracking.message.explanationtrackplayername": "Для объяснения команды «/track [playerName]» читайте страницу 5.",
   "collective.playertracking.message.explanationtrackread": "Для объяснения команды «/track all» читайте страницу 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Страница помощи по отслеживанию (5/5) — /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Используйте «/track [playerName]»  или «/track all».",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Компас указывает на %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Не удалось перенаправить компас. Вокруг нет игроков или они слишком близко.",
   "item.playertrackingcompass.tracking_compass": "Компас слежения",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Призрачный рыцарь",
   "collective.pumpkillagersquest.gui.ghostrider": "Призрачный всадник",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Тыквалибур",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Подобрав клочок бумаги, вы видите написанные на нём координаты лагеря пленников. Вам становится не по себе из-за того, что вы выпустили Тыкваря обратно в мир. Может, пленник поможет вам остановить его?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Успешно удалено меток Тыкваря (%1$s) у игрока %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Восстановлено блоков травы: %s.",
   "collective.quickpaths.message.pathblockscreated": "Создана тропа из %s блоков. Чтобы отменить, снова щёлкните правой кнопкой по последнему блоку.",
   "collective.quickpaths.message.shoveltoodamaged": "Ваша лопата слишком повреждена, чтобы создавать тропы.",
   "collective.quickpaths.message.startingpointset": "Начальная точка установлена на %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Не удалось открыть шалкеровый ящик, место загорожено.",
   "collective.quickrightclick.message.unablesleeplocation": "Не удалось уснуть, место загорожено.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Быстрое сохранение и загрузка",
   "collective.quicksaving.key.quickload": "Быстрая загрузка",
   "collective.quicksaving.key.quicksaving": "Быстрое сохранение",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Быстрая загрузка выполнена.",
   "collective.quicksaving.message.quicksaved": "Быстрое сохранение выполнено.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ингредиенты:",
   "collective.recipecommands.message.pattern": "Схема:",
   "collective.recipecommands.message.recipe": "У %1$s есть рецепт типа %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Не удалось найти рецепт.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Успешно возрождено игроков: %s.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Имя инвентаря «%s» недопустимо.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Ваш инвентарь заменён пресетом с именем «%s».",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Вы можете загрузить его командой «/loadinventory %s».",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Не удалось найти игрока в сети с именем «%s».",
   "collective.saveandloadinventories.message.unableloadcontent": "Не удалось загрузить содержимое инвентаря с именем «%s».",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Размер сжатого скриншота: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Теневое седло",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s (без звука)",
   "collective.silencemobs.gui.silencestick": "Палка тишины",
   "collective.silencemobs.message.givensilencestick": "Вы получили Палку тишины! Обращайтесь с ней осторожно.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s теперь без звука.",
   "collective.silencemobs.message.unsilenced": "%s снова со звуком.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Спать ещё слишком рано.",
   "collective.sleepsooner.message.untilduskmay": "Вы проспали до сумерек. Теперь вы можете спать.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Жуткий ямс (посевы)",
   "item.spookyjams.creepers_delight_jam": "Джем «Услада крипера»",
   "item.spookyjams.creepers_delight_jam.desc.1": "Сладкий и взрывоопасный.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Он наполняет вас силой",
   "item.spookyjams.zombies_hunger_jam.desc.2": "и нескончаемой жаждой.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Выберите %s",
   "collective.starterkit.message.activekitsreloaded": "Все активные наборы перезагружены.",
   "collective.starterkit.message.addscurrentinventory": "Добавляет ваш текущий инвентарь в активные наборы.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Не удалось переместить набор «%s» в неактивную папку.",
   "collective.starterkit.message.userusage": "Использование %s (игрок):",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Приблизить",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s погиб%2$s от %3$s.",
   "collective.villagerdeathmessages.message.location": " на x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Даёт всем загруженным крестьянам новое случайное имя.",
   "collective.villagernames.message.givesunnamedloaded": "Даёт имя всем безымянным загруженным крестьянам.",
   "collective.villagernames.message.loadedvillagersrenamed": "Переименовано крестьян: %s.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Имена удалены у крестьян: %s.",
   "collective.villagernames.message.removesnamesloaded": "Удаляет имена у всех загруженных крестьян.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Вы не в измерении космоса.",
   "collective.voidvanguards.message.generatedcosmosgate": "Космические врата созданы.",
   "collective.voidvanguards.message.generatefollowingheads": "Вы можете создать следующие головы:",

@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s administratora lietošana:",
   "collective.shared.message.commandsusage": "--- %s komandu lietošana ---",
   "collective.shared.message.nopermission": "Tev nav atļaujas izmantot šo komandu.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Neizdevās radīt klejojošo tirgotāju, mēģini vēlreiz.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Klejojošais tirgotājs veiksmīgi radīts!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Atiestatīt",
   "collective.collective.message.headcachehelp": "Atiestata Collective kešatmiņā saglabātos spēlētāju galvu datus, piemēram, lai atjauninātu izskatus.",
   "collective.collective.message.headcachereset": "Spēlētāju galvu kešatmiņa tika veiksmīgi atiestatīta.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nenosaukta teritorija",
   "collective.areas.message.areasignpositions": "Teritoriju zīmju pozīcijas tev apkārt:",
   "collective.areas.message.areasignsaround": "Tev apkārt nav nevienas teritorijas zīmes.",
   "collective.areas.message.signlocation": "%1$svietā x=%2$s, y=%3$s, z=%4$s. (%5$s bloki)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Nevienam spēlētājam nav piešķirts rangs.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nav definēts neviens rangs.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Rangs %s noņemts",
   "collective.beautifiedchatserver.message.unknowncolor": "Nezināma krāsa: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Slepkavas trusis jau ir pieradināts.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ir piedzimis slepkavas trusis! Vai esi pietiekami tālu, vai arī tev ir zelta burkāns, ko piedāvāt?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Slepkavas trusis ir pieradināts!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Slepkavas trusis grib zelta burkānu!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Ugunskura atdzimšanas vieta nav atrasta.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Ugunskura atdzimšanas vieta paliek nemainīga.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Ugunskura atdzimšanas vieta noņemta.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Ugunskura atdzimšanas vieta uzstādīta.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Ugunskura atdzimšanas vieta atiestatīta.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Lapa %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Pārlādējot izzušanas taimera konfigurācijas failu, kaut kas nogāja greizi.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Izzušanas taimera konfigurācijas fails veiksmīgi ielādēts.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Lai pievienotu lietu: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Pievieno savu rokā turēto priekšmetu būtnes lietām ar 100%% iespējamību.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Pievieno savu rokā turēto priekšmetu būtnes lietām ar izkrišanas iespējamību no 0 līdz 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nevar atrast būtni ar nosaukumu '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nevar atrast būtni ar nosaukumu '%s' lietu sarakstā.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Pārlādē konfigurācijas failus, kas atrodas ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Pārlādējot konfigurācijas failu, kaut kas nogāja greizi.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Briesmoņu dziras efektu konfigurācijas faili veiksmīgi ielādēti.",
   "collective.configurablemobpotioneffects.message.usage": "Lietošana:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Bloku aizvietošanas režīms atspējots.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Bloku aizvietošanas režīms iespējots",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Rāda titrus",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Pārslēgt uzdevumu saraksta sakļaušanu",
   "collective.dailyquests.message.activeplayerquests": "Visi aktīvie spēlētāja uzdevumi ir nomainīti.",
   "collective.dailyquests.message.addedquesttype": "Uzdevuma veids %1$s pievienots %2$s uzdevumu sarakstam.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nevar atrast uzdevuma identifikatoru no virknes: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nevar atrast uzdevuma veidu no virknes: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nevar atrast pasaules serveri, nevar ielādēt nāves dublējumu.",
   "collective.deathbackup.message.indexinvalid": "Indekss %s ir nederīgs.",
   "collective.deathbackup.message.lastdeathbackups": "Pēdējie nāves dublējumi: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nevar nolasīt dublējuma failu.",
   "collective.deathbackup.message.worldremoteunable": "Pasaule nav attālināta, nevar ielādēt nāves dublējumu.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitra nokrita tavā atrašanās vietā!",
   "collective.dragondropselytra.message.seemslikeslain": "Šķiet, nogalinātais Ender pūķis nometa elitru! Varbūt tā agrāk piederēja kādam citam piedzīvojumu meklētājam?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Tavā labajā rokā nav apburama priekšmeta.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Apburšana '%1$s' pievienota priekšmetam ar līmeni %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Apburšana '%s' priekšmetam neeksistē.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s saraksts ---",
   "collective.enchantingcommands.message.usage": "--- %s lietošana ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Tavā atrašanās vietā nokrita papildu pūķa ola!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informācijas Nūja",
   "collective.entityinformation.message.giveninformationstick": "Tev iedota Informācijas Nūja!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Pārslēgt pilnu gaišumu",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Tavam uzasinātajam rīkam atlikuši 10%% no tā lietojumiem.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Tavam uzasinātajam rīkam atlikuši 25%% no tā lietojumiem.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Tavam uzasinātajam rīkam atlikuši 50%% no tā lietojumiem.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tavs rīks vairs nav uzasināts.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tavs rīks uzasināts ar %s lietojumiem.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Notīrīt sekotāju sarakstu",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Tu iedevi %1$s %2$s spēlētājam %3$s.",
   "collective.handoveryouritems.message.givenby": "Tev iedeva %1$s %2$s no %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktusu zupa",
   "item.healingsoup.chocolate_milk": "Šokolādes piens",
   "item.healingsoup.mushroom_soup": "Sēņu zupa",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Pārslēgt recepšu grāmatu",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s galva",
   "collective.justmobheads.message.generatedconfigfile": "Izveidots jauns konfigurācijas fails. Tiek izmantotas noklusētās iespējamības.",
   "collective.justmobheads.message.generatefollowingmob": "Tu vari izveidot šādas briesmoņu galvas:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Lietošana: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Lietošana: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Ļauj tev iegūt spēlētāja galvu.",
   "collective.justplayerheads.message.usagejphplayername": "Lietošana: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Parkūra pamatplāksne",
   "block.letsparkour.fast_parkour_slab": "Ātrā parkūra plāksne",
   "block.letsparkour.illusion_parkour_slab": "Ilūzijas parkūra plāksne",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Mīkstā parkūra plāksne",
   "block.letsparkour.trapdoor_parkour_slab": "Lūkas parkūra plāksne",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Mēsli",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Vārds uzstādīts uz '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Lietošana: '/nametag <name>', turot rokā birku.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Izmantojot aizstājējzīmju virkni '%1$s', šie %2$s skaņu notikumi ir apklusināti:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Izmantojot aizstājējzīmju virkni '%1$s', šiem %2$s skaņu notikumiem ir atcelts apklusinājums:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Izmantojot aizstājējzīmju virkni '%1$s', šie %2$s skaņu notikumi ir apklusināti ar atskaņošanas pārtraukuma laiku %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Skaņu karte netika atrasta, ir izveidota jauna.",
   "collective.omegamute.message.stoppedlisteningactive": "Tu pārtrauci klausīties aktīvās skaņas. Lai to ieslēgtu, vēlreiz izmanto '/omegamute listen'.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Iedod visiem ielādētajiem piglīniem jaunu nejaušu vārdu.",
   "collective.piglinnames.message.givesunnamedloaded": "Iedod vārdu visiem nenosauktajiem ielādētajiem piglīniem.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s ielādētie piglīni ir pārdēvēti.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s ielādēto piglīnu vārdi ir noņemti.",
   "collective.piglinnames.message.removesnamesloaded": "Noņem vārdus visiem ielādētajiem piglīniem.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Liesmu stienis",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Spēlētājs %s ir miris un izmests no servera.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ar šāda veida izsekotāju tu nevari izsekot visus",
   "collective.playertracking.message.explanationtrackplayername": "Skaidrojumu par '/track [playerName]' lasi 5. lappusē.",
   "collective.playertracking.message.explanationtrackread": "Skaidrojumu par '/track all' lasi 4. lappusē.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Izsekošanas palīdzības lappuse (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Izmanto '/track [playerName]'  vai '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompass rāda uz %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nevar pārvirzīt kompasu. Apkārt nav spēlētāju vai arī viņi ir pārāk tuvu.",
   "item.playertrackingcompass.tracking_compass": "Izsekošanas kompass",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Spoku bruņinieks",
   "collective.pumpkillagersquest.gui.ghostrider": "Spoku jātnieks",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Paņemot papīra lapu, tu uz tās ieraugi pierakstītas koordinātes uz gūstekņu nometni. Tev kļūst nelāgi par Pumpkillager atbrīvošanu atpakaļ pasaulē. Varbūt kāds gūsteknis var palīdzēt tev viņu apturēt?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Veiksmīgi izdzēstas %1$s pumpkillager iezīmes spēlētājam %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s zāles bloki atjaunoti.",
   "collective.quickpaths.message.pathblockscreated": "Izveidota %s bloku taka. Lai atsauktu, vēlreiz ar labo pogu noklikšķini uz pēdējā noklikšķinātā bloka.",
   "collective.quickpaths.message.shoveltoodamaged": "Tava lāpsta ir pārāk bojāta, lai veidotu takas.",
   "collective.quickpaths.message.startingpointset": "Sākuma punkts uzstādīts uz %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nevar atvērt shulker kasti, vieta ir aizšķērsota.",
   "collective.quickrightclick.message.unablesleeplocation": "Nevar gulēt, vieta ir aizšķērsota.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Ātrā saglabāšana un ielāde",
   "collective.quicksaving.key.quickload": "Ātrā ielāde",
   "collective.quicksaving.key.quicksaving": "Ātrā saglabāšana",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Ātri ielādēts.",
   "collective.quicksaving.message.quicksaved": "Ātri saglabāts.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Sastāvdaļas:",
   "collective.recipecommands.message.pattern": "Raksts:",
   "collective.recipecommands.message.recipe": "%1$s ir %2$s recepte.",
   "collective.recipecommands.message.unablefindrecipe": "Nevar atrast recepti.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Veiksmīgi panākts, ka %s spēlētāji atdzimst.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Inventāra nosaukums '%s' ir nederīgs.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Tavs inventārs ir aizvietots ar sagatavi ar nosaukumu '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Tu vari to ielādēt ar komandu '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nevar atrast tiešsaistes spēlētāju ar nosaukumu '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nevar ielādēt inventāra ar nosaukumu '%s' saturu.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Saspiestā ekrānuzņēmuma izmērs: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Ēnu segli",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Apklusināts %s",
   "collective.silencemobs.gui.silencestick": "Klusuma Nūja",
   "collective.silencemobs.message.givensilencestick": "Tev iedota Klusuma Nūja! Rīkojies ar to uzmanīgi.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s ir apklusināts.",
   "collective.silencemobs.message.unsilenced": "%s apklusinājums ir atcelts.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Vēl ir pārāk agrs, lai gulētu.",
   "collective.sleepsooner.message.untilduskmay": "Tu gulēji līdz mijkrēslim. Tagad tu vari gulēt.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Spokainā jamsa stāds",
   "item.spookyjams.creepers_delight_jam": "Creeper prieka ievārījums",
   "item.spookyjams.creepers_delight_jam.desc.1": "Salds un nepastāvīgs.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Tas piepilda tevi ar spēku",
   "item.spookyjams.zombies_hunger_jam.desc.2": "un bezgalīgu alkatību.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Izvēlies %s",
   "collective.starterkit.message.activekitsreloaded": "Visi aktīvie komplekti ir pārlādēti.",
   "collective.starterkit.message.addscurrentinventory": "Pievieno tavu pašreizējo inventāru aktīvajiem komplektiem.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nevar pārvietot komplektu '%s' uz neaktīvo mapi.",
   "collective.starterkit.message.userusage": "%s lietotāja lietošana:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla tuvināšana",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s ir miris%2$s no %3$s.",
   "collective.villagerdeathmessages.message.location": " vietā x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Iedod visiem ielādētajiem ciemata iedzīvotājiem jaunu nejaušu vārdu.",
   "collective.villagernames.message.givesunnamedloaded": "Iedod vārdu visiem nenosauktajiem ielādētajiem ciemata iedzīvotājiem.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s ielādētie ciemata iedzīvotāji ir pārdēvēti.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s ielādēto ciemata iedzīvotāju vārdi ir noņemti.",
   "collective.villagernames.message.removesnamesloaded": "Noņem vārdus visiem ielādētajiem ciemata iedzīvotājiem.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Tu neatrodies kosmosa dimensijā.",
   "collective.voidvanguards.message.generatedcosmosgate": "Kosmosa vārti izveidoti.",
   "collective.voidvanguards.message.generatefollowingheads": "Tu vari izveidot šādas galvas:",

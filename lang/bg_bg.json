@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Използване на %s от администратор:",
   "collective.shared.message.commandsusage": "--- Използване на командите за %s ---",
   "collective.shared.message.nopermission": "Нямаш право да използваш тази команда.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Появяването на странстващия търговец се провали, опитай отново.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Странстващият търговец се появи успешно!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Нулирай",
   "collective.collective.message.headcachehelp": "Нулира кешираните от Collective данни за главите на играчите, например за да се обновят облиците.",
   "collective.collective.message.headcachereset": "Кешът с главите на играчите беше успешно нулиран.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Безименна зона",
   "collective.areas.message.areasignpositions": "Позиции на табелите за зони около теб:",
   "collective.areas.message.areasignsaround": "Няма табели за зони около теб.",
   "collective.areas.message.signlocation": "%1$sна x=%2$s, y=%3$s, z=%4$s. (%5$s блока)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Няма играчи, зачислени към рангове.",
   "collective.beautifiedchatserver.message.noranksdefined": "Няма зададени рангове.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Рангът %s беше премахнат",
   "collective.beautifiedchatserver.message.unknowncolor": "Непознат цвят: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Заекът убиец вече е опитомен.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Роди се заек убиец! Достатъчно далеч ли си или имаш златен морков, който да споделиш?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Заекът убиец е опитомен!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Заекът убиец иска златен морков!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Липсва точка на възраждане при лагерен огън.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Точката на възраждане при лагерен огън остава същата.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Точката на възраждане при лагерен огън беше премахната.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Точката на възраждане при лагерен огън беше зададена.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Точката на възраждане при лагерен огън беше премахната.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Страница %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Нещо се обърка при презареждането на конфигурационния файл за таймера на изчезване.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Конфигурационният файл за таймера на изчезване беше зареден успешно.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "За да добавиш предмет за пускане: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Добавя предмета в ръката ти към пусканите от съществото предмети с шанс 100%%.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Добавя предмета в ръката ти към пусканите от съществото предмети с шанс между 0 и 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Не може да се намери същество с името '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Не може да се намери същество с името '%s' в таблицата с пускани предмети.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Презарежда конфигурационните файлове, намиращи се в ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Нещо се обърка при презареждането на конфигурационния файл.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Конфигурационните файлове за ефектите от отвари върху съществата бяха заредени успешно.",
   "collective.configurablemobpotioneffects.message.usage": "Използване:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Режимът за замяна на блокове е изключен.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Режимът за замяна на блокове е включен",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Показване на надписите",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Свиване/разгъване на списъка с куестове",
   "collective.dailyquests.message.activeplayerquests": "Всички активни куестове на играча бяха заменени.",
   "collective.dailyquests.message.addedquesttype": "Куестът от тип %1$s беше добавен към списъка с куестове на %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Не може да се намери идентификатор на куест от текста: %s",
   "collective.dailyquests.message.unablefindquesttype": "Не може да се намери тип на куест от текста: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Сървърът на света не може да бъде намерен, резервното копие при смърт не може да се зареди.",
   "collective.deathbackup.message.indexinvalid": "Индексът %s е невалиден.",
   "collective.deathbackup.message.lastdeathbackups": "Последни резервни копия при смърт: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Файлът с резервното копие не може да бъде прочетен.",
   "collective.deathbackup.message.worldremoteunable": "Светът не е отдалечен, резервното копие при смърт не може да се зареди.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Крилете паднаха на твоята позиция!",
   "collective.dragondropselytra.message.seemslikeslain": "Изглежда, че убитият Дракон от Края е пуснал криле! Може би преди това са принадлежали на друг приключенец?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Нямаш предмет, който може да бъде омагьосан, в основната си ръка.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Магията '%1$s' беше добавена към предмета с ниво %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Магията '%s' не съществува върху предмета.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Списък за %s ---",
   "collective.enchantingcommands.message.usage": "--- Използване на %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Допълнително драконово яйце падна на твоята позиция!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Информационната пръчка",
   "collective.entityinformation.message.giveninformationstick": "Получи Информационната пръчка!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Превключване на пълна яркост",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "На наточения ти инструмент му остават 10%% от използванията.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "На наточения ти инструмент му остават 25%% от използванията.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "На наточения ти инструмент му остават 50%% от използванията.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Инструментът ти вече не е наточен.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Инструментът ти беше наточен с %s използвания.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Изчистване на списъка с последователи в интерфейса",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Даде %1$s %2$s на %3$s.",
   "collective.handoveryouritems.message.givenby": "Получи %1$s %2$s от %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Кактусова супа",
   "item.healingsoup.chocolate_milk": "Шоколадово мляко",
   "item.healingsoup.mushroom_soup": "Гъбена супа",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Превключване на показването на книгата с рецепти",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Глава на %s",
   "collective.justmobheads.message.generatedconfigfile": "Беше генериран нов конфигурационен файл. Използват се стойностите по подразбиране.",
   "collective.justmobheads.message.generatefollowingmob": "Може да генерираш следните глави на същества:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Използване: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Използване: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Позволява ти да получиш главата на играч.",
   "collective.justplayerheads.message.usagejphplayername": "Използване: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Основна паркур плоча",
   "block.letsparkour.fast_parkour_slab": "Бърза паркур плоча",
   "block.letsparkour.illusion_parkour_slab": "Илюзорна паркур плоча",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Мека паркур плоча",
   "block.letsparkour.trapdoor_parkour_slab": "Капакова паркур плоча",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Тор",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Стойността на името беше зададена на '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Използване: '/nametag <name>', докато държиш каишка с име.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Чрез шаблонния низ '%1$s' следните %2$s звукови събития бяха заглушени:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Чрез шаблонния низ '%1$s' заглушаването на следните %2$s звукови събития беше премахнато:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Чрез шаблонния низ '%1$s' следните %2$s звукови събития бяха заглушени с време на отрязване %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Не беше намерена звукова карта, беше генерирана нова.",
   "collective.omegamute.message.stoppedlisteningactive": "Спря да слушаш активните звуци. За да включиш това, използвай '/omegamute listen' отново.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Дава на всички заредени пиглини ново произволно име.",
   "collective.piglinnames.message.givesunnamedloaded": "Дава име на всички заредени пиглини без име.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s заредени пиглина бяха преименувани.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Имената на %s заредени пиглина бяха премахнати.",
   "collective.piglinnames.message.removesnamesloaded": "Премахва имената на всички заредени пиглини.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Пламенна пръчка",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Играчът %s умря и беше изхвърлен от сървъра.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Не може да проследяваш всички с този тип тракер",
   "collective.playertracking.message.explanationtrackplayername": "За обяснение на '/track [playerName]' прочети страница 5.",
   "collective.playertracking.message.explanationtrackread": "За обяснение на '/track all' прочети страница 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Страница с помощ за проследяване (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Използвай '/track [playerName]'  или '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Компасът сочи към %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Компасът не може да бъде пренасочен. Няма играчи наоколо или те са твърде близо.",
   "item.playertrackingcompass.tracking_compass": "Проследяващ компас",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Призрачният рицар",
   "collective.pumpkillagersquest.gui.ghostrider": "Призрачният ездач",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Докато вдигаш парчето хартия, виждаш изписани върху него координати към затворнически лагер. Чувстваш се зле, че си освободил Pumpkillager обратно на свобода. Може би някой затворник може да ти помогне да го спреш?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Успешно изтрити %1$s етикета на pumpkillager за %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s тревисти блока бяха възстановени.",
   "collective.quickpaths.message.pathblockscreated": "Беше създадена пътека от %s блока. За да отмениш, кликни отново с десен бутон върху последния кликнат блок.",
   "collective.quickpaths.message.shoveltoodamaged": "Лопатата ти е твърде повредена, за да създава пътеки.",
   "collective.quickpaths.message.startingpointset": "Началната точка беше зададена на %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Шулкъровата кутия не може да се отвори, местоположението е препречено.",
   "collective.quickrightclick.message.unablesleeplocation": "Не може да спиш, местоположението е препречено.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Бързо запазване и бързо зареждане",
   "collective.quicksaving.key.quickload": "Бързо зареждане",
   "collective.quicksaving.key.quicksaving": "Бързо запазване",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Бързо заредено.",
   "collective.quicksaving.message.quicksaved": "Бързо запазено.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Съставки:",
   "collective.recipecommands.message.pattern": "Шарка:",
   "collective.recipecommands.message.recipe": "%1$s има рецепта от тип %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Не може да се намери рецепта.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Успешно бяха възродени %s играч(и).",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Името на инвентара '%s' е невалидно.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Инвентарът ти беше заменен с шаблона с име '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Можеш да го заредиш с командата '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Не може да се намери онлайн играч с името '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Не може да се зареди съдържанието на инвентара с името '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Размер на компресираната екранна снимка: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Сенчесто седло",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Заглушен %s",
   "collective.silencemobs.gui.silencestick": "Заглушаващата пръчка",
   "collective.silencemobs.message.givensilencestick": "Получи Заглушаващата пръчка! Използвай я внимателно.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s беше заглушен.",
   "collective.silencemobs.message.unsilenced": "Заглушаването на %s беше премахнато.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Твърде рано е за сън.",
   "collective.sleepsooner.message.untilduskmay": "Спа до здрач. Сега можеш да спиш.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Посев от страховит ямс",
   "item.spookyjams.creepers_delight_jam": "Сладко от насладата на крийпъра",
   "item.spookyjams.creepers_delight_jam.desc.1": "Сладко и нестабилно.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Изпълва те със сила",
   "item.spookyjams.zombies_hunger_jam.desc.2": "и безкраен копнеж.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Избери %s",
   "collective.starterkit.message.activekitsreloaded": "Всички активни комплекти бяха презаредени.",
   "collective.starterkit.message.addscurrentinventory": "Добавя текущия ти инвентар към активните комплекти.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Комплектът '%s' не може да бъде преместен в неактивната папка.",
   "collective.starterkit.message.userusage": "Използване на %s от потребител:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Приближаване (Vanilla Zoom)",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s умря%2$s от %3$s.",
   "collective.villagerdeathmessages.message.location": " на x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Дава на всички заредени селяни ново произволно име.",
   "collective.villagernames.message.givesunnamedloaded": "Дава име на всички заредени селяни без име.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s заредени селяни бяха преименувани.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Имената на %s заредени селяни бяха премахнати.",
   "collective.villagernames.message.removesnamesloaded": "Премахва имената на всички заредени селяни.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Не си в измерението на космоса.",
   "collective.voidvanguards.message.generatedcosmosgate": "Космическата порта беше генерирана.",
   "collective.voidvanguards.message.generatefollowingheads": "Може да генерираш следните глави:",

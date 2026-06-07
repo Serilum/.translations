@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Użycie administratorskie %s:",
   "collective.shared.message.commandsusage": "--- Użycie komend %s ---",
   "collective.shared.message.nopermission": "Nie masz uprawnień, aby użyć tej komendy.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Przyzwanie wędrownego handlarza nie powiodło się, spróbuj ponownie.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Pomyślnie przyzwano wędrownego handlarza!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Zresetuj",
   "collective.collective.message.headcachehelp": "Resetuje zapisane w pamięci podręcznej dane głów graczy w Collective, na przykład w celu zaktualizowania skórek.",
   "collective.collective.message.headcachereset": "Pamięć podręczna głów graczy została pomyślnie zresetowana.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Obszar bez nazwy",
   "collective.areas.message.areasignpositions": "Pozycje tabliczek obszaru wokół ciebie:",
   "collective.areas.message.areasignsaround": "Wokół ciebie nie ma żadnych tabliczek obszaru.",
   "collective.areas.message.signlocation": "%1$sw x=%2$s, y=%3$s, z=%4$s. (%5$s bloków)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Żaden gracz nie jest przypisany do rang.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nie zdefiniowano żadnych rang.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Usunięto rangę %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Nieznany kolor: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Zabójczy królik został już oswojony.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Urodził się zabójczy królik! Czy jesteś wystarczająco daleko, albo masz złotą marchewkę do podzielenia się?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Zabójczy królik został oswojony!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Zabójczy królik chce złotą marchewkę!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Brak punktu odradzania przy ognisku.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Punkt odradzania przy ognisku pozostaje bez zmian.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Usunięto punkt odradzania przy ognisku.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Ustawiono punkt odradzania przy ognisku.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Cofnięto ustawienie punktu odradzania przy ognisku.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Strona %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Coś poszło nie tak podczas przeładowywania pliku konfiguracyjnego licznika znikania.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Pomyślnie wczytano plik konfiguracyjny licznika znikania.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Aby dodać łup: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Dodaj przedmiot z ręki do łupów bytu ze 100%% szansą.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Dodaj przedmiot z ręki do łupów bytu z szansą wypadnięcia pomiędzy 0 a 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nie można znaleźć bytu o nazwie „%s”.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nie można znaleźć bytu o nazwie „%s” w mapie łupów.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Przeładowuje pliki konfiguracyjne znajdujące się w ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Coś poszło nie tak podczas przeładowywania pliku konfiguracyjnego.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Pomyślnie wczytano pliki konfiguracyjne efektów mikstur mobów.",
   "collective.configurablemobpotioneffects.message.usage": "Użycie:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Tryb zamiany bloków wyłączony.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Tryb zamiany bloków włączony",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Wyświetlanie autorów",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Przełącz zwijanie listy zadań",
   "collective.dailyquests.message.activeplayerquests": "Wszystkie aktywne zadania graczy zostały zastąpione.",
   "collective.dailyquests.message.addedquesttype": "Dodano typ zadania %1$s do listy zadań gracza %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nie można znaleźć identyfikatora zadania z ciągu: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nie można znaleźć typu zadania z ciągu: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nie można znaleźć serwera świata, nie można wczytać kopii zapasowej śmierci.",
   "collective.deathbackup.message.indexinvalid": "Indeks %s jest nieprawidłowy.",
   "collective.deathbackup.message.lastdeathbackups": "Ostatnie kopie zapasowe śmierci: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nie można odczytać pliku kopii zapasowej.",
   "collective.deathbackup.message.worldremoteunable": "Świat nie jest zdalny, nie można wczytać kopii zapasowej śmierci.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elytry wypadły na twojej pozycji!",
   "collective.dragondropselytra.message.seemslikeslain": "Wygląda na to, że pokonany Smok Endu upuścił elytry! Być może wcześniej należały do innego poszukiwacza przygód?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Nie trzymasz w głównej ręce przedmiotu, który można zakląć.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Zaklęcie „%1$s” zostało dodane do przedmiotu na poziomie %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Zaklęcie „%s” nie występuje na tym przedmiocie.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Lista %s ---",
   "collective.enchantingcommands.message.usage": "--- Użycie %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Dodatkowe smocze jajo wypadło na twojej pozycji!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Patyk Informacji",
   "collective.entityinformation.message.giveninformationstick": "Otrzymałeś Patyk Informacji!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Przełącz pełną jasność",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Twojemu naostrzonemu narzędziu pozostało 10%% wytrzymałości.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Twojemu naostrzonemu narzędziu pozostało 25%% wytrzymałości.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Twojemu naostrzonemu narzędziu pozostało 50%% wytrzymałości.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Twoje narzędzie nie jest już naostrzone.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Twoje narzędzie zostało naostrzone i ma %s użyć.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Wyczyść listę towarzyszy z GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Przekazałeś %1$s %2$s graczowi %3$s.",
   "collective.handoveryouritems.message.givenby": "Otrzymałeś %1$s %2$s od gracza %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Zupa z kaktusa",
   "item.healingsoup.chocolate_milk": "Mleko czekoladowe",
   "item.healingsoup.mushroom_soup": "Zupa grzybowa",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Przełącz pokazywanie księgi receptur",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Głowa: %s",
   "collective.justmobheads.message.generatedconfigfile": "Wygenerowano nowy plik konfiguracyjny. Używane są domyślne szanse.",
   "collective.justmobheads.message.generatefollowingmob": "Możesz wygenerować następujące głowy mobów:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Użycie: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Użycie: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Pozwala zdobyć głowę gracza.",
   "collective.justplayerheads.message.usagejphplayername": "Użycie: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Podstawowa płyta parkourowa",
   "block.letsparkour.fast_parkour_slab": "Szybka płyta parkourowa",
   "block.letsparkour.illusion_parkour_slab": "Iluzoryczna płyta parkourowa",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Miękka płyta parkourowa",
   "block.letsparkour.trapdoor_parkour_slab": "Zapadniowa płyta parkourowa",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Obornik",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Ustawiono nazwę na „%s”.",
   "collective.nametagtweaks.message.usagenametagname": "Użycie: „/nametag <name>” trzymając znacznik.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Używając ciągu wieloznacznego „%1$s”, następujące zdarzenia dźwiękowe (%2$s) zostały wyciszone:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Używając ciągu wieloznacznego „%1$s”, następujące zdarzenia dźwiękowe (%2$s) zostały odciszone:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Używając ciągu wieloznacznego „%1$s”, następujące zdarzenia dźwiękowe (%2$s) zostały wyciszone z czasem wygaszania %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Nie znaleziono mapy dźwięków, wygenerowano nową.",
   "collective.omegamute.message.stoppedlisteningactive": "Przestałeś słuchać aktywnych dźwięków. Aby to włączyć, użyj ponownie „/omegamute listen”.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Nadaje wszystkim wczytanym piglinom nową losową nazwę.",
   "collective.piglinnames.message.givesunnamedloaded": "Nadaje nazwę wszystkim nienazwanym wczytanym piglinom.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "Zmieniono nazwy %s wczytanych piglinów.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Nazwy %s wczytanych piglinów zostały usunięte.",
   "collective.piglinnames.message.removesnamesloaded": "Usuwa nazwy wszystkich wczytanych piglinów.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Płomienna różdżka",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Gracz %s zginął i został wyrzucony z serwera.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Nie możesz śledzić wszystkich tym typem trackera",
   "collective.playertracking.message.explanationtrackplayername": "Wyjaśnienie komendy „/track [playerName]” znajdziesz na stronie 5.",
   "collective.playertracking.message.explanationtrackread": "Wyjaśnienie komendy „/track all” znajdziesz na stronie 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Strona pomocy śledzenia (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Użyj „/track [playerName]”  lub „/track all”.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompas wskazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nie można przekierować kompasu. W pobliżu nie ma graczy albo są zbyt blisko.",
   "item.playertrackingcompass.tracking_compass": "Kompas śledzący",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Rycerz Widmo",
   "collective.pumpkillagersquest.gui.ghostrider": "Jeździec Widmo",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Gdy podnosisz kawałek papieru, widzisz na nim zapisane współrzędne do obozu więźniów. Czujesz się źle z tym, że uwolniłeś Pumpkillagera z powrotem na świat. Może któryś z więźniów pomoże ci go powstrzymać?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Pomyślnie usunięto %1$s znaczników pumpkillagera dla gracza %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Przywrócono %s bloków trawy.",
   "collective.quickpaths.message.pathblockscreated": "Utworzono ścieżkę z %s bloków. Aby cofnąć, kliknij ponownie prawym przyciskiem ostatnio kliknięty blok.",
   "collective.quickpaths.message.shoveltoodamaged": "Twoja łopata jest zbyt zniszczona, aby tworzyć ścieżki.",
   "collective.quickpaths.message.startingpointset": "Punkt początkowy ustawiony na %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nie można otworzyć shulkerowej skrzyni, miejsce jest zablokowane.",
   "collective.quickrightclick.message.unablesleeplocation": "Nie można zasnąć, miejsce jest zablokowane.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Szybki zapis i odczyt",
   "collective.quicksaving.key.quickload": "Szybki odczyt",
   "collective.quicksaving.key.quicksaving": "Szybki zapis",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Wczytano szybki zapis.",
   "collective.quicksaving.message.quicksaved": "Zapisano szybki zapis.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Składniki:",
   "collective.recipecommands.message.pattern": "Wzór:",
   "collective.recipecommands.message.recipe": "%1$s ma recepturę typu %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "Nie można znaleźć receptury.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Pomyślnie odrodzono graczy (%s).",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Nazwa ekwipunku „%s” jest nieprawidłowa.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Twój ekwipunek został zastąpiony zestawem o nazwie „%s”.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Możesz go wczytać komendą „/loadinventory %s”.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nie można znaleźć gracza online o nazwie „%s”.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nie można wczytać zawartości ekwipunku o nazwie „%s”.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Rozmiar skompresowanego zrzutu ekranu: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Mroczne siodło",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Wyciszono %s",
   "collective.silencemobs.gui.silencestick": "Patyk Ciszy",
   "collective.silencemobs.message.givensilencestick": "Otrzymałeś Patyk Ciszy! Obchodź się z nim ostrożnie.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s został wyciszony.",
   "collective.silencemobs.message.unsilenced": "%s został odciszony.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Jest za wcześnie, aby spać.",
   "collective.sleepsooner.message.untilduskmay": "Spałeś aż do zmierzchu. Teraz możesz spać.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Uprawa straszliwego pochrzynu",
   "item.spookyjams.creepers_delight_jam": "Dżem Rozkosz Creepera",
   "item.spookyjams.creepers_delight_jam.desc.1": "Słodki i ulotny.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Napełnia cię siłą",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i niekończącym się łaknieniem.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Wybierz %s",
   "collective.starterkit.message.activekitsreloaded": "Wszystkie aktywne zestawy zostały przeładowane.",
   "collective.starterkit.message.addscurrentinventory": "Dodaje twój obecny ekwipunek do aktywnych zestawów.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nie można przenieść zestawu „%s” do folderu nieaktywnych.",
   "collective.starterkit.message.userusage": "Użycie użytkownika %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Przybliżenie Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s zginął%2$s z ręki %3$s.",
   "collective.villagerdeathmessages.message.location": " w x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Nadaje wszystkim wczytanym osadnikom nową losową nazwę.",
   "collective.villagernames.message.givesunnamedloaded": "Nadaje nazwę wszystkim nienazwanym wczytanym osadnikom.",
   "collective.villagernames.message.loadedvillagersrenamed": "Zmieniono nazwy %s wczytanych osadników.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Nazwy %s wczytanych osadników zostały usunięte.",
   "collective.villagernames.message.removesnamesloaded": "Usuwa nazwy wszystkich wczytanych osadników.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nie jesteś w wymiarze kosmosu.",
   "collective.voidvanguards.message.generatedcosmosgate": "Wygenerowano bramę kosmosu.",
   "collective.voidvanguards.message.generatefollowingheads": "Możesz wygenerować następujące głowy:",

@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s-ylläpitäjäkäyttö:",
   "collective.shared.message.commandsusage": "--- %s-komentojen käyttö ---",
   "collective.shared.message.nopermission": "Sinulla ei ole oikeutta käyttää tätä komentoa.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Kulkukauppiaan synnyttäminen epäonnistui, yritä uudelleen.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Kulkukauppiaan synnyttäminen onnistui!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Palauta",
   "collective.collective.message.headcachehelp": "Tyhjentää Collectiven välimuistiin tallennetut pelaajien päätiedot, esimerkiksi skinien päivittämiseksi.",
   "collective.collective.message.headcachereset": "Pelaajien päiden välimuisti tyhjennettiin onnistuneesti.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nimetön alue",
   "collective.areas.message.areasignpositions": "Aluekylttien sijainnit ympärilläsi:",
   "collective.areas.message.areasignsaround": "Ympärilläsi ei ole aluekylttejä.",
   "collective.areas.message.signlocation": "%1$ssijainnissa x=%2$s, y=%3$s, z=%4$s. (%5$s kuutiota)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Yhtään pelaajaa ei ole liitetty arvoihin.",
   "collective.beautifiedchatserver.message.noranksdefined": "Yhtään arvoa ei ole määritetty.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Poistettiin arvo %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Tuntematon väri: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Tappajajänis on jo kesytetty.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Tappajajänis on syntynyt! Oletko tarpeeksi kaukana vai onko sinulla kultaporkkana jaettavaksi?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Tappajajänis on kesytetty!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Tappajajänis haluaa kultaporkkanan!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Nuotion uudelleensyntymispiste puuttuu.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Nuotion uudelleensyntymispiste pysyy samana.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Nuotion uudelleensyntymispiste poistettu.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Nuotion uudelleensyntymispiste asetettu.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Nuotion uudelleensyntymispiste poistettu käytöstä.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Sivu %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Jokin meni vikaan ladattaessa despawn-ajastimen asetustiedostoa uudelleen.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Despawn-ajastimen asetustiedosto ladattiin onnistuneesti.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Lisätäksesi pudotuksen: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Lisää kädessäsi oleva esine olennon pudotuksiin 100%% todennäköisyydellä.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Lisää kädessäsi oleva esine olennon pudotuksiin pudotustodennäköisyydellä, joka on välillä 0 ja 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Olentoa nimeltä '%s' ei löytynyt.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Olentoa nimeltä '%s' ei löytynyt pudotusten hajautustaulusta.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Lataa uudelleen asetustiedostot, jotka sijaitsevat kansiossa ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Jokin meni vikaan ladattaessa asetustiedostoa uudelleen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Olentojen taikajuomavaikutusten asetustiedostot ladattiin onnistuneesti.",
   "collective.configurablemobpotioneffects.message.usage": "Käyttö:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Kuutioiden korvaustila poistettu käytöstä.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Kuutioiden korvaustila otettu käyttöön",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Näytetään lopputekstit",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Laajenna/tiivistä tehtävälista",
   "collective.dailyquests.message.activeplayerquests": "Kaikki pelaajan aktiiviset tehtävät on korvattu.",
   "collective.dailyquests.message.addedquesttype": "Lisättiin tehtävätyyppi %1$s pelaajan %2$s tehtävälistaan.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Tehtävätunnistetta ei löytynyt merkkijonosta: %s",
   "collective.dailyquests.message.unablefindquesttype": "Tehtävätyyppiä ei löytynyt merkkijonosta: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Maailman palvelinta ei löydy, kuolemavarmuuskopiota ei voi ladata.",
   "collective.deathbackup.message.indexinvalid": "Indeksi %s on virheellinen.",
   "collective.deathbackup.message.lastdeathbackups": "Viimeisimmät kuolemavarmuuskopiot: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Varmuuskopiotiedostoa ei voi lukea.",
   "collective.deathbackup.message.worldremoteunable": "Maailma ei ole etämaailma, kuolemavarmuuskopiota ei voi ladata.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elytra putosi sijaintiisi!",
   "collective.dragondropselytra.message.seemslikeslain": "Vaikuttaa siltä, että surmattu ender-lohikäärme pudotti elytran! Ehkä se kuului aiemmin toiselle seikkailijalle?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Pääkädessäsi ei ole lumottavaa esinettä.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Lumous '%1$s' lisättiin esineeseen tasolla %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Esineessä ei ole lumousta '%s'.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s-lista ---",
   "collective.enchantingcommands.message.usage": "--- %s-käyttö ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Ylimääräinen lohikäärmeen muna putosi sijaintiisi!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Tietokeppi",
   "collective.entityinformation.message.giveninformationstick": "Sait Tietokepin!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Vaihda täysi kirkkaus",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Teroitetulla työkalullasi on 10%% käyttökerroista jäljellä.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Teroitetulla työkalullasi on 25%% käyttökerroista jäljellä.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Teroitetulla työkalullasi on 50%% käyttökerroista jäljellä.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Työkalusi ei ole enää teroitettu.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Työkalusi teroitettiin %s käyttökerralla.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tyhjennä GUI-seuraajalista",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Annoit %1$s %2$s pelaajalle %3$s.",
   "collective.handoveryouritems.message.givenby": "Sait %1$s %2$s pelaajalta %3$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktuskeitto",
   "item.healingsoup.chocolate_milk": "Suklaamaito",
   "item.healingsoup.mushroom_soup": "Sienikeitto",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Näytä reseptikirjan vaihto",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s-pää",
   "collective.justmobheads.message.generatedconfigfile": "Luotiin uusi asetustiedosto. Käytetään oletustodennäköisyyksiä.",
   "collective.justmobheads.message.generatefollowingmob": "Voit luoda seuraavat olentojen päät:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Käyttö: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Käyttö: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Antaa sinun saada pelaajan pään.",
   "collective.justplayerheads.message.usagejphplayername": "Käyttö: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Perusparkourlaatta",
   "block.letsparkour.fast_parkour_slab": "Nopea parkourlaatta",
   "block.letsparkour.illusion_parkour_slab": "Illuusioparkourlaatta",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Pehmeä parkourlaatta",
   "block.letsparkour.trapdoor_parkour_slab": "Luukkuparkourlaatta",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Lanta",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Nimen arvoksi asetettiin '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Käyttö: '/nametag <name>' pidellessäsi nimilappua.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Käyttämällä jokerimerkkijonoa '%1$s' seuraavat %2$s ääniefektiä on mykistetty:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Käyttämällä jokerimerkkijonoa '%1$s' seuraavien %2$s ääniefektin mykistys on poistettu:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Käyttämällä jokerimerkkijonoa '%1$s' seuraavat %2$s ääniefektiä on mykistetty rajoitusajalla %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Äänikarttaa ei löytynyt, uusi on luotu.",
   "collective.omegamute.message.stoppedlisteningactive": "Lopetit aktiivisten äänten kuuntelun. Ottaaksesi tämän käyttöön käytä komentoa '/omegamute listen' uudelleen.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Antaa kaikille ladatuille piglineille uuden satunnaisen nimen.",
   "collective.piglinnames.message.givesunnamedloaded": "Antaa kaikille nimettömille ladatuille piglineille nimen.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s ladattua piglinia nimettiin uudelleen.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s ladatun piglinin nimet on poistettu.",
   "collective.piglinnames.message.removesnamesloaded": "Poistaa kaikkien ladattujen piglinien nimet.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Roihusauva",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Pelaaja %s on kuollut ja potkittu palvelimelta.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Et voi jäljittää kaikkia tämäntyyppisellä jäljittimellä",
   "collective.playertracking.message.explanationtrackplayername": "Lue selitys komennolle '/track [playerName]' sivulta 5.",
   "collective.playertracking.message.explanationtrackread": "Lue selitys komennolle '/track all' sivulta 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Jäljitysohjeen sivu (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Käytä '/track [playerName]'  tai '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompassi osoittaa kohti pelaajaa %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kompassia ei voi uudelleenohjata. Lähellä ei ole pelaajia tai he ovat liian lähellä.",
   "item.playertrackingcompass.tracking_compass": "Jäljityskompassi",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Aaveritari",
   "collective.pumpkillagersquest.gui.ghostrider": "Aaveratsastaja",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Poimiessasi paperinpalan näet siihen kirjoitetut koordinaatit vankileiriin. Sinusta tuntuu pahalta, että päästit Pumpkillagerin takaisin maailmaan. Ehkä vanki voisi auttaa sinua pysäyttämään hänet?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Poistettiin onnistuneesti %1$s pumpkillager-merkintää pelaajalta %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s ruohokuutiota palautettiin.",
   "collective.quickpaths.message.pathblockscreated": "%s kuution polku luotiin. Kumotaksesi napsauta viimeksi napsautettua kuutiota uudelleen hiiren oikealla painikkeella.",
   "collective.quickpaths.message.shoveltoodamaged": "Lapiosi on liian vaurioitunut polkujen luomiseen.",
   "collective.quickpaths.message.startingpointset": "Aloituspiste asetettiin sijaintiin %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Shulker-laatikkoa ei voi avata, sijainti tukossa.",
   "collective.quickrightclick.message.unablesleeplocation": "Ei voi nukkua, sijainti tukossa.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Pikatallennus ja pikalataus",
   "collective.quicksaving.key.quickload": "Pikalataus",
   "collective.quicksaving.key.quicksaving": "Pikatallennus",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Pikaladattu.",
   "collective.quicksaving.message.quicksaved": "Pikatallennettu.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ainekset:",
   "collective.recipecommands.message.pattern": "Kaava:",
   "collective.recipecommands.message.recipe": "Esineellä %1$s on %2$s-resepti.",
   "collective.recipecommands.message.unablefindrecipe": "Reseptiä ei löytynyt.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "%s pelaaja(a) saatiin onnistuneesti uudelleensyntymään.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Tavaraluettelon nimi '%s' on virheellinen.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Tavarasi korvattiin esiasetuksella nimeltä '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Voit ladata sen komennolla '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Verkossa olevaa pelaajaa nimeltä '%s' ei löytynyt.",
   "collective.saveandloadinventories.message.unableloadcontent": "Tavaraluettelon nimeltä '%s' sisältöä ei voi ladata.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Pakatun kuvakaappauksen koko: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Varjosatula",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Vaiennettu %s",
   "collective.silencemobs.gui.silencestick": "Vaiennuskeppi",
   "collective.silencemobs.message.givensilencestick": "Sait Vaiennuskepin! Käsittele varoen.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s vaiennettiin.",
   "collective.silencemobs.message.unsilenced": "%s:n vaiennus poistettiin.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "On liian aikaista nukkua.",
   "collective.sleepsooner.message.untilduskmay": "Nukuit hämärään asti. Voit nyt nukkua.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Aavebataattikasvi",
   "item.spookyjams.creepers_delight_jam": "Creeperin herkkuhillo",
   "item.spookyjams.creepers_delight_jam.desc.1": "Makeaa ja räjähdysherkkää.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Se täyttää sinut voimalla,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ja loputtomalla himolla.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Valitse %s",
   "collective.starterkit.message.activekitsreloaded": "Kaikki aktiiviset varustepaketit on ladattu uudelleen.",
   "collective.starterkit.message.addscurrentinventory": "Lisää nykyiset tavarasi aktiivisiin varustepaketteihin.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Varustepakettia '%s' ei voi siirtää epäaktiiviseen kansioon.",
   "collective.starterkit.message.userusage": "%s-käyttäjäkäyttö:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla-lähennys",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s kuoli%2$s tekijänä %3$s.",
   "collective.villagerdeathmessages.message.location": " sijainnissa x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Antaa kaikille ladatuille kyläläisille uuden satunnaisen nimen.",
   "collective.villagernames.message.givesunnamedloaded": "Antaa kaikille nimettömille ladatuille kyläläisille nimen.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s ladattua kyläläistä nimettiin uudelleen.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s ladatun kyläläisen nimet on poistettu.",
   "collective.villagernames.message.removesnamesloaded": "Poistaa kaikkien ladattujen kyläläisten nimet.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Et ole kosmos-ulottuvuudessa.",
   "collective.voidvanguards.message.generatedcosmosgate": "Luotiin kosmosportti.",
   "collective.voidvanguards.message.generatefollowingheads": "Voit luoda seuraavat päät:",

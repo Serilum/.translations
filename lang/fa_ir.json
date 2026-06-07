@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "نحوه استفاده مدیر %s:",
   "collective.shared.message.commandsusage": "--- نحوه استفاده از دستورات %s ---",
   "collective.shared.message.nopermission": "شما اجازه استفاده از این دستور را ندارید.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "ظاهر شدن معامله‌گر سرگردان ناموفق بود، دوباره تلاش کنید.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "معامله‌گر سرگردان با موفقیت ظاهر شد!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "تنظیم مجدد",
   "collective.collective.message.headcachehelp": "داده‌های سر بازیکنان ذخیره‌شده در حافظهٔ موقت Collective را بازنشانی می‌کند، برای مثال جهت به‌روزرسانی پوسته‌ها.",
   "collective.collective.message.headcachereset": "حافظهٔ موقت سر بازیکنان با موفقیت بازنشانی شد.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "محدوده بدون نام",
   "collective.areas.message.areasignpositions": "موقعیت تابلوهای محدوده در اطراف شما:",
   "collective.areas.message.areasignsaround": "هیچ تابلوی محدوده‌ای در اطراف شما نیست.",
   "collective.areas.message.signlocation": "%1$sدر x=%2$s, y=%3$s, z=%4$s. (%5$s بلوک)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "هیچ بازیکنی به رتبه‌ها اختصاص داده نشده.",
   "collective.beautifiedchatserver.message.noranksdefined": "هیچ رتبه‌ای تعریف نشده.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "رتبه %s حذف شد",
   "collective.beautifiedchatserver.message.unknowncolor": "رنگ ناشناخته: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "خرگوش قاتل از قبل رام شده است.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "یک خرگوش قاتل به دنیا آمد! آیا به اندازه کافی دور هستید یا هویج طلایی برای دادن دارید؟",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "خرگوش قاتل رام شد!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "خرگوش قاتل یک هویج طلایی می‌خواهد!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "نقطه بازگشت کنده آتش وجود ندارد.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "نقطه بازگشت کنده آتش تغییری نکرد.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "نقطه بازگشت کنده آتش حذف شد.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "نقطه بازگشت کنده آتش تنظیم شد.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "نقطه بازگشت کنده آتش برداشته شد.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "صفحه %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "هنگام بارگذاری مجدد فایل پیکربندی تایمر ناپدید شدن مشکلی پیش آمد.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "فایل پیکربندی تایمر ناپدید شدن با موفقیت بارگذاری شد.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "برای افزودن یک افتادنی: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "آیتم دستتان را با احتمال %%100 به افتادنی‌های موجود اضافه کنید.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "آیتم دستتان را با احتمال افتادن بین 0 و 1.0 به افتادنی‌های موجود اضافه کنید.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "موجودی با نام '%s' یافت نشد.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "موجودی با نام '%s' در فهرست افتادنی‌ها یافت نشد.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "فایل‌های پیکربندی واقع در ./config/configurablemobpotioneffects/ را دوباره بارگذاری می‌کند",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "هنگام بارگذاری مجدد فایل پیکربندی مشکلی پیش آمد.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "فایل‌های پیکربندی اثر معجون موجودات با موفقیت بارگذاری شد.",
   "collective.configurablemobpotioneffects.message.usage": "نحوه استفاده:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "حالت جایگزینی بلوک غیرفعال شد.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "حالت جایگزینی بلوک فعال شد",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "در حال نمایش سازندگان",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "جمع/باز کردن فهرست ماموریت‌ها",
   "collective.dailyquests.message.activeplayerquests": "تمام ماموریت‌های فعال بازیکن جایگزین شدند.",
   "collective.dailyquests.message.addedquesttype": "نوع ماموریت %1$s به فهرست ماموریت‌های %2$s اضافه شد.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "شناسه ماموریت از رشته یافت نشد: %s",
   "collective.dailyquests.message.unablefindquesttype": "نوع ماموریت از رشته یافت نشد: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "سرور دنیا یافت نشد، بارگذاری پشتیبان مرگ ممکن نیست.",
   "collective.deathbackup.message.indexinvalid": "شاخص %s نامعتبر است.",
   "collective.deathbackup.message.lastdeathbackups": "آخرین پشتیبان‌های مرگ: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "خواندن فایل پشتیبان ممکن نیست.",
   "collective.deathbackup.message.worldremoteunable": "دنیا از راه دور نیست، بارگذاری پشتیبان مرگ ممکن نیست.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "بال پوش در موقعیت شما افتاد!",
   "collective.dragondropselytra.message.seemslikeslain": "به نظر می‌رسد اژدهای فرجام کشته‌شده یک بال پوش انداخت! شاید قبلاً متعلق به ماجراجوی دیگری بوده باشد؟",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "در دست اصلی خود آیتمی قابل افسون ندارید.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "افسون '%1$s' با سطح %2$s به آیتم اضافه شد.",
   "collective.enchantingcommands.message.enchantmentexistitem": "افسون '%s' روی آیتم وجود ندارد.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- فهرست %s ---",
   "collective.enchantingcommands.message.usage": "--- نحوه استفاده از %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "یک تخم اژدهای اضافی در موقعیت شما افتاد!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "چوب اطلاعات",
   "collective.entityinformation.message.giveninformationstick": "چوب اطلاعات به شما داده شد!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "روشنایی کامل",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "ابزار تیزشده شما %%10 از مصرفش باقی مانده است.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "ابزار تیزشده شما %%25 از مصرفش باقی مانده است.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "ابزار تیزشده شما %%50 از مصرفش باقی مانده است.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "ابزار شما دیگر تیز نیست.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "ابزار شما با %s مصرف تیز شد.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "پاک کردن فهرست دنبال‌کنندگان GUI",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "شما %1$s %2$s به %3$s دادید.",
   "collective.handoveryouritems.message.givenby": "%3$s به شما %1$s %2$s داد.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "سوپ کاکتوس",
   "item.healingsoup.chocolate_milk": "شیر کاکائو",
   "item.healingsoup.mushroom_soup": "سوپ قارچ",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "نمایش/پنهان کردن کتاب دستور تهیه",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "سر %s",
   "collective.justmobheads.message.generatedconfigfile": "فایل پیکربندی جدید ساخته شد. از احتمالات پیش‌فرض استفاده می‌شود.",
   "collective.justmobheads.message.generatefollowingmob": "شما می‌توانید سرهای موجودات زیر را بسازید:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "نحوه استفاده: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "نحوه استفاده: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "به شما اجازه می‌دهد سر یک بازیکن را به دست آورید.",
   "collective.justplayerheads.message.usagejphplayername": "نحوه استفاده: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "نیمه‌بلوک پارکور پایه",
   "block.letsparkour.fast_parkour_slab": "نیمه‌بلوک پارکور سریع",
   "block.letsparkour.illusion_parkour_slab": "نیمه‌بلوک پارکور توهمی",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "نیمه‌بلوک پارکور نرم",
   "block.letsparkour.trapdoor_parkour_slab": "نیمه‌بلوک پارکور دریچه‌ای",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "کود",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "مقدار نام روی '%s' تنظیم شد.",
   "collective.nametagtweaks.message.usagenametagname": "نحوه استفاده: '/nametag <name>' هنگام در دست داشتن یک نام گذار.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "با استفاده از رشته جایگزین '%1$s'، این %2$s رویداد صوتی بی‌صدا شدند:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "با استفاده از رشته جایگزین '%1$s'، این %2$s رویداد صوتی از حالت بی‌صدا خارج شدند:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "با استفاده از رشته جایگزین '%1$s'، این %2$s رویداد صوتی با زمان حذف %3$s بی‌صدا شدند:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "نقشه صوتی یافت نشد، یک نقشه جدید ساخته شد.",
   "collective.omegamute.message.stoppedlisteningactive": "گوش دادن به صداهای فعال را متوقف کردید. برای روشن کردن دوباره از '/omegamute listen' استفاده کنید.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "به تمام پیگلین‌های بارگذاری‌شده یک نام تصادفی جدید می‌دهد.",
   "collective.piglinnames.message.givesunnamedloaded": "به تمام پیگلین‌های بارگذاری‌شده بدون نام یک نام می‌دهد.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s پیگلین بارگذاری‌شده تغییر نام دادند.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "نام %s پیگلین بارگذاری‌شده حذف شد.",
   "collective.piglinnames.message.removesnamesloaded": "نام تمام پیگلین‌های بارگذاری‌شده را حذف می‌کند.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "میله آتشین",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "بازیکن %s مرد و از سرور اخراج شد.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "با این نوع ردیاب نمی‌توانید همه را ردیابی کنید",
   "collective.playertracking.message.explanationtrackplayername": "برای توضیح درباره '/track [playerName]' صفحه 5 را بخوانید.",
   "collective.playertracking.message.explanationtrackread": "برای توضیح درباره '/track all' صفحه 4 را بخوانید.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "صفحه راهنمای ردیابی (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "از '/track [playerName]'  یا '/track all' استفاده کنید.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "قطب نما به سمت %s اشاره می‌کند.",
   "collective.playertrackingcompass.message.unableredirectcompass": "تغییر جهت قطب نما ممکن نیست. هیچ بازیکنی در اطراف نیست یا خیلی نزدیک هستند.",
   "item.playertrackingcompass.tracking_compass": "قطب نمای ردیاب",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "شوالیه شبح",
   "collective.pumpkillagersquest.gui.ghostrider": "سوارکار شبح",
   "collective.pumpkillagersquest.gui.pumpkalibur": "پامپکالیبر",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "همان‌طور که تکه کاغذ را برمی‌داری، مختصاتی نوشته‌شده روی آن به یک اردوگاه زندانیان می‌بینی. از اینکه Pumpkillager را دوباره به دنیا رها کرده‌ای احساس بدی داری. شاید یک زندانی بتواند به تو کمک کند تا او را متوقف کنی؟",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "با موفقیت %1$s برچسب pumpkillager برای %2$s حذف شد.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s بلوک چمن بازیابی شد.",
   "collective.quickpaths.message.pathblockscreated": "مسیری از %s بلوک ساخته شد. برای لغو، دوباره روی آخرین بلوک کلیک‌شده راست‌کلیک کنید.",
   "collective.quickpaths.message.shoveltoodamaged": "بیل شما برای ساختن مسیر بیش از حد آسیب دیده است.",
   "collective.quickpaths.message.startingpointset": "نقطه شروع روی %1$s, %2$s, %3$s تنظیم شد.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "باز کردن جعبه شالکر ممکن نیست، موقعیت مسدود است.",
   "collective.quickrightclick.message.unablesleeplocation": "خوابیدن ممکن نیست، موقعیت مسدود است.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "ذخیره سریع و بارگذاری سریع",
   "collective.quicksaving.key.quickload": "بارگذاری سریع",
   "collective.quicksaving.key.quicksaving": "ذخیره سریع",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "بارگذاری سریع شد.",
   "collective.quicksaving.message.quicksaved": "ذخیره سریع شد.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "مواد لازم:",
   "collective.recipecommands.message.pattern": "الگو:",
   "collective.recipecommands.message.recipe": "%1$s یک دستور تهیه %2$s دارد.",
   "collective.recipecommands.message.unablefindrecipe": "دستور تهیه یافت نشد.",
   "collective.recipecommands.message.x": "%1$s× %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "با موفقیت %s بازیکن دوباره ظاهر شدند.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "نام کوله پشتی '%s' نامعتبر است.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "کوله پشتی شما با پیش‌تنظیم با نام '%s' جایگزین شد.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "می‌توانید آن را با دستور '/loadinventory %s' بارگذاری کنید.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "بازیکن آنلاینی با نام '%s' یافت نشد.",
   "collective.saveandloadinventories.message.unableloadcontent": "بارگذاری محتوای کوله پشتی با نام '%s' ممکن نیست.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > حجم اسکرین‌شات فشرده: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "زین سایه",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "بی‌صدا شد %s",
   "collective.silencemobs.gui.silencestick": "چوب سکوت",
   "collective.silencemobs.message.givensilencestick": "چوب سکوت به شما داده شد! با احتیاط استفاده کنید.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s بی‌صدا شد.",
   "collective.silencemobs.message.unsilenced": "%s از حالت بی‌صدا خارج شد.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "برای خوابیدن خیلی زود است.",
   "collective.sleepsooner.message.untilduskmay": "تا غروب خوابیدی. اکنون می‌توانی بخوابی.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "محصول سیب‌زمینی شیرین ترسناک",
   "item.spookyjams.creepers_delight_jam": "مربای لذت کریپر",
   "item.spookyjams.creepers_delight_jam.desc.1": "شیرین و ناپایدار.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "تو را از قدرت پر می‌کند،",
   "item.spookyjams.zombies_hunger_jam.desc.2": "و میلی بی‌پایان.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "انتخاب %s",
   "collective.starterkit.message.activekitsreloaded": "تمام بسته‌های فعال دوباره بارگذاری شدند.",
   "collective.starterkit.message.addscurrentinventory": "کوله پشتی فعلی شما را به بسته‌های فعال اضافه می‌کند.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "انتقال بسته '%s' به پوشه غیرفعال ممکن نیست.",
   "collective.starterkit.message.userusage": "نحوه استفاده کاربر %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "بزرگ‌نمایی وانیلا",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s مرد%2$s توسط %3$s.",
   "collective.villagerdeathmessages.message.location": " در x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "به تمام روستاییان بارگذاری‌شده یک نام تصادفی جدید می‌دهد.",
   "collective.villagernames.message.givesunnamedloaded": "به تمام روستاییان بارگذاری‌شده بدون نام یک نام می‌دهد.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s روستایی بارگذاری‌شده تغییر نام دادند.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "نام %s روستایی بارگذاری‌شده حذف شد.",
   "collective.villagernames.message.removesnamesloaded": "نام تمام روستاییان بارگذاری‌شده را حذف می‌کند.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "شما در بُعد کیهان نیستید.",
   "collective.voidvanguards.message.generatedcosmosgate": "دروازه کیهان ساخته شد.",
   "collective.voidvanguards.message.generatefollowingheads": "شما می‌توانید سرهای زیر را بسازید:",

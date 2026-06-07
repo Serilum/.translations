@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Administrátorské použití %s:",
   "collective.shared.message.commandsusage": "--- Použití příkazů %s ---",
   "collective.shared.message.nopermission": "Na použití tohoto příkazu nemáš oprávnění.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Vyvolání potulného obchodníka selhalo, zkus to znovu.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Potulný obchodník byl úspěšně vyvolán!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Obnovit",
   "collective.collective.message.headcachehelp": "Obnoví data hlav hráčů uložená v mezipaměti Collective, například kvůli aktualizaci vzhledů.",
   "collective.collective.message.headcachereset": "Mezipaměť hlav hráčů byla úspěšně obnovena.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Nepojmenovaná oblast",
   "collective.areas.message.areasignpositions": "Pozice cedulí oblastí kolem tebe:",
   "collective.areas.message.areasignsaround": "Kolem tebe nejsou žádné cedule oblastí.",
   "collective.areas.message.signlocation": "%1$sna x=%2$s, y=%3$s, z=%4$s. (%5$s bloků)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "K hodnostem nejsou přiřazeni žádní hráči.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nejsou definovány žádné hodnosti.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Hodnost %s byla odebrána",
   "collective.beautifiedchatserver.message.unknowncolor": "Neznámá barva: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Králík zabiják už byl ochočen.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Narodil se králík zabiják! Jsi dost daleko, nebo se s ním podělíš o zlatou mrkev?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Králík zabiják byl ochočen!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Králík zabiják chce zlatou mrkev!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Bod oživení u táboráku chybí.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Bod oživení u táboráku zůstává nezměněn.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Bod oživení u táboráku byl odstraněn.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Bod oživení u táboráku byl nastaven.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Bod oživení u táboráku byl zrušen.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Strana %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Při opětovném načítání konfiguračního souboru časovače mizení se něco pokazilo.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Konfigurační soubor časovače mizení byl úspěšně načten.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Pro přidání dropu: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Přidá předmět v ruce do dropů entity se 100%% šancí.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Přidá předmět v ruce do dropů entity se šancí mezi 0 a 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nelze najít entitu s názvem „%s“.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nelze najít entitu s názvem „%s“ v hashmapě dropů.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Znovu načte konfigurační soubory umístěné v ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Při opětovném načítání konfiguračního souboru se něco pokazilo.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurační soubory lektvarových efektů mobů byly úspěšně načteny.",
   "collective.configurablemobpotioneffects.message.usage": "Použití:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Režim nahrazování bloků vypnut.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Režim nahrazování bloků zapnut",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Zobrazuji autory",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Sbalit/rozbalit seznam questů",
   "collective.dailyquests.message.activeplayerquests": "Všechny aktivní questy hráče byly nahrazeny.",
   "collective.dailyquests.message.addedquesttype": "Typ questu %1$s byl přidán do seznamu questů hráče %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nelze najít identifikátor questu z řetězce: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nelze najít typ questu z řetězce: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nelze najít server světa, zálohu po smrti nelze načíst.",
   "collective.deathbackup.message.indexinvalid": "Index %s je neplatný.",
   "collective.deathbackup.message.lastdeathbackups": "Poslední zálohy po smrti: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nelze přečíst soubor zálohy.",
   "collective.deathbackup.message.worldremoteunable": "Svět není vzdálený, zálohu po smrti nelze načíst.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Krovky upadly na tvé pozici!",
   "collective.dragondropselytra.message.seemslikeslain": "Zdá se, že poražený drak z Endu upustil krovky! Možná dříve patřily jinému dobrodruhovi?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "V hlavní ruce nemáš předmět, který lze zaklít.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Zaklínadlo „%1$s“ bylo přidáno k předmětu na úrovni %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Předmět nemá zaklínadlo „%s“.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Seznam %s ---",
   "collective.enchantingcommands.message.usage": "--- Použití %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Na tvé pozici upadlo dračí vejce navíc!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informační hůl",
   "collective.entityinformation.message.giveninformationstick": "Dostal jsi Informační hůl!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Přepnout plný jas",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Tvému nabroušenému nástroji zbývá 10%% použití.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Tvému nabroušenému nástroji zbývá 25%% použití.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Tvému nabroušenému nástroji zbývá 50%% použití.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tvůj nástroj už není nabroušený.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tvůj nástroj byl nabroušen na %s použití.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Vymazat seznam GUI následovníků",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Předal jsi %1$s %2$s hráči %3$s.",
   "collective.handoveryouritems.message.givenby": "Hráč %3$s ti předal %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktusová polévka",
   "item.healingsoup.chocolate_milk": "Čokoládové mléko",
   "item.healingsoup.mushroom_soup": "Houbová polévka",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Přepnout zobrazení knihy receptů",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Hlava %s",
   "collective.justmobheads.message.generatedconfigfile": "Vygenerován nový konfigurační soubor. Používají se výchozí šance.",
   "collective.justmobheads.message.generatefollowingmob": "Můžeš vygenerovat tyto hlavy mobů:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Použití: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Použití: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Umožní ti získat hlavu hráče.",
   "collective.justplayerheads.message.usagejphplayername": "Použití: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Základní parkourový půlblok",
   "block.letsparkour.fast_parkour_slab": "Rychlý parkourový půlblok",
   "block.letsparkour.illusion_parkour_slab": "Iluzorní parkourový půlblok",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Měkký parkourový půlblok",
   "block.letsparkour.trapdoor_parkour_slab": "Padací parkourový půlblok",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Hnůj",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Hodnota jména nastavena na „%s“.",
   "collective.nametagtweaks.message.usagenametagname": "Použití: „/nametag <name>“ při držení jmenovky.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Pomocí zástupného řetězce „%1$s“ byly ztlumeny tyto zvukové události (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Pomocí zástupného řetězce „%1$s“ bylo ztlumení zrušeno u těchto zvukových událostí (%2$s):",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Pomocí zástupného řetězce „%1$s“ byly tyto zvukové události (%2$s) ztlumeny s dobou potlačení %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Nebyla nalezena žádná zvuková mapa, byla vygenerována nová.",
   "collective.omegamute.message.stoppedlisteningactive": "Přestal jsi poslouchat aktivní zvuky. Zapneš to opětovným zadáním „/omegamute listen“.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Dá všem načteným piglinům nové náhodné jméno.",
   "collective.piglinnames.message.givesunnamedloaded": "Dá jméno všem nepojmenovaným načteným piglinům.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s načtených piglinů bylo přejmenováno.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Jména %s načtených piglinů byla odstraněna.",
   "collective.piglinnames.message.removesnamesloaded": "Odstraní jména všech načtených piglinů.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Ohnivá hůl",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Hráč %s zemřel a byl vyhozen ze serveru.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "S tímto typem stopaře nelze sledovat všechny",
   "collective.playertracking.message.explanationtrackplayername": "Vysvětlení k „/track [playerName]“ najdeš na straně 5.",
   "collective.playertracking.message.explanationtrackread": "Vysvětlení k „/track all“ najdeš na straně 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Stránka nápovědy ke sledování (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Použij „/track [playerName]“  nebo „/track all“.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompas ukazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nelze přesměrovat kompas. Kolem nejsou žádní hráči, nebo jsou příliš blízko.",
   "item.playertrackingcompass.tracking_compass": "Sledovací kompas",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Rytíř duch",
   "collective.pumpkillagersquest.gui.ghostrider": "Jezdec duch",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Když zvedneš kus papíru, uvidíš na něm napsané souřadnice k vězeňskému táboru. Cítíš se špatně, že jsi Pumpkillagera vypustil zpět do světa. Možná by ti nějaký vězeň mohl pomoct ho zastavit?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Úspěšně smazáno %1$s značek pumpkillagera pro hráče %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Obnoveno %s bloků trávníku.",
   "collective.quickpaths.message.pathblockscreated": "Vytvořena pěšina z %s bloků. Pro vrácení znovu klikni pravým tlačítkem na naposledy kliknutý blok.",
   "collective.quickpaths.message.shoveltoodamaged": "Tvoje lopata je příliš poškozená na vytváření pěšin.",
   "collective.quickpaths.message.startingpointset": "Výchozí bod nastaven na %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nelze otevřít Shulkerovu schránku, místo je zablokované.",
   "collective.quickrightclick.message.unablesleeplocation": "Nelze spát, místo je zablokované.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Rychlé uložení a načtení",
   "collective.quicksaving.key.quickload": "Rychlé načtení",
   "collective.quicksaving.key.quicksaving": "Rychlé uložení",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Rychle načteno.",
   "collective.quicksaving.message.quicksaved": "Rychle uloženo.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Ingredience:",
   "collective.recipecommands.message.pattern": "Vzor:",
   "collective.recipecommands.message.recipe": "%1$s má %2$s recept.",
   "collective.recipecommands.message.unablefindrecipe": "Nelze najít recept.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Úspěšně oživeno %s hráčů.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Název inventáře „%s“ je neplatný.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Tvůj inventář byl nahrazen předvolbou s názvem „%s“.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Můžeš ho načíst příkazem „/loadinventory %s“.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nelze najít online hráče s názvem „%s“.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nelze načíst obsah inventáře s názvem „%s“.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Velikost komprimovaného snímku obrazovky: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Stínové sedlo",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Ztišeno: %s",
   "collective.silencemobs.gui.silencestick": "Hůl ticha",
   "collective.silencemobs.message.givensilencestick": "Dostal jsi Hůl ticha! Zacházej s ní opatrně.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s byl ztišen.",
   "collective.silencemobs.message.unsilenced": "%s už není ztišen.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Na spaní je příliš brzy.",
   "collective.sleepsooner.message.untilduskmay": "Spal jsi až do soumraku. Teď můžeš spát.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Strašidelný batát",
   "item.spookyjams.creepers_delight_jam": "Creeperova lahůdková marmeláda",
   "item.spookyjams.creepers_delight_jam.desc.1": "Sladká a nestálá.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Naplní tě silou",
   "item.spookyjams.zombies_hunger_jam.desc.2": "a nekonečnou touhou.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Vyber %s",
   "collective.starterkit.message.activekitsreloaded": "Všechny aktivní sady byly znovu načteny.",
   "collective.starterkit.message.addscurrentinventory": "Přidá tvůj aktuální inventář k aktivním sadám.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nelze přesunout sadu „%s“ do neaktivní složky.",
   "collective.starterkit.message.userusage": "Uživatelské použití %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Přiblížení Vanilla Zoom",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s zemřel%2$s, zabil ho %3$s.",
   "collective.villagerdeathmessages.message.location": " na x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Dá všem načteným vesničanům nové náhodné jméno.",
   "collective.villagernames.message.givesunnamedloaded": "Dá jméno všem nepojmenovaným načteným vesničanům.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s načtených vesničanů bylo přejmenováno.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Jména %s načtených vesničanů byla odstraněna.",
   "collective.villagernames.message.removesnamesloaded": "Odstraní jména všech načtených vesničanů.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nenacházíš se v dimenzi kosmu.",
   "collective.voidvanguards.message.generatedcosmosgate": "Brána do kosmu vygenerována.",
   "collective.voidvanguards.message.generatefollowingheads": "Můžeš vygenerovat tyto hlavy:",

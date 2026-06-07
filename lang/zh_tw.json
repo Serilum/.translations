@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s 管理員用法：",
   "collective.shared.message.commandsusage": "--- %s 指令用法 ---",
   "collective.shared.message.nopermission": "你沒有權限使用該指令。",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "流浪商人生成失敗，請再試一次。",
   "collective.shared.message.wanderingtraderspawnsuccesful": "流浪商人生成成功！",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "重設",
   "collective.collective.message.headcachehelp": "重設 Collective 快取的玩家頭顱資料，例如用於更新外觀。",
   "collective.collective.message.headcachereset": "已成功重設玩家頭顱快取。",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "未命名區域",
   "collective.areas.message.areasignpositions": "你周圍的區域告示牌位置：",
   "collective.areas.message.areasignsaround": "你周圍沒有任何區域告示牌。",
   "collective.areas.message.signlocation": "%1$s位於 x=%2$s, y=%3$s, z=%4$s。（%5$s 個方塊）",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "沒有玩家被指派至任何階級。",
   "collective.beautifiedchatserver.message.noranksdefined": "尚未定義任何階級。",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "已移除階級 %s",
   "collective.beautifiedchatserver.message.unknowncolor": "未知的顏色：%s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "這隻殺手兔已經被馴服了。",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "一隻殺手兔誕生了！你離得夠遠嗎？或者你有金胡蘿蔔可以分享？",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "這隻殺手兔被馴服了！",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "這隻殺手兔想要一根金胡蘿蔔！",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "找不到營火重生點。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "營火重生點維持不變。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "已移除營火重生點。",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "已設定營火重生點。",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "已取消營火重生點。",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "第 %1$s / %2$s 頁，/help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "重新載入消失計時器設定檔時發生錯誤。",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "成功載入消失計時器設定檔。",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "新增掉落物：/cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "將你手上的物品以 100%% 的機率加入該實體的掉落物。",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "將你手上的物品以 0 到 1.0 之間的掉落機率加入該實體的掉落物。",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "找不到名稱為「%s」的實體。",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "在掉落物對應表中找不到名稱為「%s」的實體。",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "重新載入位於 ./config/configurablemobpotioneffects/ 的設定檔。",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "重新載入設定檔時發生錯誤。",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "成功載入生物藥水效果設定檔。",
   "collective.configurablemobpotioneffects.message.usage": "用法：",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "已停用方塊替換模式。",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "已啟用方塊替換模式",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "正在顯示製作人員名單",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "切換任務清單收合",
   "collective.dailyquests.message.activeplayerquests": "所有進行中的玩家任務皆已替換。",
   "collective.dailyquests.message.addedquesttype": "已將 %1$s 任務類型加入 %2$s 的任務清單。",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "無法從字串解析任務識別碼：%s",
   "collective.dailyquests.message.unablefindquesttype": "無法從字串解析任務類型：%s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "找不到世界的伺服器，無法載入死亡備份。",
   "collective.deathbackup.message.indexinvalid": "索引 %s 無效。",
   "collective.deathbackup.message.lastdeathbackups": "最近的死亡備份：（<index>：<date>）",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "無法讀取備份檔。",
   "collective.deathbackup.message.worldremoteunable": "此世界並非遠端世界，無法載入死亡備份。",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "鞘翅掉落在你的位置！",
   "collective.dragondropselytra.message.seemslikeslain": "看來被擊敗的終界龍掉落了一副鞘翅！也許它之前屬於另一位冒險者？",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "你的主手沒有可附魔的物品。",
   "collective.enchantingcommands.message.enchantmentaddeditem": "附魔「%1$s」已加到該物品上，等級為 %2$s。",
   "collective.enchantingcommands.message.enchantmentexistitem": "該物品上沒有附魔「%s」。",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s 清單 ---",
   "collective.enchantingcommands.message.usage": "--- %s 用法 ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "一顆額外的龍蛋掉落在你的位置！",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "資訊之棒",
   "collective.entityinformation.message.giveninformationstick": "你獲得了資訊之棒！",
   "collective.entityinformation.message.msg": "---- %s：",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "切換全亮度",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "你的磨利工具還剩 10%% 的耐久。",
   "collective.grindstonesharpertools.message.sharpenedtool25": "你的磨利工具還剩 25%% 的耐久。",
   "collective.grindstonesharpertools.message.sharpenedtool50": "你的磨利工具還剩 50%% 的耐久。",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "你的工具不再處於磨利狀態。",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "你的工具已被磨利，獲得 %s 點耐久。",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "清除 GUI 跟隨者清單",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "你已將 %1$s 個%2$s交給 %3$s。",
   "collective.handoveryouritems.message.givenby": "%3$s 給了你 %1$s 個%2$s。",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "仙人掌湯",
   "item.healingsoup.chocolate_milk": "巧克力牛奶",
   "item.healingsoup.mushroom_soup": "蘑菇湯",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "切換顯示合成表",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s頭顱",
   "collective.justmobheads.message.generatedconfigfile": "已產生新的設定檔。使用預設機率。",
   "collective.justmobheads.message.generatefollowingmob": "你可以產生下列生物頭顱：",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "用法：/jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "用法：/jmh head <name> <amount>：",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "讓你能取得某位玩家的頭顱。",
   "collective.justplayerheads.message.usagejphplayername": "用法：/jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "基礎跑酷半磚",
   "block.letsparkour.fast_parkour_slab": "加速跑酷半磚",
   "block.letsparkour.illusion_parkour_slab": "幻象跑酷半磚",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "柔軟跑酷半磚",
   "block.letsparkour.trapdoor_parkour_slab": "活板門跑酷半磚",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "糞肥",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "已將名稱值設為「%s」。",
   "collective.nametagtweaks.message.usagenametagname": "用法：手持命名牌時使用「/nametag <name>」。",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "使用萬用字元字串「%1$s」後，下列 %2$s 個音效事件已被靜音：",
   "collective.omegamute.message.byusingwildcardstringfollowing": "使用萬用字元字串「%1$s」後，下列 %2$s 個音效事件已解除靜音：",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "使用萬用字元字串「%1$s」後，下列 %2$s 個音效事件已被靜音，剔除時間為 %3$s：",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "找不到音效對應表，已產生一個新的。",
   "collective.omegamute.message.stoppedlisteningactive": "你已停止聆聽進行中的音效。若要開啟，請再次使用「/omegamute listen」。",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "為所有已載入的豬布林賦予一個新的隨機名稱。",
   "collective.piglinnames.message.givesunnamedloaded": "為所有未命名且已載入的豬布林賦予名稱。",
   "collective.piglinnames.message.loadedpiglinsrenamed": "已重新命名 %s 隻已載入的豬布林。",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "已移除 %s 隻已載入豬布林的名稱。",
   "collective.piglinnames.message.removesnamesloaded": "移除所有已載入豬布林的名稱。",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "烈焰桿",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "玩家 %s 已死亡並被踢出伺服器。",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "你無法用這種追蹤器追蹤所有人",
   "collective.playertracking.message.explanationtrackplayername": "關於「/track [playerName]」的說明請閱讀第 5 頁。",
   "collective.playertracking.message.explanationtrackread": "關於「/track all」的說明請閱讀第 4 頁。",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "追蹤說明頁（5/5）- /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "使用「/track [playerName]」或「/track all」。",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "羅盤正指向 %s。",
   "collective.playertrackingcompass.message.unableredirectcompass": "無法重新導向羅盤。周圍沒有玩家，或他們離得太近。",
   "item.playertrackingcompass.tracking_compass": "追蹤羅盤",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "幽靈騎士",
   "collective.pumpkillagersquest.gui.ghostrider": "幽靈騎手",
   "collective.pumpkillagersquest.gui.pumpkalibur": "南瓜王者之劍",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "當你撿起這張紙片時，看見上面寫著通往一座俘虜營的座標。你對於將南瓜村民重新釋放回這個世界感到愧疚。也許有位俘虜能幫你阻止他？",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "已成功刪除 %2$s 的 %1$s 個南瓜村民標籤。",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "已復原 %s 個草方塊。",
   "collective.quickpaths.message.pathblockscreated": "已建立 %s 個方塊的路徑。若要復原，請再次右鍵點擊最後點擊的方塊。",
   "collective.quickpaths.message.shoveltoodamaged": "你的鏟子損壞得太嚴重，無法建立路徑。",
   "collective.quickpaths.message.startingpointset": "起點已設為 %1$s, %2$s, %3$s。",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "無法打開界伏盒，位置被阻擋。",
   "collective.quickrightclick.message.unablesleeplocation": "無法睡覺，位置被阻擋。",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "快速儲存與快速載入",
   "collective.quicksaving.key.quickload": "快速載入",
   "collective.quicksaving.key.quicksaving": "快速儲存",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "已快速載入。",
   "collective.quicksaving.message.quicksaved": "已快速儲存。",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "材料：",
   "collective.recipecommands.message.pattern": "配方圖樣：",
   "collective.recipecommands.message.recipe": "%1$s 擁有一個 %2$s 合成表。",
   "collective.recipecommands.message.unablefindrecipe": "找不到合成表。",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "已成功讓 %s 位玩家重生。",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "物品欄名稱「%s」無效。",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "你的物品欄已替換為名為「%s」的預設組合。",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "你可以用指令「/loadinventory %s」載入它。",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "找不到名稱為「%s」的線上玩家。",
   "collective.saveandloadinventories.message.unableloadcontent": "無法載入名稱為「%s」的物品欄內容。",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > 壓縮後的螢幕截圖大小：%s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "暗影鞍",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "已靜音 %s",
   "collective.silencemobs.gui.silencestick": "靜默之棒",
   "collective.silencemobs.message.givensilencestick": "你獲得了靜默之棒！請小心使用。",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "這隻%s已被靜音。",
   "collective.silencemobs.message.unsilenced": "這隻%s已解除靜音。",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "現在睡覺還太早。",
   "collective.sleepsooner.message.untilduskmay": "你睡到了黃昏。現在你可以睡覺了。",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "詭異山藥植株",
   "item.spookyjams.creepers_delight_jam": "苦力怕的喜悅果醬",
   "item.spookyjams.creepers_delight_jam.desc.1": "香甜而易爆。",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "它讓你充滿力量，",
   "item.spookyjams.zombies_hunger_jam.desc.2": "以及無盡的渴望。",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "選擇 %s",
   "collective.starterkit.message.activekitsreloaded": "所有啟用中的套組皆已重新載入。",
   "collective.starterkit.message.addscurrentinventory": "將你目前的物品欄加入啟用中的套組。",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "無法將「%s」套組移至停用資料夾。",
   "collective.starterkit.message.userusage": "%s 使用者用法：",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "原版縮放拉近",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s 死亡%2$s，兇手是 %3$s。",
   "collective.villagerdeathmessages.message.location": "，位於 x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "為所有已載入的村民賦予一個新的隨機名稱。",
   "collective.villagernames.message.givesunnamedloaded": "為所有未命名且已載入的村民賦予名稱。",
   "collective.villagernames.message.loadedvillagersrenamed": "已重新命名 %s 位已載入的村民。",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "已移除 %s 位已載入村民的名稱。",
   "collective.villagernames.message.removesnamesloaded": "移除所有已載入村民的名稱。",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "你不在宇宙維度中。",
   "collective.voidvanguards.message.generatedcosmosgate": "已產生宇宙之門。",
   "collective.voidvanguards.message.generatefollowingheads": "你可以產生下列頭顱：",

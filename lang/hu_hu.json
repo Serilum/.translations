@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s admin használata:",
   "collective.shared.message.commandsusage": "--- %s parancsainak használata ---",
   "collective.shared.message.nopermission": "Nincs jogosultságod a parancs használatához.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "A vándorkereskedő megidézése nem sikerült, próbáld újra.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "A vándorkereskedő megidézése sikerült!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Eredeti",
   "collective.collective.message.headcachehelp": "Visszaállítja a Collective gyorsítótárazott játékosfej-adatait, például a kinézetek frissítéséhez.",
   "collective.collective.message.headcachereset": "A játékosfejek gyorsítótára sikeresen visszaállt.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Névtelen terület",
   "collective.areas.message.areasignpositions": "Területjelző táblák a környékeden:",
   "collective.areas.message.areasignsaround": "Nincsenek területjelző táblák a környékeden.",
   "collective.areas.message.signlocation": "%1$sitt: x=%2$s, y=%3$s, z=%4$s. (%5$s blokk)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Egy játékos sincs ranghoz rendelve.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nincsenek rangok megadva.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "%s rang eltávolítva",
   "collective.beautifiedchatserver.message.unknowncolor": "Ismeretlen szín: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "A vérnyulat már megszelídítették.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Megszületett egy vérnyúl! Elég messze vagy, vagy van nálad aranyrépa, amit megoszthatsz vele?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "A vérnyulat megszelídítették!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "A vérnyúl aranyrépát szeretne!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Hiányzik a tábortűzhöz tartozó újraéledési pont.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "A tábortűzhöz tartozó újraéledési pont változatlan maradt.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "A tábortűzhöz tartozó újraéledési pont eltávolítva.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "A tábortűzhöz tartozó újraéledési pont beállítva.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "A tábortűzhöz tartozó újraéledési pont törölve.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "%1$s. / %2$s. oldal, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Hiba történt az eltűnési időzítő konfigurációs fájljának újratöltése közben.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Az eltűnési időzítő konfigurációs fájlja sikeresen betöltve.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Ejtett tárgy hozzáadása: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Hozzáadja a kezedben lévő tárgyat az entitás ejtett tárgyaihoz 100%% eséllyel.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Hozzáadja a kezedben lévő tárgyat az entitás ejtett tárgyaihoz 0 és 1,0 közötti eséllyel.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nem található „%s” nevű entitás.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nem található „%s” nevű entitás az ejtési hashmapben.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Újratölti a ./config/configurablemobpotioneffects/ mappában található konfigurációs fájlokat.",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Hiba történt a konfigurációs fájl újratöltése közben.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "A mobok bájitalhatásainak konfigurációs fájljai sikeresen betöltve.",
   "collective.configurablemobpotioneffects.message.usage": "Használat:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blokkcserélő mód kikapcsolva.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blokkcserélő mód bekapcsolva",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Közreműködők megjelenítése",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Küldetéslista összecsukása",
   "collective.dailyquests.message.activeplayerquests": "A játékos összes aktív küldetése le lett cserélve.",
   "collective.dailyquests.message.addedquesttype": "A(z) %1$s küldetéstípus hozzáadva %2$s küldetéslistájához.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "A küldetésazonosító nem található a következő szövegből: %s",
   "collective.dailyquests.message.unablefindquesttype": "A küldetéstípus nem található a következő szövegből: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "A világ szervere nem található, a halálbiztonsági mentés nem tölthető be.",
   "collective.deathbackup.message.indexinvalid": "A(z) %s index érvénytelen.",
   "collective.deathbackup.message.lastdeathbackups": "Legutóbbi halálbiztonsági mentések: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "A mentésfájl nem olvasható.",
   "collective.deathbackup.message.worldremoteunable": "A világ nem távoli, a halálbiztonsági mentés nem tölthető be.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "A kitinszárny a pozíciódnál esett le!",
   "collective.dragondropselytra.message.seemslikeslain": "Úgy tűnik, a legyőzött Endersárkány elejtett egy kitinszárnyat! Talán korábban egy másik kalandoré volt?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Nincs varázsolható tárgy a fő kezedben.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "A(z) „%1$s” varázslat hozzáadva a tárgyhoz %2$s. szinten.",
   "collective.enchantingcommands.message.enchantmentexistitem": "A(z) „%s” varázslat nem szerepel a tárgyon.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s listája ---",
   "collective.enchantingcommands.message.usage": "--- %s használata ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Egy extra sárkánytojás esett le a pozíciódnál!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Az Információs Bot",
   "collective.entityinformation.message.giveninformationstick": "Megkaptad az Információs Botot!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Teljes fényerő be-/kikapcsolása",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "A megélezett eszközödnek a használatai 10%%-a maradt.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "A megélezett eszközödnek a használatai 25%%-a maradt.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "A megélezett eszközödnek a használatai 50%%-a maradt.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Az eszközöd már nincs megélezve.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Az eszközöd megélezve %s használattal.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-követők listájának törlése",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Átadtál %3$s részére %1$s %2$s.",
   "collective.handoveryouritems.message.givenby": "%3$s átadott neked %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktuszleves",
   "item.healingsoup.chocolate_milk": "Csokoládés tej",
   "item.healingsoup.mushroom_soup": "Gombaleves",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Receptkönyv megjelenítésének váltása",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s feje",
   "collective.justmobheads.message.generatedconfigfile": "Új konfigurációs fájl létrehozva. Az alapértelmezett esélyek használata.",
   "collective.justmobheads.message.generatefollowingmob": "A következő mobfejeket tudod legenerálni:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Használat: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Használat: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Lehetővé teszi, hogy megszerezd egy játékos fejét.",
   "collective.justplayerheads.message.usagejphplayername": "Használat: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Alap parkúrlap",
   "block.letsparkour.fast_parkour_slab": "Gyors parkúrlap",
   "block.letsparkour.illusion_parkour_slab": "Illúzió parkúrlap",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Puha parkúrlap",
   "block.letsparkour.trapdoor_parkour_slab": "Csapóajtós parkúrlap",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Trágya",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "A névérték beállítva erre: „%s”.",
   "collective.nametagtweaks.message.usagenametagname": "Használat: „/nametag <name>”, miközben cédulát tartasz a kezedben.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "A(z) „%1$s” helyettesítő karakterlánc használatával a következő %2$s hangesemény lett elnémítva:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "A(z) „%1$s” helyettesítő karakterlánc használatával a következő %2$s hangesemény némítása lett feloldva:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "A(z) „%1$s” helyettesítő karakterlánc használatával a következő %2$s hangesemény lett elnémítva %3$s elhalási idővel:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Nem található hangtérkép, egy új lett létrehozva.",
   "collective.omegamute.message.stoppedlisteningactive": "Befejezted az aktív hangok figyelését. A bekapcsoláshoz használd újra a „/omegamute listen” parancsot.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Új véletlenszerű nevet ad az összes betöltött piglinnek.",
   "collective.piglinnames.message.givesunnamedloaded": "Nevet ad az összes névtelen betöltött piglinnek.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s betöltött piglin át lett nevezve.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s betöltött piglin neve el lett távolítva.",
   "collective.piglinnames.message.removesnamesloaded": "Eltávolítja az összes betöltött piglin nevét.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Lángrúd",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "%s játékos meghalt, és ki lett rúgva a szerverről.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ezzel a nyomkövetőtípussal nem tudsz mindenkit követni",
   "collective.playertracking.message.explanationtrackplayername": "A „/track [playerName]” magyarázatát az 5. oldalon olvashatod.",
   "collective.playertracking.message.explanationtrackread": "A „/track all” magyarázatát a 4. oldalon olvashatod.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Követési súgóoldal (5/5) – /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Használd a „/track [playerName]” vagy a „/track all” parancsot.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Az iránytű erre mutat: %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Az iránytű nem irányítható át. Nincsenek játékosok a környéken, vagy túl közel vannak.",
   "item.playertrackingcompass.tracking_compass": "Követő iránytű",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "A Szellemlovag",
   "collective.pumpkillagersquest.gui.ghostrider": "A Szellemlovas",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Ahogy felveszed a papírdarabot, egy fogolytábor koordinátáit látod ráírva. Rosszul érzed magad, amiért visszaengedted a Pumpkillagert a világba. Talán egy fogoly segíthet megállítani őt?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Sikeresen törölve %1$s pumpkillager-címke %2$s számára.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s füves földblokk helyreállítva.",
   "collective.quickpaths.message.pathblockscreated": "%s blokkból álló ösvény létrehozva. A visszavonáshoz kattints újra jobb gombbal az utoljára kattintott blokkra.",
   "collective.quickpaths.message.shoveltoodamaged": "Az ásód túl sérült ösvények létrehozásához.",
   "collective.quickpaths.message.startingpointset": "A kezdőpont beállítva ide: %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "A shulkerdoboz nem nyitható meg, a hely akadályozott.",
   "collective.quickrightclick.message.unablesleeplocation": "Nem lehet aludni, a hely akadályozott.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Gyorsmentés és gyorsbetöltés",
   "collective.quicksaving.key.quickload": "Gyorsbetöltés",
   "collective.quicksaving.key.quicksaving": "Gyorsmentés",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Gyorsbetöltve.",
   "collective.quicksaving.message.quicksaved": "Gyorsmentve.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Hozzávalók:",
   "collective.recipecommands.message.pattern": "Minta:",
   "collective.recipecommands.message.recipe": "%1$s receptje %2$s típusú.",
   "collective.recipecommands.message.unablefindrecipe": "A recept nem található.",
   "collective.recipecommands.message.x": "%1$s× %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Sikeresen újraélesztve %s játékos.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "A(z) „%s” felszerelésnév érvénytelen.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "A felszerelésed le lett cserélve a(z) „%s” nevű előbeállításra.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Betöltheted a „/loadinventory %s” paranccsal.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nem található „%s” nevű online játékos.",
   "collective.saveandloadinventories.message.unableloadcontent": "A(z) „%s” nevű felszerelés tartalma nem tölthető be.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Tömörített képernyőkép mérete: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Árnyéknyereg",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Elnémítva: %s",
   "collective.silencemobs.gui.silencestick": "A Némító Bot",
   "collective.silencemobs.message.givensilencestick": "Megkaptad a Némító Botot! Óvatosan bánj vele.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "A(z) %s elnémítva.",
   "collective.silencemobs.message.unsilenced": "A(z) %s némítása feloldva.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Túl korán van még az alváshoz.",
   "collective.sleepsooner.message.untilduskmay": "Alkonyatig aludtál. Most már lefekhetsz aludni.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Hátborzongató jam ültetvény",
   "item.spookyjams.creepers_delight_jam": "Creeper gyönyöre lekvár",
   "item.spookyjams.creepers_delight_jam.desc.1": "Édes és illékony.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Erővel tölt fel,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "és véget nem érő sóvárgással.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s kiválasztása",
   "collective.starterkit.message.activekitsreloaded": "Az összes aktív csomag újratöltve.",
   "collective.starterkit.message.addscurrentinventory": "Hozzáadja a jelenlegi felszerelésedet az aktív csomagokhoz.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "A(z) „%s” csomag nem helyezhető át az inaktív mappába.",
   "collective.starterkit.message.userusage": "%s felhasználói használata:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanília nagyítás",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s meghalt%2$s, okozója: %3$s.",
   "collective.villagerdeathmessages.message.location": " itt: x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Új véletlenszerű nevet ad az összes betöltött falusinak.",
   "collective.villagernames.message.givesunnamedloaded": "Nevet ad az összes névtelen betöltött falusinak.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s betöltött falusi át lett nevezve.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s betöltött falusi neve el lett távolítva.",
   "collective.villagernames.message.removesnamesloaded": "Eltávolítja az összes betöltött falusi nevét.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nem a kozmosz dimenzióban vagy.",
   "collective.voidvanguards.message.generatedcosmosgate": "Kozmoszkapu legenerálva.",
   "collective.voidvanguards.message.generatefollowingheads": "A következő fejeket tudod legenerálni:",

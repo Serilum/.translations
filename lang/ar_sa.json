@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "استخدام مشرف %s:",
   "collective.shared.message.commandsusage": "--- استخدام أوامر %s ---",
   "collective.shared.message.nopermission": "ليس لديك إذن لاستخدام هذا الأمر.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "فشل ظهور البائع المتجول، حاول مجددًا.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "تم ظهور البائع المتجول بنجاح!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "إعادة تعيين",
   "collective.collective.message.headcachehelp": "يعيد ضبط بيانات رؤوس اللاعبين المخزّنة مؤقتًا في Collective، على سبيل المثال لتحديث الجلود.",
   "collective.collective.message.headcachereset": "تمت إعادة ضبط ذاكرة رؤوس اللاعبين المؤقتة بنجاح.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "منطقة بلا اسم",
   "collective.areas.message.areasignpositions": "مواقع لافتات المناطق من حولك:",
   "collective.areas.message.areasignsaround": "لا توجد لافتات مناطق من حولك.",
   "collective.areas.message.signlocation": "%1$sعند x=%2$s، y=%3$s، z=%4$s. (%5$s كتلة)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "لا يوجد لاعبون معينون لأي رتبة.",
   "collective.beautifiedchatserver.message.noranksdefined": "لم تُعرّف أي رتبة.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "تمت إزالة الرتبة %s",
   "collective.beautifiedchatserver.message.unknowncolor": "لون غير معروف: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "الأرنب القاتل مُروَّض بالفعل.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "وُلد أرنب قاتل! هل أنت بعيد بما يكفي أم لديك جزرة ذهبية لتشاركها؟",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "تم ترويض الأرنب القاتل!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "الأرنب القاتل يريد جزرة ذهبية!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "نقطة الإحياء عند موقد النار مفقودة.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "نقطة الإحياء عند موقد النار تبقى كما هي.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "تمت إزالة نقطة الإحياء عند موقد النار.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "تم تعيين نقطة الإحياء عند موقد النار.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "تم إلغاء نقطة الإحياء عند موقد النار.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "الصفحة %1$s / %2$s، /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "حدث خطأ ما أثناء إعادة تحميل ملف إعدادات مؤقت الاختفاء.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "تم تحميل ملف إعدادات مؤقت الاختفاء بنجاح.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "لإضافة إفلات: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "أضف ما في يدك إلى مفلتات الكائن باحتمال %%100.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "أضف ما في يدك إلى مفلتات الكائن باحتمال إفلات بين 0 و1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "تعذّر العثور على كائن بالاسم '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "تعذّر العثور على كائن بالاسم '%s' في جدول الإفلات.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "يعيد تحميل ملفات الإعدادات الموجودة في ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "حدث خطأ ما أثناء إعادة تحميل ملف الإعدادات.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "تم تحميل ملفات إعدادات تأثيرات جرعات الوحوش بنجاح.",
   "collective.configurablemobpotioneffects.message.usage": "الاستخدام:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "تم تعطيل وضع استبدال الكتل.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "تم تفعيل وضع استبدال الكتل",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "عرض الحقوق",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "طي/فرد قائمة المهام",
   "collective.dailyquests.message.activeplayerquests": "تم استبدال جميع مهام اللاعب النشطة.",
   "collective.dailyquests.message.addedquesttype": "تمت إضافة نوع المهمة %1$s إلى قائمة مهام %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "تعذّر العثور على معرّف المهمة من النص: %s",
   "collective.dailyquests.message.unablefindquesttype": "تعذّر العثور على نوع المهمة من النص: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "تعذّر العثور على خادم العالم، تعذّر تحميل نسخة الموت الاحتياطية.",
   "collective.deathbackup.message.indexinvalid": "الفهرس %s غير صالح.",
   "collective.deathbackup.message.lastdeathbackups": "آخر نسخ احتياطية للموت: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "تعذّرت قراءة ملف النسخة الاحتياطية.",
   "collective.deathbackup.message.worldremoteunable": "العالم ليس بعيدًا، تعذّر تحميل نسخة الموت الاحتياطية.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "أُفلتت الإليترا عند موقعك!",
   "collective.dragondropselytra.message.seemslikeslain": "يبدو أن تنين الاندر المقتول قد أفلت إليترا! ربما كانت ملكًا لمغامر آخر من قبل؟",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "ليس لديك غرض قابل للسحر في يدك الرئيسية.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "تمت إضافة السحر '%1$s' إلى الغرض بمستوى %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "السحر '%s' غير موجود على الغرض.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- قائمة %s ---",
   "collective.enchantingcommands.message.usage": "--- استخدام %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "أُفلتت بيضة تنين إضافية عند موقعك!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "عصا المعلومات",
   "collective.entityinformation.message.giveninformationstick": "لقد حصلت على عصا المعلومات!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "تبديل الإضاءة الكاملة",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "أداتك المشحوذة تبقى لها %%10 من استخداماتها.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "أداتك المشحوذة تبقى لها %%25 من استخداماتها.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "أداتك المشحوذة تبقى لها %%50 من استخداماتها.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "أداتك لم تعد مشحوذة.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "تم شحذ أداتك بعدد %s استخدام.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "مسح قائمة متتبعي الواجهة",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "لقد أعطيت %1$s %2$s إلى %3$s.",
   "collective.handoveryouritems.message.givenby": "لقد أعطاك %3$s %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "حساء الصبار",
   "item.healingsoup.chocolate_milk": "حليب بالشوكولاتة",
   "item.healingsoup.mushroom_soup": "حساء الفطر",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "تبديل إظهار كتاب الوصفات",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "رأس %s",
   "collective.justmobheads.message.generatedconfigfile": "تم توليد ملف إعدادات جديد. سيتم استخدام الاحتمالات الافتراضية.",
   "collective.justmobheads.message.generatefollowingmob": "يمكنك توليد رؤوس الوحوش التالية:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "الاستخدام: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "الاستخدام: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "يتيح لك الحصول على رأس لاعب.",
   "collective.justplayerheads.message.usagejphplayername": "الاستخدام: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "بلاطة باركور أساسية",
   "block.letsparkour.fast_parkour_slab": "بلاطة باركور سريعة",
   "block.letsparkour.illusion_parkour_slab": "بلاطة باركور وهمية",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "بلاطة باركور طرية",
   "block.letsparkour.trapdoor_parkour_slab": "بلاطة باركور بباب سحري",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "سماد",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "تم تعيين قيمة الاسم إلى '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "الاستخدام: '/nametag <name>' أثناء حملك علامة اسم.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "باستخدام نص البدل '%1$s'، تم كتم أحداث الصوت التالية البالغ عددها %2$s:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "باستخدام نص البدل '%1$s'، تم إلغاء كتم أحداث الصوت التالية البالغ عددها %2$s:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "باستخدام نص البدل '%1$s'، تم كتم أحداث الصوت التالية البالغ عددها %2$s بمهلة إخفاء قدرها %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "لم يُعثر على خريطة أصوات، تم توليد واحدة جديدة.",
   "collective.omegamute.message.stoppedlisteningactive": "لقد توقفت عن الاستماع إلى الأصوات النشطة. لتشغيله استخدم '/omegamute listen' مجددًا.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "يعطي كل البيجلن المحمَّلين اسمًا عشوائيًا جديدًا.",
   "collective.piglinnames.message.givesunnamedloaded": "يعطي كل البيجلن المحمَّلين بلا اسم اسمًا.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "تمت إعادة تسمية %s من البيجلن المحمَّلين.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "تمت إزالة أسماء %s من البيجلن المحمَّلين.",
   "collective.piglinnames.message.removesnamesloaded": "يزيل أسماء كل البيجلن المحمَّلين.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "عصا اللهب",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "اللاعب %s قد مات وتم طرده من الخادم.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "لا يمكنك تتبع الكل بهذا النوع من المتتبعات",
   "collective.playertracking.message.explanationtrackplayername": "لشرح '/track [playerName]' اقرأ الصفحة 5.",
   "collective.playertracking.message.explanationtrackread": "لشرح '/track all' اقرأ الصفحة 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "صفحة مساعدة التتبع (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "استخدم '/track [playerName]'  أو '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "البوصلة تشير إلى %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "تعذّر إعادة توجيه البوصلة. لا يوجد لاعبون حولك أو أنهم قريبون جدًا.",
   "item.playertrackingcompass.tracking_compass": "بوصلة التتبع",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "الفارس الشبح",
   "collective.pumpkillagersquest.gui.ghostrider": "الراكب الشبح",
   "collective.pumpkillagersquest.gui.pumpkalibur": "بمبكاليبر",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "بينما تلتقط قصاصة الورق، ترى إحداثيات مكتوبة عليها تؤدي إلى معسكر سجناء. تشعر بالأسى لإطلاقك البمبكلجر إلى العالم من جديد. ربما يستطيع أحد السجناء مساعدتك في إيقافه؟",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "تم حذف %1$s من علامات البمبكلجر لصالح %2$s بنجاح.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "تمت استعادة %s كتلة عشب.",
   "collective.quickpaths.message.pathblockscreated": "تم إنشاء مسار من %s كتلة. للتراجع، انقر بالزر الأيمن على آخر كتلة نقرتَ عليها مجددًا.",
   "collective.quickpaths.message.shoveltoodamaged": "مجرفتك متضررة جدًا بحيث لا يمكنها إنشاء مسارات.",
   "collective.quickpaths.message.startingpointset": "تم تعيين نقطة البداية عند %1$s، %2$s، %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "تعذّر فتح صندوق الشلكر، الموقع مسدود.",
   "collective.quickrightclick.message.unablesleeplocation": "تعذّر النوم، الموقع مسدود.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "الحفظ السريع والتحميل السريع",
   "collective.quicksaving.key.quickload": "تحميل سريع",
   "collective.quicksaving.key.quicksaving": "حفظ سريع",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "تم التحميل السريع.",
   "collective.quicksaving.message.quicksaved": "تم الحفظ السريع.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "المكونات:",
   "collective.recipecommands.message.pattern": "النمط:",
   "collective.recipecommands.message.recipe": "%1$s له وصفة %2$s.",
   "collective.recipecommands.message.unablefindrecipe": "تعذّر العثور على الوصفة.",
   "collective.recipecommands.message.x": "%1$s× %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "تمت إعادة إحياء %s لاعب بنجاح.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "اسم الجرد '%s' غير صالح.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "تم استبدال جردك بالنمط المحفوظ المسمى '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "يمكنك تحميله بالأمر '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "تعذّر العثور على لاعب متصل بالاسم '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "تعذّر تحميل محتوى الجرد المسمى '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > حجم لقطة الشاشة المضغوطة: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "سرج الظلال",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "%s مُسكت",
   "collective.silencemobs.gui.silencestick": "عصا الصمت",
   "collective.silencemobs.message.givensilencestick": "لقد حصلت على عصا الصمت! تعامل معها بحذر.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "تم إسكات الـ %s.",
   "collective.silencemobs.message.unsilenced": "تم إلغاء إسكات الـ %s.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "الوقت مبكر جدًا للنوم.",
   "collective.sleepsooner.message.untilduskmay": "نمتَ حتى الغسق. يمكنك النوم الآن.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "محصول البطاطا المخيفة",
   "item.spookyjams.creepers_delight_jam": "مربى متعة الكريبر",
   "item.spookyjams.creepers_delight_jam.desc.1": "حلوة ومتقلّبة.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "تملؤك بالقوة،",
   "item.spookyjams.zombies_hunger_jam.desc.2": "وبشهية لا تنتهي.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "اختر %s",
   "collective.starterkit.message.activekitsreloaded": "تمت إعادة تحميل جميع المجموعات النشطة.",
   "collective.starterkit.message.addscurrentinventory": "يضيف جردك الحالي إلى المجموعات النشطة.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "تعذّر نقل المجموعة '%s' إلى المجلد غير النشط.",
   "collective.starterkit.message.userusage": "استخدام مستخدم %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "تقريب فانيلا",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s مات%2$s على يد %3$s.",
   "collective.villagerdeathmessages.message.location": " عند x=%1$s، y=%2$s، z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "يعطي كل القرويين المحمَّلين اسمًا عشوائيًا جديدًا.",
   "collective.villagernames.message.givesunnamedloaded": "يعطي كل القرويين المحمَّلين بلا اسم اسمًا.",
   "collective.villagernames.message.loadedvillagersrenamed": "تمت إعادة تسمية %s من القرويين المحمَّلين.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "تمت إزالة أسماء %s من القرويين المحمَّلين.",
   "collective.villagernames.message.removesnamesloaded": "يزيل أسماء كل القرويين المحمَّلين.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "أنت لست في بُعد الكون.",
   "collective.voidvanguards.message.generatedcosmosgate": "تم توليد بوابة الكون.",
   "collective.voidvanguards.message.generatefollowingheads": "يمكنك توليد الرؤوس التالية:",

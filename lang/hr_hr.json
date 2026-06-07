@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "Administratorsko korištenje za %s:",
   "collective.shared.message.commandsusage": "--- Korištenje naredbi za %s ---",
   "collective.shared.message.nopermission": "Nemaš dopuštenje za korištenje te naredbe.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Stvaranje lutajućeg trgovca nije uspjelo, pokušaj ponovno.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Lutajući trgovac uspješno je stvoren!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Reset",
   "collective.collective.message.headcachehelp": "Resetira podatke o glavama igrača koje Collective sprema u predmemoriju, primjerice radi ažuriranja presvlaka.",
   "collective.collective.message.headcachereset": "Predmemorija glava igrača uspješno je resetirana.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Bezimeno područje",
   "collective.areas.message.areasignpositions": "Položaji znakova područja oko tebe:",
   "collective.areas.message.areasignsaround": "Oko tebe nema znakova područja.",
   "collective.areas.message.signlocation": "%1$sna x=%2$s, y=%3$s, z=%4$s. (%5$s blokova)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Nijedan igrač nije dodijeljen rangovima.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nijedan rang nije definiran.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Uklonjen rang %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Nepoznata boja: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Zec ubojica već je pripitomljen.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Rodio se zec ubojica! Jesi li dovoljno daleko ili imaš zlatnu mrkvu za podijeliti?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Zec ubojica je pripitomljen!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Zec ubojica želi zlatnu mrkvu!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Nedostaje točka stvaranja kod logorske vatre.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Točka stvaranja kod logorske vatre ostaje ista.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Točka stvaranja kod logorske vatre uklonjena.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Točka stvaranja kod logorske vatre postavljena.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Točka stvaranja kod logorske vatre poništena.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Stranica %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Nešto je pošlo po zlu pri ponovnom učitavanju konfiguracijske datoteke odbrojivača nestajanja.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Konfiguracijska datoteka odbrojivača nestajanja uspješno učitana.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Za dodavanje ispada: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Dodaje predmet iz tvoje ruke u ispade entiteta sa 100%% šanse.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Dodaje predmet iz tvoje ruke u ispade entiteta sa šansom ispada između 0 i 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nije moguće pronaći entitet s imenom '%s'.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nije moguće pronaći entitet s imenom '%s' u hashmapi ispada.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ponovno učitava konfiguracijske datoteke smještene u ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Nešto je pošlo po zlu pri ponovnom učitavanju konfiguracijske datoteke.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfiguracijske datoteke efekata napitaka stvorenja uspješno učitane.",
   "collective.configurablemobpotioneffects.message.usage": "Korištenje:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Način zamjene blokova onemogućen.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Način zamjene blokova omogućen",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Prikazivanje autora",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Sklopi/rasklopi popis zadataka",
   "collective.dailyquests.message.activeplayerquests": "Svi aktivni igračevi zadaci su zamijenjeni.",
   "collective.dailyquests.message.addedquesttype": "Dodana je vrsta zadatka %1$s na popis zadataka igrača %2$s.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nije moguće pronaći identifikator zadatka iz niza: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nije moguće pronaći vrstu zadatka iz niza: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nije moguće pronaći poslužitelj svijeta, nije moguće učitati sigurnosnu kopiju smrti.",
   "collective.deathbackup.message.indexinvalid": "Indeks %s je nevažeći.",
   "collective.deathbackup.message.lastdeathbackups": "Posljednje sigurnosne kopije smrti: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nije moguće pročitati datoteku sigurnosne kopije.",
   "collective.deathbackup.message.worldremoteunable": "Svijet nije udaljen, nije moguće učitati sigurnosnu kopiju smrti.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Elitre su ispale na tvom položaju!",
   "collective.dragondropselytra.message.seemslikeslain": "Čini se da je poraženi Ender zmaj ispustio elitre! Možda su prije pripadale nekom drugom pustolovu?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Nemaš predmet koji se može začarati u glavnoj ruci.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Čarolija '%1$s' dodana je predmetu s razinom %2$s.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Čarolija '%s' ne postoji na predmetu.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- Popis za %s ---",
   "collective.enchantingcommands.message.usage": "--- Korištenje za %s ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Dodatno zmajevo jaje ispalo je na tvom položaju!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Štap informacija",
   "collective.entityinformation.message.giveninformationstick": "Dobio si Štap informacija!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Uključi/isključi punu svjetlinu",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Tvom naoštrenom alatu preostalo je 10%% korištenja.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Tvom naoštrenom alatu preostalo je 25%% korištenja.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Tvom naoštrenom alatu preostalo je 50%% korištenja.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tvoj alat više nije naoštren.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tvoj alat naoštren je s %s korištenja.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Očisti popis GUI pratitelja",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Dao si %1$s %2$s igraču %3$s.",
   "collective.handoveryouritems.message.givenby": "Igrač %3$s dao ti je %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Juha od kaktusa",
   "item.healingsoup.chocolate_milk": "Čokoladno mlijeko",
   "item.healingsoup.mushroom_soup": "Juha od gljiva",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Prikaži/sakrij knjigu recepata",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "Glava: %s",
   "collective.justmobheads.message.generatedconfigfile": "Generirana nova konfiguracijska datoteka. Koriste se zadane šanse.",
   "collective.justmobheads.message.generatefollowingmob": "Možeš generirati sljedeće glave stvorenja:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Korištenje: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Korištenje: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Omogućuje ti da dobiješ glavu igrača.",
   "collective.justplayerheads.message.usagejphplayername": "Korištenje: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Osnovna parkour ploča",
   "block.letsparkour.fast_parkour_slab": "Brza parkour ploča",
   "block.letsparkour.illusion_parkour_slab": "Iluzijska parkour ploča",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Mekana parkour ploča",
   "block.letsparkour.trapdoor_parkour_slab": "Parkour ploča s otvorom",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Gnoj",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Vrijednost imena postavljena na '%s'.",
   "collective.nametagtweaks.message.usagenametagname": "Korištenje: '/nametag <name>' dok držiš oznaku s imenom.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Korištenjem zamjenskog niza '%1$s', sljedeći zvučni događaji (%2$s) su utišani:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Korištenjem zamjenskog niza '%1$s', sljedeći zvučni događaji (%2$s) su odtišani:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Korištenjem zamjenskog niza '%1$s', sljedeći zvučni događaji (%2$s) su utišani s vremenom odsijecanja od %3$s:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Zvučna mapa nije pronađena, generirana je nova.",
   "collective.omegamute.message.stoppedlisteningactive": "Prestao si slušati aktivne zvukove. Za uključivanje ponovno koristi '/omegamute listen'.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Daje svim učitanim piglinima novo nasumično ime.",
   "collective.piglinnames.message.givesunnamedloaded": "Daje ime svim učitanim piglinima bez imena.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s učitanih piglina je preimenovano.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "Imena %s učitanih piglina su uklonjena.",
   "collective.piglinnames.message.removesnamesloaded": "Uklanja imena svih učitanih piglina.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Bljeskov štap",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Igrač %s je umro i izbačen je s poslužitelja.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Ne možeš pratiti sve s ovom vrstom pratača",
   "collective.playertracking.message.explanationtrackplayername": "Za objašnjenje '/track [playerName]' pročitaj stranicu 5.",
   "collective.playertracking.message.explanationtrackread": "Za objašnjenje '/track all' pročitaj stranicu 4.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Stranica pomoći za praćenje (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Koristi '/track [playerName]'  ili '/track all'.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompas pokazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nije moguće preusmjeriti kompas. Nema igrača u blizini ili su preblizu.",
   "item.playertrackingcompass.tracking_compass": "Kompas za praćenje",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Duh vitez",
   "collective.pumpkillagersquest.gui.ghostrider": "Duh jahač",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkalibur",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Dok podižeš komad papira, vidiš na njemu zapisane koordinate do logora zatvorenika. Loše se osjećaš zbog toga što si ponovno oslobodio Pumpkillagera u svijet. Možda ti neki zatvorenik može pomoći da ga zaustaviš?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Uspješno izbrisano %1$s oznaka pumpkillagera za igrača %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "%s blokova trave obnovljeno.",
   "collective.quickpaths.message.pathblockscreated": "Stvoren put od %s blokova. Za poništavanje ponovno desnim klikom klikni posljednji kliknuti blok.",
   "collective.quickpaths.message.shoveltoodamaged": "Tvoja lopata previše je oštećena za stvaranje putova.",
   "collective.quickpaths.message.startingpointset": "Početna točka postavljena na %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nije moguće otvoriti shulker kutiju, lokacija je blokirana.",
   "collective.quickrightclick.message.unablesleeplocation": "Nije moguće spavati, lokacija je blokirana.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Brzo spremanje i brzo učitavanje",
   "collective.quicksaving.key.quickload": "Brzo učitavanje",
   "collective.quicksaving.key.quicksaving": "Brzo spremanje",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Brzo učitano.",
   "collective.quicksaving.message.quicksaved": "Brzo spremljeno.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Sastojci:",
   "collective.recipecommands.message.pattern": "Uzorak:",
   "collective.recipecommands.message.recipe": "%1$s ima %2$s recept.",
   "collective.recipecommands.message.unablefindrecipe": "Nije moguće pronaći recept.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Uspješno omogućeno preporađanje za %s igrača.",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Ime inventara '%s' je nevažeće.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Tvoj inventar zamijenjen je predloškom pod nazivom '%s'.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Možeš ga učitati naredbom '/loadinventory %s'.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nije moguće pronaći igrača na mreži s imenom '%s'.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nije moguće učitati sadržaj inventara s imenom '%s'.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Veličina komprimirane snimke zaslona: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sjenovito sedlo",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Utišan: %s",
   "collective.silencemobs.gui.silencestick": "Štap tišine",
   "collective.silencemobs.message.givensilencestick": "Dobio si Štap tišine! Rukuj njime oprezno.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s je utišan.",
   "collective.silencemobs.message.unsilenced": "%s je odtišan.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Prerano je za spavanje.",
   "collective.sleepsooner.message.untilduskmay": "Spavao si do sumraka. Sada možeš spavati.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Usjev sablasnog jama",
   "item.spookyjams.creepers_delight_jam": "Džem creeperova užitka",
   "item.spookyjams.creepers_delight_jam.desc.1": "Sladak i nepostojan.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ispunjava te snagom,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i beskrajnom žudnjom.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Odaberi %s",
   "collective.starterkit.message.activekitsreloaded": "Svi aktivni kompleti su ponovno učitani.",
   "collective.starterkit.message.addscurrentinventory": "Dodaje tvoj trenutni inventar u aktivne komplete.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nije moguće premjestiti komplet '%s' u neaktivnu mapu.",
   "collective.starterkit.message.userusage": "Korisničko korištenje za %s:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla približavanje",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s je umro%2$s od %3$s.",
   "collective.villagerdeathmessages.message.location": " na x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Daje svim učitanim seljanima novo nasumično ime.",
   "collective.villagernames.message.givesunnamedloaded": "Daje ime svim učitanim seljanima bez imena.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s učitanih seljana je preimenovano.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "Imena %s učitanih seljana su uklonjena.",
   "collective.villagernames.message.removesnamesloaded": "Uklanja imena svih učitanih seljana.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nisi u dimenziji kozmosa.",
   "collective.voidvanguards.message.generatedcosmosgate": "Generirana vrata kozmosa.",
   "collective.voidvanguards.message.generatefollowingheads": "Možeš generirati sljedeće glave:",

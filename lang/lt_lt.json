@@ -1,5 +1,5 @@
 {
-  "_comment_shared": "Shared",
+  "_comment_modname_shared": "Shared",
   "collective.shared.message.adminusage": "%s administratoriaus naudojimas:",
   "collective.shared.message.commandsusage": "--- %s komandų naudojimas ---",
   "collective.shared.message.nopermission": "Neturi teisės naudoti šią komandą.",
@@ -11,18 +11,18 @@
   "collective.shared.message.wanderingtraderspawnfailed": "Nepavyko sukurti klajojančio pirklio, bandyk dar kartą.",
   "collective.shared.message.wanderingtraderspawnsuccesful": "Klajojantis pirklys sėkmingai sukurtas!",
 
-  "_comment_collective": "Collective",
+  "_comment_modname_collective": "Collective",
   "collective.collective.gui.reset": "Atstatyti",
   "collective.collective.message.headcachehelp": "Atstato Collective talpykloje saugomus žaidėjų galvų duomenis, pavyzdžiui, norint atnaujinti išvaizdas.",
   "collective.collective.message.headcachereset": "Žaidėjų galvų talpykla sėkmingai atstatyta.",
 
-  "_comment_areas": "Areas",
+  "_comment_modname_areas": "Areas",
   "collective.areas.gui.unnamedarea": "Bevardė teritorija",
   "collective.areas.message.areasignpositions": "Teritorijų ženklų pozicijos aplink tave:",
   "collective.areas.message.areasignsaround": "Aplink tave nėra jokių teritorijų ženklų.",
   "collective.areas.message.signlocation": "%1$staške x=%2$s, y=%3$s, z=%4$s. (%5$s blokų)",
 
-  "_comment_beautifiedchatserver": "Beautified Chat Server",
+  "_comment_modname_beautifiedchatserver": "Beautified Chat Server",
   "collective.beautifiedchatserver.message.listitem": "- %1$s = %2$s",
   "collective.beautifiedchatserver.message.noplayersassigned": "Jokiems rangams nepriskirta žaidėjų.",
   "collective.beautifiedchatserver.message.noranksdefined": "Nėra apibrėžtų rangų.",
@@ -38,13 +38,13 @@
   "collective.beautifiedchatserver.message.removedrank": "Rangas %s pašalintas",
   "collective.beautifiedchatserver.message.unknowncolor": "Nežinoma spalva: %s",
 
-  "_comment_breedablekillerrabbit": "Breedable Killer Rabbit",
+  "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Triušis žudikas jau prijaukintas.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Gimė triušis žudikas! Ar esi pakankamai toli, ar turi auksinę morką, kuria gali pasidalinti?",
   "collective.breedablekillerrabbit.message.killerrabbittamed": "Triušis žudikas prijaukintas!",
   "collective.breedablekillerrabbit.message.killerrabbitwants": "Triušis žudikas nori auksinės morkos!",
 
-  "_comment_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
+  "_comment_modname_campfirespawnandtweaks": "Campfire Spawn and Tweaks",
   "collective.campfirespawnandtweaks.message.campfirespawnpointmissing": "Laužo prisikėlimo taško nėra.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremains": "Laužo prisikėlimo taškas lieka toks pat.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointremoved": "Laužo prisikėlimo taškas pašalintas.",
@@ -52,14 +52,14 @@
   "collective.campfirespawnandtweaks.message.campfirespawnpointset": "Laužo prisikėlimo taškas nustatytas.",
   "collective.campfirespawnandtweaks.message.campfirespawnpointunset": "Laužo prisikėlimo taškas panaikintas.",
 
-  "_comment_compacthelpcommand": "Compact Help Command",
+  "_comment_modname_compacthelpcommand": "Compact Help Command",
   "collective.compacthelpcommand.message.pagehelppage": "Puslapis %1$s / %2$s, /help <page>",
 
-  "_comment_configurabledespawntimer": "Configurable Despawn Timer",
+  "_comment_modname_configurabledespawntimer": "Configurable Despawn Timer",
   "collective.configurabledespawntimer.message.somethingwentwrong": "Kažkas nutiko ne taip iš naujo įkeliant išnykimo laikmačio konfigūracijos failą.",
   "collective.configurabledespawntimer.message.successfullyloadeddespawn": "Sėkmingai įkeltas išnykimo laikmačio konfigūracijos failas.",
 
-  "_comment_configurableextramobdrops": "Configurable Extra Mob Drops",
+  "_comment_modname_configurableextramobdrops": "Configurable Extra Mob Drops",
   "collective.configurableextramobdrops.message.adddropcemd": "Norėdamas pridėti iškritimą: /cemd addhand <entity-name>",
   "collective.configurableextramobdrops.message.addhandentitydrops": "Pridėti tavo rankoje esantį daiktą prie esybės iškritimų su 100%% tikimybe.",
   "collective.configurableextramobdrops.message.addhandentitydropsdrop": "Pridėti tavo rankoje esantį daiktą prie esybės iškritimų su iškritimo tikimybe tarp 0 ir 1.0.",
@@ -78,20 +78,20 @@
   "collective.configurableextramobdrops.message.unablefindentityname": "Nepavyko rasti esybės pavadinimu „%s“.",
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nepavyko rasti esybės pavadinimu „%s“ iškritimų sąraše.",
 
-  "_comment_configurablemobpotioneffects": "Configurable Mob Potion Effects",
+  "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
   "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Iš naujo įkelia konfigūracijos failus, esančius ./config/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Kažkas nutiko ne taip iš naujo įkeliant konfigūracijos failą.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Sėkmingai įkelti esybių gėrimų poveikių konfigūracijos failai.",
   "collective.configurablemobpotioneffects.message.usage": "Naudojimas:",
 
-  "_comment_creativeblockreplacer": "Creative Block Replacer",
+  "_comment_modname_creativeblockreplacer": "Creative Block Replacer",
   "collective.creativeblockreplacer.message.replacingblockmodedisabled": "Blokų keitimo režimas išjungtas.",
   "collective.creativeblockreplacer.message.replacingblockmodeenabled": "Blokų keitimo režimas įjungtas",
 
-  "_comment_customcredits": "Custom Credits",
+  "_comment_modname_customcredits": "Custom Credits",
   "collective.customcredits.message.showingcredits": "Rodomi titrai",
 
-  "_comment_dailyquests": "Daily Quests",
+  "_comment_modname_dailyquests": "Daily Quests",
   "collective.dailyquests.key.togglequestlistcollapse": "Suskleisti / išskleisti užduočių sąrašą",
   "collective.dailyquests.message.activeplayerquests": "Visos aktyvios žaidėjo užduotys buvo pakeistos.",
   "collective.dailyquests.message.addedquesttype": "Užduoties tipas %1$s pridėtas prie %2$s užduočių sąrašo.",
@@ -113,7 +113,7 @@
   "collective.dailyquests.message.unablefindquestidentifier": "Nepavyko rasti užduoties identifikatoriaus iš eilutės: %s",
   "collective.dailyquests.message.unablefindquesttype": "Nepavyko rasti užduoties tipo iš eilutės: %s",
 
-  "_comment_deathbackup": "Death Backup",
+  "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nepavyksta rasti pasaulio serverio, nepavyko įkelti mirties atsarginės kopijos.",
   "collective.deathbackup.message.indexinvalid": "Indeksas %s yra neteisingas.",
   "collective.deathbackup.message.lastdeathbackups": "Paskutinės mirties atsarginės kopijos: (<index>: <date>)",
@@ -122,11 +122,11 @@
   "collective.deathbackup.message.unablereadbackup": "Nepavyko nuskaityti atsarginės kopijos failo.",
   "collective.deathbackup.message.worldremoteunable": "Pasaulis nėra nuotolinis, nepavyko įkelti mirties atsarginės kopijos.",
 
-  "_comment_dragondropselytra": "Dragon Drops Elytra",
+  "_comment_modname_dragondropselytra": "Dragon Drops Elytra",
   "collective.dragondropselytra.message.elytradroppedposition": "Sparnai iškrito tavo vietoje!",
   "collective.dragondropselytra.message.seemslikeslain": "Panašu, kad nukauta Enderio Drakonė numetė sparnus! Galbūt jie anksčiau priklausė kitam nuotykių ieškotojui?",
 
-  "_comment_enchantingcommands": "Enchanting Commands",
+  "_comment_modname_enchantingcommands": "Enchanting Commands",
   "collective.enchantingcommands.message.enchantableitemmain": "Tavo pagrindinėje rankoje nėra užkerimui tinkamo daikto.",
   "collective.enchantingcommands.message.enchantmentaddeditem": "Kerėjimas „%1$s“ pridėtas prie daikto su %2$s lygiu.",
   "collective.enchantingcommands.message.enchantmentexistitem": "Kerėjimo „%s“ ant daikto nėra.",
@@ -134,18 +134,18 @@
   "collective.enchantingcommands.message.list": "--- %s sąrašas ---",
   "collective.enchantingcommands.message.usage": "--- %s naudojimas ---",
 
-  "_comment_endportalrecipe": "End Portal Recipe",
+  "_comment_modname_endportalrecipe": "End Portal Recipe",
   "collective.endportalrecipe.message.extradragonegg": "Tavo vietoje iškrito papildomas drakonės kiaušinis!",
 
-  "_comment_entityinformation": "Entity Information",
+  "_comment_modname_entityinformation": "Entity Information",
   "collective.entityinformation.gui.informationstick": "Informacijos pagaliukas",
   "collective.entityinformation.message.giveninformationstick": "Tau buvo duotas Informacijos pagaliukas!",
   "collective.entityinformation.message.msg": "---- %s:",
 
-  "_comment_fullbrightnesstoggle": "Full Brightness Toggle",
+  "_comment_modname_fullbrightnesstoggle": "Full Brightness Toggle",
   "collective.fullbrightnesstoggle.key.togglebrightness": "Įjungti / išjungti pilną ryškumą",
 
-  "_comment_grindstonesharpertools": "Grindstone Sharper Tools",
+  "_comment_modname_grindstonesharpertools": "Grindstone Sharper Tools",
   "collective.grindstonesharpertools.message.sharpenedtool10": "Tavo pagaląstam įrankiui liko 10%% panaudojimų.",
   "collective.grindstonesharpertools.message.sharpenedtool25": "Tavo pagaląstam įrankiui liko 25%% panaudojimų.",
   "collective.grindstonesharpertools.message.sharpenedtool50": "Tavo pagaląstam įrankiui liko 50%% panaudojimų.",
@@ -153,22 +153,22 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tavo įrankis nebėra pagaląstas.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tavo įrankis buvo pagaląstas su %s panaudojimais.",
 
-  "_comment_guifollowers": "GUI Followers",
+  "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Išvalyti GUI sekėjų sąrašą",
 
-  "_comment_handoveryouritems": "Hand Over Your Items",
+  "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Tu atidavei %1$s %2$s žaidėjui %3$s.",
   "collective.handoveryouritems.message.givenby": "Žaidėjas %3$s tau davė %1$s %2$s.",
 
-  "_comment_healingsoup": "Healing Soup",
+  "_comment_modname_healingsoup": "Healing Soup",
   "item.healingsoup.cactus_soup": "Kaktuso sriuba",
   "item.healingsoup.chocolate_milk": "Šokoladinis pienas",
   "item.healingsoup.mushroom_soup": "Grybų sriuba",
 
-  "_comment_hiddenrecipebook": "Hidden Recipe Book",
+  "_comment_modname_hiddenrecipebook": "Hidden Recipe Book",
   "collective.hiddenrecipebook.key.togglebook": "Įjungti / išjungti receptų knygą",
 
-  "_comment_justmobheads": "Just Mob Heads",
+  "_comment_modname_justmobheads": "Just Mob Heads",
   "collective.justmobheads.gui.head": "%s galva",
   "collective.justmobheads.message.generatedconfigfile": "Sugeneruotas naujas konfigūracijos failas. Naudojamos numatytosios tikimybės.",
   "collective.justmobheads.message.generatefollowingmob": "Gali sugeneruoti šias esybių galvas:",
@@ -179,11 +179,11 @@
   "collective.justmobheads.message.usagejmhheadlist": "Naudojimas: /jmh head list",
   "collective.justmobheads.message.usagejmhheadname": "Naudojimas: /jmh head <name> <amount>:",
 
-  "_comment_justplayerheads": "Just Player Heads",
+  "_comment_modname_justplayerheads": "Just Player Heads",
   "collective.justplayerheads.message.allowsgethead": "Leidžia tau gauti žaidėjo galvą.",
   "collective.justplayerheads.message.usagejphplayername": "Naudojimas: /jph playerName (amount)",
 
-  "_comment_letsparkour": "Let's Parkour",
+  "_comment_modname_letsparkour": "Let's Parkour",
   "block.letsparkour.base_parkour_slab": "Bazinis parkuro pusblokis",
   "block.letsparkour.fast_parkour_slab": "Greitasis parkuro pusblokis",
   "block.letsparkour.illusion_parkour_slab": "Iliuzinis parkuro pusblokis",
@@ -194,14 +194,14 @@
   "block.letsparkour.soft_parkour_slab": "Minkštas parkuro pusblokis",
   "block.letsparkour.trapdoor_parkour_slab": "Slankduobės parkuro pusblokis",
 
-  "_comment_manure": "Manure",
+  "_comment_modname_manure": "Manure",
   "item.manure.manure": "Mėšlas",
 
-  "_comment_nametagtweaks": "Name Tag Tweaks",
+  "_comment_modname_nametagtweaks": "Name Tag Tweaks",
   "collective.nametagtweaks.message.setnamevalue": "Vardo reikšmė nustatyta į „%s“.",
   "collective.nametagtweaks.message.usagenametagname": "Naudojimas: „/nametag <name>“ laikant vardo žymeklį.",
 
-  "_comment_omegamute": "Omega Mute",
+  "_comment_modname_omegamute": "Omega Mute",
   "collective.omegamute.message.byusingwildcardstring": "Naudojant pakaitos simbolių eilutę „%1$s“, šie %2$s garso įvykiai buvo nutildyti:",
   "collective.omegamute.message.byusingwildcardstringfollowing": "Naudojant pakaitos simbolių eilutę „%1$s“, šių %2$s garso įvykių tildymas buvo panaikintas:",
   "collective.omegamute.message.byusingwildcardstringfollowingsound": "Naudojant pakaitos simbolių eilutę „%1$s“, šie %2$s garso įvykiai buvo nutildyti su %3$s atrankos laiku:",
@@ -219,7 +219,7 @@
   "collective.omegamute.message.soundmapfoundgenerated": "Garsų žemėlapio nerasta, sugeneruotas naujas.",
   "collective.omegamute.message.stoppedlisteningactive": "Nustojai klausytis aktyvių garsų. Kad įjungtum, dar kartą naudok „/omegamute listen“.",
 
-  "_comment_piglinnames": "Piglin Names",
+  "_comment_modname_piglinnames": "Piglin Names",
   "collective.piglinnames.message.givesloadedpiglins": "Suteikia visiems įkeltiems piglinams naują atsitiktinį vardą.",
   "collective.piglinnames.message.givesunnamedloaded": "Suteikia vardą visiems bevardžiams įkeltiems piglinams.",
   "collective.piglinnames.message.loadedpiglinsrenamed": "%s įkeltiems piglinams suteikti nauji vardai.",
@@ -227,13 +227,13 @@
   "collective.piglinnames.message.namesloadedpiglins": "%s įkeltų piglinų vardai buvo pašalinti.",
   "collective.piglinnames.message.removesnamesloaded": "Pašalina visų įkeltų piglinų vardus.",
 
-  "_comment_placeableblazerods": "Placeable Blaze Rods",
+  "_comment_modname_placeableblazerods": "Placeable Blaze Rods",
   "block.placeableblazerods.blaze_rod": "Liepsnos strypas",
 
-  "_comment_playerdeathkick": "Player Death Kick",
+  "_comment_modname_playerdeathkick": "Player Death Kick",
   "collective.playerdeathkick.message.playerdiedkicked": "Žaidėjas %s mirė ir buvo išmestas iš serverio.",
 
-  "_comment_playertracking": "Player Tracking",
+  "_comment_modname_playertracking": "Player Tracking",
   "collective.playertracking.message.cannottracktype": "Su šiuo sekiklio tipu negali sekti visų",
   "collective.playertracking.message.explanationtrackplayername": "Komandos „/track [playerName]“ paaiškinimą rasi 5 puslapyje.",
   "collective.playertracking.message.explanationtrackread": "Komandos „/track all“ paaiškinimą rasi 4 puslapyje.",
@@ -261,12 +261,12 @@
   "collective.playertracking.message.trackinghelppage5": "Sekimo pagalbos puslapis (5/5) - /track [playerName]",
   "collective.playertracking.message.usetrackplayername": "Naudok „/track [playerName]“  arba „/track all“.",
 
-  "_comment_playertrackingcompass": "Player Tracking Compass",
+  "_comment_modname_playertrackingcompass": "Player Tracking Compass",
   "collective.playertrackingcompass.message.compasspointing": "Kompasas rodo į %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nepavyko nukreipti kompaso. Aplink nėra žaidėjų arba jie per arti.",
   "item.playertrackingcompass.tracking_compass": "Sekimo kompasas",
 
-  "_comment_pumpkillagersquest": "Pumpkillager's Quest",
+  "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Vaiduoklis riteris",
   "collective.pumpkillagersquest.gui.ghostrider": "Vaiduoklis raitelis",
   "collective.pumpkillagersquest.gui.pumpkalibur": "Pumpkaliburas",
@@ -278,17 +278,17 @@
   "collective.pumpkillagersquest.message.pickuppiece": "Pakeldamas popieriaus lapelį, jame matai užrašytas koordinates iki kalinių stovyklos. Jautiesi blogai, kad paleidai Pumpkillager atgal į pasaulį. Galbūt koks nors kalinys gali padėti tau jį sustabdyti?",
   "collective.pumpkillagersquest.message.successfullydeletedpumpkillager": "Sėkmingai ištrintos %1$s pumpkillager žymos žaidėjui %2$s.",
 
-  "_comment_quickpaths": "Quick Paths",
+  "_comment_modname_quickpaths": "Quick Paths",
   "collective.quickpaths.message.grassblocksrestored": "Atkurta %s žolės blokų.",
   "collective.quickpaths.message.pathblockscreated": "Sukurtas %s blokų takas. Kad atšauktum, dar kartą spustelėk dešiniuoju paskutinį spustelėtą bloką.",
   "collective.quickpaths.message.shoveltoodamaged": "Tavo kastuvas per daug apgadintas, kad kurtum takus.",
   "collective.quickpaths.message.startingpointset": "Pradžios taškas nustatytas į %1$s, %2$s, %3$s.",
 
-  "_comment_quickrightclick": "Quick Right-Click",
+  "_comment_modname_quickrightclick": "Quick Right-Click",
   "collective.quickrightclick.message.unableopenshulker": "Nepavyko atidaryti šulkerio dėžės, vieta užstota.",
   "collective.quickrightclick.message.unablesleeplocation": "Nepavyko miegoti, vieta užstota.",
 
-  "_comment_quicksaving": "Quicksaving",
+  "_comment_modname_quicksaving": "Quicksaving",
   "collective.quicksaving.key.category.quicksaving": "Greitas išsaugojimas ir įkėlimas",
   "collective.quicksaving.key.quickload": "Greitas įkėlimas",
   "collective.quicksaving.key.quicksaving": "Greitas išsaugojimas",
@@ -297,17 +297,17 @@
   "collective.quicksaving.message.quickloaded": "Greitai įkelta.",
   "collective.quicksaving.message.quicksaved": "Greitai išsaugota.",
 
-  "_comment_recipecommands": "Recipe Commands",
+  "_comment_modname_recipecommands": "Recipe Commands",
   "collective.recipecommands.message.ingredients": "Sudedamosios dalys:",
   "collective.recipecommands.message.pattern": "Šablonas:",
   "collective.recipecommands.message.recipe": "%1$s turi %2$s receptą.",
   "collective.recipecommands.message.unablefindrecipe": "Nepavyko rasti recepto.",
   "collective.recipecommands.message.x": "%1$sx %2$s",
 
-  "_comment_respawndelay": "Respawn Delay",
+  "_comment_modname_respawndelay": "Respawn Delay",
   "collective.respawndelay.message.successfullymadeplayer": "Sėkmingai priversti prisikelti %s žaidėjas(-ai).",
 
-  "_comment_saveandloadinventories": "Save and Load Inventories",
+  "_comment_modname_saveandloadinventories": "Save and Load Inventories",
   "collective.saveandloadinventories.message.inventorynameinvalid": "Inventoriaus pavadinimas „%s“ yra neteisingas.",
   "collective.saveandloadinventories.message.inventoryreplacedpreset": "Tavo inventorius pakeistas šablonu pavadinimu „%s“.",
   "collective.saveandloadinventories.message.loadcommandloadinventory": "Gali jį įkelti su komanda „/loadinventory %s“.",
@@ -320,10 +320,13 @@
   "collective.saveandloadinventories.message.unablefindonline": "Nepavyko rasti prisijungusio žaidėjo pavadinimu „%s“.",
   "collective.saveandloadinventories.message.unableloadcontent": "Nepavyko įkelti inventoriaus turinio pavadinimu „%s“.",
 
-  "_comment_shadowmounts": "Shadow Mounts",
+  "_comment_modname_screenshotcompression": "Screenshot Compression",
+  "collective.screenshotcompression.gui.compressedscreenshotoutput": " > Suspausto ekrano nuotraukos dydis: %s",
+
+  "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Šešėlio balnas",
 
-  "_comment_silencemobs": "Silence Mobs",
+  "_comment_modname_silencemobs": "Silence Mobs",
   "collective.silencemobs.gui.silenced": "Nutildyta %s",
   "collective.silencemobs.gui.silencestick": "Tylos pagaliukas",
   "collective.silencemobs.message.givensilencestick": "Tau buvo duotas Tylos pagaliukas! Elkis su juo atsargiai.",
@@ -331,11 +334,11 @@
   "collective.silencemobs.message.silenced": "%s buvo nutildyta(-s).",
   "collective.silencemobs.message.unsilenced": "%s tildymas buvo panaikintas.",
 
-  "_comment_sleepsooner": "Sleep Sooner",
+  "_comment_modname_sleepsooner": "Sleep Sooner",
   "collective.sleepsooner.message.tooearlysleep": "Dar per anksti miegoti.",
   "collective.sleepsooner.message.untilduskmay": "Miegojai iki sutemų. Dabar gali miegoti.",
 
-  "_comment_spookyjams": "Spooky Jams",
+  "_comment_modname_spookyjams": "Spooky Jams",
   "block.spookyjams.spooky_yam_crop": "Šiurpiojo batato augalas",
   "item.spookyjams.creepers_delight_jam": "Kryperio gardumyno uogienė",
   "item.spookyjams.creepers_delight_jam.desc.1": "Saldi ir nepastovi.",
@@ -377,7 +380,7 @@
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ji pripildo tave jėgų",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ir nepasotinamo geismo.",
 
-  "_comment_starterkit": "Starter Kit",
+  "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Pasirink %s",
   "collective.starterkit.message.activekitsreloaded": "Visi aktyvūs rinkiniai buvo iš naujo įkelti.",
   "collective.starterkit.message.addscurrentinventory": "Prideda tavo dabartinį inventorių prie aktyvių rinkinių.",
@@ -420,14 +423,14 @@
   "collective.starterkit.message.unablemovekitinactive": "Nepavyko perkelti rinkinio „%s“ į neaktyvų aplanką.",
   "collective.starterkit.message.userusage": "%s vartotojo naudojimas:",
 
-  "_comment_vanillazoom": "Vanilla Zoom",
+  "_comment_modname_vanillazoom": "Vanilla Zoom",
   "collective.vanillazoom.key.togglezoom.desc": "Vanilla priartinimas",
 
-  "_comment_villagerdeathmessages": "Villager Death Messages",
+  "_comment_modname_villagerdeathmessages": "Villager Death Messages",
   "collective.villagerdeathmessages.message.diedby": "%1$s mirė%2$s nuo %3$s.",
   "collective.villagerdeathmessages.message.location": " taške x=%1$s, y=%2$s, z=%3$s",
 
-  "_comment_villagernames": "Villager Names",
+  "_comment_modname_villagernames": "Villager Names",
   "collective.villagernames.message.givesloadedvillagers": "Suteikia visiems įkeltiems kaimiečiams naują atsitiktinį vardą.",
   "collective.villagernames.message.givesunnamedloaded": "Suteikia vardą visiems bevardžiams įkeltiems kaimiečiams.",
   "collective.villagernames.message.loadedvillagersrenamed": "%s įkeltiems kaimiečiams suteikti nauji vardai.",
@@ -435,7 +438,7 @@
   "collective.villagernames.message.namesloadedvillagers": "%s įkeltų kaimiečių vardai buvo pašalinti.",
   "collective.villagernames.message.removesnamesloaded": "Pašalina visų įkeltų kaimiečių vardus.",
 
-  "_comment_voidvanguards": "Void Vanguards",
+  "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Tu nesi kosmoso dimensijoje.",
   "collective.voidvanguards.message.generatedcosmosgate": "Sugeneruoti kosmoso vartai.",
   "collective.voidvanguards.message.generatefollowingheads": "Gali sugeneruoti šias galvas:",
