@@ -2,6 +2,8 @@ name: translations
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * 1'  # weekly: pick up newly released Minecraft versions
   pull_request:
     paths:
       - 'lang/**'
@@ -9,6 +11,7 @@ on:
     branches: [main]
     paths:
       - 'lang/**'
+      - 'settings/collectiveVersions.json'
 
 permissions:
   contents: write
@@ -32,14 +35,15 @@ jobs:
         with:
           fetch-depth: 0
       - run: python3 scripts/buildManifest.py
-      - name: Commit manifest
+      - run: python3 scripts/buildServerPacks.py
+      - name: Commit manifest and packs
         run: |
-          git add manifest.json manifest.min.json
+          git add manifest.json manifest.min.json pack
           if git diff --cached --quiet; then
-            echo "manifest unchanged"
+            echo "nothing changed"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update translation manifest"
+          git commit -m "Update translation manifest and server packs"
           git push
