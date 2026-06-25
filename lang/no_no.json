@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Fjernet rangen %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Ukjent farge: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dag %s",
+  "collective.brandnewday.summary": "Sammendrag:",
+  "collective.brandnewday.stat.mobs_slain": "Mobs drept:",
+  "collective.brandnewday.stat.deaths": "Dødsfall:",
+  "collective.brandnewday.stat.blocks_broken": "Blokker ødelagt:",
+  "collective.brandnewday.stat.items_crafted": "Gjenstander laget:",
+  "collective.brandnewday.stat.blocks_traveled": "Blokker tilbakelagt:",
+  "collective.brandnewday.message.previewing": "Forhåndsviser skjermen for ny dag.",
+  "collective.brandnewday.message.showinglast": "Viser den forrige skjermen for ny dag.",
+  "collective.brandnewday.message.nolast": "Det finnes ingen tidligere ny dag å vise.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Drapskaninen er allerede temmet.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "En drapskanin er født! Er du langt nok unna, eller har du en gullrot å dele?",

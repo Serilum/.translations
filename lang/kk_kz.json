@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s шені жойылды",
   "collective.beautifiedchatserver.message.unknowncolor": "Белгісіз түс: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s-күн",
+  "collective.brandnewday.summary": "Қорытынды:",
+  "collective.brandnewday.stat.mobs_slain": "Өлтірілген мобтар:",
+  "collective.brandnewday.stat.deaths": "Өлімдер:",
+  "collective.brandnewday.stat.blocks_broken": "Сындырылған блоктар:",
+  "collective.brandnewday.stat.items_crafted": "Жасалған заттар:",
+  "collective.brandnewday.stat.blocks_traveled": "Жүрілген блоктар:",
+  "collective.brandnewday.message.previewing": "Жаңа күн экранын алдын ала қарау.",
+  "collective.brandnewday.message.showinglast": "Соңғы жаңа күн экраны көрсетілуде.",
+  "collective.brandnewday.message.nolast": "Көрсетуге алдыңғы жаңа күн жоқ.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Жендет қоян әлдеқашан қолға үйретілген.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Жендет қоян дүниеге келді! Жеткілікті алыста тұрсыз ба, әлде оған беретін алтын сәбізіңіз бар ма?",

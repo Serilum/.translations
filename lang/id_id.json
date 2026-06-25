@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Pangkat %s dihapus",
   "collective.beautifiedchatserver.message.unknowncolor": "Warna tidak dikenal: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Hari %s",
+  "collective.brandnewday.summary": "Ringkasan:",
+  "collective.brandnewday.stat.mobs_slain": "Makhluk dibunuh:",
+  "collective.brandnewday.stat.deaths": "Kematian:",
+  "collective.brandnewday.stat.blocks_broken": "Balok dihancurkan:",
+  "collective.brandnewday.stat.items_crafted": "Benda dibuat:",
+  "collective.brandnewday.stat.blocks_traveled": "Balok ditempuh:",
+  "collective.brandnewday.message.previewing": "Mempratinjau layar hari baru.",
+  "collective.brandnewday.message.showinglast": "Menampilkan layar hari baru terakhir.",
+  "collective.brandnewday.message.nolast": "Tidak ada hari baru sebelumnya untuk ditampilkan.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Kelinci pembunuh sudah dijinakkan.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Seekor kelinci pembunuh telah lahir! Apakah kamu sudah cukup jauh atau punya Wortel Emas untuk diberikan?",

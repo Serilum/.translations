@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s աստիճանը հեռացվեց",
   "collective.beautifiedchatserver.message.unknowncolor": "Անհայտ գույն. %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Օր %s",
+  "collective.brandnewday.summary": "Ամփոփում.",
+  "collective.brandnewday.stat.mobs_slain": "Սպանված մոբեր.",
+  "collective.brandnewday.stat.deaths": "Մահեր.",
+  "collective.brandnewday.stat.blocks_broken": "Կոտրված բլոկներ.",
+  "collective.brandnewday.stat.items_crafted": "Պատրաստված իրեր.",
+  "collective.brandnewday.stat.blocks_traveled": "Անցած բլոկներ.",
+  "collective.brandnewday.message.previewing": "Նոր օրվա էկրանի նախադիտում.",
+  "collective.brandnewday.message.showinglast": "Ցուցադրվում է վերջին նոր օրվա էկրանը.",
+  "collective.brandnewday.message.nolast": "Ցուցադրելու նախորդ նոր օր չկա.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Մարդասպան ճագարն արդեն ընտելացված է.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ծնվեց մարդասպան ճագար! Բավական հեռո՞ւ եք, թե՞ ունեք ոսկե գազար՝ կիսվելու համար.",

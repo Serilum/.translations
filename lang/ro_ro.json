@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rangul %s a fost eliminat",
   "collective.beautifiedchatserver.message.unknowncolor": "Culoare necunoscută: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Ziua %s",
+  "collective.brandnewday.summary": "Rezumat:",
+  "collective.brandnewday.stat.mobs_slain": "Creaturi ucise:",
+  "collective.brandnewday.stat.deaths": "Morți:",
+  "collective.brandnewday.stat.blocks_broken": "Blocuri sparte:",
+  "collective.brandnewday.stat.items_crafted": "Obiecte fabricate:",
+  "collective.brandnewday.stat.blocks_traveled": "Blocuri parcurse:",
+  "collective.brandnewday.message.previewing": "Se previzualizează ecranul zilei noi.",
+  "collective.brandnewday.message.showinglast": "Se afișează ultimul ecran al zilei noi.",
+  "collective.brandnewday.message.nolast": "Nu există o zi nouă anterioară de afișat.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Iepurele ucigaș a fost deja îmblânzit.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "S-a născut un iepure ucigaș! Ești destul de departe sau ai un morcov de aur de oferit?",

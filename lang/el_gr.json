@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Αφαιρέθηκε η βαθμίδα %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Άγνωστο χρώμα: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Ημέρα %s",
+  "collective.brandnewday.summary": "Σύνοψη:",
+  "collective.brandnewday.stat.mobs_slain": "Πλάσματα που σκοτώθηκαν:",
+  "collective.brandnewday.stat.deaths": "Θάνατοι:",
+  "collective.brandnewday.stat.blocks_broken": "Κύβοι που σπάστηκαν:",
+  "collective.brandnewday.stat.items_crafted": "Αντικείμενα που κατασκευάστηκαν:",
+  "collective.brandnewday.stat.blocks_traveled": "Κύβοι που διανύθηκαν:",
+  "collective.brandnewday.message.previewing": "Προεπισκόπηση της οθόνης νέας ημέρας.",
+  "collective.brandnewday.message.showinglast": "Εμφάνιση της τελευταίας οθόνης νέας ημέρας.",
+  "collective.brandnewday.message.nolast": "Δεν υπάρχει προηγούμενη νέα ημέρα για εμφάνιση.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Ο φονικός λαγός έχει ήδη εξημερωθεί.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Γεννήθηκε ένας φονικός λαγός! Είσαι αρκετά μακριά ή έχεις ένα Χρυσό Καρώτο να μοιραστείς;",

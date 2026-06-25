@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s maila kendu da",
   "collective.beautifiedchatserver.message.unknowncolor": "Kolore ezezaguna: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s. eguna",
+  "collective.brandnewday.summary": "Laburpena:",
+  "collective.brandnewday.stat.mobs_slain": "Hildako sorkariak:",
+  "collective.brandnewday.stat.deaths": "Heriotzak:",
+  "collective.brandnewday.stat.blocks_broken": "Hautsitako blokeak:",
+  "collective.brandnewday.stat.items_crafted": "Sortutako objektuak:",
+  "collective.brandnewday.stat.blocks_traveled": "Bidaiatutako blokeak:",
+  "collective.brandnewday.message.previewing": "Egun berriaren pantailaren aurrebista.",
+  "collective.brandnewday.message.showinglast": "Azken egun berriaren pantaila erakusten.",
+  "collective.brandnewday.message.nolast": "Ez dago erakusteko aurreko egun berririk.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Untxi hiltzailea dagoeneko hezita dago.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Untxi hiltzaile bat jaio da! Nahikoa urrun al zaude, edo baduzu urrezko azenario bat partekatzeko?",

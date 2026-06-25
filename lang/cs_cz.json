@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Hodnost %s byla odebrána",
   "collective.beautifiedchatserver.message.unknowncolor": "Neznámá barva: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Den %s",
+  "collective.brandnewday.summary": "Shrnutí:",
+  "collective.brandnewday.stat.mobs_slain": "Zabití mobů:",
+  "collective.brandnewday.stat.deaths": "Úmrtí:",
+  "collective.brandnewday.stat.blocks_broken": "Rozbité bloky:",
+  "collective.brandnewday.stat.items_crafted": "Vyrobené předměty:",
+  "collective.brandnewday.stat.blocks_traveled": "Ušlé bloky:",
+  "collective.brandnewday.message.previewing": "Náhled obrazovky nového dne.",
+  "collective.brandnewday.message.showinglast": "Zobrazuje se poslední obrazovka nového dne.",
+  "collective.brandnewday.message.nolast": "Není k dispozici žádný předchozí nový den k zobrazení.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Králík zabiják už byl ochočen.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Narodil se králík zabiják! Jsi dost daleko, nebo se s ním podělíš o zlatou mrkev?",

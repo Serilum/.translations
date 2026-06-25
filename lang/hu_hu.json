@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s rang eltávolítva",
   "collective.beautifiedchatserver.message.unknowncolor": "Ismeretlen szín: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s. nap",
+  "collective.brandnewday.summary": "Összegzés:",
+  "collective.brandnewday.stat.mobs_slain": "Megölt lények:",
+  "collective.brandnewday.stat.deaths": "Halálok:",
+  "collective.brandnewday.stat.blocks_broken": "Összetört blokkok:",
+  "collective.brandnewday.stat.items_crafted": "Elkészített tárgyak:",
+  "collective.brandnewday.stat.blocks_traveled": "Megtett blokkok:",
+  "collective.brandnewday.message.previewing": "Az új nap képernyő előnézete.",
+  "collective.brandnewday.message.showinglast": "Az utolsó új nap képernyő megjelenítése.",
+  "collective.brandnewday.message.nolast": "Nincs megjeleníthető korábbi új nap.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "A vérnyulat már megszelídítették.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Megszületett egy vérnyúl! Elég messze vagy, vagy van nálad aranyrépa, amit megoszthatsz vele?",

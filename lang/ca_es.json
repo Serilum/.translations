@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "S'ha eliminat el rang %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Color desconegut: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dia %s",
+  "collective.brandnewday.summary": "Resum:",
+  "collective.brandnewday.stat.mobs_slain": "Criatures mortes:",
+  "collective.brandnewday.stat.deaths": "Morts:",
+  "collective.brandnewday.stat.blocks_broken": "Blocs trencats:",
+  "collective.brandnewday.stat.items_crafted": "Objectes fabricats:",
+  "collective.brandnewday.stat.blocks_traveled": "Blocs recorreguts:",
+  "collective.brandnewday.message.previewing": "Previsualitzant la pantalla del nou dia.",
+  "collective.brandnewday.message.showinglast": "Mostrant l'última pantalla de nou dia.",
+  "collective.brandnewday.message.nolast": "No hi ha cap dia nou anterior per mostrar.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "El conill assassí ja s'ha domesticat.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ha nascut un conill assassí! Ets prou lluny o tens una pastanaga daurada per a compartir?",

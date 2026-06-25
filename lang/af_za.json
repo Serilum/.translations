@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rang %s verwyder",
   "collective.beautifiedchatserver.message.unknowncolor": "Onbekende kleur: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dag %s",
+  "collective.brandnewday.summary": "Opsomming:",
+  "collective.brandnewday.stat.mobs_slain": "Wesens doodgemaak:",
+  "collective.brandnewday.stat.deaths": "Sterftes:",
+  "collective.brandnewday.stat.blocks_broken": "Blokke gebreek:",
+  "collective.brandnewday.stat.items_crafted": "Voorwerpe vervaardig:",
+  "collective.brandnewday.stat.blocks_traveled": "Blokke gereis:",
+  "collective.brandnewday.message.previewing": "Voorskou van die nuwe dag-skerm.",
+  "collective.brandnewday.message.showinglast": "Wys die laaste nuwe dag-skerm.",
+  "collective.brandnewday.message.nolast": "Daar is geen vorige nuwe dag om te wys nie.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Die moordkonyn is reeds mak gemaak.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "'n Moordkonyn is gebore! Is jy ver genoeg weg of het jy 'n Goue Wortel om te deel?",

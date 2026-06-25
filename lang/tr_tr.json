@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s rütbesi kaldırıldı",
   "collective.beautifiedchatserver.message.unknowncolor": "Bilinmeyen renk: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s. Gün",
+  "collective.brandnewday.summary": "Özet:",
+  "collective.brandnewday.stat.mobs_slain": "Öldürülen yaratıklar:",
+  "collective.brandnewday.stat.deaths": "Ölümler:",
+  "collective.brandnewday.stat.blocks_broken": "Kırılan bloklar:",
+  "collective.brandnewday.stat.items_crafted": "Üretilen eşyalar:",
+  "collective.brandnewday.stat.blocks_traveled": "Gidilen blok mesafesi:",
+  "collective.brandnewday.message.previewing": "Yeni gün ekranı önizleniyor.",
+  "collective.brandnewday.message.showinglast": "Son yeni gün ekranı gösteriliyor.",
+  "collective.brandnewday.message.nolast": "Gösterilecek önceki bir yeni gün yok.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Katil tavşan zaten evcilleştirilmiş.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Bir katil tavşan doğdu! Yeterince uzakta mısın, yoksa paylaşacak bir altın havucun var mı?",

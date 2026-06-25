@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rang %s verwijderd",
   "collective.beautifiedchatserver.message.unknowncolor": "Onbekende kleur: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dag %s",
+  "collective.brandnewday.summary": "Samenvatting:",
+  "collective.brandnewday.stat.mobs_slain": "Wezens gedood:",
+  "collective.brandnewday.stat.deaths": "Keer doodgegaan:",
+  "collective.brandnewday.stat.blocks_broken": "Blokken gebroken:",
+  "collective.brandnewday.stat.items_crafted": "Voorwerpen gemaakt:",
+  "collective.brandnewday.stat.blocks_traveled": "Blokken afgereisd:",
+  "collective.brandnewday.message.previewing": "Voorbeeld van het nieuwe-dagscherm wordt getoond.",
+  "collective.brandnewday.message.showinglast": "Het laatste nieuwe-dagscherm wordt getoond.",
+  "collective.brandnewday.message.nolast": "Er is geen vorige nieuwe dag om te tonen.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Het moordkonijn is al getemd.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Er is een moordkonijn geboren! Sta je ver genoeg weg of heb je een gouden wortel om te delen?",

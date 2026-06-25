@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Se eliminó el rango %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Color desconocido: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Día %s",
+  "collective.brandnewday.summary": "Resumen:",
+  "collective.brandnewday.stat.mobs_slain": "Criaturas eliminadas:",
+  "collective.brandnewday.stat.deaths": "Muertes:",
+  "collective.brandnewday.stat.blocks_broken": "Bloques rotos:",
+  "collective.brandnewday.stat.items_crafted": "Objetos fabricados:",
+  "collective.brandnewday.stat.blocks_traveled": "Bloques recorridos:",
+  "collective.brandnewday.message.previewing": "Mostrando una vista previa de la pantalla de nuevo día.",
+  "collective.brandnewday.message.showinglast": "Mostrando la última pantalla de nuevo día.",
+  "collective.brandnewday.message.nolast": "No hay ningún día nuevo anterior para mostrar.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "El conejo asesino ya fue domesticado.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "¡Nació un conejo asesino! ¿Estás lo bastante lejos o tienes una zanahoria de oro para compartir?",

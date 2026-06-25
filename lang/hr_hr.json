@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Uklonjen rang %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Nepoznata boja: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dan %s",
+  "collective.brandnewday.summary": "Sažetak:",
+  "collective.brandnewday.stat.mobs_slain": "Ubijena čudovišta:",
+  "collective.brandnewday.stat.deaths": "Smrti:",
+  "collective.brandnewday.stat.blocks_broken": "Razbijeni blokovi:",
+  "collective.brandnewday.stat.items_crafted": "Izrađeni predmeti:",
+  "collective.brandnewday.stat.blocks_traveled": "Prijeđeni blokovi:",
+  "collective.brandnewday.message.previewing": "Pretpregled zaslona novog dana.",
+  "collective.brandnewday.message.showinglast": "Prikaz zadnjeg zaslona novog dana.",
+  "collective.brandnewday.message.nolast": "Nema prethodnog novog dana za prikaz.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Zec ubojica već je pripitomljen.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Rodio se zec ubojica! Jesi li dovoljno daleko ili imaš zlatnu mrkvu za podijeliti?",

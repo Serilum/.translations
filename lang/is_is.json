@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Fjarlægði tignina %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Óþekktur litur: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dagur %s",
+  "collective.brandnewday.summary": "Samantekt:",
+  "collective.brandnewday.stat.mobs_slain": "Drepnar verur:",
+  "collective.brandnewday.stat.deaths": "Dauðsföll:",
+  "collective.brandnewday.stat.blocks_broken": "Brotnir kubbar:",
+  "collective.brandnewday.stat.items_crafted": "Smíðaðir hlutir:",
+  "collective.brandnewday.stat.blocks_traveled": "Farnir kubbar:",
+  "collective.brandnewday.message.previewing": "Forskoðun á skjá nýs dags.",
+  "collective.brandnewday.message.showinglast": "Sýni síðasta skjá nýs dags.",
+  "collective.brandnewday.message.nolast": "Enginn fyrri nýr dagur til að sýna.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Drápskanínan hefur þegar verið tamin.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Drápskanína hefur fæðst! Ertu nógu langt í burtu eða ertu með gullrót til að deila?",

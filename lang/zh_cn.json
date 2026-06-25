@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "已移除头衔 %s",
   "collective.beautifiedchatserver.message.unknowncolor": "未知颜色：%s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "第 %s 天",
+  "collective.brandnewday.summary": "总结：",
+  "collective.brandnewday.stat.mobs_slain": "击杀生物：",
+  "collective.brandnewday.stat.deaths": "死亡次数：",
+  "collective.brandnewday.stat.blocks_broken": "破坏方块：",
+  "collective.brandnewday.stat.items_crafted": "合成物品：",
+  "collective.brandnewday.stat.blocks_traveled": "行进距离（方块）：",
+  "collective.brandnewday.message.previewing": "正在预览新一天界面。",
+  "collective.brandnewday.message.showinglast": "正在显示上一次的新一天界面。",
+  "collective.brandnewday.message.nolast": "没有可显示的上一次新一天界面。",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "杀手兔已经被驯服了。",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "一只杀手兔诞生了！你离得够远吗，还是手上有金胡萝卜可以分享？",

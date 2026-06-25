@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Ранг %s выдалены",
   "collective.beautifiedchatserver.message.unknowncolor": "Невядомы колер: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Дзень %s",
+  "collective.brandnewday.summary": "Зводка:",
+  "collective.brandnewday.stat.mobs_slain": "Забіта мабаў:",
+  "collective.brandnewday.stat.deaths": "Смерцяў:",
+  "collective.brandnewday.stat.blocks_broken": "Зламана блокаў:",
+  "collective.brandnewday.stat.items_crafted": "Створана прадметаў:",
+  "collective.brandnewday.stat.blocks_traveled": "Пройдзена блокаў:",
+  "collective.brandnewday.message.previewing": "Папярэдні прагляд экрана новага дня.",
+  "collective.brandnewday.message.showinglast": "Паказваецца апошні экран новага дня.",
+  "collective.brandnewday.message.nolast": "Няма папярэдняга новага дня для паказу.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Трус-забойца ўжо прыручаны.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Нарадзіўся трус-забойца! Ці досыць далёка вы адышлі, ці маеце залатую моркву, каб падзяліцца?",

@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "%s 등급을 제거했습니다",
   "collective.beautifiedchatserver.message.unknowncolor": "알 수 없는 색상: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s일째",
+  "collective.brandnewday.summary": "요약:",
+  "collective.brandnewday.stat.mobs_slain": "처치한 몹:",
+  "collective.brandnewday.stat.deaths": "사망 횟수:",
+  "collective.brandnewday.stat.blocks_broken": "파괴한 블록:",
+  "collective.brandnewday.stat.items_crafted": "제작한 아이템:",
+  "collective.brandnewday.stat.blocks_traveled": "이동한 거리(블록):",
+  "collective.brandnewday.message.previewing": "새로운 날 화면을 미리 봅니다.",
+  "collective.brandnewday.message.showinglast": "마지막 새로운 날 화면을 표시합니다.",
+  "collective.brandnewday.message.nolast": "표시할 이전 새로운 날이 없습니다.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "살인 토끼는 이미 길들여졌습니다.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "살인 토끼가 태어났습니다! 충분히 멀리 떨어져 있거나 나눠 줄 황금 당근이 있나요?",

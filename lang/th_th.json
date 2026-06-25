@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "ลบยศ %s แล้ว",
   "collective.beautifiedchatserver.message.unknowncolor": "ไม่รู้จักสี: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "วันที่ %s",
+  "collective.brandnewday.summary": "สรุป:",
+  "collective.brandnewday.stat.mobs_slain": "ม็อบที่สังหาร:",
+  "collective.brandnewday.stat.deaths": "การตาย:",
+  "collective.brandnewday.stat.blocks_broken": "บล็อกที่ทำลาย:",
+  "collective.brandnewday.stat.items_crafted": "ไอเทมที่คราฟต์:",
+  "collective.brandnewday.stat.blocks_traveled": "ระยะทางที่เดินทาง (บล็อก):",
+  "collective.brandnewday.message.previewing": "กำลังแสดงตัวอย่างหน้าจอวันใหม่",
+  "collective.brandnewday.message.showinglast": "กำลังแสดงหน้าจอวันใหม่ล่าสุด",
+  "collective.brandnewday.message.nolast": "ไม่มีวันใหม่ก่อนหน้าให้แสดง",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "กระต่ายนักฆ่าถูกทำให้เชื่องไปแล้ว",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "กระต่ายนักฆ่าถือกำเนิดแล้ว! คุณอยู่ห่างพอไหม หรือมีแคร์รอตทองไว้แบ่งกันหรือเปล่า?",

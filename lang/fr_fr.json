@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rang %s supprimé",
   "collective.beautifiedchatserver.message.unknowncolor": "Couleur inconnue : %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Jour %s",
+  "collective.brandnewday.summary": "Résumé :",
+  "collective.brandnewday.stat.mobs_slain": "Créatures tuées :",
+  "collective.brandnewday.stat.deaths": "Morts :",
+  "collective.brandnewday.stat.blocks_broken": "Blocs détruits :",
+  "collective.brandnewday.stat.items_crafted": "Objets fabriqués :",
+  "collective.brandnewday.stat.blocks_traveled": "Blocs parcourus :",
+  "collective.brandnewday.message.previewing": "Aperçu de l'écran de nouveau jour.",
+  "collective.brandnewday.message.showinglast": "Affichage du dernier écran de nouveau jour.",
+  "collective.brandnewday.message.nolast": "Aucun nouveau jour précédent à afficher.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Le lapin tueur a déjà été apprivoisé.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Un lapin tueur est né ! Êtes-vous assez loin ou avez-vous une carotte dorée à partager ?",

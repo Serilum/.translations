@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Tynnwyd y reng %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Lliw anhysbys: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Diwrnod %s",
+  "collective.brandnewday.summary": "Crynodeb:",
+  "collective.brandnewday.stat.mobs_slain": "Bwystfilod a laddwyd:",
+  "collective.brandnewday.stat.deaths": "Marwolaethau:",
+  "collective.brandnewday.stat.blocks_broken": "Blociau a dorrwyd:",
+  "collective.brandnewday.stat.items_crafted": "Eitemau a grefftiwyd:",
+  "collective.brandnewday.stat.blocks_traveled": "Blociau a deithiwyd:",
+  "collective.brandnewday.message.previewing": "Rhagolwg o sgrin y diwrnod newydd.",
+  "collective.brandnewday.message.showinglast": "Dangos sgrin y diwrnod newydd diwethaf.",
+  "collective.brandnewday.message.nolast": "Nid oes diwrnod newydd blaenorol i'w ddangos.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Mae'r gwningen laddol eisoes wedi'i dofi.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Mae cwningen laddol wedi'i geni! Ydych chi'n ddigon pell i ffwrdd, neu oes gennych foronen euraid i'w rhannu?",

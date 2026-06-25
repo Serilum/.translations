@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "הדרגה %s הוסרה",
   "collective.beautifiedchatserver.message.unknowncolor": "צבע לא ידוע: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "יום %s",
+  "collective.brandnewday.summary": "סיכום:",
+  "collective.brandnewday.stat.mobs_slain": "יצורים שנהרגו:",
+  "collective.brandnewday.stat.deaths": "מקרי מוות:",
+  "collective.brandnewday.stat.blocks_broken": "בלוקים שנשברו:",
+  "collective.brandnewday.stat.items_crafted": "פריטים שיוצרו:",
+  "collective.brandnewday.stat.blocks_traveled": "בלוקים שנעברו:",
+  "collective.brandnewday.message.previewing": "מציג תצוגה מקדימה של מסך היום החדש.",
+  "collective.brandnewday.message.showinglast": "מציג את מסך היום החדש האחרון.",
+  "collective.brandnewday.message.nolast": "אין יום חדש קודם להצגה.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "ארנב הרוצח כבר אולף.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "ארנב רוצח נולד! האם אתה רחוק מספיק או שיש לך גזר מוזהב לחלוק?",

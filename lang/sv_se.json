@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Tog bort rangordningen %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Okänd färg: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dag %s",
+  "collective.brandnewday.summary": "Sammanfattning:",
+  "collective.brandnewday.stat.mobs_slain": "Dödade varelser:",
+  "collective.brandnewday.stat.deaths": "Dödsfall:",
+  "collective.brandnewday.stat.blocks_broken": "Förstörda block:",
+  "collective.brandnewday.stat.items_crafted": "Tillverkade föremål:",
+  "collective.brandnewday.stat.blocks_traveled": "Färdade block:",
+  "collective.brandnewday.message.previewing": "Förhandsvisar skärmen för en ny dag.",
+  "collective.brandnewday.message.showinglast": "Visar den senaste skärmen för en ny dag.",
+  "collective.brandnewday.message.nolast": "Det finns ingen tidigare ny dag att visa.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Mördarkaninen har redan tämjts.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "En mördarkanin har fötts! Är du tillräckligt långt borta eller har du en gyllene morot att dela med dig av?",

@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Rangs %s noņemts",
   "collective.beautifiedchatserver.message.unknowncolor": "Nezināma krāsa: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "%s. diena",
+  "collective.brandnewday.summary": "Kopsavilkums:",
+  "collective.brandnewday.stat.mobs_slain": "Nogalinātie radījumi:",
+  "collective.brandnewday.stat.deaths": "Nāves:",
+  "collective.brandnewday.stat.blocks_broken": "Sagrautie bloki:",
+  "collective.brandnewday.stat.items_crafted": "Izgatavotie priekšmeti:",
+  "collective.brandnewday.stat.blocks_traveled": "Veiktais attālums blokos:",
+  "collective.brandnewday.message.previewing": "Tiek priekšskatīts jaunās dienas ekrāns.",
+  "collective.brandnewday.message.showinglast": "Tiek rādīts pēdējais jaunās dienas ekrāns.",
+  "collective.brandnewday.message.nolast": "Nav iepriekšējas jaunās dienas, ko rādīt.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Slepkavas trusis jau ir pieradināts.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Ir piedzimis slepkavas trusis! Vai esi pietiekami tālu, vai arī tev ir zelta burkāns, ko piedāvāt?",

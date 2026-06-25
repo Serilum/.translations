@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Poistettiin arvo %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Tuntematon väri: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Päivä %s",
+  "collective.brandnewday.summary": "Yhteenveto:",
+  "collective.brandnewday.stat.mobs_slain": "Tapetut hirviöt:",
+  "collective.brandnewday.stat.deaths": "Kuolemat:",
+  "collective.brandnewday.stat.blocks_broken": "Rikotut kuutiot:",
+  "collective.brandnewday.stat.items_crafted": "Valmistetut esineet:",
+  "collective.brandnewday.stat.blocks_traveled": "Kuljetut kuutiot:",
+  "collective.brandnewday.message.previewing": "Esikatsellaan uuden päivän näyttöä.",
+  "collective.brandnewday.message.showinglast": "Näytetään viimeisin uuden päivän näyttö.",
+  "collective.brandnewday.message.nolast": "Edellistä uutta päivää ei ole näytettäväksi.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Tappajajänis on jo kesytetty.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Tappajajänis on syntynyt! Oletko tarpeeksi kaukana vai onko sinulla kultaporkkana jaettavaksi?",

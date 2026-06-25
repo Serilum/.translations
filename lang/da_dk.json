@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Fjernede rangen %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Ukendt farve: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dag %s",
+  "collective.brandnewday.summary": "Oversigt:",
+  "collective.brandnewday.stat.mobs_slain": "Væsner dræbt:",
+  "collective.brandnewday.stat.deaths": "Dødsfald:",
+  "collective.brandnewday.stat.blocks_broken": "Blokke ødelagt:",
+  "collective.brandnewday.stat.items_crafted": "Genstande fremstillet:",
+  "collective.brandnewday.stat.blocks_traveled": "Blokke tilbagelagt:",
+  "collective.brandnewday.message.previewing": "Forhåndsviser skærmen for den nye dag.",
+  "collective.brandnewday.message.showinglast": "Viser den seneste skærm for ny dag.",
+  "collective.brandnewday.message.nolast": "Der er ingen tidligere ny dag at vise.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Dræberkaninen er allerede blevet tæmmet.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "En dræberkanin er blevet født! Er du langt nok væk, eller har du en gylden gulerod at dele?",

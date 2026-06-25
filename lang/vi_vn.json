@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Đã xóa cấp bậc %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Màu không xác định: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Ngày %s",
+  "collective.brandnewday.summary": "Tổng kết:",
+  "collective.brandnewday.stat.mobs_slain": "Sinh vật bị tiêu diệt:",
+  "collective.brandnewday.stat.deaths": "Số lần chết:",
+  "collective.brandnewday.stat.blocks_broken": "Khối đã phá:",
+  "collective.brandnewday.stat.items_crafted": "Vật phẩm đã chế tạo:",
+  "collective.brandnewday.stat.blocks_traveled": "Số khối đã đi:",
+  "collective.brandnewday.message.previewing": "Đang xem trước màn hình ngày mới.",
+  "collective.brandnewday.message.showinglast": "Đang hiển thị màn hình ngày mới gần nhất.",
+  "collective.brandnewday.message.nolast": "Không có ngày mới trước đó để hiển thị.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Con thỏ sát thủ đã được thuần phục rồi.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Một con thỏ sát thủ đã chào đời! Bạn đã đứng đủ xa hay có sẵn một củ Cà rốt vàng để chia sẻ chưa?",

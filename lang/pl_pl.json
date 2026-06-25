@@ -38,6 +38,18 @@
   "collective.beautifiedchatserver.message.removedrank": "Usunięto rangę %s",
   "collective.beautifiedchatserver.message.unknowncolor": "Nieznany kolor: %s",
 
+  "_comment_modname_brandnewday": "Brand New Day",
+  "collective.brandnewday.day": "Dzień %s",
+  "collective.brandnewday.summary": "Podsumowanie:",
+  "collective.brandnewday.stat.mobs_slain": "Zabite moby:",
+  "collective.brandnewday.stat.deaths": "Śmierci:",
+  "collective.brandnewday.stat.blocks_broken": "Zniszczone bloki:",
+  "collective.brandnewday.stat.items_crafted": "Wytworzone przedmioty:",
+  "collective.brandnewday.stat.blocks_traveled": "Przebyte bloki:",
+  "collective.brandnewday.message.previewing": "Podgląd ekranu nowego dnia.",
+  "collective.brandnewday.message.showinglast": "Wyświetlanie ostatniego ekranu nowego dnia.",
+  "collective.brandnewday.message.nolast": "Brak poprzedniego nowego dnia do wyświetlenia.",
+
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Zabójczy królik został już oswojony.",
   "collective.breedablekillerrabbit.message.killerrabbitborn": "Urodził się zabójczy królik! Czy jesteś wystarczająco daleko, albo masz złotą marchewkę do podzielenia się?",
