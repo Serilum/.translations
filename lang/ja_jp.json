@@ -46,9 +46,9 @@
   "collective.brandnewday.stat.blocks_broken": "破壊したブロック:",
   "collective.brandnewday.stat.items_crafted": "クラフトしたアイテム:",
   "collective.brandnewday.stat.blocks_traveled": "移動したブロック数:",
-  "collective.brandnewday.message.previewing": "新しい日の画面をプレビューしています。",
-  "collective.brandnewday.message.showinglast": "前回の新しい日の画面を表示しています。",
-  "collective.brandnewday.message.nolast": "表示できる前回の新しい日がありません。",
+  "collective.brandnewday.message.previewing": "新しい日の画面をプレビュー中です。",
+  "collective.brandnewday.message.showinglast": "前回の新しい日の画面を表示中です。",
+  "collective.brandnewday.message.nolast": "表示できる以前の新しい日がありません。",
 
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "キラーラビットはすでに飼いならされています。",

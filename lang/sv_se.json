@@ -45,7 +45,7 @@
   "collective.brandnewday.stat.deaths": "Dödsfall:",
   "collective.brandnewday.stat.blocks_broken": "Förstörda block:",
   "collective.brandnewday.stat.items_crafted": "Tillverkade föremål:",
-  "collective.brandnewday.stat.blocks_traveled": "Färdade block:",
+  "collective.brandnewday.stat.blocks_traveled": "Tillryggalagda block:",
   "collective.brandnewday.message.previewing": "Förhandsvisar skärmen för en ny dag.",
   "collective.brandnewday.message.showinglast": "Visar den senaste skärmen för en ny dag.",
   "collective.brandnewday.message.nolast": "Det finns ingen tidigare ny dag att visa.",

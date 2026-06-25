@@ -46,8 +46,8 @@
   "collective.brandnewday.stat.blocks_broken": "Blokke ødelagt:",
   "collective.brandnewday.stat.items_crafted": "Genstande fremstillet:",
   "collective.brandnewday.stat.blocks_traveled": "Blokke tilbagelagt:",
-  "collective.brandnewday.message.previewing": "Forhåndsviser skærmen for den nye dag.",
-  "collective.brandnewday.message.showinglast": "Viser den seneste skærm for ny dag.",
+  "collective.brandnewday.message.previewing": "Forhåndsviser den nye dag-skærm.",
+  "collective.brandnewday.message.showinglast": "Viser den seneste nye dag-skærm.",
   "collective.brandnewday.message.nolast": "Der er ingen tidligere ny dag at vise.",
 
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",

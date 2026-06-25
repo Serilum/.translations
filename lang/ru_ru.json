@@ -48,7 +48,7 @@
   "collective.brandnewday.stat.blocks_traveled": "Пройдено блоков:",
   "collective.brandnewday.message.previewing": "Предпросмотр экрана нового дня.",
   "collective.brandnewday.message.showinglast": "Показ последнего экрана нового дня.",
-  "collective.brandnewday.message.nolast": "Нет предыдущего экрана нового дня для показа.",
+  "collective.brandnewday.message.nolast": "Нет предыдущего нового дня для отображения.",
 
   "_comment_modname_breedablekillerrabbit": "Breedable Killer Rabbit",
   "collective.breedablekillerrabbit.message.killerrabbitalready": "Кролик-убийца уже приручён.",
