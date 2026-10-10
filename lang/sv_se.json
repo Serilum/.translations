@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Handla med bybo",
   "collective.dailyquests.questtitle.travelblocks": "Färdas block",
   "collective.dailyquests.questtitle.useitem": "Använd föremål",
+  "collective.dailyquests.introduction.title.collapselist": "Fäll ihop listan",
+  "collective.dailyquests.introduction.title.gettingstarted": "Kom igång",
+  "collective.dailyquests.introduction.description.introduction": "Introduktion.",
+  "collective.dailyquests.introduction.description.collapselist": "Tryck på %s för att fälla ihop den här listan.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Få dina första %s uppdrag nästa morgon i spelet!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Det går inte att hitta världens server, kan inte läsa in dödssäkerhetskopian.",

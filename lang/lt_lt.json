@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Prekiauti su kaimiečiu",
   "collective.dailyquests.questtitle.travelblocks": "Nukeliauti blokus",
   "collective.dailyquests.questtitle.useitem": "Panaudoti daiktą",
+  "collective.dailyquests.introduction.title.collapselist": "Suskleisti sąrašą",
+  "collective.dailyquests.introduction.title.gettingstarted": "Pradžia",
+  "collective.dailyquests.introduction.description.introduction": "Įvadas.",
+  "collective.dailyquests.introduction.description.collapselist": "Spauskite %s, kad suskleistumėte šį sąrašą.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Pirmąsias užduotis (%s) gausite kitą žaidimo rytą!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nepavyksta rasti pasaulio serverio, nepavyko įkelti mirties atsarginės kopijos.",

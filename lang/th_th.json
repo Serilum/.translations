@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "แลกเปลี่ยนกับชาวบ้าน",
   "collective.dailyquests.questtitle.travelblocks": "เดินทาง (บล็อก)",
   "collective.dailyquests.questtitle.useitem": "ใช้ไอเทม",
+  "collective.dailyquests.introduction.title.collapselist": "ย่อรายการ",
+  "collective.dailyquests.introduction.title.gettingstarted": "เริ่มต้นใช้งาน",
+  "collective.dailyquests.introduction.description.introduction": "บทนำ",
+  "collective.dailyquests.introduction.description.collapselist": "กด %s เพื่อย่อรายการนี้",
+  "collective.dailyquests.introduction.description.gettingstarted": "รับเควสต์แรก %s รายการในเช้าวันถัดไปในเกม!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "ไม่พบเซิร์ฟเวอร์ของโลก ไม่สามารถโหลดข้อมูลสำรองตอนตายได้",

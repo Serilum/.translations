@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Köylüyle Ticaret Yap",
   "collective.dailyquests.questtitle.travelblocks": "Blok İlerle",
   "collective.dailyquests.questtitle.useitem": "Eşya Kullan",
+  "collective.dailyquests.introduction.title.collapselist": "Listeyi Daralt",
+  "collective.dailyquests.introduction.title.gettingstarted": "Başlarken",
+  "collective.dailyquests.introduction.description.introduction": "Giriş.",
+  "collective.dailyquests.introduction.description.collapselist": "Bu listeyi daraltmak için %s tuşuna basın.",
+  "collective.dailyquests.introduction.description.gettingstarted": "İlk %s görevini bir sonraki oyun sabahında al!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Dünyanın sunucusu bulunamadı, ölüm yedeği yüklenemiyor.",

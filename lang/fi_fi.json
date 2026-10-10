@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Tee kauppaa kyläläisen kanssa",
   "collective.dailyquests.questtitle.travelblocks": "Kulje kuutioita",
   "collective.dailyquests.questtitle.useitem": "Käytä esinettä",
+  "collective.dailyquests.introduction.title.collapselist": "Tiivistä lista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Aloitus",
+  "collective.dailyquests.introduction.description.introduction": "Johdanto.",
+  "collective.dailyquests.introduction.description.collapselist": "Paina %s tiivistääksesi tämän listan.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Saat ensimmäiset tehtäväsi (%s) seuraavana pelin aamuna!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Maailman palvelinta ei löydy, kuolemavarmuuskopiota ei voi ladata.",

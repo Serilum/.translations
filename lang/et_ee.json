@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Kauple külaelanikuga",
   "collective.dailyquests.questtitle.travelblocks": "Läbi plokke",
   "collective.dailyquests.questtitle.useitem": "Kasuta eset",
+  "collective.dailyquests.introduction.title.collapselist": "Ahenda loend",
+  "collective.dailyquests.introduction.title.gettingstarted": "Alustamine",
+  "collective.dailyquests.introduction.description.introduction": "Sissejuhatus.",
+  "collective.dailyquests.introduction.description.collapselist": "Vajuta %s, et see loend ahendada.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Esimesed ülesanded (%s) saad järgmisel mänguhommikul!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Maailma serverit ei leitud, surmavarukoopiat ei saa laadida.",

@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Berdagang dengan Penduduk Desa",
   "collective.dailyquests.questtitle.travelblocks": "Tempuh Balok",
   "collective.dailyquests.questtitle.useitem": "Gunakan Benda",
+  "collective.dailyquests.introduction.title.collapselist": "Lipat Daftar",
+  "collective.dailyquests.introduction.title.gettingstarted": "Memulai",
+  "collective.dailyquests.introduction.description.introduction": "Pengantar.",
+  "collective.dailyquests.introduction.description.collapselist": "Tekan %s untuk melipat daftar ini.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Dapatkan %s misi pertamamu pada pagi berikutnya di dalam game!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Tidak dapat menemukan server dunia, tidak bisa memuat cadangan kematian.",

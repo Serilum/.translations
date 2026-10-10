@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Handel met Dorpenaar",
   "collective.dailyquests.questtitle.travelblocks": "Reis Blokke",
   "collective.dailyquests.questtitle.useitem": "Gebruik Item",
+  "collective.dailyquests.introduction.title.collapselist": "Vou Lys In",
+  "collective.dailyquests.introduction.title.gettingstarted": "Om te Begin",
+  "collective.dailyquests.introduction.description.introduction": "Inleiding.",
+  "collective.dailyquests.introduction.description.collapselist": "Druk %s om hierdie lys in te vou.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Ontvang jou eerste %s soektogte die volgende oggend in die spel!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Kan nie die wêreld se bediener vind nie, kan nie die dood-rugsteun laai nie.",

@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "סחר עם כפרי",
   "collective.dailyquests.questtitle.travelblocks": "התקדם בלוקים",
   "collective.dailyquests.questtitle.useitem": "השתמש בפריט",
+  "collective.dailyquests.introduction.title.collapselist": "כיווץ הרשימה",
+  "collective.dailyquests.introduction.title.gettingstarted": "צעדים ראשונים",
+  "collective.dailyquests.introduction.description.introduction": "מבוא.",
+  "collective.dailyquests.introduction.description.collapselist": "לחץ על %s כדי לכווץ את הרשימה הזו.",
+  "collective.dailyquests.introduction.description.gettingstarted": "קבל את %s המשימות הראשונות שלך בבוקר הבא במשחק!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "לא ניתן למצוא את שרת העולם, לא ניתן לטעון את גיבוי המוות.",

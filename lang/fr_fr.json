@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Échanger avec un villageois",
   "collective.dailyquests.questtitle.travelblocks": "Parcourir des blocs",
   "collective.dailyquests.questtitle.useitem": "Utiliser un objet",
+  "collective.dailyquests.introduction.title.collapselist": "Réduire la liste",
+  "collective.dailyquests.introduction.title.gettingstarted": "Premiers pas",
+  "collective.dailyquests.introduction.description.introduction": "Introduction.",
+  "collective.dailyquests.introduction.description.collapselist": "Appuyez sur %s pour réduire cette liste.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Recevez vos %s premières quêtes dès le prochain matin en jeu !",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Impossible de trouver le serveur du monde, chargement de la sauvegarde de mort impossible.",

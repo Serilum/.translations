@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "与村民交易",
   "collective.dailyquests.questtitle.travelblocks": "行进距离",
   "collective.dailyquests.questtitle.useitem": "使用物品",
+  "collective.dailyquests.introduction.title.collapselist": "折叠列表",
+  "collective.dailyquests.introduction.title.gettingstarted": "新手入门",
+  "collective.dailyquests.introduction.description.introduction": "简介。",
+  "collective.dailyquests.introduction.description.collapselist": "按下%s键折叠此列表。",
+  "collective.dailyquests.introduction.description.gettingstarted": "在下一个游戏内早晨领取你的首批%s个任务！",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "找不到世界的服务器，无法加载死亡备份。",

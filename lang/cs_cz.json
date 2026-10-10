@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Obchodovat s vesničanem",
   "collective.dailyquests.questtitle.travelblocks": "Urazit bloky",
   "collective.dailyquests.questtitle.useitem": "Použít předmět",
+  "collective.dailyquests.introduction.title.collapselist": "Sbalit seznam",
+  "collective.dailyquests.introduction.title.gettingstarted": "Začínáme",
+  "collective.dailyquests.introduction.description.introduction": "Úvod.",
+  "collective.dailyquests.introduction.description.collapselist": "Stiskni %s pro sbalení tohoto seznamu.",
+  "collective.dailyquests.introduction.description.gettingstarted": "První questy (%s) dostaneš příští herní ráno!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nelze najít server světa, zálohu po smrti nelze načíst.",

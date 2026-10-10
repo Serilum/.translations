@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Handl med landsbyboer",
   "collective.dailyquests.questtitle.travelblocks": "Tilbagelæg blokke",
   "collective.dailyquests.questtitle.useitem": "Brug genstand",
+  "collective.dailyquests.introduction.title.collapselist": "Skjul liste",
+  "collective.dailyquests.introduction.title.gettingstarted": "Kom i gang",
+  "collective.dailyquests.introduction.description.introduction": "Introduktion.",
+  "collective.dailyquests.introduction.description.collapselist": "Tryk på %s for at skjule denne liste.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Modtag dine første %s quests næste morgen i spillet!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Kan ikke finde verdenens server, kan ikke indlæse dødssikkerhedskopi.",

@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "村人と取引する",
   "collective.dailyquests.questtitle.travelblocks": "指定距離を移動する",
   "collective.dailyquests.questtitle.useitem": "アイテムを使用する",
+  "collective.dailyquests.introduction.title.collapselist": "リストを折りたたむ",
+  "collective.dailyquests.introduction.title.gettingstarted": "はじめよう",
+  "collective.dailyquests.introduction.description.introduction": "イントロダクション。",
+  "collective.dailyquests.introduction.description.collapselist": "%sキーを押すとこのリストを折りたたみます。",
+  "collective.dailyquests.introduction.description.gettingstarted": "次のゲーム内の朝に最初のクエストが%s個届きます！",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "ワールドのサーバーが見つからないため、デスバックアップを読み込めません。",

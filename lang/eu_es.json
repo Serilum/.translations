@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Herritarrarekin negoziatu",
   "collective.dailyquests.questtitle.travelblocks": "Blokeak ibili",
   "collective.dailyquests.questtitle.useitem": "Objektua erabili",
+  "collective.dailyquests.introduction.title.collapselist": "Tolestu zerrenda",
+  "collective.dailyquests.introduction.title.gettingstarted": "Lehen urratsak",
+  "collective.dailyquests.introduction.description.introduction": "Sarrera.",
+  "collective.dailyquests.introduction.description.collapselist": "Sakatu %s zerrenda hau tolesteko.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Zure lehen %s eginkizunak hurrengo jokoko goizean jasoko dituzu!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Ezin da munduaren zerbitzaria aurkitu, ezin da heriotza-babeskopia kargatu.",

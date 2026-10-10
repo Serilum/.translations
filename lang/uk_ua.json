@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Торгувати з селянином",
   "collective.dailyquests.questtitle.travelblocks": "Пройти блоки",
   "collective.dailyquests.questtitle.useitem": "Використати предмет",
+  "collective.dailyquests.introduction.title.collapselist": "Згорнути список",
+  "collective.dailyquests.introduction.title.gettingstarted": "Початок",
+  "collective.dailyquests.introduction.description.introduction": "Вступ.",
+  "collective.dailyquests.introduction.description.collapselist": "Натисніть %s, щоб згорнути цей список.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Перші завдання (%s) ви отримаєте наступного ігрового ранку!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Не вдалося знайти сервер світу, неможливо завантажити резервну копію після смерті.",

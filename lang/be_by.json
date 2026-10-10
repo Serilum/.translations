@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Гандляваць з жыхаром",
   "collective.dailyquests.questtitle.travelblocks": "Прайсці блокі",
   "collective.dailyquests.questtitle.useitem": "Выкарыстаць прадмет",
+  "collective.dailyquests.introduction.title.collapselist": "Згарнуць спіс",
+  "collective.dailyquests.introduction.title.gettingstarted": "Пачатак",
+  "collective.dailyquests.introduction.description.introduction": "Уводзіны.",
+  "collective.dailyquests.introduction.description.collapselist": "Націсніце %s, каб згарнуць гэты спіс.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Першыя заданні (%s) вы атрымаеце наступнай гульнявой раніцай!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Не ўдалося знайсці сервер свету, немагчыма загрузіць рэзервовую копію смерці.",

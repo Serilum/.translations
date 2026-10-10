@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Առևտուր գյուղացու հետ",
   "collective.dailyquests.questtitle.travelblocks": "Անցնել բլոկներ",
   "collective.dailyquests.questtitle.useitem": "Օգտագործել առարկա",
+  "collective.dailyquests.introduction.title.collapselist": "Ծալել ցանկը",
+  "collective.dailyquests.introduction.title.gettingstarted": "Սկիզբ",
+  "collective.dailyquests.introduction.description.introduction": "Ներածություն.",
+  "collective.dailyquests.introduction.description.collapselist": "Սեղմեք %s՝ այս ցանկը ծալելու համար.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Ձեր առաջին %s առաջադրանքը կստանաք խաղի հաջորդ առավոտյան!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Հնարավոր չէ գտնել աշխարհի սերվերը, անհնար է բեռնել մահվան պահուստը.",

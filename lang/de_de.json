@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Mit Dorfbewohner handeln",
   "collective.dailyquests.questtitle.travelblocks": "Blöcke zurücklegen",
   "collective.dailyquests.questtitle.useitem": "Gegenstand benutzen",
+  "collective.dailyquests.introduction.title.collapselist": "Liste einklappen",
+  "collective.dailyquests.introduction.title.gettingstarted": "Erste Schritte",
+  "collective.dailyquests.introduction.description.introduction": "Einführung.",
+  "collective.dailyquests.introduction.description.collapselist": "Drücke %s, um diese Liste einzuklappen.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Erhalte deine ersten %s Quests am nächsten Morgen im Spiel!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Der Server der Welt konnte nicht gefunden werden, das Todes-Backup kann nicht geladen werden.",

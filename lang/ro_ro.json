@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Fă negoț cu săteni",
   "collective.dailyquests.questtitle.travelblocks": "Parcurge blocuri",
   "collective.dailyquests.questtitle.useitem": "Folosește obiecte",
+  "collective.dailyquests.introduction.title.collapselist": "Restrânge lista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Primii pași",
+  "collective.dailyquests.introduction.description.introduction": "Introducere.",
+  "collective.dailyquests.introduction.description.collapselist": "Apasă %s ca să restrângi această listă.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Primește primele misiuni (%s) în următoarea dimineață din joc!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nu se poate găsi serverul lumii, nu se poate încărca copia de rezervă a morții.",

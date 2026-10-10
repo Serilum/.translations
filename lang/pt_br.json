@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Negociar com aldeão",
   "collective.dailyquests.questtitle.travelblocks": "Percorrer blocos",
   "collective.dailyquests.questtitle.useitem": "Usar item",
+  "collective.dailyquests.introduction.title.collapselist": "Recolher Lista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Primeiros Passos",
+  "collective.dailyquests.introduction.description.introduction": "Introdução.",
+  "collective.dailyquests.introduction.description.collapselist": "Pressione %s para recolher esta lista.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Receba suas primeiras %s missões na próxima manhã do jogo!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Não foi possível encontrar o servidor do mundo, não foi possível carregar o backup de morte.",

@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Masnachu â Phentrefwr",
   "collective.dailyquests.questtitle.travelblocks": "Teithio Blociau",
   "collective.dailyquests.questtitle.useitem": "Defnyddio Eitem",
+  "collective.dailyquests.introduction.title.collapselist": "Crebachu'r Rhestr",
+  "collective.dailyquests.introduction.title.gettingstarted": "Dechrau Arni",
+  "collective.dailyquests.introduction.description.introduction": "Cyflwyniad.",
+  "collective.dailyquests.introduction.description.collapselist": "Gwasgwch %s i grebachu'r rhestr hon.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Cewch eich cwestau cyntaf (%s) y bore nesaf yn y gêm!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Methu canfod gweinydd y byd, methu llwytho'r copi wrth gefn marwolaeth.",

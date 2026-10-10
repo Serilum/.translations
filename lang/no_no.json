@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Handle med landsbyboer",
   "collective.dailyquests.questtitle.travelblocks": "Tilbakelegg blokker",
   "collective.dailyquests.questtitle.useitem": "Bruk gjenstand",
+  "collective.dailyquests.introduction.title.collapselist": "Fell sammen listen",
+  "collective.dailyquests.introduction.title.gettingstarted": "Kom i gang",
+  "collective.dailyquests.introduction.description.introduction": "Introduksjon.",
+  "collective.dailyquests.introduction.description.collapselist": "Trykk på %s for å felle sammen denne listen.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Motta dine første %s oppdrag neste morgen i spillet!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Finner ikke verdenens tjener, kan ikke laste inn dødssikkerhetskopi.",

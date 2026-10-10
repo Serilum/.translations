@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Συναλλαγή με Χωρικό",
   "collective.dailyquests.questtitle.travelblocks": "Διάνυση Κύβων",
   "collective.dailyquests.questtitle.useitem": "Χρήση Αντικειμένου",
+  "collective.dailyquests.introduction.title.collapselist": "Σύμπτυξη Λίστας",
+  "collective.dailyquests.introduction.title.gettingstarted": "Πρώτα Βήματα",
+  "collective.dailyquests.introduction.description.introduction": "Εισαγωγή.",
+  "collective.dailyquests.introduction.description.collapselist": "Πάτησε %s για να συμπτύξεις αυτή τη λίστα.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Λάβε τις πρώτες σου %s αποστολές το επόμενο πρωί στο παιχνίδι!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Αδύνατη η εύρεση του διακομιστή του κόσμου, αδύνατη η φόρτωση του αντιγράφου θανάτου.",

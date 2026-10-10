@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Comerciar con aldeano",
   "collective.dailyquests.questtitle.travelblocks": "Recorrer bloques",
   "collective.dailyquests.questtitle.useitem": "Usar objeto",
+  "collective.dailyquests.introduction.title.collapselist": "Contraer lista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Primeros pasos",
+  "collective.dailyquests.introduction.description.introduction": "Introducción.",
+  "collective.dailyquests.introduction.description.collapselist": "Pulsa %s para contraer esta lista.",
+  "collective.dailyquests.introduction.description.gettingstarted": "¡Recibe tus primeras %s misiones la próxima mañana del juego!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "No se encuentra el servidor del mundo, no se puede cargar la copia de seguridad de muerte.",

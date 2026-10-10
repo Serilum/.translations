@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Giao dịch với dân làng",
   "collective.dailyquests.questtitle.travelblocks": "Di chuyển (khối)",
   "collective.dailyquests.questtitle.useitem": "Sử dụng vật phẩm",
+  "collective.dailyquests.introduction.title.collapselist": "Thu gọn danh sách",
+  "collective.dailyquests.introduction.title.gettingstarted": "Bắt đầu",
+  "collective.dailyquests.introduction.description.introduction": "Giới thiệu.",
+  "collective.dailyquests.introduction.description.collapselist": "Nhấn %s để thu gọn danh sách này.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Nhận %s nhiệm vụ đầu tiên vào sáng hôm sau trong game!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Không thể tìm thấy máy chủ của thế giới, không thể tải bản sao lưu khi chết.",

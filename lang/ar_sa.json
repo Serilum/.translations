@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "تجارة مع قروي",
   "collective.dailyquests.questtitle.travelblocks": "قطع مسافة بالكتل",
   "collective.dailyquests.questtitle.useitem": "استخدام غرض",
+  "collective.dailyquests.introduction.title.collapselist": "طي القائمة",
+  "collective.dailyquests.introduction.title.gettingstarted": "البداية",
+  "collective.dailyquests.introduction.description.introduction": "مقدمة.",
+  "collective.dailyquests.introduction.description.collapselist": "اضغط %s لطي هذه القائمة.",
+  "collective.dailyquests.introduction.description.gettingstarted": "ستحصل على مهامك الأولى (%s) في صباح اللعبة التالي!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "تعذّر العثور على خادم العالم، تعذّر تحميل نسخة الموت الاحتياطية.",

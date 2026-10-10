@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Търгувай със селянин",
   "collective.dailyquests.questtitle.travelblocks": "Измини блокове",
   "collective.dailyquests.questtitle.useitem": "Използвай предмет",
+  "collective.dailyquests.introduction.title.collapselist": "Свиване на списъка",
+  "collective.dailyquests.introduction.title.gettingstarted": "Първи стъпки",
+  "collective.dailyquests.introduction.description.introduction": "Въведение.",
+  "collective.dailyquests.introduction.description.collapselist": "Натиснете %s, за да свиете този списък.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Първите си куестове (%s) ще получите на следващата сутрин в играта!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Сървърът на света не може да бъде намерен, резервното копие при смърт не може да се зареди.",

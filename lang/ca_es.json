@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Comerciar amb vilatà",
   "collective.dailyquests.questtitle.travelblocks": "Recórrer blocs",
   "collective.dailyquests.questtitle.useitem": "Utilitzar ítem",
+  "collective.dailyquests.introduction.title.collapselist": "Amaga la llista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Primers passos",
+  "collective.dailyquests.introduction.description.introduction": "Introducció.",
+  "collective.dailyquests.introduction.description.collapselist": "Prem %s per amagar aquesta llista.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Rebràs les teves primeres %s missions el proper matí del joc!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "No s'ha pogut trobar el servidor del món; no s'ha pogut carregar la còpia de seguretat de la mort.",

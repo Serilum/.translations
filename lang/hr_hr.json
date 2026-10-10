@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Trguj sa seljakom",
   "collective.dailyquests.questtitle.travelblocks": "Prijeđi blokove",
   "collective.dailyquests.questtitle.useitem": "Upotrijebi predmet",
+  "collective.dailyquests.introduction.title.collapselist": "Sklopi popis",
+  "collective.dailyquests.introduction.title.gettingstarted": "Prvi koraci",
+  "collective.dailyquests.introduction.description.introduction": "Uvod.",
+  "collective.dailyquests.introduction.description.collapselist": "Pritisni %s da sklopiš ovaj popis.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Prve zadatke (%s) dobit ćeš sljedećeg jutra u igri!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Nije moguće pronaći poslužitelj svijeta, nije moguće učitati sigurnosnu kopiju smrti.",

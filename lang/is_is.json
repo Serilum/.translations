@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Versla við þorpsbúa",
   "collective.dailyquests.questtitle.travelblocks": "Ferðast kubba",
   "collective.dailyquests.questtitle.useitem": "Nota hlut",
+  "collective.dailyquests.introduction.title.collapselist": "Fella saman lista",
+  "collective.dailyquests.introduction.title.gettingstarted": "Fyrstu skrefin",
+  "collective.dailyquests.introduction.description.introduction": "Inngangur.",
+  "collective.dailyquests.introduction.description.collapselist": "Ýttu á %s til að fella þennan lista saman.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Þú færð fyrstu %s verkefnin þín næsta morgun í leiknum!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "Finn ekki netþjón heimsins, get ekki hlaðið dauðaafriti.",

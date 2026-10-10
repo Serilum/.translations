@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "Kereskedés falusival",
   "collective.dailyquests.questtitle.travelblocks": "Táv megtétele blokkokban",
   "collective.dailyquests.questtitle.useitem": "Tárgy használata",
+  "collective.dailyquests.introduction.title.collapselist": "Lista összecsukása",
+  "collective.dailyquests.introduction.title.gettingstarted": "Első lépések",
+  "collective.dailyquests.introduction.description.introduction": "Bevezetés.",
+  "collective.dailyquests.introduction.description.collapselist": "Nyomd meg a(z) %s gombot a lista összecsukásához.",
+  "collective.dailyquests.introduction.description.gettingstarted": "Az első %s küldetésedet a következő játékbeli reggelen kapod meg!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "A világ szervere nem található, a halálbiztonsági mentés nem tölthető be.",

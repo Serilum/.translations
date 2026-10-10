@@ -147,6 +147,11 @@
   "collective.dailyquests.questtitle.tradevillager": "تجارت با روستایی",
   "collective.dailyquests.questtitle.travelblocks": "پیمایش بلوک",
   "collective.dailyquests.questtitle.useitem": "استفاده از آیتم",
+  "collective.dailyquests.introduction.title.collapselist": "جمع کردن فهرست",
+  "collective.dailyquests.introduction.title.gettingstarted": "شروع کار",
+  "collective.dailyquests.introduction.description.introduction": "مقدمه.",
+  "collective.dailyquests.introduction.description.collapselist": "برای جمع کردن این فهرست، کلید %s را فشار دهید.",
+  "collective.dailyquests.introduction.description.gettingstarted": "نخستین %s ماموریت خود را صبح بعدی بازی دریافت کنید!",
 
   "_comment_modname_deathbackup": "Death Backup",
   "collective.deathbackup.message.cannotfindworld": "سرور دنیا یافت نشد، بارگذاری پشتیبان مرگ ممکن نیست.",
