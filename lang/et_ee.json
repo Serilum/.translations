@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tühjenda liidese järgijate loend",
+  "collective.guifollowers.message.usage": "Kasuta /guifollowers hide, vaadates lemmiklooma, /guifollowers hide <name> või /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Vaata mõnda oma lemmiklooma, kes ei istu, või kasuta /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s on nüüd järgijate loendist peidetud. Ta ilmub loendisse tagasi, kui ta maha istub.",
+  "collective.guifollowers.message.nofollowernamed": "Loendis pole järgijat nimega „%s“.",
+  "collective.guifollowers.message.hiddenbyname": "Peideti loendist %s järgija(t) nimega „%s“.",
+  "collective.guifollowers.message.nohiddenfollowers": "Peidetud järgijaid pole.",
+  "collective.guifollowers.message.unhidden": "%s peidetud järgija(t) ilmub loendisse tagasi.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Sa andsid %1$s %2$s mängijale %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombi näljamoos",
   "item.spookyjams.zombies_hunger_jam.desc.1": "See täidab sind jõuga",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ja lõputu isuga.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill on %s jaoks välja lülitatud.",
+  "collective.stackrefill.message.enabled": "Stack Refill on %s jaoks sisse lülitatud.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Lülitab Stack Refilli sinu jaoks sisse või välja.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Lülitab Stack Refilli sinu jaoks sisse.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Lülitab Stack Refilli sinu jaoks välja.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Kuvab selle loendi.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Vali %s",

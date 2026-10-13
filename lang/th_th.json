@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "ล้างรายการผู้ติดตามใน GUI",
+  "collective.guifollowers.message.usage": "ใช้ /guifollowers hide ขณะมองสัตว์เลี้ยง หรือใช้ /guifollowers hide <name> หรือ /guifollowers unhide",
+  "collective.guifollowers.message.notlookingatfollower": "มองสัตว์เลี้ยงของคุณตัวที่ไม่ได้นั่งอยู่ หรือใช้ /guifollowers hide <name>",
+  "collective.guifollowers.message.hidden": "ซ่อน %s จากรายการผู้ติดตามแล้ว จะแสดงอีกครั้งเมื่อมันนั่งลง",
+  "collective.guifollowers.message.nofollowernamed": "ไม่มีผู้ติดตามชื่อ '%s' ในรายการ",
+  "collective.guifollowers.message.hiddenbyname": "ซ่อนผู้ติดตาม %s ตัวที่ชื่อ '%s' จากรายการแล้ว",
+  "collective.guifollowers.message.nohiddenfollowers": "ไม่มีผู้ติดตามที่ถูกซ่อน",
+  "collective.guifollowers.message.unhidden": "ผู้ติดตามที่ซ่อนไว้ %s ตัวจะแสดงในรายการอีกครั้ง",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "คุณได้มอบ %1$s %2$s ให้ %3$s แล้ว",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "แยมความหิวของซอมบี้",
   "item.spookyjams.zombies_hunger_jam.desc.1": "มันเติมพละกำลังให้คุณ",
   "item.spookyjams.zombies_hunger_jam.desc.2": "และความอยากที่ไม่สิ้นสุด",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "ปิด Stack Refill สำหรับ %s แล้ว",
+  "collective.stackrefill.message.enabled": "เปิด Stack Refill สำหรับ %s แล้ว",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - เปิดหรือปิด Stack Refill สำหรับคุณ",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - เปิด Stack Refill สำหรับคุณ",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - ปิด Stack Refill สำหรับคุณ",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - แสดงรายการนี้",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "เลือก %s",

@@ -194,7 +194,14 @@
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ваш інструмент навостраны на %s выкарыстанняў.",
 
   "_comment_modname_guifollowers": "GUI Followers",
-  "collective.guifollowers.key.clearlist": "Ачысціць спіс GUI-падпісантаў",
+  "collective.guifollowers.key.clearlist": "Ачысціць спіс GUI-спадарожнікаў",
+  "collective.guifollowers.message.usage": "Выкарыстоўвайце /guifollowers hide, гледзячы на гадаванца, /guifollowers hide <name> або /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Паглядзіце на аднаго са сваіх гадаванцаў, які не сядзіць, або выкарыстоўвайце /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Гадаванец %s цяпер схаваны са спіса спадарожнікаў. Ён з'явіцца зноў, калі сядзе.",
+  "collective.guifollowers.message.nofollowernamed": "У спісе няма спадарожніка з імем «%s».",
+  "collective.guifollowers.message.hiddenbyname": "Са спіса схавана спадарожнікаў: %s (з імем «%s»).",
+  "collective.guifollowers.message.nohiddenfollowers": "Няма схаваных спадарожнікаў.",
+  "collective.guifollowers.message.unhidden": "Схаваныя спадарожнікі (%s) зноў з'явяцца ў спісе.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Вы аддалі %1$s %2$s гульцу %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Джэм «Голад мярцвяка»",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ён напаўняе вас сілай",
   "item.spookyjams.zombies_hunger_jam.desc.2": "і бясконцай прагай.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill адключаны для %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill уключаны для %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Уключае або адключае Stack Refill для вас.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Уключае Stack Refill для вас.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Адключае Stack Refill для вас.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Паказвае гэты спіс.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Выбраць %s",

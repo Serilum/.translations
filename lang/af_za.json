@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Maak GUI-volgerlys Skoon",
+  "collective.guifollowers.message.usage": "Gebruik /guifollowers hide terwyl jy na 'n troeteldier kyk, /guifollowers hide <name> of /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Kyk na een van jou troeteldiere wat nie sit nie, of gebruik /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s is nou uit die volgerlys versteek. Dit verskyn weer sodra dit gaan sit.",
+  "collective.guifollowers.message.nofollowernamed": "Daar is geen volger met die naam '%s' in die lys nie.",
+  "collective.guifollowers.message.hiddenbyname": "%s volger(s) met die naam '%s' uit die lys versteek.",
+  "collective.guifollowers.message.nohiddenfollowers": "Daar is geen versteekte volgers nie.",
+  "collective.guifollowers.message.unhidden": "%s versteekte volger(s) sal weer in die lys verskyn.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Jy het %1$s %2$s aan %3$s gegee.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombie se Honger-konfyt",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Dit vul jou met krag,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "en eindelose begeerte.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill gedeaktiveer vir %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill geaktiveer vir %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Skakel Stack Refill vir jou aan of af.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Skakel Stack Refill vir jou aan.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Skakel Stack Refill vir jou af.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Wys hierdie lys.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Kies %s",

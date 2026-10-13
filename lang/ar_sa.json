@@ -194,7 +194,14 @@
   "collective.grindstonesharpertools.message.toolsharpeneduses": "تم شحذ أداتك بعدد %s استخدام.",
 
   "_comment_modname_guifollowers": "GUI Followers",
-  "collective.guifollowers.key.clearlist": "مسح قائمة متتبعي الواجهة",
+  "collective.guifollowers.key.clearlist": "مسح قائمة التابعين في الواجهة",
+  "collective.guifollowers.message.usage": "استخدم /guifollowers hide أثناء النظر إلى حيوان أليف، أو /guifollowers hide <name> أو /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "انظر إلى أحد حيواناتك الأليفة غير الجالسة، أو استخدم /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "أصبح %s مخفيًا من قائمة التابعين. سيظهر مجددًا بمجرد أن يجلس.",
+  "collective.guifollowers.message.nofollowernamed": "لا يوجد تابع باسم '%s' في القائمة.",
+  "collective.guifollowers.message.hiddenbyname": "تم إخفاء %s من التابعين باسم '%s' عن القائمة.",
+  "collective.guifollowers.message.nohiddenfollowers": "لا يوجد تابعون مخفيون.",
+  "collective.guifollowers.message.unhidden": "سيظهر %s من التابعين المخفيين في القائمة مجددًا.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "لقد أعطيت %1$s %2$s إلى %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "مربى جوع الزومبي",
   "item.spookyjams.zombies_hunger_jam.desc.1": "تملؤك بالقوة،",
   "item.spookyjams.zombies_hunger_jam.desc.2": "وبشهية لا تنتهي.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "تم تعطيل Stack Refill لـ %s.",
+  "collective.stackrefill.message.enabled": "تم تفعيل Stack Refill لـ %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - يشغّل Stack Refill أو يوقفه لك.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - يشغّل Stack Refill لك.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - يوقف Stack Refill لك.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - يعرض هذه القائمة.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "اختر %s",

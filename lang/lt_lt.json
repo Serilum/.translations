@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Išvalyti GUI sekėjų sąrašą",
+  "collective.guifollowers.message.usage": "Naudok /guifollowers hide žiūrėdamas į augintinį, /guifollowers hide <name> arba /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Pažiūrėk į vieną iš savo augintinių, kuris nesėdi, arba naudok /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Augintinis %s dabar paslėptas sekėjų sąraše. Jis vėl bus rodomas, kai atsisės.",
+  "collective.guifollowers.message.nofollowernamed": "Sąraše nėra sekėjo vardu „%s“.",
+  "collective.guifollowers.message.hiddenbyname": "Iš sąrašo paslėpta sekėjų: %s (vardu „%s“).",
+  "collective.guifollowers.message.nohiddenfollowers": "Paslėptų sekėjų nėra.",
+  "collective.guifollowers.message.unhidden": "Paslėpti sekėjai (%s) vėl bus rodomi sąraše.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Tu atidavei %1$s %2$s žaidėjui %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombio alkio uogienė",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ji pripildo tave jėgų",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ir nepasotinamo geismo.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill išjungtas žaidėjui %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill įjungtas žaidėjui %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Įjungia arba išjungia tau Stack Refill.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Įjungia tau Stack Refill.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Išjungia tau Stack Refill.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Parodo šį sąrašą.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Pasirink %s",

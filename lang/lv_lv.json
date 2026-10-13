@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Notīrīt sekotāju sarakstu",
+  "collective.guifollowers.message.usage": "Izmanto /guifollowers hide, skatoties uz mājdzīvnieku, /guifollowers hide <name> vai /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Paskaties uz kādu no saviem mājdzīvniekiem, kas nesēž, vai izmanto /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Mājdzīvnieks %s tagad ir paslēpts sekotāju sarakstā. Tas atkal parādīsies, kad apsēdīsies.",
+  "collective.guifollowers.message.nofollowernamed": "Sarakstā nav sekotāja ar vārdu '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "No saraksta paslēpti sekotāji: %s (ar vārdu '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "Nav paslēptu sekotāju.",
+  "collective.guifollowers.message.unhidden": "Paslēptie sekotāji (%s) atkal parādīsies sarakstā.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Tu iedevi %1$s %2$s spēlētājam %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombija bada ievārījums",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Tas piepilda tevi ar spēku",
   "item.spookyjams.zombies_hunger_jam.desc.2": "un bezgalīgu alkatību.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill izslēgts spēlētājam %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill ieslēgts spēlētājam %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Ieslēdz vai izslēdz tev Stack Refill.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Ieslēdz tev Stack Refill.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Izslēdz tev Stack Refill.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Parāda šo sarakstu.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Izvēlies %s",

@@ -194,7 +194,14 @@
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Công cụ của bạn đã được mài với %s lần dùng.",
 
   "_comment_modname_guifollowers": "GUI Followers",
-  "collective.guifollowers.key.clearlist": "Xóa danh sách kẻ theo dõi GUI",
+  "collective.guifollowers.key.clearlist": "Xóa danh sách thú đi theo GUI",
+  "collective.guifollowers.message.usage": "Dùng /guifollowers hide khi đang nhìn vào một thú cưng, /guifollowers hide <name> hoặc /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Hãy nhìn vào một thú cưng của bạn đang không ngồi, hoặc dùng /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s hiện đã bị ẩn khỏi danh sách thú đi theo. Nó sẽ hiện lại khi ngồi xuống.",
+  "collective.guifollowers.message.nofollowernamed": "Không có thú đi theo nào tên '%s' trong danh sách.",
+  "collective.guifollowers.message.hiddenbyname": "Đã ẩn %s thú đi theo tên '%s' khỏi danh sách.",
+  "collective.guifollowers.message.nohiddenfollowers": "Không có thú đi theo nào bị ẩn.",
+  "collective.guifollowers.message.unhidden": "%s thú đi theo bị ẩn sẽ hiện lại trong danh sách.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Bạn đã đưa %1$s %2$s cho %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Mứt Cơn đói của Thây ma",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Nó lấp đầy bạn bằng sức mạnh,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "và cơn thèm khát bất tận.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Đã tắt Stack Refill cho %s.",
+  "collective.stackrefill.message.enabled": "Đã bật Stack Refill cho %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Bật hoặc tắt Stack Refill cho bạn.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Bật Stack Refill cho bạn.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Tắt Stack Refill cho bạn.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Hiển thị danh sách này.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Chọn %s",

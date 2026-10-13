@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "清除 GUI 跟隨者清單",
+  "collective.guifollowers.message.usage": "看著寵物時使用 /guifollowers hide，或使用 /guifollowers hide <name> 或 /guifollowers unhide。",
+  "collective.guifollowers.message.notlookingatfollower": "請看向你一隻沒有坐下的寵物，或使用 /guifollowers hide <name>。",
+  "collective.guifollowers.message.hidden": "已將 %s 從跟隨者清單中隱藏。牠坐下後會重新顯示。",
+  "collective.guifollowers.message.nofollowernamed": "清單中沒有名為「%s」的跟隨者。",
+  "collective.guifollowers.message.hiddenbyname": "已從清單中隱藏 %s 隻名為「%s」的跟隨者。",
+  "collective.guifollowers.message.nohiddenfollowers": "沒有已隱藏的跟隨者。",
+  "collective.guifollowers.message.unhidden": "%s 隻已隱藏的跟隨者將重新顯示在清單中。",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "你已將 %1$s 個%2$s交給 %3$s。",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "殭屍的飢餓果醬",
   "item.spookyjams.zombies_hunger_jam.desc.1": "它讓你充滿力量，",
   "item.spookyjams.zombies_hunger_jam.desc.2": "以及無盡的渴望。",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "已為 %s 停用 Stack Refill。",
+  "collective.stackrefill.message.enabled": "已為 %s 啟用 Stack Refill。",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - 為你開啟或關閉 Stack Refill。",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - 為你開啟 Stack Refill。",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - 為你關閉 Stack Refill。",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - 顯示此清單。",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "選擇 %s",

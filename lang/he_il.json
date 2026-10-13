@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "נקה את רשימת העוקבים בממשק",
+  "collective.guifollowers.message.usage": "השתמש ב-/guifollowers hide בזמן שאתה מסתכל על חיית מחמד, ב-/guifollowers hide <name> או ב-/guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "הסתכל על אחת מחיות המחמד שלך שאינה יושבת, או השתמש ב-/guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "חיית המחמד %s מוסתרת כעת מרשימת העוקבים. היא תופיע שוב ברגע שתשב.",
+  "collective.guifollowers.message.nofollowernamed": "אין ברשימה עוקב בשם '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "עוקבים שהוסתרו מהרשימה: %s (בשם '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "אין עוקבים מוסתרים.",
+  "collective.guifollowers.message.unhidden": "העוקבים המוסתרים (%s) יופיעו שוב ברשימה.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "נתת %1$s %2$s ל%3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "ריבת רעב הזומבי",
   "item.spookyjams.zombies_hunger_jam.desc.1": "היא ממלאת אותך בכוח,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ובתשוקה אינסופית.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill הושבת עבור %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill הופעל עבור %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - מפעיל או מכבה את Stack Refill עבורך.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - מפעיל את Stack Refill עבורך.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - מכבה את Stack Refill עבורך.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - מציג רשימה זו.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "בחר %s",

@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Svuota elenco seguaci GUI",
+  "collective.guifollowers.message.usage": "Usa /guifollowers hide mentre guardi un animale domestico, /guifollowers hide <name> oppure /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Guarda uno dei tuoi animali domestici che non sia seduto, oppure usa /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "L'animale %s ora è nascosto dall'elenco dei seguaci. Riapparirà quando si siederà.",
+  "collective.guifollowers.message.nofollowernamed": "Nell'elenco non c'è nessun seguace chiamato '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "Nascosti dall'elenco: %s seguace/i chiamato/i '%s'.",
+  "collective.guifollowers.message.nohiddenfollowers": "Non ci sono seguaci nascosti.",
+  "collective.guifollowers.message.unhidden": "I seguaci nascosti (%s) riappariranno nell'elenco.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Hai dato %1$s %2$s a %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Marmellata fame di zombi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ti riempie di forza,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "e di una brama senza fine.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill disattivato per %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill attivato per %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Attiva o disattiva Stack Refill per te.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Attiva Stack Refill per te.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Disattiva Stack Refill per te.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Mostra questo elenco.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Scegli %s",

@@ -194,7 +194,14 @@
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Dein Werkzeug wurde mit %s Verwendungen geschärft.",
 
   "_comment_modname_guifollowers": "GUI Followers",
-  "collective.guifollowers.key.clearlist": "GUI-Folgerliste leeren",
+  "collective.guifollowers.key.clearlist": "GUI-Begleiterliste leeren",
+  "collective.guifollowers.message.usage": "Nutze /guifollowers hide, während du ein Haustier ansiehst, /guifollowers hide <name> oder /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Sieh eines deiner Haustiere an, das nicht sitzt, oder nutze /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Das Haustier %s ist jetzt aus der Begleiterliste ausgeblendet. Es erscheint wieder, sobald es sich hinsetzt.",
+  "collective.guifollowers.message.nofollowernamed": "In der Liste gibt es keinen Begleiter namens '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "%s Begleiter namens '%s' aus der Liste ausgeblendet.",
+  "collective.guifollowers.message.nohiddenfollowers": "Es gibt keine ausgeblendeten Begleiter.",
+  "collective.guifollowers.message.unhidden": "Ausgeblendete Begleiter (%s) werden wieder in der Liste angezeigt.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Du hast %1$s %2$s an %3$s übergeben.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombie-Hunger-Marmelade",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Sie erfüllt dich mit Kraft,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "und endlosem Verlangen.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill für %s deaktiviert.",
+  "collective.stackrefill.message.enabled": "Stack Refill für %s aktiviert.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Schaltet Stack Refill für dich ein oder aus.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Schaltet Stack Refill für dich ein.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Schaltet Stack Refill für dich aus.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Zeigt diese Liste an.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s auswählen",

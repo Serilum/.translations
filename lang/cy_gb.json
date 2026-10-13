@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Clirio'r Rhestr Dilynwyr GUI",
+  "collective.guifollowers.message.usage": "Defnyddiwch /guifollowers hide wrth edrych ar anifail anwes, /guifollowers hide <name> neu /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Edrychwch ar un o'ch anifeiliaid anwes nad yw'n eistedd, neu defnyddiwch /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Mae %s bellach wedi'i guddio o'r rhestr dilynwyr. Bydd yn ymddangos eto unwaith y bydd yn eistedd.",
+  "collective.guifollowers.message.nofollowernamed": "Nid oes dilynwr o'r enw '%s' yn y rhestr.",
+  "collective.guifollowers.message.hiddenbyname": "Cuddiwyd %s dilynwr o'r enw '%s' o'r rhestr.",
+  "collective.guifollowers.message.nohiddenfollowers": "Nid oes unrhyw ddilynwyr cudd.",
+  "collective.guifollowers.message.unhidden": "Bydd %s dilynwr cudd yn ymddangos yn y rhestr eto.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Rhoddoch %1$s %2$s i %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Jam Newyn y Sombi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Mae'n eich llenwi â chryfder,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "a chwant diddiwedd.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill wedi'i analluogi ar gyfer %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill wedi'i alluogi ar gyfer %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Troi Stack Refill ymlaen neu i ffwrdd i chi.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Troi Stack Refill ymlaen i chi.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Troi Stack Refill i ffwrdd i chi.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Dangos y rhestr hon.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Dewis %s",

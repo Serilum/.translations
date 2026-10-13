@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Hreinsa lista yfir GUI-fylgjendur",
+  "collective.guifollowers.message.usage": "Notaðu /guifollowers hide á meðan þú horfir á gæludýr, /guifollowers hide <name> eða /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Horfðu á eitt af gæludýrunum þínum sem situr ekki, eða notaðu /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Gæludýrið %s er nú falið á fylgjendalistanum. Það birtist aftur þegar það sest.",
+  "collective.guifollowers.message.nofollowernamed": "Enginn fylgjandi með nafnið '%s' er á listanum.",
+  "collective.guifollowers.message.hiddenbyname": "Fylgjendur faldir af listanum: %s (með nafnið '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "Engir faldir fylgjendur.",
+  "collective.guifollowers.message.unhidden": "Faldir fylgjendur (%s) birtast aftur á listanum.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Þú hefur gefið %3$s %1$s %2$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Sulta uppvakningsins",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Hún fyllir þig krafti,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "og endalausri löngun.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill óvirkt fyrir %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill virkt fyrir %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Kveikir eða slekkur á Stack Refill fyrir þig.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Kveikir á Stack Refill fyrir þig.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Slekkur á Stack Refill fyrir þig.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Sýnir þennan lista.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Veldu %s",

@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI 추종자 목록 비우기",
+  "collective.guifollowers.message.usage": "펫을 바라보면서 /guifollowers hide를 사용하거나, /guifollowers hide <name> 또는 /guifollowers unhide를 사용하세요.",
+  "collective.guifollowers.message.notlookingatfollower": "앉아 있지 않은 자신의 펫을 바라보거나, /guifollowers hide <name>을(를) 사용하세요.",
+  "collective.guifollowers.message.hidden": "%s이(가) 이제 추종자 목록에서 숨겨졌습니다. 앉으면 다시 표시됩니다.",
+  "collective.guifollowers.message.nofollowernamed": "목록에 '%s'(이)라는 이름의 추종자가 없습니다.",
+  "collective.guifollowers.message.hiddenbyname": "추종자 %s마리(이름: '%s')를 목록에서 숨겼습니다.",
+  "collective.guifollowers.message.nohiddenfollowers": "숨겨진 추종자가 없습니다.",
+  "collective.guifollowers.message.unhidden": "숨겨진 추종자 %s마리가 다시 목록에 표시됩니다.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%2$s %1$s개를 %3$s님에게 건넸습니다.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "좀비의 허기 잼",
   "item.spookyjams.zombies_hunger_jam.desc.1": "당신을 힘으로 가득 채우고,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "끝없는 갈망도 함께.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "%s의 Stack Refill을 비활성화했습니다.",
+  "collective.stackrefill.message.enabled": "%s의 Stack Refill을 활성화했습니다.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - 자신의 Stack Refill을 켜거나 끕니다.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - 자신의 Stack Refill을 켭니다.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - 자신의 Stack Refill을 끕니다.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - 이 목록을 표시합니다.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s 선택",

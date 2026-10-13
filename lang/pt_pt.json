@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Limpar Lista de Seguidores GUI",
+  "collective.guifollowers.message.usage": "Usa /guifollowers hide enquanto olhas para um animal de estimação, /guifollowers hide <name> ou /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Olha para um dos teus animais de estimação que não esteja sentado, ou usa /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "O animal %s está agora oculto na lista de seguidores. Voltará a aparecer quando se sentar.",
+  "collective.guifollowers.message.nofollowernamed": "Não existe nenhum seguidor chamado '%s' na lista.",
+  "collective.guifollowers.message.hiddenbyname": "%s seguidor(es) chamado(s) '%s' ocultado(s) da lista.",
+  "collective.guifollowers.message.nohiddenfollowers": "Não existem seguidores ocultos.",
+  "collective.guifollowers.message.unhidden": "Os seguidores ocultos (%s) voltarão a aparecer na lista.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Deste %1$s %2$s a %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Doce da Fome do Zombie",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Enche-te de força,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "e de um desejo sem fim.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill desativado para %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill ativado para %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Ativa ou desativa o Stack Refill para ti.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Ativa o Stack Refill para ti.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Desativa o Stack Refill para ti.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Mostra esta lista.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Escolher %s",

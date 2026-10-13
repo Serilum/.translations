@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI ергендерінің тізімін тазалау",
+  "collective.guifollowers.message.usage": "Үй жануарына қарап тұрып /guifollowers hide пәрменін, немесе /guifollowers hide <name> не /guifollowers unhide пәрменін қолданыңыз.",
+  "collective.guifollowers.message.notlookingatfollower": "Отырмаған үй жануарларыңыздың біріне қараңыз немесе /guifollowers hide <name> пәрменін қолданыңыз.",
+  "collective.guifollowers.message.hidden": "%s енді ергендер тізімінен жасырылды. Ол отырғанда қайта көрсетіледі.",
+  "collective.guifollowers.message.nofollowernamed": "Тізімде '%s' есімді ерген жоқ.",
+  "collective.guifollowers.message.hiddenbyname": "%s ерген ('%s' есімді) тізімнен жасырылды.",
+  "collective.guifollowers.message.nohiddenfollowers": "Жасырылған ергендер жоқ.",
+  "collective.guifollowers.message.unhidden": "Жасырылған %s ерген тізімде қайта көрсетіледі.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Сіз %3$s ойыншысына %1$s %2$s бердіңіз.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Зомби аштығы джемі",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ол сені қуатқа толтырады,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "әрі шексіз құмарлыққа.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "%s үшін Stack Refill өшірілді.",
+  "collective.stackrefill.message.enabled": "%s үшін Stack Refill қосылды.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Сіз үшін Stack Refill-ді қосады немесе өшіреді.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Сіз үшін Stack Refill-ді қосады.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Сіз үшін Stack Refill-ді өшіреді.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Осы тізімді көрсетеді.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s таңдаңыз",

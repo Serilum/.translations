@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Očisti popis GUI pratitelja",
+  "collective.guifollowers.message.usage": "Koristi /guifollowers hide dok gledaš ljubimca, /guifollowers hide <name> ili /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Pogledaj nekog od svojih ljubimaca koji ne sjedi ili koristi /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Ljubimac %s sada je skriven s popisa pratitelja. Ponovno će se prikazati kad sjedne.",
+  "collective.guifollowers.message.nofollowernamed": "Na popisu nema pratitelja s imenom '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "Skriveno s popisa: %s pratitelj(a) s imenom '%s'.",
+  "collective.guifollowers.message.nohiddenfollowers": "Nema skrivenih pratitelja.",
+  "collective.guifollowers.message.unhidden": "Skriveni pratitelji (%s) ponovno će se prikazivati na popisu.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Dao si %1$s %2$s igraču %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Džem zombijeve gladi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ispunjava te snagom,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i beskrajnom žudnjom.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill isključen za %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill uključen za %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Uključuje ili isključuje Stack Refill za tebe.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Uključuje Stack Refill za tebe.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Isključuje Stack Refill za tebe.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Prikazuje ovaj popis.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Odaberi %s",

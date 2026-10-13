@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Մաքրել GUI հետևորդների ցանկը",
+  "collective.guifollowers.message.usage": "Օգտագործեք /guifollowers hide՝ ընտանի կենդանուն նայելիս, /guifollowers hide <name> կամ /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Նայեք Ձեր ընտանի կենդանիներից մեկին, որը նստած չէ, կամ օգտագործեք /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s այժմ թաքցված է հետևորդների ցանկում. Այն կրկին կհայտնվի, հենց որ նստի.",
+  "collective.guifollowers.message.nofollowernamed": "Ցանկում '%s' անունով հետևորդ չկա.",
+  "collective.guifollowers.message.hiddenbyname": "Ցանկից թաքցվեց %s հետևորդ '%s' անունով.",
+  "collective.guifollowers.message.nohiddenfollowers": "Թաքցված հետևորդներ չկան.",
+  "collective.guifollowers.message.unhidden": "%s թաքցված հետևորդ կրկին կհայտնվի ցանկում.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Դուք տվեցիք %1$s %2$s %3$s-ին.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Զոմբիի քաղցի ջեմ",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Այն ձեզ լցնում է ուժով",
   "item.spookyjams.zombies_hunger_jam.desc.2": "և անվերջ ցանկությամբ.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill-ն անջատված է %s խաղացողի համար.",
+  "collective.stackrefill.message.enabled": "Stack Refill-ը միացված է %s խաղացողի համար.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Միացնում կամ անջատում է Stack Refill-ը Ձեզ համար.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Միացնում է Stack Refill-ը Ձեզ համար.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Անջատում է Stack Refill-ը Ձեզ համար.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Ցույց է տալիս այս ցանկը.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Ընտրել %s",

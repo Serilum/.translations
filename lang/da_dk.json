@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Ryd GUI-følgerliste",
+  "collective.guifollowers.message.usage": "Brug /guifollowers hide, mens du kigger på et kæledyr, /guifollowers hide <name> eller /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Kig på et af dine kæledyr, der ikke sidder, eller brug /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s er nu skjult fra følgerlisten. Den vises igen, når den sætter sig.",
+  "collective.guifollowers.message.nofollowernamed": "Der er ingen følger ved navn '%s' på listen.",
+  "collective.guifollowers.message.hiddenbyname": "Skjulte %s følger(e) ved navn '%s' fra listen.",
+  "collective.guifollowers.message.nohiddenfollowers": "Der er ingen skjulte følgere.",
+  "collective.guifollowers.message.unhidden": "%s skjult(e) følger(e) vises igen på listen.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Du har givet %1$s %2$s til %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombiens sult-marmelade",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Den fylder dig med styrke,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "og en endeløs trang.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill deaktiveret for %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill aktiveret for %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Slår Stack Refill til eller fra for dig.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Slår Stack Refill til for dig.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Slår Stack Refill fra for dig.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Viser denne liste.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Vælg %s",

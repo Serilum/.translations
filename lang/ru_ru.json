@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Очистить список спутников GUI",
+  "collective.guifollowers.message.usage": "Используйте /guifollowers hide, глядя на питомца, /guifollowers hide <name> или /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Посмотрите на одного из своих питомцев, который не сидит, или используйте /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Питомец %s теперь скрыт из списка спутников. Он снова появится, когда сядет.",
+  "collective.guifollowers.message.nofollowernamed": "В списке нет спутника с именем «%s».",
+  "collective.guifollowers.message.hiddenbyname": "Из списка скрыто спутников: %s (с именем «%s»).",
+  "collective.guifollowers.message.nohiddenfollowers": "Нет скрытых спутников.",
+  "collective.guifollowers.message.unhidden": "Скрытые спутники (%s) снова появятся в списке.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Вы отдали %1$s %2$s игроку %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Джем «Голод зомби»",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Он наполняет вас силой",
   "item.spookyjams.zombies_hunger_jam.desc.2": "и нескончаемой жаждой.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill отключён для %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill включён для %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Включает или отключает Stack Refill для вас.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Включает Stack Refill для вас.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Отключает Stack Refill для вас.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Показывает этот список.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Выберите %s",

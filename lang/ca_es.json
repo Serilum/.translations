@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Buida la llista de seguidors de la interfície",
+  "collective.guifollowers.message.usage": "Fes servir /guifollowers hide mentre mires una mascota, /guifollowers hide <name> o /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Mira una de les teves mascotes que no estigui asseguda, o fes servir /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "S'ha ocultat %s de la llista de seguidors. Hi tornarà a aparèixer quan s'assegui.",
+  "collective.guifollowers.message.nofollowernamed": "No hi ha cap seguidor anomenat «%s» a la llista.",
+  "collective.guifollowers.message.hiddenbyname": "S'han ocultat %s seguidor(s) anomenat(s) «%s» de la llista.",
+  "collective.guifollowers.message.nohiddenfollowers": "No hi ha cap seguidor ocult.",
+  "collective.guifollowers.message.unhidden": "%s seguidor(s) ocult(s) tornaran a aparèixer a la llista.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Has donat %1$s %2$s a %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Melmelada de la fam del zombi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "T'omple de força,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i d'un desig insaciable.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill desactivat per a %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill activat per a %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Activa o desactiva Stack Refill per a tu.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Activa Stack Refill per a tu.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Desactiva Stack Refill per a tu.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Mostra aquesta llista.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Tria %s",

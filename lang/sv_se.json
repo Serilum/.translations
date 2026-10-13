@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Rensa GUI-följarlistan",
+  "collective.guifollowers.message.usage": "Använd /guifollowers hide medan du tittar på ett husdjur, /guifollowers hide <name> eller /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Titta på ett av dina husdjur som inte sitter, eller använd /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s är nu dold i följarlistan. Den visas igen när den sätter sig.",
+  "collective.guifollowers.message.nofollowernamed": "Det finns ingen följare med namnet '%s' i listan.",
+  "collective.guifollowers.message.hiddenbyname": "Dolde %s följare med namnet '%s' i listan.",
+  "collective.guifollowers.message.nohiddenfollowers": "Det finns inga dolda följare.",
+  "collective.guifollowers.message.unhidden": "Dolda följare (%s) visas i listan igen.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Du har gett %1$s %2$s till %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombiens hungerssylt",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Den fyller dig med styrka,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "och ändlös längtan.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill inaktiverat för %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill aktiverat för %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Slår på eller av Stack Refill för dig.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Slår på Stack Refill för dig.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Slår av Stack Refill för dig.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Visar den här listan.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Välj %s",

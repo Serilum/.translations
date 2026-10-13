@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Golește lista de însoțitori GUI",
+  "collective.guifollowers.message.usage": "Folosește /guifollowers hide în timp ce te uiți la un animal de companie, /guifollowers hide <name> sau /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Uită-te la unul dintre animalele tale de companie care nu stă jos, sau folosește /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Animalul %s este acum ascuns din lista de însoțitori. Va apărea din nou după ce se așază.",
+  "collective.guifollowers.message.nofollowernamed": "Nu există niciun însoțitor numit „%s” în listă.",
+  "collective.guifollowers.message.hiddenbyname": "Ascunși din listă: %s însoțitor(i) numit(i) „%s”.",
+  "collective.guifollowers.message.nohiddenfollowers": "Nu există însoțitori ascunși.",
+  "collective.guifollowers.message.unhidden": "Însoțitorii ascunși (%s) vor apărea din nou în listă.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "I-ai dat %1$s %2$s lui %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Gem Foamea Zombiului",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Te umple de putere,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "și de o poftă nesfârșită.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill dezactivat pentru %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill activat pentru %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Activează sau dezactivează Stack Refill pentru tine.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Activează Stack Refill pentru tine.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Dezactivează Stack Refill pentru tine.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Afișează această listă.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Alege %s",

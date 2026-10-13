@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Borrar lista de seguidores de la interfaz",
+  "collective.guifollowers.message.usage": "Usa /guifollowers hide mientras miras a una mascota, /guifollowers hide <name> o /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Mira a una de tus mascotas que no esté sentada, o usa /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Se ocultó a %s de la lista de seguidores. Volverá a aparecer cuando se siente.",
+  "collective.guifollowers.message.nofollowernamed": "No hay ningún seguidor llamado '%s' en la lista.",
+  "collective.guifollowers.message.hiddenbyname": "Se ocultaron %s seguidor(es) llamado(s) '%s' de la lista.",
+  "collective.guifollowers.message.nohiddenfollowers": "No hay seguidores ocultos.",
+  "collective.guifollowers.message.unhidden": "Los seguidores ocultos (%s) volverán a aparecer en la lista.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Le diste %1$s %2$s a %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Mermelada hambre de zombi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Te llena de fuerza,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "y de un antojo interminable.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill desactivado para %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill activado para %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Activa o desactiva Stack Refill para ti.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Activa Stack Refill para ti.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Desactiva Stack Refill para ti.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Muestra esta lista.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Elige %s",

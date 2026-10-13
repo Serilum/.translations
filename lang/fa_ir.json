@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "پاک کردن فهرست دنبال‌کنندگان GUI",
+  "collective.guifollowers.message.usage": "از /guifollowers hide هنگام نگاه کردن به یک حیوان خانگی، /guifollowers hide <name> یا /guifollowers unhide استفاده کنید.",
+  "collective.guifollowers.message.notlookingatfollower": "به یکی از حیوانات خانگی خود که ننشسته است نگاه کنید، یا از /guifollowers hide <name> استفاده کنید.",
+  "collective.guifollowers.message.hidden": "%s اکنون در فهرست دنبال‌کنندگان پنهان است. وقتی بنشیند دوباره نمایش داده می‌شود.",
+  "collective.guifollowers.message.nofollowernamed": "هیچ دنبال‌کننده‌ای با نام '%s' در فهرست نیست.",
+  "collective.guifollowers.message.hiddenbyname": "%s دنبال‌کننده با نام '%s' از فهرست پنهان شد.",
+  "collective.guifollowers.message.nohiddenfollowers": "هیچ دنبال‌کننده پنهانی وجود ندارد.",
+  "collective.guifollowers.message.unhidden": "%s دنبال‌کننده پنهان دوباره در فهرست نمایش داده می‌شوند.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "شما %1$s %2$s به %3$s دادید.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "مربای گرسنگی زامبی",
   "item.spookyjams.zombies_hunger_jam.desc.1": "تو را از قدرت پر می‌کند،",
   "item.spookyjams.zombies_hunger_jam.desc.2": "و میلی بی‌پایان.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill برای %s غیرفعال شد.",
+  "collective.stackrefill.message.enabled": "Stack Refill برای %s فعال شد.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Stack Refill را برای شما روشن یا خاموش می‌کند.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Stack Refill را برای شما روشن می‌کند.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Stack Refill را برای شما خاموش می‌کند.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - این فهرست را نمایش می‌دهد.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "انتخاب %s",

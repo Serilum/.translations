@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Garbitu GUI jarraitzaileen zerrenda",
+  "collective.guifollowers.message.usage": "Erabili /guifollowers hide maskota bati begira zaudela, /guifollowers hide <name> edo /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Begiratu eserita ez dagoen zure maskotetako bati, edo erabili /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s orain ezkutatuta dago jarraitzaileen zerrendan. Esertzen denean agertuko da berriro.",
+  "collective.guifollowers.message.nofollowernamed": "Ez dago '%s' izeneko jarraitzailerik zerrendan.",
+  "collective.guifollowers.message.hiddenbyname": "%s jarraitzaile ('%s' izenekoak) ezkutatu dira zerrendatik.",
+  "collective.guifollowers.message.nohiddenfollowers": "Ez dago jarraitzaile ezkuturik.",
+  "collective.guifollowers.message.unhidden": "Ezkutatutako %s jarraitzaile berriro agertuko dira zerrendan.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%1$s %2$s eman dizkiozu %3$s(r)i.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zonbiaren gose marmelada",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Indarrez betetzen zaitu,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "eta amaigabeko irrikaz.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill desaktibatu da %s jokalariarentzat.",
+  "collective.stackrefill.message.enabled": "Stack Refill aktibatu da %s jokalariarentzat.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Stack Refill aktibatzen edo desaktibatzen du zuretzat.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Stack Refill aktibatzen du zuretzat.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Stack Refill desaktibatzen du zuretzat.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Zerrenda hau erakusten du.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Aukeratu %s",

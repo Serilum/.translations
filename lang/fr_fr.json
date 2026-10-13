@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Vider la liste des suiveurs de l'interface",
+  "collective.guifollowers.message.usage": "Utilisez /guifollowers hide en regardant un animal de compagnie, /guifollowers hide <name> ou /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Regardez l'un de vos animaux de compagnie qui n'est pas assis, ou utilisez /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "L'animal %s est désormais masqué de la liste des suiveurs. Il réapparaîtra une fois qu'il se sera assis.",
+  "collective.guifollowers.message.nofollowernamed": "Il n'y a aucun suiveur nommé '%s' dans la liste.",
+  "collective.guifollowers.message.hiddenbyname": "%s suiveur(s) nommé(s) '%s' masqué(s) de la liste.",
+  "collective.guifollowers.message.nohiddenfollowers": "Il n'y a aucun suiveur masqué.",
+  "collective.guifollowers.message.unhidden": "Les suiveurs masqués (%s) réapparaîtront dans la liste.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Vous avez donné %1$s %2$s à %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Confiture faim de Zombie",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Elle vous emplit de force,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "et d'une envie sans fin.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill désactivé pour %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill activé pour %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Active ou désactive Stack Refill pour vous.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Active Stack Refill pour vous.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Désactive Stack Refill pour vous.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Affiche cette liste.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Choisir %s",

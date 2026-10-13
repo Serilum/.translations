@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Καθαρισμός Λίστας Ακολούθων GUI",
+  "collective.guifollowers.message.usage": "Χρησιμοποίησε /guifollowers hide ενώ κοιτάς ένα κατοικίδιο, /guifollowers hide <name> ή /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Κοίτα ένα από τα κατοικίδιά σου που δεν κάθεται, ή χρησιμοποίησε /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Το κατοικίδιο %s είναι πλέον κρυφό από τη λίστα ακολούθων. Θα εμφανιστεί ξανά μόλις καθίσει.",
+  "collective.guifollowers.message.nofollowernamed": "Δεν υπάρχει ακόλουθος με το όνομα '%s' στη λίστα.",
+  "collective.guifollowers.message.hiddenbyname": "Αποκρύφτηκαν ακόλουθοι από τη λίστα: %s (με το όνομα '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "Δεν υπάρχουν κρυφοί ακόλουθοι.",
+  "collective.guifollowers.message.unhidden": "Οι κρυφοί ακόλουθοι (%s) θα εμφανίζονται ξανά στη λίστα.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Έδωσες %1$s %2$s στον %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Μαρμελάδα Πείνα του Ζόμπι",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Σε γεμίζει με δύναμη,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "και ατελείωτη λαχτάρα.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Το Stack Refill απενεργοποιήθηκε για %s.",
+  "collective.stackrefill.message.enabled": "Το Stack Refill ενεργοποιήθηκε για %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Ενεργοποιεί ή απενεργοποιεί το Stack Refill για σένα.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Ενεργοποιεί το Stack Refill για σένα.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Απενεργοποιεί το Stack Refill για σένα.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Εμφανίζει αυτή τη λίστα.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Επίλεξε %s",

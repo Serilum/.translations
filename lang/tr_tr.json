@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Arayüz Takipçi Listesini Temizle",
+  "collective.guifollowers.message.usage": "Bir evcil hayvana bakarken /guifollowers hide, ya da /guifollowers hide <name> veya /guifollowers unhide kullan.",
+  "collective.guifollowers.message.notlookingatfollower": "Oturmayan evcil hayvanlarından birine bak ya da /guifollowers hide <name> kullan.",
+  "collective.guifollowers.message.hidden": "%s artık takipçi listesinde gizli. Oturduğunda tekrar görünecek.",
+  "collective.guifollowers.message.nofollowernamed": "Listede '%s' adında bir takipçi yok.",
+  "collective.guifollowers.message.hiddenbyname": "%s takipçi listeden gizlendi (ad: '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "Gizli takipçi yok.",
+  "collective.guifollowers.message.unhidden": "%s gizli takipçi listede tekrar görünecek.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%3$s oyuncusuna %1$s %2$s verdin.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombi’nin Açlığı Reçeli",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Seni güçle doldurur,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ve bitmek bilmeyen bir istekle.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill %s için devre dışı bırakıldı.",
+  "collective.stackrefill.message.enabled": "Stack Refill %s için etkinleştirildi.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Stack Refill'i senin için açar veya kapatır.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Stack Refill'i senin için açar.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Stack Refill'i senin için kapatır.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Bu listeyi gösterir.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s seç",

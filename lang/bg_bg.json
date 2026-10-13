@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Изчистване на списъка с последователи в интерфейса",
+  "collective.guifollowers.message.usage": "Използвай /guifollowers hide, докато гледаш към питомец, /guifollowers hide <name> или /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Погледни към някой от твоите питомци, който не седи, или използвай /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Питомецът %s вече е скрит от списъка с последователи. Ще се появи отново, щом седне.",
+  "collective.guifollowers.message.nofollowernamed": "В списъка няма последовател с име '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "От списъка са скрити %s последовател(я) с име '%s'.",
+  "collective.guifollowers.message.nohiddenfollowers": "Няма скрити последователи.",
+  "collective.guifollowers.message.unhidden": "Скритите последователи (%s) отново ще се показват в списъка.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Даде %1$s %2$s на %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Сладко от глада на зомбито",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Изпълва те със сила",
   "item.spookyjams.zombies_hunger_jam.desc.2": "и безкраен копнеж.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill е изключен за %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill е включен за %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Включва или изключва Stack Refill за теб.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Включва Stack Refill за теб.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Изключва Stack Refill за теб.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Показва този списък.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Избери %s",

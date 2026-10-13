@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Wyczyść listę towarzyszy z GUI",
+  "collective.guifollowers.message.usage": "Użyj /guifollowers hide, patrząc na zwierzaka, /guifollowers hide <name> lub /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Spójrz na jednego ze swoich zwierzaków, który nie siedzi, lub użyj /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Zwierzak %s jest teraz ukryty na liście towarzyszy. Pojawi się ponownie, gdy usiądzie.",
+  "collective.guifollowers.message.nofollowernamed": "Na liście nie ma towarzysza o imieniu „%s”.",
+  "collective.guifollowers.message.hiddenbyname": "Ukryto na liście towarzyszy: %s (o imieniu „%s”).",
+  "collective.guifollowers.message.nohiddenfollowers": "Brak ukrytych towarzyszy.",
+  "collective.guifollowers.message.unhidden": "Ukryci towarzysze (%s) znów pojawią się na liście.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Przekazałeś %1$s %2$s graczowi %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Dżem Głód Zombie",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Napełnia cię siłą",
   "item.spookyjams.zombies_hunger_jam.desc.2": "i niekończącym się łaknieniem.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill wyłączony dla %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill włączony dla %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Włącza lub wyłącza Stack Refill dla ciebie.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Włącza Stack Refill dla ciebie.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Wyłącza Stack Refill dla ciebie.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Pokazuje tę listę.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Wybierz %s",

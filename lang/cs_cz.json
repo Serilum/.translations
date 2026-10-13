@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Vymazat seznam GUI následovníků",
+  "collective.guifollowers.message.usage": "Použij /guifollowers hide, zatímco se díváš na mazlíčka, /guifollowers hide <name> nebo /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Podívej se na některého ze svých mazlíčků, který nesedí, nebo použij /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Mazlíček %s je teď skrytý ze seznamu následovníků. Znovu se zobrazí, jakmile si sedne.",
+  "collective.guifollowers.message.nofollowernamed": "V seznamu není žádný následovník se jménem „%s“.",
+  "collective.guifollowers.message.hiddenbyname": "Skryto ze seznamu: %s následovník(ů) se jménem „%s“.",
+  "collective.guifollowers.message.nohiddenfollowers": "Nejsou žádní skrytí následovníci.",
+  "collective.guifollowers.message.unhidden": "Skrytí následovníci (%s) se v seznamu znovu zobrazí.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Předal jsi %1$s %2$s hráči %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombie hladová marmeláda",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Naplní tě silou",
   "item.spookyjams.zombies_hunger_jam.desc.2": "a nekonečnou touhou.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill je pro %s vypnutý.",
+  "collective.stackrefill.message.enabled": "Stack Refill je pro %s zapnutý.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Zapne nebo vypne ti Stack Refill.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Zapne ti Stack Refill.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Vypne ti Stack Refill.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Zobrazí tento seznam.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Vyber %s",

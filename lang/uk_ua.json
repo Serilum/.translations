@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Очистити список послідовників GUI",
+  "collective.guifollowers.message.usage": "Використовуйте /guifollowers hide, дивлячись на улюбленця, /guifollowers hide <name> або /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Подивіться на одного зі своїх улюбленців, який не сидить, або використайте /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "Улюбленця %s тепер приховано зі списку послідовників. Він знову з'явиться, коли сяде.",
+  "collective.guifollowers.message.nofollowernamed": "У списку немає послідовника з ім'ям '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "Зі списку приховано послідовників: %s (з ім'ям '%s').",
+  "collective.guifollowers.message.nohiddenfollowers": "Немає прихованих послідовників.",
+  "collective.guifollowers.message.unhidden": "Приховані послідовники (%s) знову з'являться у списку.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Ви передали %1$s %2$s гравцеві %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Джем 'Голод зомбі'",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Він наповнює вас силою",
   "item.spookyjams.zombies_hunger_jam.desc.2": "та нескінченною жагою.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill вимкнено для %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill увімкнено для %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Вмикає або вимикає Stack Refill для вас.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Вмикає Stack Refill для вас.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Вимикає Stack Refill для вас.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Показує цей список.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Виберіть %s",

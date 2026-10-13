@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Bersihkan Daftar Pengikut GUI",
+  "collective.guifollowers.message.usage": "Gunakan /guifollowers hide sambil melihat hewan peliharaan, /guifollowers hide <name>, atau /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Lihat salah satu hewan peliharaanmu yang tidak sedang duduk, atau gunakan /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s sekarang disembunyikan dari daftar pengikut. Ia akan muncul lagi setelah duduk.",
+  "collective.guifollowers.message.nofollowernamed": "Tidak ada pengikut bernama '%s' di daftar.",
+  "collective.guifollowers.message.hiddenbyname": "%s pengikut bernama '%s' disembunyikan dari daftar.",
+  "collective.guifollowers.message.nohiddenfollowers": "Tidak ada pengikut yang disembunyikan.",
+  "collective.guifollowers.message.unhidden": "%s pengikut yang disembunyikan akan muncul lagi di daftar.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Kamu telah memberikan %1$s %2$s kepada %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Selai Kelaparan Zombi",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Ia memenuhimu dengan kekuatan,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "dan hasrat tanpa akhir.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill dinonaktifkan untuk %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill diaktifkan untuk %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Menyalakan atau mematikan Stack Refill untukmu.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Menyalakan Stack Refill untukmu.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Mematikan Stack Refill untukmu.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Menampilkan daftar ini.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Pilih %s",

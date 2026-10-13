@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tyhjennä GUI-seuraajalista",
+  "collective.guifollowers.message.usage": "Käytä komentoa /guifollowers hide katsoessasi lemmikkiä, /guifollowers hide <name> tai /guifollowers unhide.",
+  "collective.guifollowers.message.notlookingatfollower": "Katso jotakin lemmikeistäsi, joka ei istu, tai käytä komentoa /guifollowers hide <name>.",
+  "collective.guifollowers.message.hidden": "%s on nyt piilotettu seuraajalistasta. Se näkyy listassa taas, kun se istuutuu.",
+  "collective.guifollowers.message.nofollowernamed": "Listassa ei ole seuraajaa nimeltä '%s'.",
+  "collective.guifollowers.message.hiddenbyname": "Piilotettiin listasta %s seuraaja(a) nimeltä '%s'.",
+  "collective.guifollowers.message.nohiddenfollowers": "Piilotettuja seuraajia ei ole.",
+  "collective.guifollowers.message.unhidden": "%s piilotettu(a) seuraaja(a) näkyy taas listassa.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Annoit %1$s %2$s pelaajalle %3$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombin nälkähillo",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Se täyttää sinut voimalla,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "ja loputtomalla himolla.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill poistettu käytöstä pelaajalle %s.",
+  "collective.stackrefill.message.enabled": "Stack Refill otettu käyttöön pelaajalle %s.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Kytkee Stack Refillin päälle tai pois päältä sinulle.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Kytkee Stack Refillin päälle sinulle.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Kytkee Stack Refillin pois päältä sinulle.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Näyttää tämän listan.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "Valitse %s",

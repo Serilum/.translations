@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI フォロワーリストを消去",
+  "collective.guifollowers.message.usage": "ペットを見ながら /guifollowers hide を使うか、/guifollowers hide <name> または /guifollowers unhide を使用してください。",
+  "collective.guifollowers.message.notlookingatfollower": "座っていない自分のペットを見るか、/guifollowers hide <name> を使用してください。",
+  "collective.guifollowers.message.hidden": "%s をフォロワーリストから非表示にしました。座ると再び表示されます。",
+  "collective.guifollowers.message.nofollowernamed": "リストに '%s' という名前のフォロワーはいません。",
+  "collective.guifollowers.message.hiddenbyname": "%s 体のフォロワー（名前: '%s'）をリストから非表示にしました。",
+  "collective.guifollowers.message.nohiddenfollowers": "非表示のフォロワーはいません。",
+  "collective.guifollowers.message.unhidden": "非表示だった %s 体のフォロワーが再びリストに表示されます。",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "%1$s 個の%2$sを %3$s に渡しました。",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "ゾンビの飢えジャム",
   "item.spookyjams.zombies_hunger_jam.desc.1": "力がみなぎり、",
   "item.spookyjams.zombies_hunger_jam.desc.2": "尽きることのない渇望に駆られる。",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "%s の Stack Refill を無効にしました。",
+  "collective.stackrefill.message.enabled": "%s の Stack Refill を有効にしました。",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - 自分の Stack Refill のオン/オフを切り替えます。",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - 自分の Stack Refill をオンにします。",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - 自分の Stack Refill をオフにします。",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - この一覧を表示します。",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%sを選択",

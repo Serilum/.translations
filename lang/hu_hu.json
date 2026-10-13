@@ -195,6 +195,13 @@
 
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-követők listájának törlése",
+  "collective.guifollowers.message.usage": "Használd a /guifollowers hide parancsot egy háziállatra nézve, vagy a /guifollowers hide <name>, illetve a /guifollowers unhide parancsot.",
+  "collective.guifollowers.message.notlookingatfollower": "Nézz rá egy olyan háziállatodra, amely nem ül, vagy használd a /guifollowers hide <name> parancsot.",
+  "collective.guifollowers.message.hidden": "%s mostantól rejtve van a követők listájában. Újra megjelenik, amint leül.",
+  "collective.guifollowers.message.nofollowernamed": "Nincs „%s” nevű követő a listában.",
+  "collective.guifollowers.message.hiddenbyname": "%s db „%s” nevű követő elrejtve a listából.",
+  "collective.guifollowers.message.nohiddenfollowers": "Nincsenek rejtett követők.",
+  "collective.guifollowers.message.unhidden": "%s rejtett követő újra megjelenik a listában.",
 
   "_comment_modname_handoveryouritems": "Hand Over Your Items",
   "collective.handoveryouritems.message.given": "Átadtál %3$s részére %1$s %2$s.",
@@ -451,6 +458,14 @@
   "item.spookyjams.zombies_hunger_jam": "Zombi éhsége lekvár",
   "item.spookyjams.zombies_hunger_jam.desc.1": "Erővel tölt fel,",
   "item.spookyjams.zombies_hunger_jam.desc.2": "és véget nem érő sóvárgással.",
+
+  "_comment_modname_stackrefill": "Stack Refill",
+  "collective.stackrefill.message.disabled": "Stack Refill kikapcsolva %s számára.",
+  "collective.stackrefill.message.enabled": "Stack Refill bekapcsolva %s számára.",
+  "collective.stackrefill.message.usage.toggle": "/stackrefill toggle - Be- vagy kikapcsolja számodra a Stack Refillt.",
+  "collective.stackrefill.message.usage.enable": "/stackrefill enable - Bekapcsolja számodra a Stack Refillt.",
+  "collective.stackrefill.message.usage.disable": "/stackrefill disable - Kikapcsolja számodra a Stack Refillt.",
+  "collective.stackrefill.message.usage.help": "/stackrefill help - Megjeleníti ezt a listát.",
 
   "_comment_modname_starterkit": "Starter Kit",
   "collective.starterkit.gui.choose": "%s kiválasztása",
