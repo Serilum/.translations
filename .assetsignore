@@ -1,4 +1,6 @@
 .git
 .github
+.wrangler
 scripts
 README.md
+wrangler.toml
