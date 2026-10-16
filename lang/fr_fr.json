@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Impossible de trouver une entité portant le nom '%s' dans la table de butin.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recharge les fichiers de configuration situés dans ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recharge les fichiers de configuration situés dans ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Une erreur est survenue lors du rechargement du fichier de configuration.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Fichiers de configuration des effets de potion des créatures chargés avec succès.",
   "collective.configurablemobpotioneffects.message.usage": "Utilisation :",

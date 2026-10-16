@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nelze najít entitu s názvem „%s“ v hashmapě dropů.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Znovu načte konfigurační soubory umístěné v ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Znovu načte konfigurační soubory umístěné v ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Při opětovném načítání konfiguračního souboru se něco pokazilo.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurační soubory lektvarových efektů mobů byly úspěšně načteny.",
   "collective.configurablemobpotioneffects.message.usage": "Použití:",

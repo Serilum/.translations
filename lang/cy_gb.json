@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Methu canfod endid â'r enw '%s' yn y rhestr ollyngiadau.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ail-lwytho'r ffeiliau cyfluniad sydd yn ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ail-lwytho'r ffeiliau cyfluniad sydd yn ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Aeth rhywbeth o'i le wrth ail-lwytho'r ffeil gyfluniad.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Llwythwyd ffeiliau cyfluniad effeithiau diod yr angenfilod yn llwyddiannus.",
   "collective.configurablemobpotioneffects.message.usage": "Defnydd:",

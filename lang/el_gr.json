@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Αδύνατη η εύρεση οντότητας με το όνομα '%s' στον πίνακα πτώσεων.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Επαναφορτώνει τα αρχεία ρυθμίσεων που βρίσκονται στο ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Επαναφορτώνει τα αρχεία ρυθμίσεων που βρίσκονται στο ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Κάτι πήγε στραβά κατά την επαναφόρτωση του αρχείου ρυθμίσεων.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Φορτώθηκαν με επιτυχία τα αρχεία ρυθμίσεων εφέ φίλτρων πλασμάτων.",
   "collective.configurablemobpotioneffects.message.usage": "Χρήση:",

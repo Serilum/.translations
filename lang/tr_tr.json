@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Düşüm tablosunda '%s' adında bir varlık bulunamadı.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ konumundaki yapılandırma dosyalarını yeniden yükler",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/Serilum/configurablemobpotioneffects/ konumundaki yapılandırma dosyalarını yeniden yükler",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Yapılandırma dosyası yeniden yüklenirken bir şeyler ters gitti.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Mob iksir etkisi yapılandırma dosyaları başarıyla yüklendi.",
   "collective.configurablemobpotioneffects.message.usage": "Kullanım:",

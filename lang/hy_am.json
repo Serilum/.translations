@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Հնարավոր չէ գտնել '%s' անունով էակ կաթի ցուցակում.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Վերաբեռնում է ./config/configurablemobpotioneffects/ պանակում գտնվող կարգավորման ֆայլերը",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Վերաբեռնում է ./config/Serilum/configurablemobpotioneffects/ պանակում գտնվող կարգավորման ֆայլերը",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Ինչ-որ բան սխալ գնաց կարգավորման ֆայլը վերաբեռնելիս.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Էակների խմիչքի էֆեկտների կարգավորման ֆայլերը հաջողությամբ բեռնվեցին.",
   "collective.configurablemobpotioneffects.message.usage": "Օգտագործում.",

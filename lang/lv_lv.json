@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nevar atrast būtni ar nosaukumu '%s' lietu sarakstā.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Pārlādē konfigurācijas failus, kas atrodas ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Pārlādē konfigurācijas failus, kas atrodas ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Pārlādējot konfigurācijas failu, kaut kas nogāja greizi.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Briesmoņu dziras efektu konfigurācijas faili veiksmīgi ielādēti.",
   "collective.configurablemobpotioneffects.message.usage": "Lietošana:",

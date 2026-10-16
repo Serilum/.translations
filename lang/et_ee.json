@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Olemit nimega „%s“ ei leitud kukutatavate räsitabelist.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laadib uuesti seadistusfailid asukohas ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laadib uuesti seadistusfailid asukohas ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Seadistusfaili uuesti laadimisel läks midagi valesti.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Eluka võlujoogiefektide seadistusfailid edukalt laetud.",
   "collective.configurablemobpotioneffects.message.usage": "Kasutus:",

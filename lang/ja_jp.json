@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "ドロップのハッシュマップ内に名前が '%s' のエンティティが見つかりません。",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ にある設定ファイルを再読み込みします",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/Serilum/configurablemobpotioneffects/ にある設定ファイルを再読み込みします",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "設定ファイルの再読み込み中に問題が発生しました。",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Mob のポーション効果の設定ファイルを正常に読み込みました。",
   "collective.configurablemobpotioneffects.message.usage": "使い方:",

@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Олжа кестесінде '%s' атты нысан табылмады.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ ішіндегі баптау файлдарын қайта жүктейді",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/Serilum/configurablemobpotioneffects/ ішіндегі баптау файлдарын қайта жүктейді",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Баптау файлын қайта жүктеу кезінде бірдеңе дұрыс болмады.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Мобтың ішірткі әсерінің баптау файлдары сәтті жүктелді.",
   "collective.configurablemobpotioneffects.message.usage": "Қолдану:",

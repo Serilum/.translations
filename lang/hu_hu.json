@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nem található „%s” nevű entitás az ejtési hashmapben.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Újratölti a ./config/configurablemobpotioneffects/ mappában található konfigurációs fájlokat.",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Újratölti a ./config/Serilum/configurablemobpotioneffects/ mappában található konfigurációs fájlokat.",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Hiba történt a konfigurációs fájl újratöltése közben.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "A mobok bájitalhatásainak konfigurációs fájljai sikeresen betöltve.",
   "collective.configurablemobpotioneffects.message.usage": "Használat:",

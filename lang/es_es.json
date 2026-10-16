@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "No se ha encontrado ninguna entidad con el nombre '%s' en la tabla de objetos soltados.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recarga los archivos de configuración ubicados en ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recarga los archivos de configuración ubicados en ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Algo salió mal al recargar el archivo de configuración.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Se han cargado correctamente los archivos de configuración de efectos de poción de las criaturas.",
   "collective.configurablemobpotioneffects.message.usage": "Uso:",

@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Kon nie 'n entiteit met die naam '%s' in die drop-hashmap vind nie.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Herlaai die konfigurasielêers in ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Herlaai die konfigurasielêers in ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Iets het verkeerd geloop terwyl die konfigurasielêer herlaai is.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Mob-toordrank-effek-konfigurasielêers suksesvol gelaai.",
   "collective.configurablemobpotioneffects.message.usage": "Gebruik:",

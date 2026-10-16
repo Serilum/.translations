@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Не удалось найти существо с именем «%s» в таблице дропа.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Перезагружает файлы конфигурации в ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Перезагружает файлы конфигурации в ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Что-то пошло не так при перезагрузке файла конфигурации.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Файлы конфигурации эффектов зелий для мобов успешно загружены.",
   "collective.configurablemobpotioneffects.message.usage": "Использование:",

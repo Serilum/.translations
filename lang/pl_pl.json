@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nie można znaleźć bytu o nazwie „%s” w mapie łupów.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Przeładowuje pliki konfiguracyjne znajdujące się w ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Przeładowuje pliki konfiguracyjne znajdujące się w ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Coś poszło nie tak podczas przeładowywania pliku konfiguracyjnego.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Pomyślnie wczytano pliki konfiguracyjne efektów mikstur mobów.",
   "collective.configurablemobpotioneffects.message.usage": "Użycie:",

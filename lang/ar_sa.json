@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "تعذّر العثور على كائن بالاسم '%s' في جدول الإفلات.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "يعيد تحميل ملفات الإعدادات الموجودة في ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "يعيد تحميل ملفات الإعدادات الموجودة في ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "حدث خطأ ما أثناء إعادة تحميل ملف الإعدادات.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "تم تحميل ملفات إعدادات تأثيرات جرعات الوحوش بنجاح.",
   "collective.configurablemobpotioneffects.message.usage": "الاستخدام:",

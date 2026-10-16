@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Không thể tìm thấy thực thể có tên '%s' trong bảng băm vật rơi ra.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Tải lại các tệp cấu hình nằm trong ./config/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Tải lại các tệp cấu hình nằm trong ./config/Serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Đã xảy ra lỗi khi tải lại tệp cấu hình.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Đã tải thành công các tệp cấu hình hiệu ứng độc dược của quái vật.",
   "collective.configurablemobpotioneffects.message.usage": "Cách dùng:",

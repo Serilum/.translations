@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Ezin da '%s' izeneko entitaterik aurkitu jaregite-mapan.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/configurablemobpotioneffects/ kokatutako konfigurazio fitxategiak birkargatzen ditu.",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "./config/Serilum/configurablemobpotioneffects/ kokatutako konfigurazio fitxategiak birkargatzen ditu.",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Zerbait gaizki joan da konfigurazio fitxategia birkargatzean.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Munstroen edabe-efektuen konfigurazio fitxategiak ondo kargatu dira.",
   "collective.configurablemobpotioneffects.message.usage": "Erabilera:",

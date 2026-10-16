@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Es konnte keine Entität mit dem Namen '%s' in der Drop-Hashmap gefunden werden.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Lädt die Konfigurationsdateien unter ./config/configurablemobpotioneffects/ neu",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Lädt die Konfigurationsdateien unter ./config/Serilum/configurablemobpotioneffects/ neu",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Beim Neuladen der Konfigurationsdatei ist etwas schiefgelaufen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurationsdateien für die Mob-Trankeffekte erfolgreich geladen.",
   "collective.configurablemobpotioneffects.message.usage": "Verwendung:",

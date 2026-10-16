@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "在掉落物映射表中找不到名为“%s”的实体。",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "重新加载位于 ./config/configurablemobpotioneffects/ 的配置文件",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "重新加载位于 ./config/Serilum/configurablemobpotioneffects/ 的配置文件",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "重新加载配置文件时出错。",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "成功加载了生物药水效果配置文件。",
   "collective.configurablemobpotioneffects.message.usage": "用法：",
