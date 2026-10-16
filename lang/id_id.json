@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Tidak dapat menemukan entitas dengan nama '%s' dalam hashmap jatuhan.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Memuat ulang berkas konfigurasi yang terletak di ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Memuat ulang berkas konfigurasi yang terletak di ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Terjadi kesalahan saat memuat ulang berkas konfigurasi.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Berhasil memuat berkas konfigurasi efek ramuan mob.",
   "collective.configurablemobpotioneffects.message.usage": "Penggunaan:",

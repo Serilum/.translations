@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "לא ניתן למצוא יצור בשם '%s' בטבלת הפריטים הנופלים.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "טוען מחדש את קבצי ההגדרות הנמצאים ב-./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "טוען מחדש את קבצי ההגדרות הנמצאים ב-./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "משהו השתבש בעת טעינה מחדש של קובץ ההגדרות.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "קבצי ההגדרות של אפקטי השיקויים של היצורים נטענו בהצלחה.",
   "collective.configurablemobpotioneffects.message.usage": "שימוש:",

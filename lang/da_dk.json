@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Kunne ikke finde et væsen med navnet '%s' i drop-hashmappet.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Genindlæser konfigurationsfilerne i ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Genindlæser konfigurationsfilerne i ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Noget gik galt under genindlæsningen af konfigurationsfilen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurationsfilerne for mob-eliksireffekter blev indlæst.",
   "collective.configurablemobpotioneffects.message.usage": "Brug:",

@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "ไม่พบเอนทิตีที่มีชื่อ '%s' ในแฮชแมปของดรอป",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "โหลดไฟล์ตั้งค่าที่อยู่ใน ./config/Serilum/configurablemobpotioneffects/ ใหม่",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "โหลดไฟล์ตั้งค่าที่อยู่ใน ./config/serilum/configurablemobpotioneffects/ ใหม่",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "มีบางอย่างผิดพลาดขณะโหลดไฟล์ตั้งค่าใหม่",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "โหลดไฟล์ตั้งค่าเอฟเฟกต์น้ำยาของม็อบเรียบร้อยแล้ว",
   "collective.configurablemobpotioneffects.message.usage": "วิธีใช้:",

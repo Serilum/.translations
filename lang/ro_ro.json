@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nu s-a putut găsi o entitate cu numele „%s” în lista de obiecte aruncate.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Reîncarcă fișierele de configurare aflate în ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Reîncarcă fișierele de configurare aflate în ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Ceva nu a mers bine la reîncărcarea fișierului de configurare.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Fișierele de configurare a efectelor de poțiune ale creaturilor au fost încărcate cu succes.",
   "collective.configurablemobpotioneffects.message.usage": "Utilizare:",

@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nepavyko rasti esybės pavadinimu „%s“ iškritimų sąraše.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Iš naujo įkelia konfigūracijos failus, esančius ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Iš naujo įkelia konfigūracijos failus, esančius ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Kažkas nutiko ne taip iš naujo įkeliant konfigūracijos failą.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Sėkmingai įkelti esybių gėrimų poveikių konfigūracijos failai.",
   "collective.configurablemobpotioneffects.message.usage": "Naudojimas:",

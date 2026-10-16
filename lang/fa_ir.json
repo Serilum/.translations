@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "موجودی با نام '%s' در فهرست افتادنی‌ها یافت نشد.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "فایل‌های پیکربندی واقع در ./config/Serilum/configurablemobpotioneffects/ را دوباره بارگذاری می‌کند",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "فایل‌های پیکربندی واقع در ./config/serilum/configurablemobpotioneffects/ را دوباره بارگذاری می‌کند",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "هنگام بارگذاری مجدد فایل پیکربندی مشکلی پیش آمد.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "فایل‌های پیکربندی اثر معجون موجودات با موفقیت بارگذاری شد.",
   "collective.configurablemobpotioneffects.message.usage": "نحوه استفاده:",

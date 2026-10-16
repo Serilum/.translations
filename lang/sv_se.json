@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Det gick inte att hitta en entitet med namnet '%s' i drop-hashmappen.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Läser om konfigurationsfilerna i ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Läser om konfigurationsfilerna i ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Något gick fel när konfigurationsfilen lästes om.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfigurationsfilerna för mobbars brygdeffekter laddades.",
   "collective.configurablemobpotioneffects.message.usage": "Användning:",

@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Fant ingen skapning med navnet «%s» i fall-tabellen.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laster inn konfigurasjonsfilene i ./config/Serilum/configurablemobpotioneffects/ på nytt",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Laster inn konfigurasjonsfilene i ./config/serilum/configurablemobpotioneffects/ på nytt",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Noe gikk galt under innlasting av konfigurasjonsfilen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Lastet inn konfigurasjonsfilene for skapningers trylledrikkeffekter.",
   "collective.configurablemobpotioneffects.message.usage": "Bruk:",

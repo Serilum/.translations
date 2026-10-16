@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Не може да се намери същество с името '%s' в таблицата с пускани предмети.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Презарежда конфигурационните файлове, намиращи се в ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Презарежда конфигурационните файлове, намиращи се в ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Нещо се обърка при презареждането на конфигурационния файл.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Конфигурационните файлове за ефектите от отвари върху съществата бяха заредени успешно.",
   "collective.configurablemobpotioneffects.message.usage": "Използване:",

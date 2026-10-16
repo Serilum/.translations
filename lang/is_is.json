@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Fann ekki veru með heitinu '%s' í drop-hashmap-inu.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Endurhleður stillingaskrárnar sem eru í ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Endurhleður stillingaskrárnar sem eru í ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Eitthvað fór úrskeiðis við endurhleðslu stillingaskrárinnar.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Tókst að hlaða stillingaskrám fyrir drykkjaráhrif vera.",
   "collective.configurablemobpotioneffects.message.usage": "Notkun:",

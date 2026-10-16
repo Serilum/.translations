@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Não foi possível encontrar uma entidade com o nome '%s' no hashmap de espólio.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recarrega os ficheiros de configuração localizados em ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Recarrega os ficheiros de configuração localizados em ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Algo correu mal ao recarregar o ficheiro de configuração.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Ficheiros de configuração dos efeitos de poção das criaturas carregados com sucesso.",
   "collective.configurablemobpotioneffects.message.usage": "Utilização:",

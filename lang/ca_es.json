@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "No s'ha trobat cap entitat amb el nom «%s» a la taula d'objectes deixats.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Torna a carregar els fitxers de configuració de ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Torna a carregar els fitxers de configuració de ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Hi ha hagut un problema en tornar a carregar el fitxer de configuració.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "S'han carregat correctament els fitxers de configuració dels efectes de poció de les criatures.",
   "collective.configurablemobpotioneffects.message.usage": "Ús:",

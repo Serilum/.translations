@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Nije moguće pronaći entitet s imenom '%s' u hashmapi ispada.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ponovno učitava konfiguracijske datoteke smještene u ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Ponovno učitava konfiguracijske datoteke smještene u ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Nešto je pošlo po zlu pri ponovnom učitavanju konfiguracijske datoteke.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Konfiguracijske datoteke efekata napitaka stvorenja uspješno učitane.",
   "collective.configurablemobpotioneffects.message.usage": "Korištenje:",

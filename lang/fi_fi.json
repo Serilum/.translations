@@ -150,7 +150,7 @@
   "collective.configurableextramobdrops.message.unablefindentitynamedrop": "Olentoa nimeltä '%s' ei löytynyt pudotusten hajautustaulusta.",
 
   "_comment_modname_configurablemobpotioneffects": "Configurable Mob Potion Effects",
-  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Lataa uudelleen asetustiedostot, jotka sijaitsevat kansiossa ./config/Serilum/configurablemobpotioneffects/",
+  "collective.configurablemobpotioneffects.message.reloadsconfigfiles": "Lataa uudelleen asetustiedostot, jotka sijaitsevat kansiossa ./config/serilum/configurablemobpotioneffects/",
   "collective.configurablemobpotioneffects.message.somethingwentwrong": "Jokin meni vikaan ladattaessa asetustiedostoa uudelleen.",
   "collective.configurablemobpotioneffects.message.successfullyloadedmob": "Olentojen taikajuomavaikutusten asetustiedostot ladattiin onnistuneesti.",
   "collective.configurablemobpotioneffects.message.usage": "Käyttö:",
