@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Tilføj",
+  "collective.collective.gui.amount": "Antal",
+  "collective.collective.gui.biomes": "Biomer",
   "collective.collective.gui.blocks": "Blokke",
   "collective.collective.gui.configtitle": "Konfiguration for %s",
   "collective.collective.gui.dimensions": "Dimensioner",

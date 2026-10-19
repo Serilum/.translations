@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Қосу",
+  "collective.collective.gui.amount": "Саны",
+  "collective.collective.gui.biomes": "Биомдар",
   "collective.collective.gui.blocks": "Блоктар",
   "collective.collective.gui.configtitle": "%s баптаулары",
   "collective.collective.gui.dimensions": "Өлшемдер",

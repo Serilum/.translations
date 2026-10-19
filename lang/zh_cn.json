@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "添加",
+  "collective.collective.gui.amount": "数量",
+  "collective.collective.gui.biomes": "生物群系",
   "collective.collective.gui.blocks": "方块",
   "collective.collective.gui.configtitle": "%s 配置",
   "collective.collective.gui.dimensions": "维度",

@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Pridėti",
+  "collective.collective.gui.amount": "Kiekis",
+  "collective.collective.gui.biomes": "Biomai",
   "collective.collective.gui.blocks": "Blokai",
   "collective.collective.gui.configtitle": "%s konfigūracija",
   "collective.collective.gui.dimensions": "Dimensijos",

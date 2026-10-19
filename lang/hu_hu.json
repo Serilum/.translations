@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Hozzáadás",
+  "collective.collective.gui.amount": "Mennyiség",
+  "collective.collective.gui.biomes": "Biomok",
   "collective.collective.gui.blocks": "Blokkok",
   "collective.collective.gui.configtitle": "%s konfigurációja",
   "collective.collective.gui.dimensions": "Dimenziók",

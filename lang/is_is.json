@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Bæta við",
+  "collective.collective.gui.amount": "Fjöldi",
+  "collective.collective.gui.biomes": "Vistkerfi",
   "collective.collective.gui.blocks": "Kubbar",
   "collective.collective.gui.configtitle": "Stillingar fyrir %s",
   "collective.collective.gui.dimensions": "Víddir",

@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Voeg by",
+  "collective.collective.gui.amount": "Aantal",
+  "collective.collective.gui.biomes": "Biome",
   "collective.collective.gui.blocks": "Blokke",
   "collective.collective.gui.configtitle": "Konfigurasie vir %s",
   "collective.collective.gui.dimensions": "Dimensies",

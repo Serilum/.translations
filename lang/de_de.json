@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Hinzufügen",
+  "collective.collective.gui.amount": "Anzahl",
+  "collective.collective.gui.biomes": "Biome",
   "collective.collective.gui.blocks": "Blöcke",
   "collective.collective.gui.configtitle": "Konfiguration von %s",
   "collective.collective.gui.dimensions": "Dimensionen",

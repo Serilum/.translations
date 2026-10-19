@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Pievienot",
+  "collective.collective.gui.amount": "Skaits",
+  "collective.collective.gui.biomes": "Biomas",
   "collective.collective.gui.blocks": "Bloki",
   "collective.collective.gui.configtitle": "%s konfigurācija",
   "collective.collective.gui.dimensions": "Dimensijas",

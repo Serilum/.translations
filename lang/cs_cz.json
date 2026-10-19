@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Přidat",
+  "collective.collective.gui.amount": "Počet",
+  "collective.collective.gui.biomes": "Biomy",
   "collective.collective.gui.blocks": "Bloky",
   "collective.collective.gui.configtitle": "Konfigurace %s",
   "collective.collective.gui.dimensions": "Dimenze",

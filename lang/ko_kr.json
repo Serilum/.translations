@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "추가",
+  "collective.collective.gui.amount": "수량",
+  "collective.collective.gui.biomes": "생물 군계",
   "collective.collective.gui.blocks": "블록",
   "collective.collective.gui.configtitle": "%s 설정",
   "collective.collective.gui.dimensions": "차원",

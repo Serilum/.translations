@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Lisää",
+  "collective.collective.gui.amount": "Määrä",
+  "collective.collective.gui.biomes": "Biomit",
   "collective.collective.gui.blocks": "Kuutiot",
   "collective.collective.gui.configtitle": "Asetukset: %s",
   "collective.collective.gui.dimensions": "Ulottuvuudet",

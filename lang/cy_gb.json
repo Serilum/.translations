@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Ychwanegu",
+  "collective.collective.gui.amount": "Nifer",
+  "collective.collective.gui.biomes": "Bïomau",
   "collective.collective.gui.blocks": "Blociau",
   "collective.collective.gui.configtitle": "Cyfluniad %s",
   "collective.collective.gui.dimensions": "Dimensiynau",

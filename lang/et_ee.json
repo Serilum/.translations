@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Lisa",
+  "collective.collective.gui.amount": "Kogus",
+  "collective.collective.gui.biomes": "Bioomid",
   "collective.collective.gui.blocks": "Plokid",
   "collective.collective.gui.configtitle": "%s seadistus",
   "collective.collective.gui.dimensions": "Dimensioonid",

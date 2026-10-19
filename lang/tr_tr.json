@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Ekle",
+  "collective.collective.gui.amount": "Miktar",
+  "collective.collective.gui.biomes": "Biyomlar",
   "collective.collective.gui.blocks": "Bloklar",
   "collective.collective.gui.configtitle": "%s Yapılandırması",
   "collective.collective.gui.dimensions": "Boyutlar",

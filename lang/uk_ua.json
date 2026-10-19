@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Додати",
+  "collective.collective.gui.amount": "Кількість",
+  "collective.collective.gui.biomes": "Біоми",
   "collective.collective.gui.blocks": "Блоки",
   "collective.collective.gui.configtitle": "Конфігурація %s",
   "collective.collective.gui.dimensions": "Виміри",

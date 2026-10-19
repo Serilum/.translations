@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Thêm",
+  "collective.collective.gui.amount": "Số lượng",
+  "collective.collective.gui.biomes": "Quần xã",
   "collective.collective.gui.blocks": "Khối",
   "collective.collective.gui.configtitle": "Cấu hình %s",
   "collective.collective.gui.dimensions": "Chiều không gian",

@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Lägg till",
+  "collective.collective.gui.amount": "Antal",
+  "collective.collective.gui.biomes": "Biomer",
   "collective.collective.gui.blocks": "Block",
   "collective.collective.gui.configtitle": "Konfiguration för %s",
   "collective.collective.gui.dimensions": "Dimensioner",

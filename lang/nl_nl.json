@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Toevoegen",
+  "collective.collective.gui.amount": "Aantal",
+  "collective.collective.gui.biomes": "Klimaten",
   "collective.collective.gui.blocks": "Blokken",
   "collective.collective.gui.configtitle": "Configuratie van %s",
   "collective.collective.gui.dimensions": "Dimensies",

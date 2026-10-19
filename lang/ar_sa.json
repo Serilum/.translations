@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "إضافة",
+  "collective.collective.gui.amount": "الكمية",
+  "collective.collective.gui.biomes": "المناطق الأحيائية",
   "collective.collective.gui.blocks": "الكتل",
   "collective.collective.gui.configtitle": "إعدادات %s",
   "collective.collective.gui.dimensions": "الأبعاد",

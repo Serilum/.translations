@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "افزودن",
+  "collective.collective.gui.amount": "تعداد",
+  "collective.collective.gui.biomes": "زیست‌بوم‌ها",
   "collective.collective.gui.blocks": "بلوک‌ها",
   "collective.collective.gui.configtitle": "پیکربندی %s",
   "collective.collective.gui.dimensions": "بُعدها",

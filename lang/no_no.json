@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "Legg til",
+  "collective.collective.gui.amount": "Antall",
+  "collective.collective.gui.biomes": "Markslag",
   "collective.collective.gui.blocks": "Blokker",
   "collective.collective.gui.configtitle": "Konfigurasjon for %s",
   "collective.collective.gui.dimensions": "Dimensjoner",

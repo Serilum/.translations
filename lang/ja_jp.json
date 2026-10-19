@@ -13,6 +13,8 @@
 
   "_comment_modname_collective": "Collective",
   "collective.collective.gui.add": "追加",
+  "collective.collective.gui.amount": "数量",
+  "collective.collective.gui.biomes": "バイオーム",
   "collective.collective.gui.blocks": "ブロック",
   "collective.collective.gui.configtitle": "%s の設定",
   "collective.collective.gui.dimensions": "ディメンション",
