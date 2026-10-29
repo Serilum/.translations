@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompas ukazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nelze přesměrovat kompas. Kolem nejsou žádní hráči, nebo jsou příliš blízko.",
   "item.playertrackingcompass.tracking_compass": "Sledovací kompas",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompas ukazuje na nejbližšího hráče.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompas je teď vázaný na tebe. Ať ho použije kdokoli, kompas bude ukazovat na tebe.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompas už není vázaný na žádného hráče a znovu sleduje nejbližšího hráče.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nelze přesměrovat kompas. Hráče %s teď nelze sledovat.",
+  "collective.playertrackingcompass.gui.tracks": "Sleduje hráče %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Rytíř duch",

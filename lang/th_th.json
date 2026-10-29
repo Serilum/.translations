@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "เข็มทิศกำลังชี้ไปที่ %s",
   "collective.playertrackingcompass.message.unableredirectcompass": "ไม่สามารถเปลี่ยนทิศเข็มทิศได้ ไม่มีผู้เล่นอยู่รอบ ๆ หรือพวกเขาอยู่ใกล้เกินไป",
   "item.playertrackingcompass.tracking_compass": "เข็มทิศติดตาม",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "เข็มทิศกำลังชี้ไปที่ผู้เล่นที่ใกล้ที่สุด",
+  "collective.playertrackingcompass.message.compassboundtoyou": "ตอนนี้เข็มทิศผูกกับคุณแล้ว ไม่ว่าใครจะใช้ เข็มทิศก็จะชี้มาที่คุณ",
+  "collective.playertrackingcompass.message.compassunbound": "เข็มทิศไม่ได้ผูกกับผู้เล่นคนใดแล้ว และกลับมาติดตามผู้เล่นที่ใกล้ที่สุดอีกครั้ง",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "ไม่สามารถเปลี่ยนทิศเข็มทิศได้ ขณะนี้ไม่สามารถติดตาม %s ได้",
+  "collective.playertrackingcompass.gui.tracks": "ติดตาม %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "อัศวินปีศาจ",

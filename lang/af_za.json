@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Die Kompas wys na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kan nie die Kompas herlei nie. Daar is geen spelers rondom nie of hulle is te naby.",
   "item.playertrackingcompass.tracking_compass": "Opsporingskompas",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Die Kompas wys na die naaste speler.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Die Kompas is nou aan jou gebind. Dit sal na jou wys vir enigiemand wat dit gebruik.",
+  "collective.playertrackingcompass.message.compassunbound": "Die Kompas is nie meer aan 'n speler gebind nie, en spoor weer die naaste speler op.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Kan nie die Kompas herlei nie. %s kan nie op die oomblik opgespoor word nie.",
+  "collective.playertrackingcompass.gui.tracks": "Spoor %s op",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "The Ghost Knight",

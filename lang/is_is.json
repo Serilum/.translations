@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Áttavitinn bendir á %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Get ekki beint áttavitanum. Það eru engir spilarar í kring eða þeir eru of nálægt.",
   "item.playertrackingcompass.tracking_compass": "Rakningaráttaviti",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Áttavitinn bendir á næsta spilara.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Áttavitinn er nú bundinn þér. Sama hver notar hann, þá bendir áttavitinn á þig.",
+  "collective.playertrackingcompass.message.compassunbound": "Áttavitinn er ekki lengur bundinn neinum spilara og fylgist aftur með næsta spilara.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Get ekki beint áttavitanum. Ekki er hægt að fylgjast með %s eins og er.",
+  "collective.playertrackingcompass.gui.tracks": "Fylgist með %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Draugariddarinn",

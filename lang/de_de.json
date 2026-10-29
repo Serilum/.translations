@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Der Kompass zeigt auf %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Der Kompass konnte nicht umgelenkt werden. Es sind keine Spieler in der Nähe oder sie sind zu nah.",
   "item.playertrackingcompass.tracking_compass": "Tracking-Kompass",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Der Kompass zeigt auf den nächsten Spieler.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Der Kompass ist jetzt an dich gebunden. Bei jedem, der ihn benutzt, zeigt er auf dich.",
+  "collective.playertrackingcompass.message.compassunbound": "Der Kompass ist nicht mehr an einen Spieler gebunden und verfolgt wieder den nächsten Spieler.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Der Kompass konnte nicht umgelenkt werden. %s kann gerade nicht verfolgt werden.",
+  "collective.playertrackingcompass.gui.tracks": "Verfolgt %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Der Geisterritter",

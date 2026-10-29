@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "La brúixola apunta cap a %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "No s'ha pogut redirigir la brúixola. No hi ha jugadors a prop o estan massa a prop.",
   "item.playertrackingcompass.tracking_compass": "Brúixola de rastreig",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "La brúixola apunta cap al jugador més proper.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "La brúixola ara està vinculada a tu. Apuntarà cap a tu per a qualsevol que la faci servir.",
+  "collective.playertrackingcompass.message.compassunbound": "La brúixola ja no està vinculada a cap jugador i torna a rastrejar el jugador més proper.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "No s'ha pogut redirigir la brúixola. Ara mateix no es pot rastrejar %s.",
+  "collective.playertrackingcompass.gui.tracks": "Rastreja %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "El Cavaller Fantasma",

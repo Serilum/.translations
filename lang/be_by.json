@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Компас паказвае на %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Не ўдалося перанакіраваць компас. Вакол няма гульцоў, або яны занадта блізка.",
   "item.playertrackingcompass.tracking_compass": "Компас адсочвання",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Компас паказвае на найбліжэйшага гульца.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Компас цяпер прывязаны да вас. Хто б ім ні карыстаўся, компас будзе паказваць на вас.",
+  "collective.playertrackingcompass.message.compassunbound": "Компас больш не прывязаны да гульца і зноў адсочвае найбліжэйшага гульца.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Не ўдалося перанакіраваць компас. Зараз немагчыма адсачыць %s.",
+  "collective.playertrackingcompass.gui.tracks": "Адсочвае %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Прывідны рыцар",

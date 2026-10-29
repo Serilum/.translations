@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompasas rodo į %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nepavyko nukreipti kompaso. Aplink nėra žaidėjų arba jie per arti.",
   "item.playertrackingcompass.tracking_compass": "Sekimo kompasas",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompasas rodo į artimiausią žaidėją.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompasas dabar susietas su tavimi. Kad ir kas jį naudotų, kompasas rodys į tave.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompasas nebėra susietas su žaidėju ir vėl seka artimiausią žaidėją.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nepavyko nukreipti kompaso. Žaidėjo %s dabar neįmanoma sekti.",
+  "collective.playertrackingcompass.gui.tracks": "Seka žaidėją %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Vaiduoklis riteris",

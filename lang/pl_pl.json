@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompas wskazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nie można przekierować kompasu. W pobliżu nie ma graczy albo są zbyt blisko.",
   "item.playertrackingcompass.tracking_compass": "Kompas śledzący",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompas wskazuje na najbliższego gracza.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompas jest teraz powiązany z tobą. Niezależnie od tego, kto go użyje, kompas będzie wskazywał na ciebie.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompas nie jest już powiązany z żadnym graczem i znów śledzi najbliższego gracza.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nie można przekierować kompasu. Gracza %s nie można teraz śledzić.",
+  "collective.playertrackingcompass.gui.tracks": "Śledzi gracza %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Rycerz Widmo",

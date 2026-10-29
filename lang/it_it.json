@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "La bussola punta verso %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Impossibile reindirizzare la bussola. Non ci sono giocatori nei dintorni o sono troppo vicini.",
   "item.playertrackingcompass.tracking_compass": "Bussola di tracciamento",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "La bussola punta verso il giocatore più vicino.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "La bussola ora è legata a te. Punterà verso di te per chiunque la usi.",
+  "collective.playertrackingcompass.message.compassunbound": "La bussola non è più legata a un giocatore e torna a tracciare il giocatore più vicino.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Impossibile reindirizzare la bussola. Al momento non è possibile tracciare %s.",
+  "collective.playertrackingcompass.gui.tracks": "Traccia %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Il Cavaliere Fantasma",

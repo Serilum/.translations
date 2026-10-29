@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "La bàn đang chỉ về phía %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Không thể chuyển hướng la bàn. Không có người chơi nào quanh đây hoặc họ ở quá gần.",
   "item.playertrackingcompass.tracking_compass": "La bàn truy vết",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "La bàn đang chỉ về phía người chơi gần nhất.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "La bàn giờ đã được liên kết với bạn. Dù ai sử dụng, la bàn cũng sẽ chỉ về phía bạn.",
+  "collective.playertrackingcompass.message.compassunbound": "La bàn không còn liên kết với người chơi nào và lại truy vết người chơi gần nhất.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Không thể chuyển hướng la bàn. Hiện không thể truy vết %s.",
+  "collective.playertrackingcompass.gui.tracks": "Đang truy vết %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Hiệp sĩ Ma",

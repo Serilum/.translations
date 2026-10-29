@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Het kompas wijst naar %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kan het kompas niet omleiden. Er zijn geen spelers in de buurt of ze zijn te dichtbij.",
   "item.playertrackingcompass.tracking_compass": "Trackingkompas",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Het kompas wijst naar de dichtstbijzijnde speler.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Het kompas is nu aan jou gebonden. Wie het ook gebruikt, het wijst naar jou.",
+  "collective.playertrackingcompass.message.compassunbound": "Het kompas is niet langer aan een speler gebonden en volgt weer de dichtstbijzijnde speler.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Kan het kompas niet omleiden. %s kan op dit moment niet gevolgd worden.",
+  "collective.playertrackingcompass.gui.tracks": "Volgt %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "De Spookridder",

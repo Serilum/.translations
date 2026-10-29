@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Mae'r cwmpawd yn pwyntio at %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Methu ailgyfeirio'r cwmpawd. Nid oes chwaraewyr o gwmpas, neu maent yn rhy agos.",
   "item.playertrackingcompass.tracking_compass": "Cwmpawd Tracio",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Mae'r cwmpawd yn pwyntio at y chwaraewr agosaf.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Mae'r cwmpawd bellach wedi'i rwymo i chi. Pwy bynnag sy'n ei ddefnyddio, bydd y cwmpawd yn pwyntio atoch chi.",
+  "collective.playertrackingcompass.message.compassunbound": "Nid yw'r cwmpawd wedi'i rwymo i chwaraewr mwyach, ac mae'n tracio'r chwaraewr agosaf eto.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Methu ailgyfeirio'r cwmpawd. Ni ellir tracio %s ar hyn o bryd.",
+  "collective.playertrackingcompass.gui.tracks": "Yn tracio %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Y Marchog Ysbryd",

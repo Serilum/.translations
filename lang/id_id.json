@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompas menunjuk ke %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Tidak dapat mengalihkan kompas. Tidak ada pemain di sekitar atau mereka terlalu dekat.",
   "item.playertrackingcompass.tracking_compass": "Kompas Pelacak",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompas menunjuk ke pemain terdekat.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompas sekarang terikat padamu. Siapa pun yang menggunakannya akan diarahkan kepadamu.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompas tidak lagi terikat pada pemain dan kembali melacak pemain terdekat.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Tidak dapat mengalihkan kompas. %s tidak dapat dilacak saat ini.",
+  "collective.playertrackingcompass.gui.tracks": "Melacak %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Ksatria Hantu",

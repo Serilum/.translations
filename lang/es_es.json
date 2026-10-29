@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "La brújula está apuntando a %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "No se puede redirigir la brújula. No hay jugadores cerca o están demasiado cerca.",
   "item.playertrackingcompass.tracking_compass": "Brújula de rastreo",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "La brújula está apuntando al jugador más cercano.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "La brújula ahora está vinculada a ti. Apuntará hacia ti para cualquiera que la use.",
+  "collective.playertrackingcompass.message.compassunbound": "La brújula ya no está vinculada a ningún jugador y vuelve a rastrear al jugador más cercano.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "No se puede redirigir la brújula. Ahora mismo no se puede rastrear a %s.",
+  "collective.playertrackingcompass.gui.tracks": "Rastrea a %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "El Caballero Fantasma",

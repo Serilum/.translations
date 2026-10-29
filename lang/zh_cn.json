@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "指南针正指向 %s。",
   "collective.playertrackingcompass.message.unableredirectcompass": "无法重新定向指南针。周围没有玩家，或者他们距离太近。",
   "item.playertrackingcompass.tracking_compass": "追踪指南针",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "指南针正指向距离最近的玩家。",
+  "collective.playertrackingcompass.message.compassboundtoyou": "指南针现已与你绑定。无论谁使用它，它都会指向你。",
+  "collective.playertrackingcompass.message.compassunbound": "指南针已不再与任何玩家绑定，并重新开始追踪距离最近的玩家。",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "无法重新定向指南针。暂时无法追踪 %s。",
+  "collective.playertrackingcompass.gui.tracks": "追踪 %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "幽灵骑士",

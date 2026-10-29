@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Կողմնացույցը ցույց է տալիս %s-ին.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Հնարավոր չէ վերաուղղորդել կողմնացույցը. Շուրջը խաղացողներ չկան, կամ նրանք չափազանց մոտ են.",
   "item.playertrackingcompass.tracking_compass": "Հետևման կողմնացույց",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Կողմնացույցը ցույց է տալիս ամենամոտ խաղացողին.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Կողմնացույցն այժմ կապված է ձեզ հետ. Ով էլ այն օգտագործի, այն ցույց կտա դեպի ձեզ.",
+  "collective.playertrackingcompass.message.compassunbound": "Կողմնացույցն այլևս կապված չէ որևէ խաղացողի հետ և կրկին հետևում է ամենամոտ խաղացողին.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Հնարավոր չէ վերաուղղորդել կողմնացույցը. Այս պահին հնարավոր չէ հետևել %s-ին.",
+  "collective.playertrackingcompass.gui.tracks": "Հետևում է %s-ին",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Ուրվական ասպետը",

@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "La boussole pointe vers %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Impossible de rediriger la boussole. Il n'y a aucun joueur aux alentours ou ils sont trop proches.",
   "item.playertrackingcompass.tracking_compass": "Boussole de traçage",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "La boussole pointe vers le joueur le plus proche.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "La boussole est désormais liée à vous. Peu importe qui l'utilise, elle pointera vers vous.",
+  "collective.playertrackingcompass.message.compassunbound": "La boussole n'est plus liée à un joueur et traque de nouveau le joueur le plus proche.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Impossible de rediriger la boussole. Le joueur %s ne peut pas être traqué pour le moment.",
+  "collective.playertrackingcompass.gui.tracks": "Traque %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Le Chevalier fantôme",

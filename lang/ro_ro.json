@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Busola arată spre %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nu se poate redirecționa busola. Nu sunt jucători în preajmă sau sunt prea aproape.",
   "item.playertrackingcompass.tracking_compass": "Busolă de urmărire",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Busola arată spre cel mai apropiat jucător.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Busola este acum legată de tine. Indiferent cine o folosește, busola va arăta spre tine.",
+  "collective.playertrackingcompass.message.compassunbound": "Busola nu mai este legată de un jucător și îl urmărește din nou pe cel mai apropiat jucător.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nu se poate redirecționa busola. Momentan, jucătorul %s nu poate fi urmărit.",
+  "collective.playertrackingcompass.gui.tracks": "Urmărește: %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Cavalerul Fantomă",

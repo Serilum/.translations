@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompass osutab mängijale %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kompassi ei saa ümber suunata. Läheduses pole mängijaid või nad on liiga lähedal.",
   "item.playertrackingcompass.tracking_compass": "Jälituskompass",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompass osutab lähimale mängijale.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompass on nüüd sinuga seotud. Ükskõik, kes seda kasutab, osutab kompass sulle.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompass ei ole enam ühegi mängijaga seotud ja jälitab taas lähimat mängijat.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Kompassi ei saa ümber suunata. Mängijat %s ei saa praegu jälitada.",
+  "collective.playertrackingcompass.gui.tracks": "Jälitab mängijat %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Kummitusrüütel",

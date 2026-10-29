@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Компасът сочи към %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Компасът не може да бъде пренасочен. Няма играчи наоколо или те са твърде близо.",
   "item.playertrackingcompass.tracking_compass": "Проследяващ компас",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Компасът сочи към най-близкия играч.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Компасът вече е обвързан с теб. Който и да го използва, ще бъде насочен към теб.",
+  "collective.playertrackingcompass.message.compassunbound": "Компасът вече не е обвързан с играч и отново проследява най-близкия играч.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Компасът не може да бъде пренасочен. %s не може да се проследи в момента.",
+  "collective.playertrackingcompass.gui.tracks": "Проследява %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Призрачният рицар",

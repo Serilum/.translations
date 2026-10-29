@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompassi osoittaa kohti pelaajaa %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Kompassia ei voi uudelleenohjata. Lähellä ei ole pelaajia tai he ovat liian lähellä.",
   "item.playertrackingcompass.tracking_compass": "Jäljityskompassi",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompassi osoittaa kohti lähintä pelaajaa.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompassi on nyt sidottu sinuun. Kuka tahansa sitä käyttääkin, kompassi osoittaa sinua kohti.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompassi ei ole enää sidottu pelaajaan, ja se jäljittää taas lähintä pelaajaa.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Kompassia ei voi uudelleenohjata. Pelaajaa %s ei voi jäljittää juuri nyt.",
+  "collective.playertrackingcompass.gui.tracks": "Jäljittää pelaajaa %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Aaveritari",

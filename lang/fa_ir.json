@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "قطب نما به سمت %s اشاره می‌کند.",
   "collective.playertrackingcompass.message.unableredirectcompass": "تغییر جهت قطب نما ممکن نیست. هیچ بازیکنی در اطراف نیست یا خیلی نزدیک هستند.",
   "item.playertrackingcompass.tracking_compass": "قطب نمای ردیاب",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "قطب نما به سمت نزدیک‌ترین بازیکن اشاره می‌کند.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "قطب نما اکنون به شما پیوند خورده است. برای هر کسی که از آن استفاده کند، به سمت شما اشاره خواهد کرد.",
+  "collective.playertrackingcompass.message.compassunbound": "قطب نما دیگر به هیچ بازیکنی پیوند نخورده است و دوباره نزدیک‌ترین بازیکن را ردیابی می‌کند.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "تغییر جهت قطب نما ممکن نیست. در حال حاضر نمی‌توان %s را ردیابی کرد.",
+  "collective.playertrackingcompass.gui.tracks": "ردیابی %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "شوالیه شبح",

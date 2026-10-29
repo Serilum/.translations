@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Η πυξίδα δείχνει προς τον %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Αδύνατη η αναπροσανατολισμός της πυξίδας. Δεν υπάρχουν παίκτες γύρω ή είναι πολύ κοντά.",
   "item.playertrackingcompass.tracking_compass": "Πυξίδα Ανίχνευσης",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Η πυξίδα δείχνει προς τον πλησιέστερο παίκτη.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Η πυξίδα είναι πλέον συνδεδεμένη με εσένα. Όποιος κι αν τη χρησιμοποιεί, η πυξίδα θα δείχνει προς εσένα.",
+  "collective.playertrackingcompass.message.compassunbound": "Η πυξίδα δεν είναι πλέον συνδεδεμένη με κανέναν παίκτη και εντοπίζει ξανά τον πλησιέστερο παίκτη.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Αδύνατος ο αναπροσανατολισμός της πυξίδας. Ο παίκτης %s δεν μπορεί να εντοπιστεί αυτή τη στιγμή.",
+  "collective.playertrackingcompass.gui.tracks": "Εντοπίζει τον παίκτη %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Ο Ιππότης Φάντασμα",

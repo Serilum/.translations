@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Iparrorratza %s(r)engana seinalatzen ari da.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Ezin da iparrorratza birbideratu. Ez dago jokalaririk inguruan edo hurbilegi daude.",
   "item.playertrackingcompass.tracking_compass": "Jarraipen-iparrorratza",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Iparrorratza jokalari hurbilenarengana seinalatzen ari da.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Iparrorratza orain zuri lotuta dago. Nork erabiltzen duen gorabehera, iparrorratzak zugana seinalatuko du.",
+  "collective.playertrackingcompass.message.compassunbound": "Iparrorratza ez dago jada inongo jokalariri lotuta, eta berriro jokalari hurbilenari jarraitzen dio.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Ezin da iparrorratza birbideratu. Une honetan ezin zaio %s jokalariari jarraitu.",
+  "collective.playertrackingcompass.gui.tracks": "%s jokalariari jarraitzen dio",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Mamu-zalduna",

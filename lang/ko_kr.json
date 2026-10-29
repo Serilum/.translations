@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "나침반이 %s을(를) 가리키고 있습니다.",
   "collective.playertrackingcompass.message.unableredirectcompass": "나침반의 방향을 바꿀 수 없습니다. 주변에 플레이어가 없거나 너무 가까이 있습니다.",
   "item.playertrackingcompass.tracking_compass": "추적 나침반",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "나침반이 가장 가까운 플레이어를 가리키고 있습니다.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "이제 나침반이 당신에게 연결되었습니다. 누가 사용하든 당신을 가리킵니다.",
+  "collective.playertrackingcompass.message.compassunbound": "나침반이 더 이상 플레이어에게 연결되어 있지 않으며, 다시 가장 가까운 플레이어를 추적합니다.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "나침반의 방향을 바꿀 수 없습니다. 지금은 %s을(를) 추적할 수 없습니다.",
+  "collective.playertrackingcompass.gui.tracks": "%s 추적 중",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "유령 기사",

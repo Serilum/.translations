@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Тұсбағар %s ойыншысын көрсетіп тұр.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Тұсбағарды бағыттау мүмкін емес. Айналада ойыншылар жоқ немесе олар тым жақын.",
   "item.playertrackingcompass.tracking_compass": "Бақылау тұсбағары",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Тұсбағар ең жақын ойыншыны көрсетіп тұр.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Тұсбағар енді сізге байланыстырылды. Оны кім қолданса да, тұсбағар сізді көрсетеді.",
+  "collective.playertrackingcompass.message.compassunbound": "Тұсбағар енді ешбір ойыншыға байланысты емес және қайтадан ең жақын ойыншыны бақылайды.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Тұсбағарды бағыттау мүмкін емес. Қазір %s ойыншысын бақылау мүмкін емес.",
+  "collective.playertrackingcompass.gui.tracks": "%s ойыншысын бақылайды",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Елес Серісі",

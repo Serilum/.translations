@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompas pokazuje na %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nije moguće preusmjeriti kompas. Nema igrača u blizini ili su preblizu.",
   "item.playertrackingcompass.tracking_compass": "Kompas za praćenje",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompas pokazuje na najbližeg igrača.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompas je sada vezan uz tebe. Tko god ga koristi, bit će usmjeren prema tebi.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompas više nije vezan uz igrača i ponovno prati najbližeg igrača.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nije moguće preusmjeriti kompas. Igrača %s trenutačno nije moguće pratiti.",
+  "collective.playertrackingcompass.gui.tracks": "Prati igrača %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Duh vitez",

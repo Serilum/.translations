@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "コンパスは %s を指しています。",
   "collective.playertrackingcompass.message.unableredirectcompass": "コンパスの向きを変えられません。周辺にプレイヤーがいないか、近すぎます。",
   "item.playertrackingcompass.tracking_compass": "追跡コンパス",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "コンパスは最も近いプレイヤーを指しています。",
+  "collective.playertrackingcompass.message.compassboundtoyou": "コンパスがあなたに紐付けられました。誰が使っても、あなたを指します。",
+  "collective.playertrackingcompass.message.compassunbound": "コンパスとプレイヤーの紐付けが解除され、再び最も近いプレイヤーを追跡します。",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "コンパスの向きを変えられません。現在 %s を追跡できません。",
+  "collective.playertrackingcompass.gui.tracks": "%s を追跡中",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "ゴーストナイト",

@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Az iránytű erre mutat: %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Az iránytű nem irányítható át. Nincsenek játékosok a környéken, vagy túl közel vannak.",
   "item.playertrackingcompass.tracking_compass": "Követő iránytű",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Az iránytű a legközelebbi játékosra mutat.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Az iránytű mostantól hozzád van kötve. Bárki is használja, az iránytű rád fog mutatni.",
+  "collective.playertrackingcompass.message.compassunbound": "Az iránytű már nincs játékoshoz kötve, és ismét a legközelebbi játékost követi.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Az iránytű nem irányítható át. %s jelenleg nem követhető.",
+  "collective.playertrackingcompass.gui.tracks": "Követi: %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "A Szellemlovag",

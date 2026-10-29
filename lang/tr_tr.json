@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Pusula %s oyuncusunu gösteriyor.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Pusula yönlendirilemiyor. Çevrede oyuncu yok ya da çok yakınlar.",
   "item.playertrackingcompass.tracking_compass": "Takip Pusulası",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Pusula en yakın oyuncuyu gösteriyor.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Pusula artık sana bağlandı. Onu kim kullanırsa kullansın, pusula seni gösterecek.",
+  "collective.playertrackingcompass.message.compassunbound": "Pusula artık bir oyuncuya bağlı değil ve yeniden en yakın oyuncuyu takip ediyor.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Pusula yönlendirilemiyor. %s oyuncusu şu anda takip edilemiyor.",
+  "collective.playertrackingcompass.gui.tracks": "%s oyuncusunu takip ediyor",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Hayalet Şövalye",

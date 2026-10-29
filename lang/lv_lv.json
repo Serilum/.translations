@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompass rāda uz %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Nevar pārvirzīt kompasu. Apkārt nav spēlētāju vai arī viņi ir pārāk tuvu.",
   "item.playertrackingcompass.tracking_compass": "Izsekošanas kompass",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompass rāda uz tuvāko spēlētāju.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompass tagad ir piesaistīts tev. Lai kurš to izmantotu, kompass rādīs uz tevi.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompass vairs nav piesaistīts spēlētājam un atkal izseko tuvāko spēlētāju.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Nevar pārvirzīt kompasu. Spēlētāju %s pašlaik nevar izsekot.",
+  "collective.playertrackingcompass.gui.tracks": "Izseko spēlētāju %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Spoku bruņinieks",

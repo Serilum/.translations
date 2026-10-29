@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "Kompassen pekar mot %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Det går inte att rikta om kompassen. Det finns inga spelare i närheten eller så är de för nära.",
   "item.playertrackingcompass.tracking_compass": "Spårningskompass",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "Kompassen pekar mot den närmaste spelaren.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "Kompassen är nu bunden till dig. Oavsett vem som använder den kommer den att peka mot dig.",
+  "collective.playertrackingcompass.message.compassunbound": "Kompassen är inte längre bunden till en spelare och spårar återigen den närmaste spelaren.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Det går inte att rikta om kompassen. %s kan inte spåras just nu.",
+  "collective.playertrackingcompass.gui.tracks": "Spårar %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "Spökriddaren",

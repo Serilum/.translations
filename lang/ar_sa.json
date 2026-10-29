@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "البوصلة تشير إلى %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "تعذّر إعادة توجيه البوصلة. لا يوجد لاعبون حولك أو أنهم قريبون جدًا.",
   "item.playertrackingcompass.tracking_compass": "بوصلة التتبع",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "البوصلة تشير إلى أقرب لاعب.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "البوصلة مرتبطة بك الآن. ستوجّه كل من يستخدمها نحوك.",
+  "collective.playertrackingcompass.message.compassunbound": "لم تعد البوصلة مرتبطة بأي لاعب، وعادت إلى تتبّع أقرب لاعب.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "تعذّر إعادة توجيه البوصلة. لا يمكن تتبّع %s حاليًا.",
+  "collective.playertrackingcompass.gui.tracks": "تتبّع %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "الفارس الشبح",

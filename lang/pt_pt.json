@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "A bússola está a apontar para %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "Não foi possível redirecionar a bússola. Não há jogadores por perto ou estão demasiado perto.",
   "item.playertrackingcompass.tracking_compass": "Bússola de Localização",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "A bússola está a apontar para o jogador mais próximo.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "A bússola está agora associada a ti. Seja quem for que a use, ela vai apontar para ti.",
+  "collective.playertrackingcompass.message.compassunbound": "A bússola já não está associada a um jogador e volta a localizar o jogador mais próximo.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "Não foi possível redirecionar a bússola. Não é possível localizar %s neste momento.",
+  "collective.playertrackingcompass.gui.tracks": "Localiza %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "O Cavaleiro Fantasma",

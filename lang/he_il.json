@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "המצפן מצביע על %s.",
   "collective.playertrackingcompass.message.unableredirectcompass": "לא ניתן להפנות מחדש את המצפן. אין שחקנים בסביבה או שהם קרובים מדי.",
   "item.playertrackingcompass.tracking_compass": "מצפן מעקב",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "המצפן מצביע על השחקן הקרוב ביותר.",
+  "collective.playertrackingcompass.message.compassboundtoyou": "המצפן מקושר אליך כעת. כל מי שישתמש בו יופנה אליך.",
+  "collective.playertrackingcompass.message.compassunbound": "המצפן אינו מקושר עוד לאף שחקן, והוא עוקב שוב אחר השחקן הקרוב ביותר.",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "לא ניתן להפנות מחדש את המצפן. לא ניתן לעקוב אחר %s כרגע.",
+  "collective.playertrackingcompass.gui.tracks": "עוקב אחר %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "אביר הרפאים",

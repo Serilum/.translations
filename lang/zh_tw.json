@@ -377,6 +377,11 @@
   "collective.playertrackingcompass.message.compasspointing": "羅盤正指向 %s。",
   "collective.playertrackingcompass.message.unableredirectcompass": "無法重新導向羅盤。周圍沒有玩家，或他們離得太近。",
   "item.playertrackingcompass.tracking_compass": "追蹤羅盤",
+  "collective.playertrackingcompass.message.compasspointingnearestplayer": "羅盤正指向最接近的玩家。",
+  "collective.playertrackingcompass.message.compassboundtoyou": "羅盤現已與你綁定。無論誰使用它，它都會指向你。",
+  "collective.playertrackingcompass.message.compassunbound": "羅盤已不再與任何玩家綁定，並重新開始追蹤最接近的玩家。",
+  "collective.playertrackingcompass.message.unabletrackboundplayer": "無法重新導向羅盤。目前無法追蹤 %s。",
+  "collective.playertrackingcompass.gui.tracks": "追蹤 %s",
 
   "_comment_modname_pumpkillagersquest": "Pumpkillager's Quest",
   "collective.pumpkillagersquest.gui.ghostknight": "幽靈騎士",
