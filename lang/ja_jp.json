@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "これを使うには「構造物の生成」を有効にしてください。",
   "collective.shared.message.adminusage": "%s 管理者向けの使い方:",
   "collective.shared.message.commandsusage": "--- %s コマンドの使い方 ---",
   "collective.shared.message.confirmbutton": "[確認]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%sはこのワールドのバイオームでもバイオームタグでもありません。",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "スポーンバイオームの設定ファイルの編集中に問題が発生しました。",
   "collective.biomespawnpoint.message.nospawnfound": "スポーンバイオームがひとつも見つかりませんでした。ワールドのスポーン地点は変更されていません。",
+  "collective.biomespawnpoint.gui.spawnbiomes": "スポーンバイオーム",
+  "collective.biomespawnpoint.gui.spawninbiomes": "バイオームにスポーン",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "新しいプレイヤーは、重みに基づいて抽選されたこれらのバイオームのいずれかでスタートします。数字をクリックするとバイオームを選択できます。",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s日目",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "読み込まれている名前のない %s 人の村人に名前を付けました。",
   "collective.villagernames.message.namesloadedvillagers": "読み込まれている %s 人の村人の名前を削除しました。",
   "collective.villagernames.message.removesnamesloaded": "読み込まれているすべての村人の名前を削除します。",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "村にスポーン",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "ワールドのスポーン地点を最寄りの村へ移動します。",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "あなたはコスモスディメンションにいません。",

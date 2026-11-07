@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Kveiktu á „Hafa byggingar“ til að nota þennan valkost.",
   "collective.shared.message.adminusage": "Stjórnandanotkun %s:",
   "collective.shared.message.commandsusage": "--- Notkun skipana fyrir %s ---",
   "collective.shared.message.confirmbutton": "[Staðfesta]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s er hvorki vistkerfi né vistkerfatag í þessum heimi.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Eitthvað fór úrskeiðis við breytingu á stillingaskrá fyrir upphafsvistkerfi.",
   "collective.biomespawnpoint.message.nospawnfound": "Ekkert upphafsvistkerfanna fannst. Upphafspunkti heimsins var ekki breytt.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Upphafsvistkerfi",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Byrja í vistkerfum",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nýir spilarar byrja í einu þessara vistkerfa, sem dregið er út eftir vægi. Smelltu á töluna til að velja vistkerfin.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dagur %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s hlaðnir þorparar án nafns hafa verið nefndir.",
   "collective.villagernames.message.namesloadedvillagers": "Nöfn %s hlaðinna þorpara hafa verið fjarlægð.",
   "collective.villagernames.message.removesnamesloaded": "Fjarlægir nöfn allra hlaðinna þorpara.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Byrja í þorpi",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Færir upphafspunkt heimsins í næsta þorp.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Þú ert ekki í cosmos-víddinni.",

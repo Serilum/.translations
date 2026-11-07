@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Activez \"Structures\" pour utiliser cette option.",
   "collective.shared.message.adminusage": "Utilisation admin de %s :",
   "collective.shared.message.commandsusage": "--- Utilisation des commandes de %s ---",
   "collective.shared.message.confirmbutton": "[Confirmer]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s n'est ni un biome ni un tag de biome dans ce monde.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Une erreur est survenue lors de la modification du fichier de configuration des biomes d'apparition.",
   "collective.biomespawnpoint.message.nospawnfound": "Aucun des biomes d'apparition n'a été trouvé. Le point d'apparition du monde n'a pas été modifié.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomes d'apparition",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Apparition dans des biomes",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Les nouveaux joueurs apparaissent dans l'un de ces biomes, tiré au sort selon son poids. Cliquez sur le nombre pour choisir les biomes.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Jour %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s villageois chargés sans nom ont été nommés.",
   "collective.villagernames.message.namesloadedvillagers": "Les noms de %s villageois chargés ont été retirés.",
   "collective.villagernames.message.removesnamesloaded": "Retire les noms de tous les villageois chargés.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Apparition dans un village",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Déplace le point d'apparition du monde vers le village le plus proche.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Vous n'êtes pas dans la dimension du cosmos.",

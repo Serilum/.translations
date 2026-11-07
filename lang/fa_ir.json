@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "برای استفاده از این گزینه، «ايجاد سازه‌ها» را روشن کنید.",
   "collective.shared.message.adminusage": "نحوه استفاده مدیر %s:",
   "collective.shared.message.commandsusage": "--- نحوه استفاده از دستورات %s ---",
   "collective.shared.message.confirmbutton": "[تأیید]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s در این دنیا نه زیست‌بوم است و نه برچسب زیست‌بوم.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "هنگام ویرایش فایل پیکربندی زیست‌بوم‌های شروع مشکلی پیش آمد.",
   "collective.biomespawnpoint.message.nospawnfound": "هیچ‌یک از زیست‌بوم‌های شروع پیدا نشد. نقطه ظاهر شدن دنیا تغییر نکرد.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "زیست‌بوم‌های شروع",
+  "collective.biomespawnpoint.gui.spawninbiomes": "شروع در زیست‌بوم‌ها",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "بازیکنان جدید در یکی از این زیست‌بوم‌ها شروع می‌کنند که به‌صورت تصادفی بر اساس وزن انتخاب می‌شود. برای انتخاب زیست‌بوم‌ها روی عدد کلیک کنید.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "روز %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s روستایی بارگذاری‌شده بدون نام، نام‌گذاری شدند.",
   "collective.villagernames.message.namesloadedvillagers": "نام %s روستایی بارگذاری‌شده حذف شد.",
   "collective.villagernames.message.removesnamesloaded": "نام تمام روستاییان بارگذاری‌شده را حذف می‌کند.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "شروع در روستا",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "نقطه ظاهر شدن دنیا را به نزدیک‌ترین روستا منتقل می‌کند.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "شما در بُعد کیهان نیستید.",

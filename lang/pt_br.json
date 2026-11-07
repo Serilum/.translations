@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Ative \"Gerar estruturas\" para usar esta opção.",
   "collective.shared.message.adminusage": "Uso de Administrador de %s:",
   "collective.shared.message.commandsusage": "--- Uso dos Comandos de %s ---",
   "collective.shared.message.confirmbutton": "[Confirmar]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s não é um bioma nem uma marcação de bioma neste mundo.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Algo deu errado ao editar o arquivo de configuração dos biomas de nascimento.",
   "collective.biomespawnpoint.message.nospawnfound": "Nenhum dos biomas de nascimento foi encontrado. O ponto de nascimento do mundo não foi alterado.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomas de nascimento",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Nascer em biomas",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Novos jogadores nascem em um destes biomas, sorteado de acordo com o peso. Clique no número para escolher os biomas.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dia %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s aldeões carregados sem nome foram nomeados.",
   "collective.villagernames.message.namesloadedvillagers": "Os nomes de %s aldeões carregados foram removidos.",
   "collective.villagernames.message.removesnamesloaded": "Remove os nomes de todos os aldeões carregados.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Nascer em uma vila",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Move o ponto de nascimento do mundo para a vila mais próxima.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Você não está na dimensão do cosmos.",

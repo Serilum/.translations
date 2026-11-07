@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Schalte „Bauwerke generieren“ ein, um diese Option zu nutzen.",
   "collective.shared.message.adminusage": "%s Admin-Verwendung:",
   "collective.shared.message.commandsusage": "--- Befehle für %s ---",
   "collective.shared.message.confirmbutton": "[Bestätigen]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ist in dieser Welt weder ein Biom noch ein Biom-Etikett.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Beim Bearbeiten der Konfigurationsdatei für die Einstiegsbiome ist etwas schiefgelaufen.",
   "collective.biomespawnpoint.message.nospawnfound": "Keines der Einstiegsbiome konnte gefunden werden. Der Welteinstiegspunkt wurde nicht geändert.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Einstiegsbiome",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Einstieg in Biomen",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Neue Spieler beginnen in einem dieser Biome, das nach Gewicht ausgelost wird. Klicke auf die Zahl, um die Biome auszuwählen.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Tag %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s geladene Dorfbewohner ohne Namen wurden benannt.",
   "collective.villagernames.message.namesloadedvillagers": "Die Namen von %s geladenen Dorfbewohnern wurden entfernt.",
   "collective.villagernames.message.removesnamesloaded": "Entfernt die Namen aller geladenen Dorfbewohner.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Einstieg im Dorf",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Versetzt den Welteinstiegspunkt ins nächstgelegene Dorf.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Du befindest dich nicht in der Kosmos-Dimension.",

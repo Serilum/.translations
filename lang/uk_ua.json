@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Увімкніть «Генерувати структури», щоб використовувати цю функцію.",
   "collective.shared.message.adminusage": "Використання %s для адміністратора:",
   "collective.shared.message.commandsusage": "--- Використання команд %s ---",
   "collective.shared.message.confirmbutton": "[Підтвердити]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s не є ні біомом, ні теґом біомів у цьому світі.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Щось пішло не так під час редагування файлу конфігурації біомів відродження.",
   "collective.biomespawnpoint.message.nospawnfound": "Не вдалося знайти жодного з біомів відродження. Точку відродження світу не змінено.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Біоми відродження",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Відродження в біомах",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Нові гравці починають гру в одному з цих біомів, обраному випадково з урахуванням ваги. Натисніть на число, щоб вибрати біоми.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "День %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Названо завантажених селян без імені: %s.",
   "collective.villagernames.message.namesloadedvillagers": "Імена завантажених селян вилучено: %s.",
   "collective.villagernames.message.removesnamesloaded": "Вилучає імена всіх завантажених селян.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Відродження в селі",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Переміщує точку відродження світу до найближчого села.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Ви не у вимірі космосу.",

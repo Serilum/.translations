@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Bật \"Tạo cấu trúc\" để dùng tùy chọn này.",
   "collective.shared.message.adminusage": "Cách dùng %s cho quản trị viên:",
   "collective.shared.message.commandsusage": "--- Cách dùng lệnh của %s ---",
   "collective.shared.message.confirmbutton": "[Xác nhận]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s không phải là quần xã hay nhãn quần xã trong thế giới này.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Đã xảy ra lỗi khi chỉnh sửa tệp cấu hình quần xã hồi sinh.",
   "collective.biomespawnpoint.message.nospawnfound": "Không tìm thấy quần xã hồi sinh nào. Điểm hồi sinh thế giới không bị thay đổi.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Quần xã hồi sinh",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Hồi sinh trong quần xã",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Người chơi mới sẽ bắt đầu ở một trong các quần xã này, được chọn ngẫu nhiên theo trọng số. Nhấn vào con số để chọn các quần xã.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Ngày %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s Dân làng đã tải chưa có tên đã được đặt tên.",
   "collective.villagernames.message.namesloadedvillagers": "Tên của %s Dân làng đã tải đã được xóa.",
   "collective.villagernames.message.removesnamesloaded": "Xóa tên của tất cả Dân làng đã tải.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Hồi sinh trong làng",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Di chuyển điểm hồi sinh thế giới đến ngôi làng gần nhất.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Bạn không ở trong chiều không gian cosmos.",

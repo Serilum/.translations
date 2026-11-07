@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Kapcsold be a „Struktúrák generálása” opciót, hogy használhasd ezt a beállítást.",
   "collective.shared.message.adminusage": "%s admin használata:",
   "collective.shared.message.commandsusage": "--- %s parancsainak használata ---",
   "collective.shared.message.confirmbutton": "[Megerősítés]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s nem biom és nem is biomcímke ebben a világban.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Hiba történt a kezdőbiomok konfigurációs fájljának szerkesztése közben.",
   "collective.biomespawnpoint.message.nospawnfound": "Egyik kezdőbiom sem található. A globális kezdési pont nem változott.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Kezdőbiomok",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Kezdés biomokban",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Az új játékosok ezen biomok egyikében kezdenek, súly szerint kisorsolva. Kattints a számra a biomok kiválasztásához.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s. nap",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s névtelen betöltött falusi nevet kapott.",
   "collective.villagernames.message.namesloadedvillagers": "%s betöltött falusi neve el lett távolítva.",
   "collective.villagernames.message.removesnamesloaded": "Eltávolítja az összes betöltött falusi nevét.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Kezdés faluban",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Áthelyezi a globális kezdési pontot a legközelebbi faluba.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nem a kozmosz dimenzióban vagy.",

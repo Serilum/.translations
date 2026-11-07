@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Включите опцию «Генерация строений», чтобы использовать эту функцию.",
   "collective.shared.message.adminusage": "Использование %s (админ):",
   "collective.shared.message.commandsusage": "--- Использование команд %s ---",
   "collective.shared.message.confirmbutton": "[Подтвердить]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s не является биомом или тегом биомов в этом мире.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Что-то пошло не так при редактировании файла конфигурации биомов возрождения.",
   "collective.biomespawnpoint.message.nospawnfound": "Не удалось найти ни один из биомов возрождения. Точка возрождения мира не изменена.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Биомы возрождения",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Возрождение в биомах",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Новые игроки начинают игру в одном из этих биомов, который выпадает случайно с учётом веса. Нажмите на число, чтобы выбрать биомы.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "День %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Загруженным крестьянам без имени присвоены имена: %s.",
   "collective.villagernames.message.namesloadedvillagers": "Имена удалены у крестьян: %s.",
   "collective.villagernames.message.removesnamesloaded": "Удаляет имена у всех загруженных крестьян.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Возрождение в деревне",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Перемещает точку возрождения мира в ближайшую деревню.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Вы не в измерении космоса.",

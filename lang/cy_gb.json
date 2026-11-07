@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Trowch \"Generadu Strwythurau\" ymlaen i ddefnyddio'r opsiwn hwn.",
   "collective.shared.message.adminusage": "Defnydd Gweinyddol %s:",
   "collective.shared.message.commandsusage": "--- Defnydd Gorchmynion %s ---",
   "collective.shared.message.confirmbutton": "[Cadarnhau]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "Nid yw %s yn fïom nac yn dag bïom yn y byd hwn.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Aeth rhywbeth o'i le wrth olygu ffeil gyfluniad y bïomau silio.",
   "collective.biomespawnpoint.message.nospawnfound": "Methu dod o hyd i unrhyw un o'r bïomau silio. Ni newidiwyd man atgyfodi'r byd.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Bïomau Silio",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Silio mewn Bïomau",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Mae chwaraewyr newydd yn dechrau yn un o'r bïomau hyn, wedi'i ddewis ar hap yn ôl pwysau. Cliciwch ar y rhif i ddewis y bïomau.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Diwrnod %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Enwyd %s pentrefwr dienw sydd wedi'u llwytho.",
   "collective.villagernames.message.namesloadedvillagers": "Tynnwyd enwau %s pentrefwr sydd wedi'u llwytho.",
   "collective.villagernames.message.removesnamesloaded": "Tynnu enwau pob pentrefwr sydd wedi'u llwytho.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Silio mewn Pentref",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Symud man atgyfodi'r byd i'r pentref agosaf.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nid ydych yn nimensiwn y cosmos.",

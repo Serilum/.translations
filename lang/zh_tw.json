@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "開啟「生成結構」後才能使用此選項。",
   "collective.shared.message.adminusage": "%s 管理員用法：",
   "collective.shared.message.commandsusage": "--- %s 指令用法 ---",
   "collective.shared.message.confirmbutton": "[確定]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s 在此世界中既不是生態域也不是生態域標籤。",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "編輯重生點生態域設定檔時發生錯誤。",
   "collective.biomespawnpoint.message.nospawnfound": "找不到任何重生點生態域。世界重生點未變更。",
+  "collective.biomespawnpoint.gui.spawnbiomes": "重生點生態域",
+  "collective.biomespawnpoint.gui.spawninbiomes": "在生態域中重生",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "新玩家會從這些生態域中依權重抽出一個作為起點。點擊數字即可選擇生態域。",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "第 %s 天",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "已為 %s 位沒有名稱且已載入的村民命名。",
   "collective.villagernames.message.namesloadedvillagers": "已移除 %s 位已載入村民的名稱。",
   "collective.villagernames.message.removesnamesloaded": "移除所有已載入村民的名稱。",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "在村莊中重生",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "將世界重生點移動到最近的村莊。",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "你不在宇宙維度中。",

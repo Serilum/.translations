@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Bunu kullanmak için \"Yapıları Oluştur\" seçeneğini açın.",
   "collective.shared.message.adminusage": "%s Yönetici Kullanımı:",
   "collective.shared.message.commandsusage": "--- %s Komut Kullanımı ---",
   "collective.shared.message.confirmbutton": "[Onayla]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s bu dünyada bir biyom veya biyom etiketi değil.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Başlangıç biyomu yapılandırma dosyası düzenlenirken bir şeyler ters gitti.",
   "collective.biomespawnpoint.message.nospawnfound": "Başlangıç biyomlarından hiçbiri bulunamadı. Dünya başlangıç noktası değiştirilmedi.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Başlangıç Biyomları",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Biyomlarda Başlangıç",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Yeni oyuncular bu biyomlardan ağırlığa göre rastgele seçilen birinde başlar. Biyomları seçmek için sayıya tıklayın.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s. Gün",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Adı olmayan %s yüklü köylü adlandırıldı.",
   "collective.villagernames.message.namesloadedvillagers": "%s yüklü köylünün adı kaldırıldı.",
   "collective.villagernames.message.removesnamesloaded": "Yüklü tüm köylülerin adlarını kaldırır.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Köyde Başlangıç",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Dünya başlangıç noktasını en yakın köye taşır.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Kozmos boyutunda değilsin.",

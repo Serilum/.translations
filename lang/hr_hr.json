@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Za korištenje ove opcije uključi „Generiranje građevina“.",
   "collective.shared.message.adminusage": "Administratorsko korištenje za %s:",
   "collective.shared.message.commandsusage": "--- Korištenje naredbi za %s ---",
   "collective.shared.message.confirmbutton": "[Potvrdi]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s nije biom ni oznaka bioma u ovom svijetu.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Nešto je pošlo po zlu pri uređivanju konfiguracijske datoteke početnih bioma.",
   "collective.biomespawnpoint.message.nospawnfound": "Nije pronađen nijedan od početnih bioma. Točka stvaranja svijeta nije promijenjena.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Početni biomi",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Početak u biomima",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Novi igrači počinju u jednom od ovih bioma, nasumično odabranom prema težini. Klikni na broj za odabir bioma.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dan %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s učitanih seljana bez imena je imenovano.",
   "collective.villagernames.message.namesloadedvillagers": "Imena %s učitanih seljana su uklonjena.",
   "collective.villagernames.message.removesnamesloaded": "Uklanja imena svih učitanih seljana.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Početak u selu",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Premješta točku stvaranja svijeta u najbliže selo.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nisi u dimenziji kozmosa.",

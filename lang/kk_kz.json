@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Мұны пайдалану үшін «Құрылыс» параметрін қосыңыз.",
   "collective.shared.message.adminusage": "%s әкімші қолдануы:",
   "collective.shared.message.commandsusage": "--- %s пәрмендерін қолдану ---",
   "collective.shared.message.confirmbutton": "[Растау]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s бұл әлемде биом да, биом тегі де емес.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Тірілу биомдарының баптау файлын өңдеу кезінде бірдеңе дұрыс болмады.",
   "collective.biomespawnpoint.message.nospawnfound": "Тірілу биомдарының ешқайсысы табылмады. Әлемнің тірілу нүктесі өзгертілмеді.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Тірілу биомдары",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Биомдарда тірілу",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Жаңа ойыншылар ойынды осы биомдардың бірінде бастайды, ол салмақ бойынша кездейсоқ таңдалады. Биомдарды таңдау үшін санды басыңыз.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s күн",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Атауы жоқ %s жүктелген шаруаға атау берілді.",
   "collective.villagernames.message.namesloadedvillagers": "%s жүктелген шаруаның атаулары алып тасталды.",
   "collective.villagernames.message.removesnamesloaded": "Жүктелген барлық шаруаның атауларын алып тастайды.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Ауылда тірілу",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Әлемнің тірілу нүктесін ең жақын ауылға жылжытады.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Сіз ғарыш өлшемінде емессіз.",

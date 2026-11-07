@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Lülita „Ehitiste loomine“ sisse, et seda valikut kasutada.",
   "collective.shared.message.adminusage": "%s administraatori kasutus:",
   "collective.shared.message.commandsusage": "--- %s käskluste kasutus ---",
   "collective.shared.message.confirmbutton": "[Kinnita]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ei ole selles maailmas bioom ega bioomisilt.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Tekkebioomide seadistusfaili muutmisel läks midagi valesti.",
   "collective.biomespawnpoint.message.nospawnfound": "Ühtegi tekkebioomi ei leitud. Maailma tekkekohta ei muudetud.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Tekkebioomid",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Tekkimine bioomides",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Uued mängijad tekivad ühes neist bioomidest, mis loositakse kaalu järgi. Bioomide valimiseks klõpsa numbril.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Päev %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s nimetut laetud külaelanikku on nimetatud.",
   "collective.villagernames.message.namesloadedvillagers": "%s laetud külaelaniku nimed on eemaldatud.",
   "collective.villagernames.message.removesnamesloaded": "Eemaldab kõigi laetud külaelanike nimed.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Tekkimine külas",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Liigutab maailma tekkekoha lähimasse külla.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Sa ei ole kosmosedimensioonis.",

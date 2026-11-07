@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Ieslēdziet \"Ģenerēt struktūras\", lai izmantotu šo opciju.",
   "collective.shared.message.adminusage": "%s administratora lietošana:",
   "collective.shared.message.commandsusage": "--- %s komandu lietošana ---",
   "collective.shared.message.confirmbutton": "[Apstiprināt]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s šajā pasaulē nav ne bioms, ne biomu tags.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Rediģējot rašanās biomu konfigurācijas failu, kaut kas nogāja greizi.",
   "collective.biomespawnpoint.message.nospawnfound": "Neizdevās atrast nevienu no rašanās biomiem. Pasaules atdzimšanas vieta netika mainīta.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Rašanās biomas",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Rašanās biomās",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Jaunie spēlētāji sāk vienā no šīm biomām, kas tiek izlozēta pēc svara. Noklikšķiniet uz skaitļa, lai izvēlētos biomas.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Diena %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s ielādētie ciemata iedzīvotāji bez vārda ir nosaukti.",
   "collective.villagernames.message.namesloadedvillagers": "%s ielādēto ciemata iedzīvotāju vārdi ir noņemti.",
   "collective.villagernames.message.removesnamesloaded": "Noņem vārdus visiem ielādētajiem ciemata iedzīvotājiem.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Rašanās ciematā",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Pārvieto pasaules atdzimšanas vietu uz tuvāko ciematu.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Tu neatrodies kosmosa dimensijā.",

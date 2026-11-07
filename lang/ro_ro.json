@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Pornește „Generează structuri” pentru a folosi această opțiune.",
   "collective.shared.message.adminusage": "Utilizarea %s pentru administratori:",
   "collective.shared.message.commandsusage": "--- Utilizarea comenzilor %s ---",
   "collective.shared.message.confirmbutton": "[Confirmă]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s nu este nici biom, nici etichetă de biom în această lume.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Ceva nu a mers bine la editarea fișierului de configurare a biomurilor de început.",
   "collective.biomespawnpoint.message.nospawnfound": "Nu a fost găsit niciunul dintre biomurile de început. Punctul de reînviere al lumii nu a fost schimbat.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomuri de început",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Apariție în biomuri",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Jucătorii noi apar într-unul dintre aceste biomuri, ales aleatoriu în funcție de pondere. Apasă pe număr pentru a selecta biomurile.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Ziua %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s săteni încărcați fără nume au primit un nume.",
   "collective.villagernames.message.namesloadedvillagers": "Numele a %s săteni încărcați au fost eliminate.",
   "collective.villagernames.message.removesnamesloaded": "Elimină numele tuturor sătenilor încărcați.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Apariție într-un sat",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Mută punctul de reînviere al lumii în cel mai apropiat sat.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nu te afli în dimensiunea cosmosului.",

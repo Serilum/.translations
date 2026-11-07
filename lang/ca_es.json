@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Activa «Generar estructures» per a utilitzar aquesta opció.",
   "collective.shared.message.adminusage": "Ús d'administrador de %s:",
   "collective.shared.message.commandsusage": "--- Ús de les ordres de %s ---",
   "collective.shared.message.confirmbutton": "[Confirmar]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s no és un bioma ni una etiqueta de bioma en aquest món.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Hi ha hagut un problema en editar el fitxer de configuració dels biomes d'aparició.",
   "collective.biomespawnpoint.message.nospawnfound": "No s'ha trobat cap dels biomes d'aparició. El punt d'aparició del món no s'ha canviat.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomes d'aparició",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Aparèixer en biomes",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Els jugadors nous apareixen en un d'aquests biomes, triat a l'atzar segons el seu pes. Fes clic al número per a seleccionar els biomes.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dia %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "S'ha donat nom a %s vilatans carregats sense nom.",
   "collective.villagernames.message.namesloadedvillagers": "S'han tret els noms de %s vilatans carregats.",
   "collective.villagernames.message.removesnamesloaded": "Treu els noms de tots els vilatans carregats.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Aparèixer en un poble",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Mou el punt d'aparició del món al poble més proper.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "No ets a la dimensió del cosmos.",

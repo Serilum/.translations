@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Skakel \"Skep Strukture\" aan om hierdie opsie te gebruik.",
   "collective.shared.message.adminusage": "%s Administrateurgebruik:",
   "collective.shared.message.commandsusage": "--- %s Bevele-gebruik ---",
   "collective.shared.message.confirmbutton": "[Bevestig]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s is nie 'n bioom of bioom-etiket in hierdie wêreld nie.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Iets het verkeerd geloop terwyl die beginbioom-konfigurasielêer gewysig is.",
   "collective.biomespawnpoint.message.nospawnfound": "Kon nie enige van die beginbiome vind nie. Die wêreld se hervestigingspunt is nie verander nie.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Beginbiome",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Begin in Biome",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nuwe spelers begin in een van hierdie biome, wat ewekansig volgens gewig gekies word. Klik op die getal om die biome uit te kies.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dag %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s gelaaide Villagers sonder 'n naam is genoem.",
   "collective.villagernames.message.namesloadedvillagers": "Die name van %s gelaaide Villagers is verwyder.",
   "collective.villagernames.message.removesnamesloaded": "Verwyder die name van alle gelaaide Villagers.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Begin in 'n Dorp",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Skuif die wêreld se hervestigingspunt na die naaste dorp.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Jy is nie in die kosmos-dimensie nie.",

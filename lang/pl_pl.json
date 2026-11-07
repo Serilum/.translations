@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Włącz „Generuj struktury”, aby użyć tej opcji.",
   "collective.shared.message.adminusage": "Użycie administratorskie %s:",
   "collective.shared.message.commandsusage": "--- Użycie komend %s ---",
   "collective.shared.message.confirmbutton": "[Potwierdź]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s nie jest biomem ani tagiem biomów w tym świecie.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Coś poszło nie tak podczas edytowania pliku konfiguracyjnego biomów odradzania.",
   "collective.biomespawnpoint.message.nospawnfound": "Nie znaleziono żadnego z biomów odradzania. Punkt odradzania świata nie został zmieniony.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomy odradzania",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Odradzanie w biomach",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nowi gracze zaczynają w jednym z tych biomów, wylosowanym według wagi. Kliknij liczbę, aby wybrać biomy.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dzień %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Nadano nazwy %s wczytanym osadnikom bez nazwy.",
   "collective.villagernames.message.namesloadedvillagers": "Nazwy %s wczytanych osadników zostały usunięte.",
   "collective.villagernames.message.removesnamesloaded": "Usuwa nazwy wszystkich wczytanych osadników.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Odradzanie w wiosce",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Przenosi punkt odradzania świata do najbliższej wioski.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nie jesteś w wymiarze kosmosu.",

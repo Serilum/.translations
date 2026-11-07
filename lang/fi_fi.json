@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Ota \"Luo rakennelmia\" käyttöön, jotta voit käyttää tätä asetusta.",
   "collective.shared.message.adminusage": "%s-ylläpitäjäkäyttö:",
   "collective.shared.message.commandsusage": "--- %s-komentojen käyttö ---",
   "collective.shared.message.confirmbutton": "[Vahvista]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ei ole biomi eikä biomitunniste tässä maailmassa.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Jokin meni vikaan muokattaessa syntymisbiomien asetustiedostoa.",
   "collective.biomespawnpoint.message.nospawnfound": "Yhtäkään syntymisbiomia ei löytynyt. Maailman syntymispistettä ei muutettu.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Syntymisbiomit",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Syntyminen biomeihin",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Uudet pelaajat syntyvät yhteen näistä biomeista, joka arvotaan painon mukaan. Klikkaa lukua valitaksesi biomit.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Päivä %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s nimetöntä ladattua kyläläistä nimettiin.",
   "collective.villagernames.message.namesloadedvillagers": "%s ladatun kyläläisen nimet on poistettu.",
   "collective.villagernames.message.removesnamesloaded": "Poistaa kaikkien ladattujen kyläläisten nimet.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Syntyminen kylään",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Siirtää maailman syntymispisteen lähimpään kylään.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Et ole kosmos-ulottuvuudessa.",

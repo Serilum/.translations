@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Այս կարգավորումն օգտագործելու համար միացրեք «Առաջացնել Կառույցներ» տարբերակը.",
   "collective.shared.message.adminusage": "%s ադմինի օգտագործում.",
   "collective.shared.message.commandsusage": "--- %s հրամանների օգտագործում ---",
   "collective.shared.message.confirmbutton": "[Հաստատել]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s այս աշխարհում ո՛չ բիոմ է, ո՛չ էլ բիոմների պիտակ.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Ինչ-որ բան սխալ գնաց առաջացման բիոմների կարգավորման ֆայլը խմբագրելիս.",
   "collective.biomespawnpoint.message.nospawnfound": "Առաջացման բիոմներից ոչ մեկը չգտնվեց. Աշխարհի առաջացման կետը չփոխվեց.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Առաջացման Բիոմներ",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Առաջացում Բիոմներում",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Նոր խաղացողները սկսում են այս բիոմներից մեկում, որն ընտրվում է պատահականորեն՝ ըստ կշռի. Սեղմեք թվի վրա՝ բիոմներն ընտրելու համար.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Օր %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Անուն ստացավ %s անանուն բեռնված գյուղացի.",
   "collective.villagernames.message.namesloadedvillagers": "Հեռացվեցին %s բեռնված գյուղացու անունները.",
   "collective.villagernames.message.removesnamesloaded": "Հեռացնում է բոլոր բեռնված գյուղացիների անունները.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Առաջացում Գյուղում",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Տեղափոխում է աշխարհի առաջացման կետն ամենամոտ գյուղ.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Դուք տիեզերական չափման մեջ չեք.",

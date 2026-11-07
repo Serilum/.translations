@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Activa \"Generar estructuras\" para usar esta opción.",
   "collective.shared.message.adminusage": "Uso de administrador de %s:",
   "collective.shared.message.commandsusage": "--- Uso de comandos de %s ---",
   "collective.shared.message.confirmbutton": "[Confirmar]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s no es un bioma ni una etiqueta de bioma en este mundo.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Algo salió mal al editar el archivo de configuración de los biomas de aparición.",
   "collective.biomespawnpoint.message.nospawnfound": "No se encontró ninguno de los biomas de aparición. El punto de reaparición del mundo no cambió.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomas de aparición",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Aparecer en biomas",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Los jugadores nuevos aparecen en uno de estos biomas, elegido al azar según su peso. Haz clic en el número para seleccionar los biomas.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Día %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Se nombraron %s aldeanos cargados sin nombre.",
   "collective.villagernames.message.namesloadedvillagers": "Se quitaron los nombres de %s aldeanos cargados.",
   "collective.villagernames.message.removesnamesloaded": "Quita los nombres de todos los aldeanos cargados.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Aparecer en una aldea",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Mueve el punto de reaparición del mundo a la aldea más cercana.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "No estás en la dimensión del cosmos.",

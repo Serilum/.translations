@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Ενεργοποίησε την επιλογή «Δημιουργία Δομών» για να χρησιμοποιήσεις αυτή τη ρύθμιση.",
   "collective.shared.message.adminusage": "Χρήση %s για Διαχειριστές:",
   "collective.shared.message.commandsusage": "--- Χρήση Εντολών %s ---",
   "collective.shared.message.confirmbutton": "[Επιβεβαίωση]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "Το %s δεν είναι ούτε τοπίο ούτε ετικέτα τοπίων σε αυτόν τον κόσμο.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Κάτι πήγε στραβά κατά την επεξεργασία του αρχείου ρυθμίσεων τοπίων γέννησης.",
   "collective.biomespawnpoint.message.nospawnfound": "Δεν βρέθηκε κανένα από τα τοπία γέννησης. Το σημείο γέννησης του κόσμου δεν άλλαξε.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Τοπία Γέννησης",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Γέννηση σε Τοπία",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Οι νέοι παίκτες ξεκινούν σε ένα από αυτά τα τοπία, που επιλέγεται τυχαία βάσει βάρους. Κάνε κλικ στον αριθμό για να επιλέξεις τα τοπία.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Ημέρα %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s φορτωμένοι Χωρικοί χωρίς όνομα ονομάστηκαν.",
   "collective.villagernames.message.namesloadedvillagers": "Τα ονόματα %s φορτωμένων Χωρικών αφαιρέθηκαν.",
   "collective.villagernames.message.removesnamesloaded": "Αφαιρεί τα ονόματα όλων των φορτωμένων Χωρικών.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Γέννηση σε Χωριό",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Μετακινεί το σημείο γέννησης του κόσμου στο κοντινότερο χωριό.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Δεν βρίσκεσαι στη διάσταση του κόσμου.",

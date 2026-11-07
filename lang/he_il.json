@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "הדלק את \"יצירת מבנים\" כדי להשתמש באפשרות זו.",
   "collective.shared.message.adminusage": "שימוש מנהל ב%s:",
   "collective.shared.message.commandsusage": "--- שימוש בפקודות %s ---",
   "collective.shared.message.confirmbutton": "[אישור]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s אינו סביבה ואינו תג סביבות בעולם הזה.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "משהו השתבש בעת עריכת קובץ ההגדרות של סביבות ההתחלה.",
   "collective.biomespawnpoint.message.nospawnfound": "לא נמצאה אף אחת מסביבות ההתחלה. נקודת ההתחדשות של העולם לא שונתה.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "סביבות התחלה",
+  "collective.biomespawnpoint.gui.spawninbiomes": "התחלה באחת הסביבות",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "שחקנים חדשים מתחילים באחת מהסביבות האלה, שנבחרת באקראי לפי משקל. לחץ על המספר כדי לבחור את הסביבות.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "יום %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s כפריים טעונים ללא שם קיבלו שם.",
   "collective.villagernames.message.namesloadedvillagers": "השמות של %s כפריים טעונים הוסרו.",
   "collective.villagernames.message.removesnamesloaded": "מסיר את השמות של כל הכפריים הטעונים.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "התחלה בכפר",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "מעביר את נקודת ההתחדשות של העולם לכפר הקרוב ביותר.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "אינך נמצא במימד הקוסמוס.",

@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Уключыце опцыю «Генерацыя структур», каб выкарыстоўваць гэту функцыю.",
   "collective.shared.message.adminusage": "Выкарыстанне %s (адмін):",
   "collective.shared.message.commandsusage": "--- Выкарыстанне каманд %s ---",
   "collective.shared.message.confirmbutton": "[Пацвердзіць]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s не з'яўляецца ні біёмам, ні тэгам біёмаў у гэтым свеце.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Нешта пайшло не так пры рэдагаванні файла канфігурацыі біёмаў адраджэння.",
   "collective.biomespawnpoint.message.nospawnfound": "Не ўдалося знайсці ніводнага з біёмаў адраджэння. Пункт адраджэння свету не зменены.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Біёмы адраджэння",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Адраджэнне ў біёмах",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Новыя гульцы пачынаюць гульню ў адным з гэтых біёмаў, абраным выпадкова з улікам вагі. Пстрыкніце па ліку, каб выбраць біёмы.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Дзень %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Названа загружаных вяскоўцаў без імя: %s.",
   "collective.villagernames.message.namesloadedvillagers": "Выдалены імёны загружаных вяскоўцаў: %s.",
   "collective.villagernames.message.removesnamesloaded": "Выдаляе імёны ўсіх загружаных вяскоўцаў.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Адраджэнне ў вёсцы",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Перамяшчае пункт адраджэння свету ў найбліжэйшую вёску.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Вы не ў касмічным вымярэнні.",

@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Aukera hau erabiltzeko, gaitu \"Sortu egiturak\".",
   "collective.shared.message.adminusage": "%s administratzaile-erabilera:",
   "collective.shared.message.commandsusage": "--- %s komandoen erabilera ---",
   "collective.shared.message.confirmbutton": "[Konfirmatu]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ez da bioma bat ezta bioma-etiketa bat ere mundu honetan.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Zerbait gaizki joan da sorketa-biomen konfigurazio fitxategia editatzean.",
   "collective.biomespawnpoint.message.nospawnfound": "Ez da sorketa-biometako bat ere aurkitu. Munduko sorketa-puntua ez da aldatu.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Sorketa-biomak",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Sorketa biometan",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Jokalari berriak pisuaren arabera ausaz aukeratutako bioma hauetako batean hasten dira. Egin klik zenbakian biomak hautatzeko.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s. eguna",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "Izenik gabe kargatutako %s herritarri izena jarri zaie.",
   "collective.villagernames.message.namesloadedvillagers": "%s kargatutako herritarren izenak kendu dira.",
   "collective.villagernames.message.removesnamesloaded": "Kargatutako herritar guztien izenak kentzen ditu.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Sorketa herrixka batean",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Munduko sorketa-puntua herrixka hurbilenera eramaten du.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Ez zaude cosmos dimentsioan.",

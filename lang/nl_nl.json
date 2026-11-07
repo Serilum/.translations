@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Schakel 'Constructies' in om deze optie te gebruiken.",
   "collective.shared.message.adminusage": "%s Beheerdersgebruik:",
   "collective.shared.message.commandsusage": "--- %s Commando's Gebruik ---",
   "collective.shared.message.confirmbutton": "[Bevestigen]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s is geen klimaat of klimaattag in deze wereld.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Er ging iets mis bij het bewerken van het configbestand voor de spawnklimaten.",
   "collective.biomespawnpoint.message.nospawnfound": "Geen van de spawnklimaten kon worden gevonden. Het wereldspawnpunt is niet gewijzigd.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Spawnklimaten",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Spawnen in klimaten",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nieuwe spelers beginnen in een van deze klimaten, willekeurig gekozen op basis van gewicht. Klik op het getal om de klimaten te selecteren.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dag %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s geladen dorpelingen zonder naam hebben een naam gekregen.",
   "collective.villagernames.message.namesloadedvillagers": "De namen van %s geladen dorpelingen zijn verwijderd.",
   "collective.villagernames.message.removesnamesloaded": "Verwijdert de namen van alle geladen dorpelingen.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Spawnen in een dorp",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Verplaatst het wereldspawnpunt naar het dichtstbijzijnde dorp.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Je bent niet in de kosmosdimensie.",

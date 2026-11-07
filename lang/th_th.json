@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "เปิด \"กำเนิดโครงสร้าง\" เพื่อใช้ตัวเลือกนี้",
   "collective.shared.message.adminusage": "การใช้งานสำหรับแอดมินของ %s:",
   "collective.shared.message.commandsusage": "--- การใช้คำสั่ง %s ---",
   "collective.shared.message.confirmbutton": "[ยืนยัน]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ไม่ใช่ไบโอมหรือแท็กไบโอมในโลกนี้",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "มีบางอย่างผิดพลาดขณะแก้ไขไฟล์ตั้งค่าของไบโอมจุดเกิด",
   "collective.biomespawnpoint.message.nospawnfound": "ไม่พบไบโอมจุดเกิดใดเลย จุดเกิดของโลกไม่ได้ถูกเปลี่ยนแปลง",
+  "collective.biomespawnpoint.gui.spawnbiomes": "ไบโอมจุดเกิด",
+  "collective.biomespawnpoint.gui.spawninbiomes": "เกิดในไบโอม",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "ผู้เล่นใหม่จะเริ่มต้นในไบโอมหนึ่งจากไบโอมเหล่านี้ ซึ่งสุ่มเลือกตามน้ำหนัก คลิกที่ตัวเลขเพื่อเลือกไบโอม",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "วันที่ %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "ตั้งชื่อให้ชาวบ้านที่โหลดอยู่ %s คนที่ยังไม่มีชื่อแล้ว",
   "collective.villagernames.message.namesloadedvillagers": "ลบชื่อของชาวบ้านที่โหลดอยู่ %s คนแล้ว",
   "collective.villagernames.message.removesnamesloaded": "ลบชื่อของชาวบ้านที่โหลดอยู่ทั้งหมด",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "เกิดในหมู่บ้าน",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "ย้ายจุดเกิดของโลกไปยังหมู่บ้านที่ใกล้ที่สุด",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "คุณไม่ได้อยู่ในมิติคอสมอส",

@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Включете „Генериране на Структури“, за да използвате тази опция.",
   "collective.shared.message.adminusage": "Използване на %s от администратор:",
   "collective.shared.message.commandsusage": "--- Използване на командите за %s ---",
   "collective.shared.message.confirmbutton": "[Потвърди]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s не е нито природна зона, нито етикет на природни зони в този свят.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Нещо се обърка при редактирането на конфигурационния файл за стартовите природни зони.",
   "collective.biomespawnpoint.message.nospawnfound": "Не беше открита нито една от стартовите природни зони. Точката на появяване на света не беше променена.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Стартови природни зони",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Появяване в природни зони",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Новите играчи започват в една от тези природни зони, определена случайно според теглото. Натиснете числото, за да изберете природните зони.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Ден %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s заредени селяни без име получиха име.",
   "collective.villagernames.message.namesloadedvillagers": "Имената на %s заредени селяни бяха премахнати.",
   "collective.villagernames.message.removesnamesloaded": "Премахва имената на всички заредени селяни.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Появяване в село",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Премества точката на появяване на света в най-близкото село.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Не си в измерението на космоса.",

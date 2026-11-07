@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Slå på «Generer strukturer» for å bruke dette alternativet.",
   "collective.shared.message.adminusage": "%s – administratorbruk:",
   "collective.shared.message.commandsusage": "--- Bruk av %s-kommandoer ---",
   "collective.shared.message.confirmbutton": "[Bekreft]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s er verken et markslag eller en markslagstagg i denne verdenen.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Noe gikk galt under redigering av konfigurasjonsfilen for startmarkslag.",
   "collective.biomespawnpoint.message.nospawnfound": "Fant ingen av startmarkslagene. Verdenens startpunkt ble ikke endret.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Startmarkslag",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Start i markslag",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nye spillere starter i ett av disse markslagene, som trekkes ut etter vekt. Klikk på tallet for å velge markslagene.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dag %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s innlastede bygdinger uten navn har fått navn.",
   "collective.villagernames.message.namesloadedvillagers": "Navnene til %s innlastede bygdinger er fjernet.",
   "collective.villagernames.message.removesnamesloaded": "Fjerner navnene til alle innlastede bygdinger.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Start i en landsby",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Flytter verdenens startpunkt til nærmeste landsby.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Du er ikke i kosmosdimensjonen.",

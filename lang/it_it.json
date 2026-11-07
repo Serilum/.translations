@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Attiva «Strutture» per usare questa opzione.",
   "collective.shared.message.adminusage": "Uso amministratore di %s:",
   "collective.shared.message.commandsusage": "--- Uso dei comandi di %s ---",
   "collective.shared.message.confirmbutton": "[Conferma]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s non è un bioma né un marcatore di bioma in questo mondo.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Qualcosa è andato storto durante la modifica del file di configurazione dei biomi di generazione.",
   "collective.biomespawnpoint.message.nospawnfound": "Non è stato trovato nessuno dei biomi di generazione. Il punto di generazione globale non è stato modificato.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Biomi di generazione",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Inizio nei biomi",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "I nuovi giocatori iniziano in uno di questi biomi, scelto a caso in base al peso. Clicca sul numero per selezionare i biomi.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Giorno %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s villici caricati senza nome hanno ricevuto un nome.",
   "collective.villagernames.message.namesloadedvillagers": "I nomi di %s villici caricati sono stati rimossi.",
   "collective.villagernames.message.removesnamesloaded": "Rimuove i nomi di tutti i villici caricati.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Inizio in un villaggio",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Sposta il punto di generazione globale nel villaggio più vicino.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Non sei nella dimensione del cosmo.",

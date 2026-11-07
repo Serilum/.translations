@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Įjunkite „Generuoti struktūras“, kad galėtumėte naudoti šią parinktį.",
   "collective.shared.message.adminusage": "%s administratoriaus naudojimas:",
   "collective.shared.message.commandsusage": "--- %s komandų naudojimas ---",
   "collective.shared.message.confirmbutton": "[Patvirtinti]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s nėra nei biomas, nei biomų žymė šiame pasaulyje.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Kažkas nutiko ne taip redaguojant atsiradimo biomų konfigūracijos failą.",
   "collective.biomespawnpoint.message.nospawnfound": "Nepavyko rasti nė vieno atsiradimo biomo. Pasaulio atsiradimo vieta nepakeista.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Atsiradimo biomai",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Atsiradimas biomuose",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nauji žaidėjai pradeda viename iš šių biomų, atsitiktinai parinktame pagal svorį. Paspauskite skaičių, kad pasirinktumėte biomus.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "%s diena",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s įkeltiems kaimiečiams be vardo buvo suteikti vardai.",
   "collective.villagernames.message.namesloadedvillagers": "%s įkeltų kaimiečių vardai buvo pašalinti.",
   "collective.villagernames.message.removesnamesloaded": "Pašalina visų įkeltų kaimiečių vardus.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Atsiradimas kaime",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Perkelia pasaulio atsiradimo vietą į artimiausią kaimą.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Tu nesi kosmoso dimensijoje.",

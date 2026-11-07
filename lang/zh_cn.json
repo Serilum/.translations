@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "开启“生成结构”后才能使用此选项。",
   "collective.shared.message.adminusage": "%s 管理员用法：",
   "collective.shared.message.commandsusage": "--- %s 命令用法 ---",
   "collective.shared.message.confirmbutton": "[确认]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s在此世界中既不是生物群系也不是生物群系标签。",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "编辑出生点生物群系配置文件时出错。",
   "collective.biomespawnpoint.message.nospawnfound": "找不到任何出生点生物群系。世界出生点未更改。",
+  "collective.biomespawnpoint.gui.spawnbiomes": "出生点生物群系",
+  "collective.biomespawnpoint.gui.spawninbiomes": "在生物群系中出生",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "新玩家会出生在这些生物群系中的一个，按权重抽取。点击数字即可选择生物群系。",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "第%s天",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s 名没有名称的已加载村民已被命名。",
   "collective.villagernames.message.namesloadedvillagers": "%s 名已加载村民的名称已被移除。",
   "collective.villagernames.message.removesnamesloaded": "移除所有已加载村民的名称。",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "在村庄中出生",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "将世界出生点移动到最近的村庄。",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "你不在宇宙维度中。",

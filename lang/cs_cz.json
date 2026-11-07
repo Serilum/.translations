@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Pro použití této možnosti zapni „Náhodné stavby“.",
   "collective.shared.message.adminusage": "Administrátorské použití %s:",
   "collective.shared.message.commandsusage": "--- Použití příkazů %s ---",
   "collective.shared.message.confirmbutton": "[Potvrdit]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s není v tomto světě biomem ani tagem biomů.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Při úpravě konfiguračního souboru výchozích biomů se něco pokazilo.",
   "collective.biomespawnpoint.message.nospawnfound": "Nepodařilo se najít žádný z výchozích biomů. Výchozí bod světa nebyl změněn.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Výchozí biomy",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Začátek v biomech",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Noví hráči začínají v jednom z těchto biomů, náhodně vybraném podle váhy. Klikni na číslo pro výběr biomů.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Den %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s načtených vesničanů bez jména dostalo jméno.",
   "collective.villagernames.message.namesloadedvillagers": "Jména %s načtených vesničanů byla odstraněna.",
   "collective.villagernames.message.removesnamesloaded": "Odstraní jména všech načtených vesničanů.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Začátek ve vesnici",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Přesune výchozí bod světa do nejbližší vesnice.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Nenacházíš se v dimenzi kosmu.",

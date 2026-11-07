@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Aktivera \"Generera strukturer\" för att använda det här alternativet.",
   "collective.shared.message.adminusage": "Adminanvändning av %s:",
   "collective.shared.message.commandsusage": "--- Kommandon för %s ---",
   "collective.shared.message.confirmbutton": "[Bekräfta]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s är varken en biom eller en biomtagg i den här världen.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Något gick fel när konfigurationsfilen för startbiomer redigerades.",
   "collective.biomespawnpoint.message.nospawnfound": "Kunde inte hitta någon av startbiomerna. Världens återuppståndelsepunkt ändrades inte.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Startbiomer",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Starta i biomer",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Nya spelare börjar i en av de här biomerna, som lottas fram efter vikt. Klicka på siffran för att välja biomerna.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Dag %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s laddade bybor utan namn har fått namn.",
   "collective.villagernames.message.namesloadedvillagers": "Namnen på %s laddade bybor har tagits bort.",
   "collective.villagernames.message.removesnamesloaded": "Tar bort namnen på alla laddade bybor.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Starta i en by",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Flyttar världens återuppståndelsepunkt till närmaste by.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Du befinner dig inte i kosmosdimensionen.",

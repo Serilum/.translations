@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "شغّل \"إنشاء الهياكل\" لاستخدام هذا الخيار.",
   "collective.shared.message.adminusage": "استخدام مشرف %s:",
   "collective.shared.message.commandsusage": "--- استخدام أوامر %s ---",
   "collective.shared.message.confirmbutton": "[تأكيد]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s ليس منطقة أحيائية ولا علامة مناطق أحيائية في هذا العالم.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "حدث خطأ ما أثناء تعديل ملف إعدادات المناطق الأحيائية للبداية.",
   "collective.biomespawnpoint.message.nospawnfound": "تعذّر العثور على أي من المناطق الأحيائية للبداية. لم يتم تغيير نقطة إحياء العالم.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "المناطق الأحيائية للبداية",
+  "collective.biomespawnpoint.gui.spawninbiomes": "البدء في مناطق أحيائية",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "يبدأ اللاعبون الجدد في إحدى هذه المناطق الأحيائية، تُختار عشوائيًا حسب الوزن. انقر على الرقم لاختيار المناطق الأحيائية.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "اليوم %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "تمت تسمية %s من القرويين المحمَّلين الذين بلا اسم.",
   "collective.villagernames.message.namesloadedvillagers": "تمت إزالة أسماء %s من القرويين المحمَّلين.",
   "collective.villagernames.message.removesnamesloaded": "يزيل أسماء كل القرويين المحمَّلين.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "البدء في قرية",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "ينقل نقطة إحياء العالم إلى أقرب قرية.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "أنت لست في بُعد الكون.",

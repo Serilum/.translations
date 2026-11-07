@@ -1,5 +1,6 @@
 {
   "_comment_modname_shared": "Shared",
+  "collective.shared.gui.requiresgeneratestructures": "Hidupkan \"Hasilkan Struktur\" untuk menggunakan opsi ini.",
   "collective.shared.message.adminusage": "Penggunaan Admin %s:",
   "collective.shared.message.commandsusage": "--- Penggunaan Perintah %s ---",
   "collective.shared.message.confirmbutton": "[Konfirmasi]",
@@ -119,6 +120,9 @@
   "collective.biomespawnpoint.message.unknownbiome": "%s bukan bioma maupun tag bioma di dunia ini.",
   "collective.biomespawnpoint.message.somethingwentwrongediting": "Terjadi kesalahan saat menyunting berkas konfigurasi bioma titik bangkit.",
   "collective.biomespawnpoint.message.nospawnfound": "Tidak dapat menemukan satu pun bioma titik bangkit. Titik bangkit dunia tidak diubah.",
+  "collective.biomespawnpoint.gui.spawnbiomes": "Bioma Titik Bangkit",
+  "collective.biomespawnpoint.gui.spawninbiomes": "Muncul di Bioma",
+  "collective.biomespawnpoint.gui.spawninbiomesdescription": "Pemain baru mulai di salah satu bioma ini, yang dipilih secara acak berdasarkan bobot. Klik angka untuk memilih bioma.",
 
   "_comment_modname_brandnewday": "Brand New Day",
   "collective.brandnewday.day": "Hari %s",
@@ -657,6 +661,10 @@
   "collective.villagernames.message.loadedvillagerswithout": "%s Penduduk yang dimuat tanpa nama telah diberi nama.",
   "collective.villagernames.message.namesloadedvillagers": "Nama dari %s Penduduk yang dimuat telah dihapus.",
   "collective.villagernames.message.removesnamesloaded": "Menghapus nama semua Penduduk yang dimuat.",
+
+  "_comment_modname_villagespawnpoint": "Village Spawn Point",
+  "collective.villagespawnpoint.gui.spawninvillage": "Muncul di Desa",
+  "collective.villagespawnpoint.gui.spawninvillagedescription": "Memindahkan titik bangkit dunia ke desa terdekat.",
 
   "_comment_modname_voidvanguards": "Void Vanguards",
   "collective.voidvanguards.message.cosmosdimension": "Kamu tidak berada di dimensi kosmos.",
