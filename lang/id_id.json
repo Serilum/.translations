@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Alatmu tidak lagi terasah.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Alatmu telah diasah dengan %s penggunaan.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Hari %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Bersihkan Daftar Pengikut GUI",
   "collective.guifollowers.message.usage": "Gunakan /guifollowers hide sambil melihat hewan peliharaan, /guifollowers hide <name>, atau /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Jongkok dan klik kanan lagi untuk memungut perahu. Isi peti akan terjatuh.",
   "collective.seaworthyboats.shipyard.switchhint": "Jongkok dan klik kanan untuk mengganti mode.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Jongkok dan pukul perahu dengan tangan kosong untuk memungutnya.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Pelana Bayangan",

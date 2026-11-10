@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Je gereedschap is niet langer geslepen.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Je gereedschap is geslepen met %s gebruik.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dag %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-volgerslijst wissen",
   "collective.guifollowers.message.usage": "Gebruik /guifollowers hide terwijl je naar een huisdier kijkt, /guifollowers hide <name> of /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheriet",
   "collective.seaworthyboats.message.chestpickupconfirm": "Sluip en klik nogmaals op de rechtermuisknop om de boot op te pakken. De inhoud van de kist valt eruit.",
   "collective.seaworthyboats.shipyard.switchhint": "Sluip en klik op de rechtermuisknop om van modus te wisselen.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Sluip en raak de boot met een lege hand om hem op te pakken.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Schaduwzadel",

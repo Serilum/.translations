@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Zure tresna ez dago jada zorroztuta.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Zure tresna %s erabilerarekin zorroztu da.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s. eguna",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Garbitu GUI jarraitzaileen zerrenda",
   "collective.guifollowers.message.usage": "Erabili /guifollowers hide maskota bati begira zaudela, /guifollowers hide <name> edo /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheritea",
   "collective.seaworthyboats.message.chestpickupconfirm": "Makurtu eta egin eskuineko klika berriro txalupa biltzeko. Kutxaren edukia eroriko da.",
   "collective.seaworthyboats.shipyard.switchhint": "Makurtu eta egin eskuineko klika moduak aldatzeko.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Makurtu eta jo txalupa esku hutsik biltzeko.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Itzal-zaltokia",

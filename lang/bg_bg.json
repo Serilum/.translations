@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Инструментът ти вече не е наточен.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Инструментът ти беше наточен с %s използвания.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Ден %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Изчистване на списъка с последователи в интерфейса",
   "collective.guifollowers.message.usage": "Използвай /guifollowers hide, докато гледаш към питомец, /guifollowers hide <name> или /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Незерит",
   "collective.seaworthyboats.message.chestpickupconfirm": "Наведете се и натиснете десен бутон отново, за да вземете лодката. Съдържанието на сандъка ще изпадне.",
   "collective.seaworthyboats.shipyard.switchhint": "Наведете се и натиснете десен бутон, за да смените режима.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Наведете се и ударете лодката с празна ръка, за да я вземете.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Сенчесто седло",

@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Dein Werkzeug ist nicht mehr geschärft.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Dein Werkzeug wurde mit %s Verwendungen geschärft.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Tag %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-Begleiterliste leeren",
   "collective.guifollowers.message.usage": "Nutze /guifollowers hide, während du ein Haustier ansiehst, /guifollowers hide <name> oder /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Schleiche und benutze erneut die rechte Maustaste, um das Boot aufzusammeln. Der Inhalt der Truhe fällt heraus.",
   "collective.seaworthyboats.shipyard.switchhint": "Schleiche und benutze die rechte Maustaste, um den Modus zu wechseln.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Schleiche und triff das Boot mit leerer Hand, um es aufzusammeln.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Schattensattel",

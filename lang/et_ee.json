@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Sinu tööriist ei ole enam teritatud.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Sinu tööriist teritati %s kasutusega.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Päev %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tühjenda liidese järgijate loend",
   "collective.guifollowers.message.usage": "Kasuta /guifollowers hide, vaadates lemmiklooma, /guifollowers hide <name> või /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheriit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Paadi üleskorjamiseks kükita ja paremklõpsa uuesti. Kirstu sisu kukub maha.",
   "collective.seaworthyboats.shipyard.switchhint": "Režiimide vahetamiseks kükita ja paremklõpsa.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Paadi üleskorjamiseks kükita ja taba seda tühja käega.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Varjusadul",

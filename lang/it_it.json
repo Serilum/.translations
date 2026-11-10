@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Il tuo strumento non è più affilato.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Il tuo strumento è stato affilato con %s utilizzi.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Giorno %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Svuota elenco seguaci GUI",
   "collective.guifollowers.message.usage": "Usa /guifollowers hide mentre guardi un animale domestico, /guifollowers hide <name> oppure /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherite",
   "collective.seaworthyboats.message.chestpickupconfirm": "Accovacciati e fai di nuovo clic destro per raccogliere la barca. Il contenuto della cassa verrà rilasciato.",
   "collective.seaworthyboats.shipyard.switchhint": "Accovacciati e fai clic destro per cambiare modalità.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Accovacciati e colpisci la barca a mani vuote per raccoglierla.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sella d'ombra",

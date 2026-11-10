@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Jou gereedskap is nie meer geslyp nie.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Jou gereedskap is geslyp met %s gebruike.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dag %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Maak GUI-volgerlys Skoon",
   "collective.guifollowers.message.usage": "Gebruik /guifollowers hide terwyl jy na 'n troeteldier kyk, /guifollowers hide <name> of /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheriet",
   "collective.seaworthyboats.message.chestpickupconfirm": "Hurk en regsklik weer om die boot op te tel. Die kis se inhoud sal uitval.",
   "collective.seaworthyboats.shipyard.switchhint": "Hurk en regsklik om modusse te wissel.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Hurk en tref die boot met 'n leë hand om dit op te tel.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skadu-saal",

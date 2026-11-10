@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "เครื่องมือของคุณไม่ได้ลับคมแล้ว",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "เครื่องมือของคุณถูกลับคมเพิ่มการใช้งาน %s ครั้ง",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "วันที่ %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "ล้างรายการผู้ติดตามใน GUI",
   "collective.guifollowers.message.usage": "ใช้ /guifollowers hide ขณะมองสัตว์เลี้ยง หรือใช้ /guifollowers hide <name> หรือ /guifollowers unhide",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "เนเธอไรต์",
   "collective.seaworthyboats.message.chestpickupconfirm": "ย่องและคลิกขวาอีกครั้งเพื่อหยิบเรือ ของในหีบจะร่วงออกมา",
   "collective.seaworthyboats.shipyard.switchhint": "ย่องและคลิกขวาเพื่อสลับโหมด",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "ย่องและตีเรือด้วยมือเปล่าเพื่อหยิบขึ้นมา",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "อานเงา",

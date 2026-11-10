@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "你的工具不再处于磨利状态。",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "你的工具已被磨利，获得 %s 点耐久。",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "第%s天",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "清空界面跟随者列表",
   "collective.guifollowers.message.usage": "看着宠物时使用 /guifollowers hide，或使用 /guifollowers hide <name> 或 /guifollowers unhide。",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "下界合金",
   "collective.seaworthyboats.message.chestpickupconfirm": "再次潜行并单击鼠标右键以拾起船只。箱子中的物品将会掉落。",
   "collective.seaworthyboats.shipyard.switchhint": "潜行并单击鼠标右键以切换模式。",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "潜行并用空手击打船只以将其拾起。",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "暗影鞍",

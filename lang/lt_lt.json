@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tavo įrankis nebėra pagaląstas.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tavo įrankis buvo pagaląstas su %s panaudojimais.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s diena",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Išvalyti GUI sekėjų sąrašą",
   "collective.guifollowers.message.usage": "Naudok /guifollowers hide žiūrėdamas į augintinį, /guifollowers hide <name> arba /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheritas",
   "collective.seaworthyboats.message.chestpickupconfirm": "Pritūpkite ir dar kartą spustelėkite dešinį mygtuką, kad paimtumėte valtį. Skrynios turinys iškris.",
   "collective.seaworthyboats.shipyard.switchhint": "Pritūpkite ir spustelėkite dešinį mygtuką, kad perjungtumėte režimus.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Pritūpkite ir pataikykite į valtį tuščia ranka, kad ją paimtumėte.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Šešėlio balnas",

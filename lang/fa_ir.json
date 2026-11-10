@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "ابزار شما دیگر تیز نیست.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "ابزار شما با %s مصرف تیز شد.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "روز %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "پاک کردن فهرست دنبال‌کنندگان GUI",
   "collective.guifollowers.message.usage": "از /guifollowers hide هنگام نگاه کردن به یک حیوان خانگی، /guifollowers hide <name> یا /guifollowers unhide استفاده کنید.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "نترايت",
   "collective.seaworthyboats.message.chestpickupconfirm": "برای برداشتن قايق دوباره بنشينيد و راست کلیک کنيد. محتويات صندوق رها خواهند شد.",
   "collective.seaworthyboats.shipyard.switchhint": "برای تعويض حالت، بنشينيد و راست کلیک کنيد.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "برای برداشتن قايق، بنشينيد و با دست خالی به آن ضربه بزنيد.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "زین سایه",

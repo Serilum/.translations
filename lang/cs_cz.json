@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tvůj nástroj už není nabroušený.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tvůj nástroj byl nabroušen na %s použití.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Den %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Vymazat seznam GUI následovníků",
   "collective.guifollowers.message.usage": "Použij /guifollowers hide, zatímco se díváš na mazlíčka, /guifollowers hide <name> nebo /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Pro sebrání člunu se znovu přikrč a klikni pravým tlačítkem. Obsah truhly vypadne.",
   "collective.seaworthyboats.shipyard.switchhint": "Pro přepnutí režimu se přikrč a klikni pravým tlačítkem.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Pro sebrání člunu se přikrč a zasáhni ho prázdnou rukou.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Stínové sedlo",

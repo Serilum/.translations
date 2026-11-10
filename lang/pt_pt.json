@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "A tua ferramenta já não está afiada.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "A tua ferramenta foi afiada com %s utilizações.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dia %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Limpar Lista de Seguidores GUI",
   "collective.guifollowers.message.usage": "Usa /guifollowers hide enquanto olhas para um animal de estimação, /guifollowers hide <name> ou /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherite",
   "collective.seaworthyboats.message.chestpickupconfirm": "Agacha-te e clica novamente com o botão direito para apanhar o barco. O conteúdo do baú será largado.",
   "collective.seaworthyboats.shipyard.switchhint": "Agacha-te e clica com o botão direito para trocar de modo.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Agacha-te e atinge o barco de mão vazia para o apanhar.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sela Sombria",

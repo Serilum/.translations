@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "La teva eina ja no està afilada.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "La teva eina s'ha afilat amb %s usos.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dia %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Buida la llista de seguidors de la interfície",
   "collective.guifollowers.message.usage": "Fes servir /guifollowers hide mentre mires una mascota, /guifollowers hide <name> o /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherita",
   "collective.seaworthyboats.message.chestpickupconfirm": "Ajup-te i torna a fer clic dret per recollir la barca. El contingut del cofre caurà a terra.",
   "collective.seaworthyboats.shipyard.switchhint": "Ajup-te i fes clic dret per canviar de mode.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Ajup-te i colpeja la barca amb la mà buida per recollir-la.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sella d'ombra",

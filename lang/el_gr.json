@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Το εργαλείο σου δεν είναι πλέον ακονισμένο.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Το εργαλείο σου ακονίστηκε με %s χρήσεις.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Ημέρα %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Καθαρισμός Λίστας Ακολούθων GUI",
   "collective.guifollowers.message.usage": "Χρησιμοποίησε /guifollowers hide ενώ κοιτάς ένα κατοικίδιο, /guifollowers hide <name> ή /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Νεδερίτης",
   "collective.seaworthyboats.message.chestpickupconfirm": "Σκύψε και κάνε ξανά δεξί κλικ για να μαζέψεις τη βάρκα. Τα περιεχόμενα του σεντουκιού θα πέσουν.",
   "collective.seaworthyboats.shipyard.switchhint": "Σκύψε και κάνε δεξί κλικ για να αλλάξεις λειτουργία.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Σκύψε και χτύπα τη βάρκα με άδειο χέρι για να τη μαζέψεις.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Σκιερή Σέλα",

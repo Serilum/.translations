@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "도구가 더 이상 예리하지 않습니다.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "도구가 %s회의 내구도와 함께 예리해졌습니다.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s일째",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI 추종자 목록 비우기",
   "collective.guifollowers.message.usage": "펫을 바라보면서 /guifollowers hide를 사용하거나, /guifollowers hide <name> 또는 /guifollowers unhide를 사용하세요.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "네더라이트",
   "collective.seaworthyboats.message.chestpickupconfirm": "웅크린 채 다시 우클릭하면 보트를 주울 수 있습니다. 상자의 내용물이 떨어집니다.",
   "collective.seaworthyboats.shipyard.switchhint": "웅크린 채 우클릭하여 모드를 전환하세요.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "웅크린 채 빈손으로 보트를 때리면 주울 수 있습니다.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "그림자 안장",

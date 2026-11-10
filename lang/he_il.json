@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "הכלי שלך אינו מושחז יותר.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "הכלי שלך הושחז עם %s שימושים.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "יום %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "נקה את רשימת העוקבים בממשק",
   "collective.guifollowers.message.usage": "השתמש ב-/guifollowers hide בזמן שאתה מסתכל על חיית מחמד, ב-/guifollowers hide <name> או ב-/guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "נת'רייט",
   "collective.seaworthyboats.message.chestpickupconfirm": "התכופף ולחץ שוב על כפתור העכבר הימני כדי להרים את הסירה. תכולת התיבה תיפול.",
   "collective.seaworthyboats.shipyard.switchhint": "התכופף ולחץ על כפתור העכבר הימני כדי להחליף מצבים.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "התכופף ופגע בסירה ביד ריקה כדי להרים אותה.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "אוכף צללים",

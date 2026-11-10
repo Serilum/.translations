@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tvoj alat više nije naoštren.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tvoj alat naoštren je s %s korištenja.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dan %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Očisti popis GUI pratitelja",
   "collective.guifollowers.message.usage": "Koristi /guifollowers hide dok gledaš ljubimca, /guifollowers hide <name> ili /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Čučni i ponovno desnim klikom podigni čamac. Sadržaj škrinje će ispasti.",
   "collective.seaworthyboats.shipyard.switchhint": "Čučni i desnim klikom promijeni način rada.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Čučni i udari čamac praznom rukom da ga podigneš.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Sjenovito sedlo",

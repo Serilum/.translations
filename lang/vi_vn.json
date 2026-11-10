@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Công cụ của bạn không còn được mài sắc nữa.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Công cụ của bạn đã được mài với %s lần dùng.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Ngày %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Xóa danh sách thú đi theo GUI",
   "collective.guifollowers.message.usage": "Dùng /guifollowers hide khi đang nhìn vào một thú cưng, /guifollowers hide <name> hoặc /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherite",
   "collective.seaworthyboats.message.chestpickupconfirm": "Rón rén và nhấn chuột phải lần nữa để nhặt thuyền. Vật phẩm trong rương sẽ rơi ra.",
   "collective.seaworthyboats.shipyard.switchhint": "Rón rén và nhấn chuột phải để chuyển chế độ.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Rón rén và đánh vào thuyền bằng tay không để nhặt lên.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Yên cưỡi bóng tối",

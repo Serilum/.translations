@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Verkfærið þitt er ekki lengur brýnt.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Verkfærið þitt hefur verið brýnt með %s notkunum.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dagur %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Hreinsa lista yfir GUI-fylgjendur",
   "collective.guifollowers.message.usage": "Notaðu /guifollowers hide á meðan þú horfir á gæludýr, /guifollowers hide <name> eða /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Heljarmálmur",
   "collective.seaworthyboats.message.chestpickupconfirm": "Krjúptu og hægrismelltu aftur til að taka upp bátinn. Innihald kistunnar dettur út.",
   "collective.seaworthyboats.shipyard.switchhint": "Krjúptu og hægrismelltu til að skipta um ham.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Krjúptu og hæfðu bátinn með tóma hönd til að taka hann upp.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skuggahnakkur",

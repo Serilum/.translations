@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Votre outil n'est plus aiguisé.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Votre outil a été aiguisé avec %s utilisations.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Jour %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Vider la liste des suiveurs de l'interface",
   "collective.guifollowers.message.usage": "Utilisez /guifollowers hide en regardant un animal de compagnie, /guifollowers hide <name> ou /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherite",
   "collective.seaworthyboats.message.chestpickupconfirm": "Accroupissez-vous et faites un nouveau clic droit pour ramasser le bateau. Le contenu du coffre tombera au sol.",
   "collective.seaworthyboats.shipyard.switchhint": "Accroupissez-vous et faites un clic droit pour changer de mode.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Accroupissez-vous et frappez le bateau à main nue pour le ramasser.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Selle de l'ombre",

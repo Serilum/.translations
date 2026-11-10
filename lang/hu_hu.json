@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Az eszközöd már nincs megélezve.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Az eszközöd megélezve %s használattal.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s. nap",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI-követők listájának törlése",
   "collective.guifollowers.message.usage": "Használd a /guifollowers hide parancsot egy háziállatra nézve, vagy a /guifollowers hide <name>, illetve a /guifollowers unhide parancsot.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Lopakodj és kattints újra jobb gombbal a csónak felszedéséhez. A láda tartalma kiesik.",
   "collective.seaworthyboats.shipyard.switchhint": "Lopakodj és kattints jobb gombbal a módváltáshoz.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Lopakodj és üsd meg üres kézzel a csónakot, hogy felszedd.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Árnyéknyereg",

@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Dit værktøj er ikke længere slebet.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Dit værktøj er blevet slebet med %s anvendelser.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dag %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Ryd GUI-følgerliste",
   "collective.guifollowers.message.usage": "Brug /guifollowers hide, mens du kigger på et kæledyr, /guifollowers hide <name> eller /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Snig dig sammen og højreklik igen for at samle båden op. Kistens indhold falder ud.",
   "collective.seaworthyboats.shipyard.switchhint": "Snig dig sammen og højreklik for at skifte tilstand.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Snig og ram båden med tom hånd for at samle den op.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skyggesadel",

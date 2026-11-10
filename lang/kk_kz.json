@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Құралыңыз енді қайралмаған.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Құралыңыз %s қолданыспен қайралды.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s күн",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI ергендерінің тізімін тазалау",
   "collective.guifollowers.message.usage": "Үй жануарына қарап тұрып /guifollowers hide пәрменін, немесе /guifollowers hide <name> не /guifollowers unhide пәрменін қолданыңыз.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Незерит",
   "collective.seaworthyboats.message.chestpickupconfirm": "Қайықты жерден алу үшін қайтадан еңкейіп оң клик жаса. Сандықтың ішіндегісі түсіп қалады.",
   "collective.seaworthyboats.shipyard.switchhint": "Режімдерді ауыстыру үшін еңкейіп оң клик жаса.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Қайықты жерден алу үшін еңкейіп, оны бос қолмен ұр.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Көлеңке ері",

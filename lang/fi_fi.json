@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Työkalusi ei ole enää teroitettu.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Työkalusi teroitettiin %s käyttökerralla.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Päivä %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tyhjennä GUI-seuraajalista",
   "collective.guifollowers.message.usage": "Käytä komentoa /guifollowers hide katsoessasi lemmikkiä, /guifollowers hide <name> tai /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheriitti",
   "collective.seaworthyboats.message.chestpickupconfirm": "Kyykisty ja napsauta uudelleen hiiren oikealla painikkeella poimiaksesi veneen. Arkun sisältö putoaa maahan.",
   "collective.seaworthyboats.shipyard.switchhint": "Kyykisty ja napsauta hiiren oikealla painikkeella vaihtaaksesi tilaa.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Kyykisty ja osu veneeseen tyhjällä kädellä poimiaksesi sen.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Varjosatula",

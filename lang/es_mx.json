@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tu herramienta ya no está afilada.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tu herramienta fue afilada con %s usos.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Día %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Borrar lista de seguidores de la interfaz",
   "collective.guifollowers.message.usage": "Usa /guifollowers hide mientras miras a una mascota, /guifollowers hide <name> o /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherita",
   "collective.seaworthyboats.message.chestpickupconfirm": "Agáchate y haz clic derecho de nuevo para recoger el bote. El contenido del cofre se tirará.",
   "collective.seaworthyboats.shipyard.switchhint": "Agáchate y haz clic derecho para cambiar de modo.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Agáchate y golpea el bote con la mano vacía para recogerlo.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Silla de montar sombría",

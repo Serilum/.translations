@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Nid yw eich offeryn yn finiog mwyach.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Hogwyd eich offeryn â %s o ddefnyddiau.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Diwrnod %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Clirio'r Rhestr Dilynwyr GUI",
   "collective.guifollowers.message.usage": "Defnyddiwch /guifollowers hide wrth edrych ar anifail anwes, /guifollowers hide <name> neu /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Cwrcwdwch a de-gliciwch eto i godi'r cwch. Bydd cynnwys y gist yn disgyn.",
   "collective.seaworthyboats.shipyard.switchhint": "Cwrcwdwch a de-gliciwch i newid moddau.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Cwrcwdwch a thrawch y cwch â llaw wag i'w godi.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Cyfrwy Cysgod",

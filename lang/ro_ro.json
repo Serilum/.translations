@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Unealta ta nu mai este ascuțită.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Unealta ta a fost ascuțită cu %s utilizări.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Ziua %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Golește lista de însoțitori GUI",
   "collective.guifollowers.message.usage": "Folosește /guifollowers hide în timp ce te uiți la un animal de companie, /guifollowers hide <name> sau /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherită",
   "collective.seaworthyboats.message.chestpickupconfirm": "Mergi pe furiș și dă din nou clic dreapta pentru a ridica barca. Conținutul cufărului va cădea pe jos.",
   "collective.seaworthyboats.shipyard.switchhint": "Mergi pe furiș și dă clic dreapta pentru a schimba modul.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Mergi pe furiș și lovește barca cu mâna goală pentru a o ridica.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Șa de umbră",

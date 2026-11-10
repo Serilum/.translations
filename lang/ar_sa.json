@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "أداتك لم تعد مشحوذة.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "تم شحذ أداتك بعدد %s استخدام.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "اليوم %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "مسح قائمة التابعين في الواجهة",
   "collective.guifollowers.message.usage": "استخدم /guifollowers hide أثناء النظر إلى حيوان أليف، أو /guifollowers hide <name> أو /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "نيذرايت",
   "collective.seaworthyboats.message.chestpickupconfirm": "تسلل وانقر بزر الفأرة الأيمن مجددًا لالتقاط القارب. ستُسقط محتويات الصندوق.",
   "collective.seaworthyboats.shipyard.switchhint": "تسلل وانقر بزر الفأرة الأيمن لتبديل الأوضاع.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "تسلل واضرب القارب بيد فارغة لالتقاطه.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "سرج الظلال",

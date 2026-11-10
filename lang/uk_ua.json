@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ваш інструмент більше не загострений.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ваш інструмент загострено з %s використаннями.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "День %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Очистити список послідовників GUI",
   "collective.guifollowers.message.usage": "Використовуйте /guifollowers hide, дивлячись на улюбленця, /guifollowers hide <name> або /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Незерит",
   "collective.seaworthyboats.message.chestpickupconfirm": "Присядьте й натисніть ПКМ ще раз, щоб підібрати човен. Вміст скрині випаде.",
   "collective.seaworthyboats.shipyard.switchhint": "Присядьте й натисніть ПКМ, щоб перемкнути режими.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Присядьте й ударте по човну порожньою рукою, щоб підібрати його.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Тіньове сідло",

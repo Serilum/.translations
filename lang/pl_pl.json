@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Twoje narzędzie nie jest już naostrzone.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Twoje narzędzie zostało naostrzone i ma %s użyć.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dzień %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Wyczyść listę towarzyszy z GUI",
   "collective.guifollowers.message.usage": "Użyj /guifollowers hide, patrząc na zwierzaka, /guifollowers hide <name> lub /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheryt",
   "collective.seaworthyboats.message.chestpickupconfirm": "Skradaj się i kliknij ponownie prawym przyciskiem myszy, aby podnieść łódkę. Zawartość skrzyni wypadnie.",
   "collective.seaworthyboats.shipyard.switchhint": "Skradaj się i kliknij prawym przyciskiem myszy, aby przełączyć tryby.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Skradaj się i uderz łódkę pustą ręką, aby ją podnieść.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Mroczne siodło",

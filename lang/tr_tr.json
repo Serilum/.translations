@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Aletin artık bilenmiş değil.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Aletin %s kullanımla bilendi.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s. Gün",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Arayüz Takipçi Listesini Temizle",
   "collective.guifollowers.message.usage": "Bir evcil hayvana bakarken /guifollowers hide, ya da /guifollowers hide <name> veya /guifollowers unhide kullan.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherit",
   "collective.seaworthyboats.message.chestpickupconfirm": "Tekneyi almak için tekrar eğilip sağ tıklayın. Sandığın içindekiler yere düşecek.",
   "collective.seaworthyboats.shipyard.switchhint": "Mod değiştirmek için eğilip sağ tıklayın.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Tekneyi almak için eğilip ona boş elle vurun.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Gölge Eyer",

@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Ձեր գործիքն այլևս սրված չէ.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Ձեր գործիքը սրվեց %s օգտագործմամբ.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Օր %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Մաքրել GUI հետևորդների ցանկը",
   "collective.guifollowers.message.usage": "Օգտագործեք /guifollowers hide՝ ընտանի կենդանուն նայելիս, /guifollowers hide <name> կամ /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Նեթերիտ",
   "collective.seaworthyboats.message.chestpickupconfirm": "Կրկին կքանստեք և աջ կտոցով վերցրեք նավը։ Սնդուկի պարունակությունը կթափվի։",
   "collective.seaworthyboats.shipyard.switchhint": "Կքանստեք և աջ կտոցով փոխեք ռեժիմները։",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Կքանստեք և դատարկ ձեռքով հարվածեք նավին՝ այն վերցնելու համար։",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Ստվերային թամբ",

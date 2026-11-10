@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Verktøyet ditt er ikke lenger slipt.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Verktøyet ditt er slipt med %s bruk.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Dag %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Tøm liste over GUI-følgere",
   "collective.guifollowers.message.usage": "Bruk /guifollowers hide mens du ser på et kjæledyr, /guifollowers hide <name> eller /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netheritt",
   "collective.seaworthyboats.message.chestpickupconfirm": "Snik og høyreklikk igjen for å plukke opp båten. Innholdet i kisten vil falle ut.",
   "collective.seaworthyboats.shipyard.switchhint": "Snik og høyreklikk for å bytte modus.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Snik og treff båten med tom hånd for å plukke den opp.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Skyggesal",

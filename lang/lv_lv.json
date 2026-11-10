@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "Tavs rīks vairs nav uzasināts.",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "Tavs rīks uzasināts ar %s lietojumiem.",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "Diena %s",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "Notīrīt sekotāju sarakstu",
   "collective.guifollowers.message.usage": "Izmanto /guifollowers hide, skatoties uz mājdzīvnieku, /guifollowers hide <name> vai /guifollowers unhide.",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "Netherīts",
   "collective.seaworthyboats.message.chestpickupconfirm": "Pietupies un vēlreiz noklikšķini ar labo taustiņu, lai paceltu laivu. Lādes saturs izkritīs.",
   "collective.seaworthyboats.shipyard.switchhint": "Pietupies un noklikšķini ar labo taustiņu, lai pārslēgtu režīmus.",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "Pietupies un ar tukšu roku trāpi laivai, lai to paceltu.",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "Ēnu segli",

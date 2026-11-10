@@ -303,6 +303,9 @@
   "collective.grindstonesharpertools.message.toollongersharpened": "道具はもう研がれていません。",
   "collective.grindstonesharpertools.message.toolsharpeneduses": "道具を研ぎ、使用回数が %s 増えました。",
 
+  "_comment_modname_guiclock": "GUI Clock",
+  "collective.guiclock.gui.day": "%s日目",
+
   "_comment_modname_guifollowers": "GUI Followers",
   "collective.guifollowers.key.clearlist": "GUI フォロワーリストを消去",
   "collective.guifollowers.message.usage": "ペットを見ながら /guifollowers hide を使うか、/guifollowers hide <name> または /guifollowers unhide を使用してください。",
@@ -517,6 +520,7 @@
   "collective.seaworthyboats.tier.netherite": "ネザライト",
   "collective.seaworthyboats.message.chestpickupconfirm": "もう一度スニークしながら右クリックするとボートを回収できます。チェストの中身はドロップします。",
   "collective.seaworthyboats.shipyard.switchhint": "スニークしながら右クリックするとモードを切り替えられます。",
+  "collective.seaworthyboats.message.crouchhitpickuphint": "スニークしながら素手でボートを叩くと回収できます。",
 
   "_comment_modname_shadowmounts": "Shadow Mounts",
   "item.shadowmounts.shadow_saddle": "影の鞍",
